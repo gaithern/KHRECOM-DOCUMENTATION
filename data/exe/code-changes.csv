@@ -1,0 +1,35 @@
+Name,EGS Address,Steam Address,Size,Value (HEX),New Value (HEX),Purpose,Library Function
+Bounty Cleared Game Check,1BE58E,1BE9DE,6,0F 84 51 02 00 00,90 90 90 90 90 90,Gives the bounty without a cleared game,set_bounties_ignore_clear
+Bounty Cleared Game Check,1BE5A2,1BE9F2,6,0F 84 3D 02 00 00,90 90 90 90 90 90,Gives the bounty without a cleared game,set_bounties_ignore_clear
+Bounty Cleared Game Check,1BE650,1BEAA0,6,0F 84 8F 01 00 00,90 90 90 90 90 90,Gives the bounty without a cleared game,set_bounties_ignore_clear
+Bounty Cleared Game Check,1BE664,1BEAB4,6,0F 84 7B 01 00 00,90 90 90 90 90 90,Gives the bounty without a cleared game,set_bounties_ignore_clear
+Bounty Cleared Game Check,1BE717,1BEB67,6,0F 84 C8 00 00 00,90 90 90 90 90 90,Gives the bounty without a cleared game,set_bounties_ignore_clear
+Bounty Cleared Game Check,1BE72B,1BEB7B,6,0F 84 B4 00 00 00,90 90 90 90 90 90,Gives the bounty without a cleared game,set_bounties_ignore_clear
+Bounty Cleared Game Check,1BE74B,1BEB9B,6,0F 84 94 00 00 00,90 90 90 90 90 90,Gives the bounty without a cleared game,set_bounties_ignore_clear
+Bounty Cleared Game Check,1BE75F,1BEBAF,6,0F 84 80 00 00 00,90 90 90 90 90 90,Gives the bounty without a cleared game,set_bounties_ignore_clear
+Field Drop Unlock Check,1C008D,1C04DD,1,30,00,Last card that needs an unlock bit; 0 lets every card drop,set_drops_ignore_unlocks
+Standard Drop Card: Kingdom Key,1BD414,1BD864,1,00,01,0 keeps the card out of the first chest and object roll,set_world_card_odds
+Standard Drop Card: Three Wishes,1BD415,1BD865,1,00,01,0 keeps the card out of the first chest and object roll,set_world_card_odds
+Standard Drop Card: Crabclaw,1BD416,1BD866,1,00,01,0 keeps the card out of the first chest and object roll,set_world_card_odds
+Standard Drop Card: Pumpkinhead,1BD417,1BD867,1,00,01,0 keeps the card out of the first chest and object roll,set_world_card_odds
+Standard Drop Card: Fairy Harp,1BD418,1BD868,1,00,01,0 keeps the card out of the first chest and object roll,set_world_card_odds
+Standard Drop Card: Wishing Star,1BD419,1BD869,1,00,01,0 keeps the card out of the first chest and object roll,set_world_card_odds
+Standard Drop Card: Olympia,1BD41C,1BD86C,1,00,01,0 keeps the card out of the first chest and object roll,set_world_card_odds
+Standard Drop Card: Lady Luck,1BD41E,1BD86E,1,00,01,0 keeps the card out of the first chest and object roll,set_world_card_odds
+Standard Drop Card: Divine Rose,1BD41F,1BD86F,1,00,01,0 keeps the card out of the first chest and object roll,set_world_card_odds
+Standard Drop Card: Blizzard,1BD42E,1BD87E,1,00,01,0 keeps the card out of the first chest and object roll,set_world_card_odds
+Standard Drop Card: Cure,1BD430,1BD880,1,00,01,0 keeps the card out of the first chest and object roll,set_world_card_odds
+Standard Drop Card: Potion,1BD43D,1BD88D,1,00,01,0 keeps the card out of the first chest and object roll,set_world_card_odds
+Chest and Object Card Lists Pointer,1BF7FD,1BFC4D,9,48 85 C0 74 06 48 8B 58 08,48 8D 1D (distance to the card lists) EB 05,Reads the lists from the exe instead of AtkCardDrop.bin,set_world_card_odds
+Map Card List Pointer,1C1C41,1C2091,9,48 85 C0 74 06 48 8B 58 08,48 8D 1D (distance to the card lists + 164) EB 05,Reads the list from the exe instead of MapCardDrop.bin,set_world_card_odds
+Card Lists,501D38,501E28,16,00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00,"464 bytes: object and chest lists at +0 (same layout as AtkCardDrop.bin), map list at +164 (same as MapCardDrop.bin)",Unused bytes at the end of .text,set_world_card_odds
+Moogle Journal Check,3A5F43,3A63D3,1,75,EB,Lets packs hold cards that were never found,set_moogle_any_card
+First Floor World,12EF62,12F2F2,1,09,(world ID),World offered on floor 1,set_world_order
+First Floor World Choice,12EF68,12F2F8,4,41 0F 45 C5,90 90 90 90,Always uses the floor 1 world,set_world_order
+World Select Jump 1,12EF7C,12F30C,1,7D,EB,Offers one world per floor,set_world_order
+World Select Jump 2,12EFF7,12F387,1,7D,EB,Offers one world per floor,set_world_order
+Few Map Cards Check,180B69,180EF9,6,0F 86 80 00 00 00,90 90 90 90 90 90,Lets enemy cards drop with 4 or fewer map cards,set_heartless_first_drop_guaranteed
+Heartless Enemy Card Drop,180BBD,180F4D,50,44 8B C0 B8 1F 85 EB 51 41 F7 E8 C1 FA 05 8B CA C1 E9 1F 03 D1 6B CA 64 44 2B C1 44 3B C6 7D 12 8B 87 A0 02 00 00 89 45 07 44 89 7D 0B E9 D3 00 00 00,31 D2 6A 64 59 F7 F1 3B D6 7D 27 8B 87 28 01 00 00 31 D2 B9 10 27 00 00 F7 F1 48 8D 0D (distance to the prize table) 89 51 F8 48 8B 04 D1 48 89 45 07 E9 (distance to this code + FF) 90,Drops the card and value in the prize table,set_heartless_reward
+Black Room Prize Check,180C40,180FD0,2,75 54,90 90,"Any enemy gives the Black Room prize, not only Black Fungus",set_world_enemy_swaps
+White Room Prize Check,1861B4,186544,2,74 29,EB 29,"Any enemy gives the White Room prize, not only White Mushroom",set_world_enemy_swaps
+Heartless Prize Table,C88E60,C89190,320,-,"Enemy ID of the last drop at +0, then 39 pairs of card and card value (4 bytes each) at +8",Unused bytes after .data,set_heartless_reward

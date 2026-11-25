@@ -1,0 +1,131 @@
+World,Card Value,File,Sub-File,Offset,Sub-File Offset,Value (HEX),Weight
+Traverse Town,0,WORLD/0201/WO0201.BIN,MapCardCom.bin,256,6,0F 00,15
+Traverse Town,1,WORLD/0201/WO0201.BIN,MapCardCom.bin,258,8,0F 00,15
+Traverse Town,2,WORLD/0201/WO0201.BIN,MapCardCom.bin,25A,A,0F 00,15
+Traverse Town,3,WORLD/0201/WO0201.BIN,MapCardCom.bin,25C,C,0A 00,10
+Traverse Town,4,WORLD/0201/WO0201.BIN,MapCardCom.bin,25E,E,0A 00,10
+Traverse Town,5,WORLD/0201/WO0201.BIN,MapCardCom.bin,260,10,0A 00,10
+Traverse Town,6,WORLD/0201/WO0201.BIN,MapCardCom.bin,262,12,0A 00,10
+Traverse Town,7,WORLD/0201/WO0201.BIN,MapCardCom.bin,264,14,05 00,5
+Traverse Town,8,WORLD/0201/WO0201.BIN,MapCardCom.bin,266,16,05 00,5
+Traverse Town,9,WORLD/0201/WO0201.BIN,MapCardCom.bin,268,18,05 00,5
+Agrabah,0,WORLD/0202/WO0202.BIN,MapCardCom.bin,266,6,0F 00,15
+Agrabah,1,WORLD/0202/WO0202.BIN,MapCardCom.bin,268,8,0F 00,15
+Agrabah,2,WORLD/0202/WO0202.BIN,MapCardCom.bin,26A,A,0F 00,15
+Agrabah,3,WORLD/0202/WO0202.BIN,MapCardCom.bin,26C,C,0A 00,10
+Agrabah,4,WORLD/0202/WO0202.BIN,MapCardCom.bin,26E,E,0A 00,10
+Agrabah,5,WORLD/0202/WO0202.BIN,MapCardCom.bin,270,10,0A 00,10
+Agrabah,6,WORLD/0202/WO0202.BIN,MapCardCom.bin,272,12,0A 00,10
+Agrabah,7,WORLD/0202/WO0202.BIN,MapCardCom.bin,274,14,05 00,5
+Agrabah,8,WORLD/0202/WO0202.BIN,MapCardCom.bin,276,16,05 00,5
+Agrabah,9,WORLD/0202/WO0202.BIN,MapCardCom.bin,278,18,05 00,5
+Olympus Coliseum,0,WORLD/0203/WO0203.BIN,MapCardCom.bin,216,6,0F 00,15
+Olympus Coliseum,1,WORLD/0203/WO0203.BIN,MapCardCom.bin,218,8,0F 00,15
+Olympus Coliseum,2,WORLD/0203/WO0203.BIN,MapCardCom.bin,21A,A,0F 00,15
+Olympus Coliseum,3,WORLD/0203/WO0203.BIN,MapCardCom.bin,21C,C,0A 00,10
+Olympus Coliseum,4,WORLD/0203/WO0203.BIN,MapCardCom.bin,21E,E,0A 00,10
+Olympus Coliseum,5,WORLD/0203/WO0203.BIN,MapCardCom.bin,220,10,0A 00,10
+Olympus Coliseum,6,WORLD/0203/WO0203.BIN,MapCardCom.bin,222,12,0A 00,10
+Olympus Coliseum,7,WORLD/0203/WO0203.BIN,MapCardCom.bin,224,14,05 00,5
+Olympus Coliseum,8,WORLD/0203/WO0203.BIN,MapCardCom.bin,226,16,05 00,5
+Olympus Coliseum,9,WORLD/0203/WO0203.BIN,MapCardCom.bin,228,18,05 00,5
+Wonderland,0,WORLD/0204/WO0204.BIN,MapCardCom.bin,236,6,0F 00,15
+Wonderland,1,WORLD/0204/WO0204.BIN,MapCardCom.bin,238,8,0F 00,15
+Wonderland,2,WORLD/0204/WO0204.BIN,MapCardCom.bin,23A,A,0F 00,15
+Wonderland,3,WORLD/0204/WO0204.BIN,MapCardCom.bin,23C,C,0A 00,10
+Wonderland,4,WORLD/0204/WO0204.BIN,MapCardCom.bin,23E,E,0A 00,10
+Wonderland,5,WORLD/0204/WO0204.BIN,MapCardCom.bin,240,10,0A 00,10
+Wonderland,6,WORLD/0204/WO0204.BIN,MapCardCom.bin,242,12,0A 00,10
+Wonderland,7,WORLD/0204/WO0204.BIN,MapCardCom.bin,244,14,05 00,5
+Wonderland,8,WORLD/0204/WO0204.BIN,MapCardCom.bin,246,16,05 00,5
+Wonderland,9,WORLD/0204/WO0204.BIN,MapCardCom.bin,248,18,05 00,5
+Monstro,0,WORLD/0205/WO0205.BIN,MapCardCom.bin,296,6,0F 00,15
+Monstro,1,WORLD/0205/WO0205.BIN,MapCardCom.bin,298,8,0F 00,15
+Monstro,2,WORLD/0205/WO0205.BIN,MapCardCom.bin,29A,A,0F 00,15
+Monstro,3,WORLD/0205/WO0205.BIN,MapCardCom.bin,29C,C,0A 00,10
+Monstro,4,WORLD/0205/WO0205.BIN,MapCardCom.bin,29E,E,0A 00,10
+Monstro,5,WORLD/0205/WO0205.BIN,MapCardCom.bin,2A0,10,0A 00,10
+Monstro,6,WORLD/0205/WO0205.BIN,MapCardCom.bin,2A2,12,0A 00,10
+Monstro,7,WORLD/0205/WO0205.BIN,MapCardCom.bin,2A4,14,05 00,5
+Monstro,8,WORLD/0205/WO0205.BIN,MapCardCom.bin,2A6,16,05 00,5
+Monstro,9,WORLD/0205/WO0205.BIN,MapCardCom.bin,2A8,18,05 00,5
+Halloween Town,0,WORLD/0206/WO0206.BIN,MapCardCom.bin,316,6,0F 00,15
+Halloween Town,1,WORLD/0206/WO0206.BIN,MapCardCom.bin,318,8,0F 00,15
+Halloween Town,2,WORLD/0206/WO0206.BIN,MapCardCom.bin,31A,A,0F 00,15
+Halloween Town,3,WORLD/0206/WO0206.BIN,MapCardCom.bin,31C,C,0A 00,10
+Halloween Town,4,WORLD/0206/WO0206.BIN,MapCardCom.bin,31E,E,0A 00,10
+Halloween Town,5,WORLD/0206/WO0206.BIN,MapCardCom.bin,320,10,0A 00,10
+Halloween Town,6,WORLD/0206/WO0206.BIN,MapCardCom.bin,322,12,0A 00,10
+Halloween Town,7,WORLD/0206/WO0206.BIN,MapCardCom.bin,324,14,05 00,5
+Halloween Town,8,WORLD/0206/WO0206.BIN,MapCardCom.bin,326,16,05 00,5
+Halloween Town,9,WORLD/0206/WO0206.BIN,MapCardCom.bin,328,18,05 00,5
+Atlantica,0,WORLD/0207/WO0207.BIN,MapCardCom.bin,236,6,0F 00,15
+Atlantica,1,WORLD/0207/WO0207.BIN,MapCardCom.bin,238,8,0F 00,15
+Atlantica,2,WORLD/0207/WO0207.BIN,MapCardCom.bin,23A,A,0F 00,15
+Atlantica,3,WORLD/0207/WO0207.BIN,MapCardCom.bin,23C,C,0A 00,10
+Atlantica,4,WORLD/0207/WO0207.BIN,MapCardCom.bin,23E,E,0A 00,10
+Atlantica,5,WORLD/0207/WO0207.BIN,MapCardCom.bin,240,10,0A 00,10
+Atlantica,6,WORLD/0207/WO0207.BIN,MapCardCom.bin,242,12,0A 00,10
+Atlantica,7,WORLD/0207/WO0207.BIN,MapCardCom.bin,244,14,05 00,5
+Atlantica,8,WORLD/0207/WO0207.BIN,MapCardCom.bin,246,16,05 00,5
+Atlantica,9,WORLD/0207/WO0207.BIN,MapCardCom.bin,248,18,05 00,5
+Neverland,0,WORLD/0208/WO0208.BIN,MapCardCom.bin,276,6,0F 00,15
+Neverland,1,WORLD/0208/WO0208.BIN,MapCardCom.bin,278,8,0F 00,15
+Neverland,2,WORLD/0208/WO0208.BIN,MapCardCom.bin,27A,A,0F 00,15
+Neverland,3,WORLD/0208/WO0208.BIN,MapCardCom.bin,27C,C,0A 00,10
+Neverland,4,WORLD/0208/WO0208.BIN,MapCardCom.bin,27E,E,0A 00,10
+Neverland,5,WORLD/0208/WO0208.BIN,MapCardCom.bin,280,10,0A 00,10
+Neverland,6,WORLD/0208/WO0208.BIN,MapCardCom.bin,282,12,0A 00,10
+Neverland,7,WORLD/0208/WO0208.BIN,MapCardCom.bin,284,14,05 00,5
+Neverland,8,WORLD/0208/WO0208.BIN,MapCardCom.bin,286,16,05 00,5
+Neverland,9,WORLD/0208/WO0208.BIN,MapCardCom.bin,288,18,05 00,5
+Hollow Bastion,0,WORLD/0209/WO0209.BIN,MapCardCom.bin,2D6,6,0F 00,15
+Hollow Bastion,1,WORLD/0209/WO0209.BIN,MapCardCom.bin,2D8,8,0F 00,15
+Hollow Bastion,2,WORLD/0209/WO0209.BIN,MapCardCom.bin,2DA,A,0F 00,15
+Hollow Bastion,3,WORLD/0209/WO0209.BIN,MapCardCom.bin,2DC,C,0A 00,10
+Hollow Bastion,4,WORLD/0209/WO0209.BIN,MapCardCom.bin,2DE,E,0A 00,10
+Hollow Bastion,5,WORLD/0209/WO0209.BIN,MapCardCom.bin,2E0,10,0A 00,10
+Hollow Bastion,6,WORLD/0209/WO0209.BIN,MapCardCom.bin,2E2,12,0A 00,10
+Hollow Bastion,7,WORLD/0209/WO0209.BIN,MapCardCom.bin,2E4,14,05 00,5
+Hollow Bastion,8,WORLD/0209/WO0209.BIN,MapCardCom.bin,2E6,16,05 00,5
+Hollow Bastion,9,WORLD/0209/WO0209.BIN,MapCardCom.bin,2E8,18,05 00,5
+100 Acre Wood,0,WORLD/0210/WO0210.BIN,MapCardCom.bin,206,6,0F 00,15
+100 Acre Wood,1,WORLD/0210/WO0210.BIN,MapCardCom.bin,208,8,0F 00,15
+100 Acre Wood,2,WORLD/0210/WO0210.BIN,MapCardCom.bin,20A,A,0F 00,15
+100 Acre Wood,3,WORLD/0210/WO0210.BIN,MapCardCom.bin,20C,C,0A 00,10
+100 Acre Wood,4,WORLD/0210/WO0210.BIN,MapCardCom.bin,20E,E,0A 00,10
+100 Acre Wood,5,WORLD/0210/WO0210.BIN,MapCardCom.bin,210,10,0A 00,10
+100 Acre Wood,6,WORLD/0210/WO0210.BIN,MapCardCom.bin,212,12,0A 00,10
+100 Acre Wood,7,WORLD/0210/WO0210.BIN,MapCardCom.bin,214,14,05 00,5
+100 Acre Wood,8,WORLD/0210/WO0210.BIN,MapCardCom.bin,216,16,05 00,5
+100 Acre Wood,9,WORLD/0210/WO0210.BIN,MapCardCom.bin,218,18,05 00,5
+Twilight Town,0,WORLD/0211/WO0211.BIN,MapCardCom.bin,336,6,0F 00,15
+Twilight Town,1,WORLD/0211/WO0211.BIN,MapCardCom.bin,338,8,0F 00,15
+Twilight Town,2,WORLD/0211/WO0211.BIN,MapCardCom.bin,33A,A,0F 00,15
+Twilight Town,3,WORLD/0211/WO0211.BIN,MapCardCom.bin,33C,C,0A 00,10
+Twilight Town,4,WORLD/0211/WO0211.BIN,MapCardCom.bin,33E,E,0A 00,10
+Twilight Town,5,WORLD/0211/WO0211.BIN,MapCardCom.bin,340,10,0A 00,10
+Twilight Town,6,WORLD/0211/WO0211.BIN,MapCardCom.bin,342,12,0A 00,10
+Twilight Town,7,WORLD/0211/WO0211.BIN,MapCardCom.bin,344,14,05 00,5
+Twilight Town,8,WORLD/0211/WO0211.BIN,MapCardCom.bin,346,16,05 00,5
+Twilight Town,9,WORLD/0211/WO0211.BIN,MapCardCom.bin,348,18,05 00,5
+Destiny Islands,0,WORLD/0212/WO0212.BIN,MapCardCom.bin,276,6,0F 00,15
+Destiny Islands,1,WORLD/0212/WO0212.BIN,MapCardCom.bin,278,8,0F 00,15
+Destiny Islands,2,WORLD/0212/WO0212.BIN,MapCardCom.bin,27A,A,0F 00,15
+Destiny Islands,3,WORLD/0212/WO0212.BIN,MapCardCom.bin,27C,C,0A 00,10
+Destiny Islands,4,WORLD/0212/WO0212.BIN,MapCardCom.bin,27E,E,0A 00,10
+Destiny Islands,5,WORLD/0212/WO0212.BIN,MapCardCom.bin,280,10,0A 00,10
+Destiny Islands,6,WORLD/0212/WO0212.BIN,MapCardCom.bin,282,12,0A 00,10
+Destiny Islands,7,WORLD/0212/WO0212.BIN,MapCardCom.bin,284,14,05 00,5
+Destiny Islands,8,WORLD/0212/WO0212.BIN,MapCardCom.bin,286,16,05 00,5
+Destiny Islands,9,WORLD/0212/WO0212.BIN,MapCardCom.bin,288,18,05 00,5
+Castle Oblivion,0,WORLD/0213/WO0213.BIN,MapCardCom.bin,2C6,6,0F 00,15
+Castle Oblivion,1,WORLD/0213/WO0213.BIN,MapCardCom.bin,2C8,8,0F 00,15
+Castle Oblivion,2,WORLD/0213/WO0213.BIN,MapCardCom.bin,2CA,A,0F 00,15
+Castle Oblivion,3,WORLD/0213/WO0213.BIN,MapCardCom.bin,2CC,C,0A 00,10
+Castle Oblivion,4,WORLD/0213/WO0213.BIN,MapCardCom.bin,2CE,E,0A 00,10
+Castle Oblivion,5,WORLD/0213/WO0213.BIN,MapCardCom.bin,2D0,10,0A 00,10
+Castle Oblivion,6,WORLD/0213/WO0213.BIN,MapCardCom.bin,2D2,12,0A 00,10
+Castle Oblivion,7,WORLD/0213/WO0213.BIN,MapCardCom.bin,2D4,14,05 00,5
+Castle Oblivion,8,WORLD/0213/WO0213.BIN,MapCardCom.bin,2D6,16,05 00,5
+Castle Oblivion,9,WORLD/0213/WO0213.BIN,MapCardCom.bin,2D8,18,05 00,5

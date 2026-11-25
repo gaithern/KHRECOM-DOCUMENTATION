@@ -1,0 +1,661 @@
+Floor,Door,File,Sub-File,Offset,Sub-File Offset,Value (HEX),Value,Notes
+Floor 1,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,180C,C,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 1,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,180E,E,01 00,1,Number of Card Stages
+Floor 1,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1810,10,01 00,1,Stage 1 Value
+Floor 1,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1812,12,02 00,At Least,Stage 1 Kind
+Floor 1,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1814,14,00 00,Any,Stage 1 Color
+Floor 1,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1818,18,00 00,0,Stage 2 Value
+Floor 1,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,181A,1A,00 00,Any,Stage 2 Kind
+Floor 1,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,181C,1C,00 00,Any,Stage 2 Color
+Floor 1,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1820,20,00 00,0,Stage 3 Value
+Floor 1,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1822,22,00 00,Any,Stage 3 Kind
+Floor 1,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1824,24,00 00,Any,Stage 3 Color
+Floor 1,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1828,28,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 1,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,182A,2A,01 00,1,Number of Card Stages
+Floor 1,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,182C,2C,03 00,3,Stage 1 Value
+Floor 1,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,182E,2E,02 00,At Least,Stage 1 Kind
+Floor 1,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1830,30,00 00,Any,Stage 1 Color
+Floor 1,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1834,34,00 00,0,Stage 2 Value
+Floor 1,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1836,36,00 00,Any,Stage 2 Kind
+Floor 1,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1838,38,00 00,Any,Stage 2 Color
+Floor 1,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,183C,3C,00 00,0,Stage 3 Value
+Floor 1,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,183E,3E,00 00,Any,Stage 3 Kind
+Floor 1,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1840,40,00 00,Any,Stage 3 Color
+Floor 1,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1844,44,02 00,Key to Truth,Key Card (BA + Value)
+Floor 1,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1846,46,01 00,1,Number of Card Stages
+Floor 1,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1848,48,00 00,0,Stage 1 Value
+Floor 1,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,184A,4A,00 00,Any,Stage 1 Kind
+Floor 1,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,184C,4C,02 00,Green,Stage 1 Color
+Floor 1,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1850,50,00 00,0,Stage 2 Value
+Floor 1,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1852,52,00 00,Any,Stage 2 Kind
+Floor 1,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1854,54,00 00,Any,Stage 2 Color
+Floor 1,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1858,58,00 00,0,Stage 3 Value
+Floor 1,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,185A,5A,00 00,Any,Stage 3 Kind
+Floor 1,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,185C,5C,00 00,Any,Stage 3 Color
+Floor 1,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1860,60,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 1,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1862,62,00 00,0,Number of Card Stages
+Floor 1,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1864,64,00 00,0,Stage 1 Value
+Floor 1,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1866,66,00 00,Any,Stage 1 Kind
+Floor 1,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1868,68,00 00,Any,Stage 1 Color
+Floor 1,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,186C,6C,00 00,0,Stage 2 Value
+Floor 1,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,186E,6E,00 00,Any,Stage 2 Kind
+Floor 1,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1870,70,00 00,Any,Stage 2 Color
+Floor 1,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1874,74,00 00,0,Stage 3 Value
+Floor 1,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1876,76,00 00,Any,Stage 3 Kind
+Floor 1,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1878,78,00 00,Any,Stage 3 Color
+Floor 2,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1880,80,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 2,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1882,82,01 00,1,Number of Card Stages
+Floor 2,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1884,84,00 00,0,Stage 1 Value
+Floor 2,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1886,86,00 00,Any,Stage 1 Kind
+Floor 2,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1888,88,02 00,Green,Stage 1 Color
+Floor 2,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,188C,8C,00 00,0,Stage 2 Value
+Floor 2,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,188E,8E,00 00,Any,Stage 2 Kind
+Floor 2,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1890,90,00 00,Any,Stage 2 Color
+Floor 2,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1894,94,00 00,0,Stage 3 Value
+Floor 2,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1896,96,00 00,Any,Stage 3 Kind
+Floor 2,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1898,98,00 00,Any,Stage 3 Color
+Floor 2,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,189C,9C,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 2,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,189E,9E,01 00,1,Number of Card Stages
+Floor 2,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,18A0,A0,0F 00,15,Stage 1 Value
+Floor 2,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,18A2,A2,04 00,Total,Stage 1 Kind
+Floor 2,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,18A4,A4,00 00,Any,Stage 1 Color
+Floor 2,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,18A8,A8,00 00,0,Stage 2 Value
+Floor 2,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,18AA,AA,00 00,Any,Stage 2 Kind
+Floor 2,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,18AC,AC,00 00,Any,Stage 2 Color
+Floor 2,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,18B0,B0,00 00,0,Stage 3 Value
+Floor 2,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,18B2,B2,00 00,Any,Stage 3 Kind
+Floor 2,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,18B4,B4,00 00,Any,Stage 3 Color
+Floor 2,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,18B8,B8,02 00,Key to Truth,Key Card (BA + Value)
+Floor 2,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,18BA,BA,01 00,1,Number of Card Stages
+Floor 2,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,18BC,BC,00 00,0,Stage 1 Value
+Floor 2,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,18BE,BE,00 00,Any,Stage 1 Kind
+Floor 2,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,18C0,C0,01 00,Red,Stage 1 Color
+Floor 2,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,18C4,C4,00 00,0,Stage 2 Value
+Floor 2,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,18C6,C6,00 00,Any,Stage 2 Kind
+Floor 2,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,18C8,C8,00 00,Any,Stage 2 Color
+Floor 2,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,18CC,CC,00 00,0,Stage 3 Value
+Floor 2,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,18CE,CE,00 00,Any,Stage 3 Kind
+Floor 2,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,18D0,D0,00 00,Any,Stage 3 Color
+Floor 2,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,18D4,D4,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 2,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,18D6,D6,01 00,1,Number of Card Stages
+Floor 2,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,18D8,D8,00 00,0,Stage 1 Value
+Floor 2,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,18DA,DA,00 00,Any,Stage 1 Kind
+Floor 2,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,18DC,DC,03 00,Blue,Stage 1 Color
+Floor 2,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,18E0,E0,00 00,0,Stage 2 Value
+Floor 2,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,18E2,E2,00 00,Any,Stage 2 Kind
+Floor 2,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,18E4,E4,00 00,Any,Stage 2 Color
+Floor 2,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,18E8,E8,00 00,0,Stage 3 Value
+Floor 2,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,18EA,EA,00 00,Any,Stage 3 Kind
+Floor 2,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,18EC,EC,00 00,Any,Stage 3 Color
+Floor 3,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,18F4,F4,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 3,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,18F6,F6,02 00,2,Number of Card Stages
+Floor 3,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,18F8,F8,05 00,5,Stage 1 Value
+Floor 3,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,18FA,FA,02 00,At Least,Stage 1 Kind
+Floor 3,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,18FC,FC,00 00,Any,Stage 1 Color
+Floor 3,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1900,100,07 00,7,Stage 2 Value
+Floor 3,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1902,102,02 00,At Least,Stage 2 Kind
+Floor 3,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1904,104,00 00,Any,Stage 2 Color
+Floor 3,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1908,108,00 00,0,Stage 3 Value
+Floor 3,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,190A,10A,00 00,Any,Stage 3 Kind
+Floor 3,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,190C,10C,00 00,Any,Stage 3 Color
+Floor 3,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1910,110,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 3,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1912,112,01 00,1,Number of Card Stages
+Floor 3,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1914,114,00 00,0,Stage 1 Value
+Floor 3,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1916,116,00 00,Any,Stage 1 Kind
+Floor 3,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1918,118,02 00,Green,Stage 1 Color
+Floor 3,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,191C,11C,00 00,0,Stage 2 Value
+Floor 3,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,191E,11E,00 00,Any,Stage 2 Kind
+Floor 3,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1920,120,00 00,Any,Stage 2 Color
+Floor 3,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1924,124,00 00,0,Stage 3 Value
+Floor 3,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1926,126,00 00,Any,Stage 3 Kind
+Floor 3,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1928,128,00 00,Any,Stage 3 Color
+Floor 3,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,192C,12C,02 00,Key to Truth,Key Card (BA + Value)
+Floor 3,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,192E,12E,01 00,1,Number of Card Stages
+Floor 3,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1930,130,03 00,3,Stage 1 Value
+Floor 3,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1932,132,01 00,At Most,Stage 1 Kind
+Floor 3,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1934,134,00 00,Any,Stage 1 Color
+Floor 3,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1938,138,00 00,0,Stage 2 Value
+Floor 3,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,193A,13A,00 00,Any,Stage 2 Kind
+Floor 3,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,193C,13C,00 00,Any,Stage 2 Color
+Floor 3,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1940,140,00 00,0,Stage 3 Value
+Floor 3,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1942,142,00 00,Any,Stage 3 Kind
+Floor 3,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1944,144,00 00,Any,Stage 3 Color
+Floor 3,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1948,148,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 3,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,194A,14A,01 00,1,Number of Card Stages
+Floor 3,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,194C,14C,00 00,0,Stage 1 Value
+Floor 3,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,194E,14E,03 00,Equal,Stage 1 Kind
+Floor 3,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1950,150,01 00,Red,Stage 1 Color
+Floor 3,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1954,154,00 00,0,Stage 2 Value
+Floor 3,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1956,156,00 00,Any,Stage 2 Kind
+Floor 3,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1958,158,00 00,Any,Stage 2 Color
+Floor 3,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,195C,15C,00 00,0,Stage 3 Value
+Floor 3,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,195E,15E,00 00,Any,Stage 3 Kind
+Floor 3,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1960,160,00 00,Any,Stage 3 Color
+Floor 4,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1968,168,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 4,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,196A,16A,01 00,1,Number of Card Stages
+Floor 4,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,196C,16C,08 00,8,Stage 1 Value
+Floor 4,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,196E,16E,02 00,At Least,Stage 1 Kind
+Floor 4,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1970,170,00 00,Any,Stage 1 Color
+Floor 4,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1974,174,00 00,0,Stage 2 Value
+Floor 4,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1976,176,00 00,Any,Stage 2 Kind
+Floor 4,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1978,178,00 00,Any,Stage 2 Color
+Floor 4,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,197C,17C,00 00,0,Stage 3 Value
+Floor 4,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,197E,17E,00 00,Any,Stage 3 Kind
+Floor 4,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1980,180,00 00,Any,Stage 3 Color
+Floor 4,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1984,184,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 4,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1986,186,01 00,1,Number of Card Stages
+Floor 4,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1988,188,01 00,1,Stage 1 Value
+Floor 4,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,198A,18A,02 00,At Least,Stage 1 Kind
+Floor 4,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,198C,18C,00 00,Any,Stage 1 Color
+Floor 4,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1990,190,00 00,0,Stage 2 Value
+Floor 4,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1992,192,00 00,Any,Stage 2 Kind
+Floor 4,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1994,194,00 00,Any,Stage 2 Color
+Floor 4,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1998,198,00 00,0,Stage 3 Value
+Floor 4,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,199A,19A,00 00,Any,Stage 3 Kind
+Floor 4,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,199C,19C,00 00,Any,Stage 3 Color
+Floor 4,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,19A0,1A0,02 00,Key to Truth,Key Card (BA + Value)
+Floor 4,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,19A2,1A2,02 00,2,Number of Card Stages
+Floor 4,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,19A4,1A4,00 00,0,Stage 1 Value
+Floor 4,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,19A6,1A6,00 00,Any,Stage 1 Kind
+Floor 4,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,19A8,1A8,01 00,Red,Stage 1 Color
+Floor 4,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,19AC,1AC,00 00,0,Stage 2 Value
+Floor 4,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,19AE,1AE,00 00,Any,Stage 2 Kind
+Floor 4,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,19B0,1B0,02 00,Green,Stage 2 Color
+Floor 4,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,19B4,1B4,00 00,0,Stage 3 Value
+Floor 4,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,19B6,1B6,00 00,Any,Stage 3 Kind
+Floor 4,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,19B8,1B8,00 00,Any,Stage 3 Color
+Floor 4,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,19BC,1BC,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 4,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,19BE,1BE,02 00,2,Number of Card Stages
+Floor 4,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,19C0,1C0,09 00,9,Stage 1 Value
+Floor 4,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,19C2,1C2,03 00,Equal,Stage 1 Kind
+Floor 4,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,19C4,1C4,02 00,Green,Stage 1 Color
+Floor 4,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,19C8,1C8,09 00,9,Stage 2 Value
+Floor 4,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,19CA,1CA,03 00,Equal,Stage 2 Kind
+Floor 4,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,19CC,1CC,01 00,Red,Stage 2 Color
+Floor 4,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,19D0,1D0,00 00,0,Stage 3 Value
+Floor 4,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,19D2,1D2,00 00,Any,Stage 3 Kind
+Floor 4,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,19D4,1D4,00 00,Any,Stage 3 Color
+Floor 5,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,19DC,1DC,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 5,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,19DE,1DE,01 00,1,Number of Card Stages
+Floor 5,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,19E0,1E0,14 00,20,Stage 1 Value
+Floor 5,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,19E2,1E2,04 00,Total,Stage 1 Kind
+Floor 5,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,19E4,1E4,00 00,Any,Stage 1 Color
+Floor 5,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,19E8,1E8,00 00,0,Stage 2 Value
+Floor 5,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,19EA,1EA,00 00,Any,Stage 2 Kind
+Floor 5,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,19EC,1EC,00 00,Any,Stage 2 Color
+Floor 5,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,19F0,1F0,00 00,0,Stage 3 Value
+Floor 5,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,19F2,1F2,00 00,Any,Stage 3 Kind
+Floor 5,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,19F4,1F4,00 00,Any,Stage 3 Color
+Floor 5,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,19F8,1F8,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 5,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,19FA,1FA,02 00,2,Number of Card Stages
+Floor 5,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,19FC,1FC,00 00,0,Stage 1 Value
+Floor 5,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,19FE,1FE,00 00,Any,Stage 1 Kind
+Floor 5,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A00,200,01 00,Red,Stage 1 Color
+Floor 5,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A04,204,05 00,5,Stage 2 Value
+Floor 5,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A06,206,01 00,At Most,Stage 2 Kind
+Floor 5,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A08,208,00 00,Any,Stage 2 Color
+Floor 5,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A0C,20C,00 00,0,Stage 3 Value
+Floor 5,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A0E,20E,00 00,Any,Stage 3 Kind
+Floor 5,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A10,210,00 00,Any,Stage 3 Color
+Floor 5,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A14,214,02 00,Key to Truth,Key Card (BA + Value)
+Floor 5,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A16,216,01 00,1,Number of Card Stages
+Floor 5,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A18,218,00 00,0,Stage 1 Value
+Floor 5,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A1A,21A,03 00,Equal,Stage 1 Kind
+Floor 5,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A1C,21C,00 00,Any,Stage 1 Color
+Floor 5,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A20,220,00 00,0,Stage 2 Value
+Floor 5,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A22,222,00 00,Any,Stage 2 Kind
+Floor 5,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A24,224,00 00,Any,Stage 2 Color
+Floor 5,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A28,228,00 00,0,Stage 3 Value
+Floor 5,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A2A,22A,00 00,Any,Stage 3 Kind
+Floor 5,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A2C,22C,00 00,Any,Stage 3 Color
+Floor 5,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A30,230,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 5,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A32,232,01 00,1,Number of Card Stages
+Floor 5,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A34,234,0F 00,15,Stage 1 Value
+Floor 5,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A36,236,04 00,Total,Stage 1 Kind
+Floor 5,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A38,238,02 00,Green,Stage 1 Color
+Floor 5,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A3C,23C,00 00,0,Stage 2 Value
+Floor 5,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A3E,23E,00 00,Any,Stage 2 Kind
+Floor 5,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A40,240,00 00,Any,Stage 2 Color
+Floor 5,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A44,244,00 00,0,Stage 3 Value
+Floor 5,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A46,246,00 00,Any,Stage 3 Kind
+Floor 5,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A48,248,00 00,Any,Stage 3 Color
+Floor 6,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A50,250,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 6,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A52,252,02 00,2,Number of Card Stages
+Floor 6,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A54,254,03 00,3,Stage 1 Value
+Floor 6,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A56,256,03 00,Equal,Stage 1 Kind
+Floor 6,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A58,258,00 00,Any,Stage 1 Color
+Floor 6,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A5C,25C,04 00,4,Stage 2 Value
+Floor 6,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A5E,25E,03 00,Equal,Stage 2 Kind
+Floor 6,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A60,260,00 00,Any,Stage 2 Color
+Floor 6,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A64,264,00 00,0,Stage 3 Value
+Floor 6,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A66,266,00 00,Any,Stage 3 Kind
+Floor 6,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A68,268,00 00,Any,Stage 3 Color
+Floor 6,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A6C,26C,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 6,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A6E,26E,02 00,2,Number of Card Stages
+Floor 6,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A70,270,06 00,6,Stage 1 Value
+Floor 6,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A72,272,03 00,Equal,Stage 1 Kind
+Floor 6,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A74,274,00 00,Any,Stage 1 Color
+Floor 6,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A78,278,07 00,7,Stage 2 Value
+Floor 6,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A7A,27A,03 00,Equal,Stage 2 Kind
+Floor 6,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A7C,27C,00 00,Any,Stage 2 Color
+Floor 6,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A80,280,00 00,0,Stage 3 Value
+Floor 6,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A82,282,00 00,Any,Stage 3 Kind
+Floor 6,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A84,284,00 00,Any,Stage 3 Color
+Floor 6,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A88,288,02 00,Key to Truth,Key Card (BA + Value)
+Floor 6,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A8A,28A,02 00,2,Number of Card Stages
+Floor 6,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A8C,28C,03 00,3,Stage 1 Value
+Floor 6,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A8E,28E,01 00,At Most,Stage 1 Kind
+Floor 6,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A90,290,01 00,Red,Stage 1 Color
+Floor 6,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A94,294,1E 00,30,Stage 2 Value
+Floor 6,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A96,296,04 00,Total,Stage 2 Kind
+Floor 6,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A98,298,02 00,Green,Stage 2 Color
+Floor 6,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A9C,29C,00 00,0,Stage 3 Value
+Floor 6,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1A9E,29E,00 00,Any,Stage 3 Kind
+Floor 6,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AA0,2A0,00 00,Any,Stage 3 Color
+Floor 6,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AA4,2A4,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 6,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AA6,2A6,01 00,1,Number of Card Stages
+Floor 6,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AA8,2A8,14 00,20,Stage 1 Value
+Floor 6,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AAA,2AA,04 00,Total,Stage 1 Kind
+Floor 6,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AAC,2AC,01 00,Red,Stage 1 Color
+Floor 6,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AB0,2B0,00 00,0,Stage 2 Value
+Floor 6,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AB2,2B2,00 00,Any,Stage 2 Kind
+Floor 6,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AB4,2B4,00 00,Any,Stage 2 Color
+Floor 6,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AB8,2B8,00 00,0,Stage 3 Value
+Floor 6,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1ABA,2BA,00 00,Any,Stage 3 Kind
+Floor 6,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1ABC,2BC,00 00,Any,Stage 3 Color
+Floor 7,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AC4,2C4,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 7,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AC6,2C6,01 00,1,Number of Card Stages
+Floor 7,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AC8,2C8,00 00,0,Stage 1 Value
+Floor 7,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1ACA,2CA,00 00,Any,Stage 1 Kind
+Floor 7,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1ACC,2CC,01 00,Red,Stage 1 Color
+Floor 7,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AD0,2D0,00 00,0,Stage 2 Value
+Floor 7,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AD2,2D2,00 00,Any,Stage 2 Kind
+Floor 7,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AD4,2D4,00 00,Any,Stage 2 Color
+Floor 7,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AD8,2D8,00 00,0,Stage 3 Value
+Floor 7,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1ADA,2DA,00 00,Any,Stage 3 Kind
+Floor 7,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1ADC,2DC,00 00,Any,Stage 3 Color
+Floor 7,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AE0,2E0,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 7,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AE2,2E2,01 00,1,Number of Card Stages
+Floor 7,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AE4,2E4,00 00,0,Stage 1 Value
+Floor 7,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AE6,2E6,00 00,Any,Stage 1 Kind
+Floor 7,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AE8,2E8,02 00,Green,Stage 1 Color
+Floor 7,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AEC,2EC,00 00,0,Stage 2 Value
+Floor 7,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AEE,2EE,00 00,Any,Stage 2 Kind
+Floor 7,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AF0,2F0,00 00,Any,Stage 2 Color
+Floor 7,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AF4,2F4,00 00,0,Stage 3 Value
+Floor 7,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AF6,2F6,00 00,Any,Stage 3 Kind
+Floor 7,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AF8,2F8,00 00,Any,Stage 3 Color
+Floor 7,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AFC,2FC,02 00,Key to Truth,Key Card (BA + Value)
+Floor 7,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1AFE,2FE,01 00,1,Number of Card Stages
+Floor 7,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B00,300,00 00,0,Stage 1 Value
+Floor 7,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B02,302,00 00,Any,Stage 1 Kind
+Floor 7,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B04,304,03 00,Blue,Stage 1 Color
+Floor 7,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B08,308,00 00,0,Stage 2 Value
+Floor 7,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B0A,30A,00 00,Any,Stage 2 Kind
+Floor 7,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B0C,30C,00 00,Any,Stage 2 Color
+Floor 7,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B10,310,00 00,0,Stage 3 Value
+Floor 7,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B12,312,00 00,Any,Stage 3 Kind
+Floor 7,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B14,314,00 00,Any,Stage 3 Color
+Floor 7,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B18,318,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 7,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B1A,31A,01 00,1,Number of Card Stages
+Floor 7,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B1C,31C,1E 00,30,Stage 1 Value
+Floor 7,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B1E,31E,04 00,Total,Stage 1 Kind
+Floor 7,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B20,320,00 00,Any,Stage 1 Color
+Floor 7,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B24,324,00 00,0,Stage 2 Value
+Floor 7,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B26,326,00 00,Any,Stage 2 Kind
+Floor 7,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B28,328,00 00,Any,Stage 2 Color
+Floor 7,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B2C,32C,00 00,0,Stage 3 Value
+Floor 7,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B2E,32E,00 00,Any,Stage 3 Kind
+Floor 7,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B30,330,00 00,Any,Stage 3 Color
+Floor 8,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B38,338,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 8,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B3A,33A,01 00,1,Number of Card Stages
+Floor 8,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B3C,33C,05 00,5,Stage 1 Value
+Floor 8,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B3E,33E,03 00,Equal,Stage 1 Kind
+Floor 8,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B40,340,00 00,Any,Stage 1 Color
+Floor 8,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B44,344,00 00,0,Stage 2 Value
+Floor 8,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B46,346,00 00,Any,Stage 2 Kind
+Floor 8,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B48,348,00 00,Any,Stage 2 Color
+Floor 8,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B4C,34C,00 00,0,Stage 3 Value
+Floor 8,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B4E,34E,00 00,Any,Stage 3 Kind
+Floor 8,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B50,350,00 00,Any,Stage 3 Color
+Floor 8,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B54,354,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 8,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B56,356,01 00,1,Number of Card Stages
+Floor 8,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B58,358,06 00,6,Stage 1 Value
+Floor 8,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B5A,35A,03 00,Equal,Stage 1 Kind
+Floor 8,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B5C,35C,00 00,Any,Stage 1 Color
+Floor 8,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B60,360,00 00,0,Stage 2 Value
+Floor 8,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B62,362,00 00,Any,Stage 2 Kind
+Floor 8,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B64,364,00 00,Any,Stage 2 Color
+Floor 8,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B68,368,00 00,0,Stage 3 Value
+Floor 8,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B6A,36A,00 00,Any,Stage 3 Kind
+Floor 8,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B6C,36C,00 00,Any,Stage 3 Color
+Floor 8,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B70,370,02 00,Key to Truth,Key Card (BA + Value)
+Floor 8,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B72,372,01 00,1,Number of Card Stages
+Floor 8,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B74,374,1E 00,30,Stage 1 Value
+Floor 8,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B76,376,04 00,Total,Stage 1 Kind
+Floor 8,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B78,378,00 00,Any,Stage 1 Color
+Floor 8,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B7C,37C,00 00,0,Stage 2 Value
+Floor 8,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B7E,37E,00 00,Any,Stage 2 Kind
+Floor 8,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B80,380,00 00,Any,Stage 2 Color
+Floor 8,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B84,384,00 00,0,Stage 3 Value
+Floor 8,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B86,386,00 00,Any,Stage 3 Kind
+Floor 8,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B88,388,00 00,Any,Stage 3 Color
+Floor 8,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B8C,38C,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 8,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B8E,38E,01 00,1,Number of Card Stages
+Floor 8,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B90,390,0F 00,15,Stage 1 Value
+Floor 8,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B92,392,04 00,Total,Stage 1 Kind
+Floor 8,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B94,394,03 00,Blue,Stage 1 Color
+Floor 8,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B98,398,00 00,0,Stage 2 Value
+Floor 8,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B9A,39A,00 00,Any,Stage 2 Kind
+Floor 8,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1B9C,39C,00 00,Any,Stage 2 Color
+Floor 8,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BA0,3A0,00 00,0,Stage 3 Value
+Floor 8,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BA2,3A2,00 00,Any,Stage 3 Kind
+Floor 8,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BA4,3A4,00 00,Any,Stage 3 Color
+Floor 9,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BAC,3AC,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 9,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BAE,3AE,01 00,1,Number of Card Stages
+Floor 9,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BB0,3B0,00 00,0,Stage 1 Value
+Floor 9,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BB2,3B2,00 00,Any,Stage 1 Kind
+Floor 9,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BB4,3B4,01 00,Red,Stage 1 Color
+Floor 9,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BB8,3B8,00 00,0,Stage 2 Value
+Floor 9,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BBA,3BA,00 00,Any,Stage 2 Kind
+Floor 9,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BBC,3BC,00 00,Any,Stage 2 Color
+Floor 9,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BC0,3C0,00 00,0,Stage 3 Value
+Floor 9,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BC2,3C2,00 00,Any,Stage 3 Kind
+Floor 9,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BC4,3C4,00 00,Any,Stage 3 Color
+Floor 9,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BC8,3C8,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 9,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BCA,3CA,01 00,1,Number of Card Stages
+Floor 9,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BCC,3CC,09 00,9,Stage 1 Value
+Floor 9,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BCE,3CE,03 00,Equal,Stage 1 Kind
+Floor 9,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BD0,3D0,00 00,Any,Stage 1 Color
+Floor 9,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BD4,3D4,00 00,0,Stage 2 Value
+Floor 9,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BD6,3D6,00 00,Any,Stage 2 Kind
+Floor 9,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BD8,3D8,00 00,Any,Stage 2 Color
+Floor 9,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BDC,3DC,00 00,0,Stage 3 Value
+Floor 9,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BDE,3DE,00 00,Any,Stage 3 Kind
+Floor 9,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BE0,3E0,00 00,Any,Stage 3 Color
+Floor 9,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BE4,3E4,02 00,Key to Truth,Key Card (BA + Value)
+Floor 9,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BE6,3E6,01 00,1,Number of Card Stages
+Floor 9,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BE8,3E8,01 00,1,Stage 1 Value
+Floor 9,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BEA,3EA,03 00,Equal,Stage 1 Kind
+Floor 9,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BEC,3EC,00 00,Any,Stage 1 Color
+Floor 9,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BF0,3F0,00 00,0,Stage 2 Value
+Floor 9,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BF2,3F2,00 00,Any,Stage 2 Kind
+Floor 9,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BF4,3F4,00 00,Any,Stage 2 Color
+Floor 9,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BF8,3F8,00 00,0,Stage 3 Value
+Floor 9,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BFA,3FA,00 00,Any,Stage 3 Kind
+Floor 9,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1BFC,3FC,00 00,Any,Stage 3 Color
+Floor 9,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C00,400,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 9,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C02,402,01 00,1,Number of Card Stages
+Floor 9,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C04,404,02 00,2,Stage 1 Value
+Floor 9,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C06,406,03 00,Equal,Stage 1 Kind
+Floor 9,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C08,408,03 00,Blue,Stage 1 Color
+Floor 9,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C0C,40C,00 00,0,Stage 2 Value
+Floor 9,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C0E,40E,00 00,Any,Stage 2 Kind
+Floor 9,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C10,410,00 00,Any,Stage 2 Color
+Floor 9,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C14,414,00 00,0,Stage 3 Value
+Floor 9,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C16,416,00 00,Any,Stage 3 Kind
+Floor 9,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C18,418,00 00,Any,Stage 3 Color
+Floor 10,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C20,420,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 10,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C22,422,02 00,2,Number of Card Stages
+Floor 10,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C24,424,00 00,0,Stage 1 Value
+Floor 10,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C26,426,00 00,Any,Stage 1 Kind
+Floor 10,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C28,428,03 00,Blue,Stage 1 Color
+Floor 10,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C2C,42C,03 00,3,Stage 2 Value
+Floor 10,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C2E,42E,01 00,At Most,Stage 2 Kind
+Floor 10,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C30,430,00 00,Any,Stage 2 Color
+Floor 10,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C34,434,00 00,0,Stage 3 Value
+Floor 10,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C36,436,00 00,Any,Stage 3 Kind
+Floor 10,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C38,438,00 00,Any,Stage 3 Color
+Floor 10,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C3C,43C,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 10,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C3E,43E,02 00,2,Number of Card Stages
+Floor 10,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C40,440,00 00,0,Stage 1 Value
+Floor 10,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C42,442,00 00,Any,Stage 1 Kind
+Floor 10,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C44,444,02 00,Green,Stage 1 Color
+Floor 10,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C48,448,07 00,7,Stage 2 Value
+Floor 10,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C4A,44A,02 00,At Least,Stage 2 Kind
+Floor 10,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C4C,44C,00 00,Any,Stage 2 Color
+Floor 10,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C50,450,00 00,0,Stage 3 Value
+Floor 10,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C52,452,00 00,Any,Stage 3 Kind
+Floor 10,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C54,454,00 00,Any,Stage 3 Color
+Floor 10,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C58,458,02 00,Key to Truth,Key Card (BA + Value)
+Floor 10,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C5A,45A,02 00,2,Number of Card Stages
+Floor 10,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C5C,45C,00 00,0,Stage 1 Value
+Floor 10,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C5E,45E,00 00,Any,Stage 1 Kind
+Floor 10,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C60,460,01 00,Red,Stage 1 Color
+Floor 10,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C64,464,00 00,0,Stage 2 Value
+Floor 10,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C66,466,03 00,Equal,Stage 2 Kind
+Floor 10,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C68,468,00 00,Any,Stage 2 Color
+Floor 10,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C6C,46C,00 00,0,Stage 3 Value
+Floor 10,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C6E,46E,00 00,Any,Stage 3 Kind
+Floor 10,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C70,470,00 00,Any,Stage 3 Color
+Floor 10,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C74,474,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 10,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C76,476,02 00,2,Number of Card Stages
+Floor 10,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C78,478,03 00,3,Stage 1 Value
+Floor 10,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C7A,47A,03 00,Equal,Stage 1 Kind
+Floor 10,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C7C,47C,02 00,Green,Stage 1 Color
+Floor 10,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C80,480,07 00,7,Stage 2 Value
+Floor 10,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C82,482,03 00,Equal,Stage 2 Kind
+Floor 10,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C84,484,01 00,Red,Stage 2 Color
+Floor 10,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C88,488,00 00,0,Stage 3 Value
+Floor 10,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C8A,48A,00 00,Any,Stage 3 Kind
+Floor 10,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C8C,48C,00 00,Any,Stage 3 Color
+Floor 11,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C94,494,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 11,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C96,496,03 00,3,Number of Card Stages
+Floor 11,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C98,498,05 00,5,Stage 1 Value
+Floor 11,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C9A,49A,02 00,At Least,Stage 1 Kind
+Floor 11,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1C9C,49C,00 00,Any,Stage 1 Color
+Floor 11,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CA0,4A0,05 00,5,Stage 2 Value
+Floor 11,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CA2,4A2,01 00,At Most,Stage 2 Kind
+Floor 11,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CA4,4A4,00 00,Any,Stage 2 Color
+Floor 11,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CA8,4A8,00 00,0,Stage 3 Value
+Floor 11,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CAA,4AA,00 00,Any,Stage 3 Kind
+Floor 11,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CAC,4AC,03 00,Blue,Stage 3 Color
+Floor 11,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CB0,4B0,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 11,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CB2,4B2,00 00,0,Number of Card Stages
+Floor 11,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CB4,4B4,00 00,0,Stage 1 Value
+Floor 11,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CB6,4B6,00 00,Any,Stage 1 Kind
+Floor 11,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CB8,4B8,00 00,Any,Stage 1 Color
+Floor 11,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CBC,4BC,00 00,0,Stage 2 Value
+Floor 11,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CBE,4BE,00 00,Any,Stage 2 Kind
+Floor 11,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CC0,4C0,00 00,Any,Stage 2 Color
+Floor 11,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CC4,4C4,00 00,0,Stage 3 Value
+Floor 11,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CC6,4C6,00 00,Any,Stage 3 Kind
+Floor 11,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CC8,4C8,00 00,Any,Stage 3 Color
+Floor 11,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CCC,4CC,02 00,Key to Truth,Key Card (BA + Value)
+Floor 11,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CCE,4CE,00 00,0,Number of Card Stages
+Floor 11,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CD0,4D0,00 00,0,Stage 1 Value
+Floor 11,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CD2,4D2,00 00,Any,Stage 1 Kind
+Floor 11,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CD4,4D4,00 00,Any,Stage 1 Color
+Floor 11,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CD8,4D8,00 00,0,Stage 2 Value
+Floor 11,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CDA,4DA,00 00,Any,Stage 2 Kind
+Floor 11,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CDC,4DC,00 00,Any,Stage 2 Color
+Floor 11,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CE0,4E0,00 00,0,Stage 3 Value
+Floor 11,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CE2,4E2,00 00,Any,Stage 3 Kind
+Floor 11,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CE4,4E4,00 00,Any,Stage 3 Color
+Floor 11,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CE8,4E8,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 11,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CEA,4EA,03 00,3,Number of Card Stages
+Floor 11,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CEC,4EC,08 00,8,Stage 1 Value
+Floor 11,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CEE,4EE,03 00,Equal,Stage 1 Kind
+Floor 11,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CF0,4F0,03 00,Blue,Stage 1 Color
+Floor 11,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CF4,4F4,01 00,1,Stage 2 Value
+Floor 11,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CF6,4F6,03 00,Equal,Stage 2 Kind
+Floor 11,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CF8,4F8,01 00,Red,Stage 2 Color
+Floor 11,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CFC,4FC,14 00,20,Stage 3 Value
+Floor 11,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1CFE,4FE,04 00,Total,Stage 3 Kind
+Floor 11,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D00,500,02 00,Green,Stage 3 Color
+Floor 12,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D08,508,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 12,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D0A,50A,02 00,2,Number of Card Stages
+Floor 12,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D0C,50C,02 00,2,Stage 1 Value
+Floor 12,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D0E,50E,03 00,Equal,Stage 1 Kind
+Floor 12,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D10,510,00 00,Any,Stage 1 Color
+Floor 12,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D14,514,08 00,8,Stage 2 Value
+Floor 12,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D16,516,03 00,Equal,Stage 2 Kind
+Floor 12,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D18,518,00 00,Any,Stage 2 Color
+Floor 12,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D1C,51C,00 00,0,Stage 3 Value
+Floor 12,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D1E,51E,00 00,Any,Stage 3 Kind
+Floor 12,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D20,520,00 00,Any,Stage 3 Color
+Floor 12,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D24,524,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 12,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D26,526,01 00,1,Number of Card Stages
+Floor 12,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D28,528,32 00,50,Stage 1 Value
+Floor 12,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D2A,52A,04 00,Total,Stage 1 Kind
+Floor 12,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D2C,52C,00 00,Any,Stage 1 Color
+Floor 12,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D30,530,00 00,0,Stage 2 Value
+Floor 12,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D32,532,00 00,Any,Stage 2 Kind
+Floor 12,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D34,534,00 00,Any,Stage 2 Color
+Floor 12,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D38,538,00 00,0,Stage 3 Value
+Floor 12,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D3A,53A,00 00,Any,Stage 3 Kind
+Floor 12,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D3C,53C,00 00,Any,Stage 3 Color
+Floor 12,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D40,540,02 00,Key to Truth,Key Card (BA + Value)
+Floor 12,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D42,542,00 00,0,Number of Card Stages
+Floor 12,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D44,544,00 00,0,Stage 1 Value
+Floor 12,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D46,546,00 00,Any,Stage 1 Kind
+Floor 12,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D48,548,00 00,Any,Stage 1 Color
+Floor 12,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D4C,54C,00 00,0,Stage 2 Value
+Floor 12,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D4E,54E,00 00,Any,Stage 2 Kind
+Floor 12,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D50,550,00 00,Any,Stage 2 Color
+Floor 12,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D54,554,00 00,0,Stage 3 Value
+Floor 12,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D56,556,00 00,Any,Stage 3 Kind
+Floor 12,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D58,558,00 00,Any,Stage 3 Color
+Floor 12,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D5C,55C,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 12,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D5E,55E,03 00,3,Number of Card Stages
+Floor 12,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D60,560,21 00,33,Stage 1 Value
+Floor 12,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D62,562,04 00,Total,Stage 1 Kind
+Floor 12,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D64,564,03 00,Blue,Stage 1 Color
+Floor 12,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D68,568,21 00,33,Stage 2 Value
+Floor 12,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D6A,56A,04 00,Total,Stage 2 Kind
+Floor 12,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D6C,56C,01 00,Red,Stage 2 Color
+Floor 12,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D70,570,21 00,33,Stage 3 Value
+Floor 12,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D72,572,04 00,Total,Stage 3 Kind
+Floor 12,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D74,574,02 00,Green,Stage 3 Color
+Floor 13,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D7C,57C,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 13,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D7E,57E,03 00,3,Number of Card Stages
+Floor 13,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D80,580,01 00,1,Stage 1 Value
+Floor 13,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D82,582,03 00,Equal,Stage 1 Kind
+Floor 13,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D84,584,03 00,Blue,Stage 1 Color
+Floor 13,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D88,588,03 00,3,Stage 2 Value
+Floor 13,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D8A,58A,03 00,Equal,Stage 2 Kind
+Floor 13,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D8C,58C,01 00,Red,Stage 2 Color
+Floor 13,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D90,590,63 00,99,Stage 3 Value
+Floor 13,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D92,592,04 00,Total,Stage 3 Kind
+Floor 13,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D94,594,00 00,Any,Stage 3 Color
+Floor 13,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D98,598,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 13,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D9A,59A,00 00,0,Number of Card Stages
+Floor 13,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D9C,59C,00 00,0,Stage 1 Value
+Floor 13,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1D9E,59E,00 00,Any,Stage 1 Kind
+Floor 13,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DA0,5A0,00 00,Any,Stage 1 Color
+Floor 13,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DA4,5A4,00 00,0,Stage 2 Value
+Floor 13,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DA6,5A6,00 00,Any,Stage 2 Kind
+Floor 13,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DA8,5A8,00 00,Any,Stage 2 Color
+Floor 13,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DAC,5AC,00 00,0,Stage 3 Value
+Floor 13,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DAE,5AE,00 00,Any,Stage 3 Kind
+Floor 13,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DB0,5B0,00 00,Any,Stage 3 Color
+Floor 13,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DB4,5B4,02 00,Key to Truth,Key Card (BA + Value)
+Floor 13,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DB6,5B6,00 00,0,Number of Card Stages
+Floor 13,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DB8,5B8,00 00,0,Stage 1 Value
+Floor 13,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DBA,5BA,00 00,Any,Stage 1 Kind
+Floor 13,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DBC,5BC,00 00,Any,Stage 1 Color
+Floor 13,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DC0,5C0,00 00,0,Stage 2 Value
+Floor 13,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DC2,5C2,00 00,Any,Stage 2 Kind
+Floor 13,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DC4,5C4,00 00,Any,Stage 2 Color
+Floor 13,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DC8,5C8,00 00,0,Stage 3 Value
+Floor 13,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DCA,5CA,00 00,Any,Stage 3 Kind
+Floor 13,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DCC,5CC,00 00,Any,Stage 3 Color
+Floor 13,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DD0,5D0,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 13,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DD2,5D2,03 00,3,Number of Card Stages
+Floor 13,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DD4,5D4,1E 00,30,Stage 1 Value
+Floor 13,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DD6,5D6,04 00,Total,Stage 1 Kind
+Floor 13,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DD8,5D8,03 00,Blue,Stage 1 Color
+Floor 13,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DDC,5DC,28 00,40,Stage 2 Value
+Floor 13,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DDE,5DE,04 00,Total,Stage 2 Kind
+Floor 13,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DE0,5E0,01 00,Red,Stage 2 Color
+Floor 13,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DE4,5E4,14 00,20,Stage 3 Value
+Floor 13,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DE6,5E6,04 00,Total,Stage 3 Kind
+Floor 13,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DE8,5E8,02 00,Green,Stage 3 Color
+Floor 14,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DF0,5F0,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 14,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DF2,5F2,01 00,1,Number of Card Stages
+Floor 14,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DF4,5F4,00 00,0,Stage 1 Value
+Floor 14,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DF6,5F6,00 00,Any,Stage 1 Kind
+Floor 14,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DF8,5F8,01 00,Red,Stage 1 Color
+Floor 14,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DFC,5FC,00 00,0,Stage 2 Value
+Floor 14,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1DFE,5FE,00 00,Any,Stage 2 Kind
+Floor 14,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E00,600,00 00,Any,Stage 2 Color
+Floor 14,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E04,604,00 00,0,Stage 3 Value
+Floor 14,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E06,606,00 00,Any,Stage 3 Kind
+Floor 14,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E08,608,00 00,Any,Stage 3 Color
+Floor 14,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E0C,60C,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 14,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E0E,60E,00 00,0,Number of Card Stages
+Floor 14,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E10,610,00 00,0,Stage 1 Value
+Floor 14,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E12,612,00 00,Any,Stage 1 Kind
+Floor 14,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E14,614,00 00,Any,Stage 1 Color
+Floor 14,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E18,618,00 00,0,Stage 2 Value
+Floor 14,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E1A,61A,00 00,Any,Stage 2 Kind
+Floor 14,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E1C,61C,00 00,Any,Stage 2 Color
+Floor 14,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E20,620,00 00,0,Stage 3 Value
+Floor 14,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E22,622,00 00,Any,Stage 3 Kind
+Floor 14,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E24,624,00 00,Any,Stage 3 Color
+Floor 14,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E28,628,02 00,Key to Truth,Key Card (BA + Value)
+Floor 14,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E2A,62A,01 00,1,Number of Card Stages
+Floor 14,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E2C,62C,00 00,0,Stage 1 Value
+Floor 14,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E2E,62E,00 00,Any,Stage 1 Kind
+Floor 14,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E30,630,01 00,Red,Stage 1 Color
+Floor 14,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E34,634,00 00,0,Stage 2 Value
+Floor 14,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E36,636,00 00,Any,Stage 2 Kind
+Floor 14,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E38,638,00 00,Any,Stage 2 Color
+Floor 14,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E3C,63C,00 00,0,Stage 3 Value
+Floor 14,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E3E,63E,00 00,Any,Stage 3 Kind
+Floor 14,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E40,640,00 00,Any,Stage 3 Color
+Floor 14,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E44,644,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 14,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E46,646,00 00,0,Number of Card Stages
+Floor 14,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E48,648,00 00,0,Stage 1 Value
+Floor 14,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E4A,64A,00 00,Any,Stage 1 Kind
+Floor 14,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E4C,64C,00 00,Any,Stage 1 Color
+Floor 14,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E50,650,00 00,0,Stage 2 Value
+Floor 14,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E52,652,00 00,Any,Stage 2 Kind
+Floor 14,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E54,654,00 00,Any,Stage 2 Color
+Floor 14,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E58,658,00 00,0,Stage 3 Value
+Floor 14,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E5A,65A,00 00,Any,Stage 3 Kind
+Floor 14,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E5C,65C,00 00,Any,Stage 3 Color
+Floor 15,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E64,664,00 00,Key of Beginnings,Key Card (BA + Value)
+Floor 15,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E66,666,01 00,1,Number of Card Stages
+Floor 15,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E68,668,00 00,0,Stage 1 Value
+Floor 15,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E6A,66A,00 00,Any,Stage 1 Kind
+Floor 15,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E6C,66C,01 00,Red,Stage 1 Color
+Floor 15,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E70,670,00 00,0,Stage 2 Value
+Floor 15,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E72,672,00 00,Any,Stage 2 Kind
+Floor 15,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E74,674,00 00,Any,Stage 2 Color
+Floor 15,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E78,678,00 00,0,Stage 3 Value
+Floor 15,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E7A,67A,00 00,Any,Stage 3 Kind
+Floor 15,Key of Beginnings,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E7C,67C,00 00,Any,Stage 3 Color
+Floor 15,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E80,680,01 00,Key of Guidance,Key Card (BA + Value)
+Floor 15,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E82,682,01 00,1,Number of Card Stages
+Floor 15,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E84,684,08 00,8,Stage 1 Value
+Floor 15,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E86,686,01 00,At Most,Stage 1 Kind
+Floor 15,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E88,688,00 00,Any,Stage 1 Color
+Floor 15,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E8C,68C,00 00,0,Stage 2 Value
+Floor 15,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E8E,68E,00 00,Any,Stage 2 Kind
+Floor 15,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E90,690,00 00,Any,Stage 2 Color
+Floor 15,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E94,694,00 00,0,Stage 3 Value
+Floor 15,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E96,696,00 00,Any,Stage 3 Kind
+Floor 15,Key of Guidance,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E98,698,00 00,Any,Stage 3 Color
+Floor 15,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E9C,69C,02 00,Key to Truth,Key Card (BA + Value)
+Floor 15,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1E9E,69E,00 00,0,Number of Card Stages
+Floor 15,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EA0,6A0,00 00,0,Stage 1 Value
+Floor 15,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EA2,6A2,00 00,Any,Stage 1 Kind
+Floor 15,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EA4,6A4,00 00,Any,Stage 1 Color
+Floor 15,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EA8,6A8,00 00,0,Stage 2 Value
+Floor 15,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EAA,6AA,00 00,Any,Stage 2 Kind
+Floor 15,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EAC,6AC,00 00,Any,Stage 2 Color
+Floor 15,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EB0,6B0,00 00,0,Stage 3 Value
+Floor 15,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EB2,6B2,00 00,Any,Stage 3 Kind
+Floor 15,Key to Truth,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EB4,6B4,00 00,Any,Stage 3 Color
+Floor 15,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EB8,6B8,03 00,Key to Rewards,Key Card (BA + Value)
+Floor 15,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EBA,6BA,00 00,0,Number of Card Stages
+Floor 15,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EBC,6BC,00 00,0,Stage 1 Value
+Floor 15,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EBE,6BE,00 00,Any,Stage 1 Kind
+Floor 15,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EC0,6C0,00 00,Any,Stage 1 Color
+Floor 15,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EC4,6C4,00 00,0,Stage 2 Value
+Floor 15,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EC6,6C6,00 00,Any,Stage 2 Kind
+Floor 15,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1EC8,6C8,00 00,Any,Stage 2 Color
+Floor 15,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1ECC,6CC,00 00,0,Stage 3 Value
+Floor 15,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1ECE,6CE,00 00,Any,Stage 3 Kind
+Floor 15,Key to Rewards,SYS/0001/SY0001.BIN,RCNorma1.BIN,1ED0,6D0,00 00,Any,Stage 3 Color

@@ -1,0 +1,853 @@
+World,List,Slot,File,Sub-File,Offset,Sub-File Offset,Value (HEX),Value,Notes
+Traverse Town,Objects,-,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,A6,6,0D 00,13,Number of Cards
+Traverse Town,Objects,1,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,A8,8,00 00,0,Card: Kingdom Key
+Traverse Town,Objects,1,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,AA,A,3C 00,60,Weight
+Traverse Town,Objects,2,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,AC,C,09 00,9,Card: Lionheart
+Traverse Town,Objects,2,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,AE,E,1D 00,29,Weight
+Traverse Town,Objects,3,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,B0,10,0E 00,14,Card: Ultima Weapon
+Traverse Town,Objects,3,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,B2,12,03 00,3,Weight
+Traverse Town,Objects,4,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,B4,14,12 00,18,Card: Star Seeker
+Traverse Town,Objects,4,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,B6,16,03 00,3,Weight
+Traverse Town,Objects,5,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,B8,18,13 00,19,Card: Total Eclipse
+Traverse Town,Objects,5,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,BA,1A,03 00,3,Weight
+Traverse Town,Objects,6,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,BC,1C,14 00,20,Card: Midnight Roar
+Traverse Town,Objects,6,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,BE,1E,03 00,3,Weight
+Traverse Town,Objects,7,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,C0,20,15 00,21,Card: Maverick Flare
+Traverse Town,Objects,7,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,C2,22,03 00,3,Weight
+Traverse Town,Objects,8,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,C4,24,16 00,22,Card: Two Become One
+Traverse Town,Objects,8,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,C6,26,03 00,3,Weight
+Traverse Town,Objects,9,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,C8,28,17 00,23,Card: Bond of Flame
+Traverse Town,Objects,9,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,CA,2A,03 00,3,Weight
+Traverse Town,Objects,10,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,CC,2C,1A 00,26,Card: Blizzard
+Traverse Town,Objects,10,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,CE,2E,0A 00,10,Weight
+Traverse Town,Objects,11,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,D0,30,1C 00,28,Card: Cure
+Traverse Town,Objects,11,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,D2,32,0F 00,15,Weight
+Traverse Town,Objects,12,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,D4,34,22 00,34,Card: Simba
+Traverse Town,Objects,12,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,D6,36,05 00,5,Weight
+Traverse Town,Objects,13,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,D8,38,29 00,41,Card: Potion
+Traverse Town,Objects,13,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,DA,3A,0F 00,15,Weight
+Traverse Town,Chests,-,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,DC,3C,0D 00,13,Number of Cards
+Traverse Town,Chests,1,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,DE,3E,00 00,0,Card: Kingdom Key
+Traverse Town,Chests,1,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,E0,40,32 00,50,Weight
+Traverse Town,Chests,2,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,E2,42,09 00,9,Card: Lionheart
+Traverse Town,Chests,2,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,E4,44,0F 00,15,Weight
+Traverse Town,Chests,3,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,E6,46,0E 00,14,Card: Ultima Weapon
+Traverse Town,Chests,3,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,E8,48,05 00,5,Weight
+Traverse Town,Chests,4,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,EA,4A,12 00,18,Card: Star Seeker
+Traverse Town,Chests,4,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,EC,4C,05 00,5,Weight
+Traverse Town,Chests,5,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,EE,4E,13 00,19,Card: Total Eclipse
+Traverse Town,Chests,5,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,F0,50,05 00,5,Weight
+Traverse Town,Chests,6,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,F2,52,15 00,21,Card: Maverick Flare
+Traverse Town,Chests,6,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,F4,54,05 00,5,Weight
+Traverse Town,Chests,7,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,F6,56,16 00,22,Card: Two Become One
+Traverse Town,Chests,7,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,F8,58,05 00,5,Weight
+Traverse Town,Chests,8,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,FA,5A,17 00,23,Card: Bond of Flame
+Traverse Town,Chests,8,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,FC,5C,05 00,5,Weight
+Traverse Town,Chests,9,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,FE,5E,19 00,25,Card: Fire
+Traverse Town,Chests,9,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,100,60,0A 00,10,Weight
+Traverse Town,Chests,10,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,102,62,1A 00,26,Card: Blizzard
+Traverse Town,Chests,10,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,104,64,0F 00,15,Weight
+Traverse Town,Chests,11,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,106,66,1C 00,28,Card: Cure
+Traverse Town,Chests,11,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,108,68,14 00,20,Weight
+Traverse Town,Chests,12,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,10A,6A,22 00,34,Card: Simba
+Traverse Town,Chests,12,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,10C,6C,0A 00,10,Weight
+Traverse Town,Chests,13,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,10E,6E,29 00,41,Card: Potion
+Traverse Town,Chests,13,WORLD/0201/WO0201.BIN,AtkCardDrop.bin,110,70,0F 00,15,Weight
+Agrabah,Objects,-,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,E6,6,11 00,17,Number of Cards
+Agrabah,Objects,1,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,E8,8,00 00,0,Card: Kingdom Key
+Agrabah,Objects,1,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,EA,A,1E 00,30,Weight
+Agrabah,Objects,2,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,EC,C,01 00,1,Card: Three Wishes
+Agrabah,Objects,2,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,EE,E,3C 00,60,Weight
+Agrabah,Objects,3,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,F0,10,0E 00,14,Card: Ultima Weapon
+Agrabah,Objects,3,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,F2,12,03 00,3,Weight
+Agrabah,Objects,4,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,F4,14,12 00,18,Card: Star Seeker
+Agrabah,Objects,4,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,F6,16,03 00,3,Weight
+Agrabah,Objects,5,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,F8,18,13 00,19,Card: Total Eclipse
+Agrabah,Objects,5,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,FA,1A,03 00,3,Weight
+Agrabah,Objects,6,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,FC,1C,14 00,20,Card: Midnight Roar
+Agrabah,Objects,6,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,FE,1E,03 00,3,Weight
+Agrabah,Objects,7,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,100,20,15 00,21,Card: Maverick Flare
+Agrabah,Objects,7,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,102,22,03 00,3,Weight
+Agrabah,Objects,8,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,104,24,16 00,22,Card: Two Become One
+Agrabah,Objects,8,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,106,26,03 00,3,Weight
+Agrabah,Objects,9,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,108,28,17 00,23,Card: Bond of Flame
+Agrabah,Objects,9,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,10A,2A,03 00,3,Weight
+Agrabah,Objects,10,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,10C,2C,19 00,25,Card: Fire
+Agrabah,Objects,10,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,10E,2E,0A 00,10,Weight
+Agrabah,Objects,11,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,110,30,1A 00,26,Card: Blizzard
+Agrabah,Objects,11,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,112,32,05 00,5,Weight
+Agrabah,Objects,12,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,114,34,1C 00,28,Card: Cure
+Agrabah,Objects,12,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,116,36,05 00,5,Weight
+Agrabah,Objects,13,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,118,38,1D 00,29,Card: Gravity
+Agrabah,Objects,13,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,11A,3A,0A 00,10,Weight
+Agrabah,Objects,14,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,11C,3C,1E 00,30,Card: Stop
+Agrabah,Objects,14,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,11E,3E,06 00,6,Weight
+Agrabah,Objects,15,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,120,40,23 00,35,Card: Genie
+Agrabah,Objects,15,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,122,42,07 00,7,Weight
+Agrabah,Objects,16,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,124,44,2A 00,42,Card: Hi-Potion
+Agrabah,Objects,16,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,126,46,06 00,6,Weight
+Agrabah,Objects,17,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,128,48,2C 00,44,Card: Ether
+Agrabah,Objects,17,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,12A,4A,0A 00,10,Weight
+Agrabah,Chests,-,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,12C,4C,0E 00,14,Number of Cards
+Agrabah,Chests,1,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,12E,4E,01 00,1,Card: Three Wishes
+Agrabah,Chests,1,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,130,50,46 00,70,Weight
+Agrabah,Chests,2,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,132,52,0E 00,14,Card: Ultima Weapon
+Agrabah,Chests,2,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,134,54,05 00,5,Weight
+Agrabah,Chests,3,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,136,56,12 00,18,Card: Star Seeker
+Agrabah,Chests,3,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,138,58,05 00,5,Weight
+Agrabah,Chests,4,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,13A,5A,13 00,19,Card: Total Eclipse
+Agrabah,Chests,4,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,13C,5C,05 00,5,Weight
+Agrabah,Chests,5,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,13E,5E,14 00,20,Card: Midnight Roar
+Agrabah,Chests,5,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,140,60,05 00,5,Weight
+Agrabah,Chests,6,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,142,62,15 00,21,Card: Maverick Flare
+Agrabah,Chests,6,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,144,64,05 00,5,Weight
+Agrabah,Chests,7,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,146,66,16 00,22,Card: Two Become One
+Agrabah,Chests,7,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,148,68,05 00,5,Weight
+Agrabah,Chests,8,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,14A,6A,17 00,23,Card: Bond of Flame
+Agrabah,Chests,8,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,14C,6C,05 00,5,Weight
+Agrabah,Chests,9,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,14E,6E,19 00,25,Card: Fire
+Agrabah,Chests,9,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,150,70,0A 00,10,Weight
+Agrabah,Chests,10,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,152,72,1A 00,26,Card: Blizzard
+Agrabah,Chests,10,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,154,74,0F 00,15,Weight
+Agrabah,Chests,11,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,156,76,1C 00,28,Card: Cure
+Agrabah,Chests,11,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,158,78,0F 00,15,Weight
+Agrabah,Chests,12,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,15A,7A,1D 00,29,Card: Gravity
+Agrabah,Chests,12,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,15C,7C,0A 00,10,Weight
+Agrabah,Chests,13,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,15E,7E,23 00,35,Card: Genie
+Agrabah,Chests,13,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,160,80,0A 00,10,Weight
+Agrabah,Chests,14,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,162,82,2C 00,44,Card: Ether
+Agrabah,Chests,14,WORLD/0202/WO0202.BIN,AtkCardDrop.bin,164,84,0A 00,10,Weight
+Olympus Coliseum,Objects,-,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,106,6,12 00,18,Number of Cards
+Olympus Coliseum,Objects,1,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,108,8,00 00,0,Card: Kingdom Key
+Olympus Coliseum,Objects,1,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,10A,A,19 00,25,Weight
+Olympus Coliseum,Objects,2,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,10C,C,07 00,7,Card: Metal Chocobo
+Olympus Coliseum,Objects,2,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,10E,E,0F 00,15,Weight
+Olympus Coliseum,Objects,3,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,110,10,08 00,8,Card: Olympia
+Olympus Coliseum,Objects,3,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,112,12,37 00,55,Weight
+Olympus Coliseum,Objects,4,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,114,14,0E 00,14,Card: Ultima Weapon
+Olympus Coliseum,Objects,4,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,116,16,03 00,3,Weight
+Olympus Coliseum,Objects,5,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,118,18,12 00,18,Card: Star Seeker
+Olympus Coliseum,Objects,5,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,11A,1A,03 00,3,Weight
+Olympus Coliseum,Objects,6,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,11C,1C,13 00,19,Card: Total Eclipse
+Olympus Coliseum,Objects,6,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,11E,1E,03 00,3,Weight
+Olympus Coliseum,Objects,7,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,120,20,14 00,20,Card: Midnight Roar
+Olympus Coliseum,Objects,7,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,122,22,03 00,3,Weight
+Olympus Coliseum,Objects,8,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,124,24,15 00,21,Card: Maverick Flare
+Olympus Coliseum,Objects,8,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,126,26,03 00,3,Weight
+Olympus Coliseum,Objects,9,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,128,28,16 00,22,Card: Two Become One
+Olympus Coliseum,Objects,9,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,12A,2A,03 00,3,Weight
+Olympus Coliseum,Objects,10,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,12C,2C,17 00,23,Card: Bond of Flame
+Olympus Coliseum,Objects,10,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,12E,2E,03 00,3,Weight
+Olympus Coliseum,Objects,11,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,130,30,19 00,25,Card: Fire
+Olympus Coliseum,Objects,11,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,132,32,0A 00,10,Weight
+Olympus Coliseum,Objects,12,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,134,34,1A 00,26,Card: Blizzard
+Olympus Coliseum,Objects,12,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,136,36,05 00,5,Weight
+Olympus Coliseum,Objects,13,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,138,38,1C 00,28,Card: Cure
+Olympus Coliseum,Objects,13,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,13A,3A,0F 00,15,Weight
+Olympus Coliseum,Objects,14,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,13C,3C,1D 00,29,Card: Gravity
+Olympus Coliseum,Objects,14,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,13E,3E,04 00,4,Weight
+Olympus Coliseum,Objects,15,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,140,40,1E 00,30,Card: Stop
+Olympus Coliseum,Objects,15,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,142,42,04 00,4,Weight
+Olympus Coliseum,Objects,16,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,144,44,28 00,40,Card: Cloud
+Olympus Coliseum,Objects,16,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,146,46,0A 00,10,Weight
+Olympus Coliseum,Objects,17,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,148,48,2A 00,42,Card: Hi-Potion
+Olympus Coliseum,Objects,17,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,14A,4A,07 00,7,Weight
+Olympus Coliseum,Objects,18,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,14C,4C,2C 00,44,Card: Ether
+Olympus Coliseum,Objects,18,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,14E,4E,05 00,5,Weight
+Olympus Coliseum,Chests,-,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,150,50,0D 00,13,Number of Cards
+Olympus Coliseum,Chests,1,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,152,52,07 00,7,Card: Metal Chocobo
+Olympus Coliseum,Chests,1,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,154,54,0A 00,10,Weight
+Olympus Coliseum,Chests,2,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,156,56,08 00,8,Card: Olympia
+Olympus Coliseum,Chests,2,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,158,58,46 00,70,Weight
+Olympus Coliseum,Chests,3,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,15A,5A,0E 00,14,Card: Ultima Weapon
+Olympus Coliseum,Chests,3,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,15C,5C,05 00,5,Weight
+Olympus Coliseum,Chests,4,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,15E,5E,12 00,18,Card: Star Seeker
+Olympus Coliseum,Chests,4,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,160,60,05 00,5,Weight
+Olympus Coliseum,Chests,5,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,162,62,14 00,20,Card: Midnight Roar
+Olympus Coliseum,Chests,5,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,164,64,05 00,5,Weight
+Olympus Coliseum,Chests,6,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,166,66,15 00,21,Card: Maverick Flare
+Olympus Coliseum,Chests,6,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,168,68,05 00,5,Weight
+Olympus Coliseum,Chests,7,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,16A,6A,19 00,25,Card: Fire
+Olympus Coliseum,Chests,7,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,16C,6C,05 00,5,Weight
+Olympus Coliseum,Chests,8,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,16E,6E,1A 00,26,Card: Blizzard
+Olympus Coliseum,Chests,8,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,170,70,0F 00,15,Weight
+Olympus Coliseum,Chests,9,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,172,72,1C 00,28,Card: Cure
+Olympus Coliseum,Chests,9,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,174,74,0F 00,15,Weight
+Olympus Coliseum,Chests,10,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,176,76,1D 00,29,Card: Gravity
+Olympus Coliseum,Chests,10,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,178,78,05 00,5,Weight
+Olympus Coliseum,Chests,11,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,17A,7A,1E 00,30,Card: Stop
+Olympus Coliseum,Chests,11,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,17C,7C,05 00,5,Weight
+Olympus Coliseum,Chests,12,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,17E,7E,28 00,40,Card: Cloud
+Olympus Coliseum,Chests,12,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,180,80,0F 00,15,Weight
+Olympus Coliseum,Chests,13,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,182,82,2A 00,42,Card: Hi-Potion
+Olympus Coliseum,Chests,13,WORLD/0203/WO0203.BIN,AtkCardDrop.bin,184,84,0A 00,10,Weight
+Wonderland,Objects,-,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,F6,6,10 00,16,Number of Cards
+Wonderland,Objects,1,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,F8,8,00 00,0,Card: Kingdom Key
+Wonderland,Objects,1,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,FA,A,19 00,25,Weight
+Wonderland,Objects,2,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,FC,C,0A 00,10,Card: Lady Luck
+Wonderland,Objects,2,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,FE,E,37 00,55,Weight
+Wonderland,Objects,3,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,100,10,0E 00,14,Card: Ultima Weapon
+Wonderland,Objects,3,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,102,12,03 00,3,Weight
+Wonderland,Objects,4,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,104,14,12 00,18,Card: Star Seeker
+Wonderland,Objects,4,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,106,16,03 00,3,Weight
+Wonderland,Objects,5,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,108,18,13 00,19,Card: Total Eclipse
+Wonderland,Objects,5,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,10A,1A,03 00,3,Weight
+Wonderland,Objects,6,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,10C,1C,14 00,20,Card: Midnight Roar
+Wonderland,Objects,6,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,10E,1E,03 00,3,Weight
+Wonderland,Objects,7,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,110,20,15 00,21,Card: Maverick Flare
+Wonderland,Objects,7,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,112,22,03 00,3,Weight
+Wonderland,Objects,8,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,114,24,16 00,22,Card: Two Become One
+Wonderland,Objects,8,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,116,26,03 00,3,Weight
+Wonderland,Objects,9,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,118,28,17 00,23,Card: Bond of Flame
+Wonderland,Objects,9,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,11A,2A,03 00,3,Weight
+Wonderland,Objects,10,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,11C,2C,19 00,25,Card: Fire
+Wonderland,Objects,10,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,11E,2E,0A 00,10,Weight
+Wonderland,Objects,11,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,120,30,1A 00,26,Card: Blizzard
+Wonderland,Objects,11,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,122,32,0A 00,10,Weight
+Wonderland,Objects,12,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,124,34,1D 00,29,Card: Gravity
+Wonderland,Objects,12,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,126,36,05 00,5,Weight
+Wonderland,Objects,13,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,128,38,1E 00,30,Card: Stop
+Wonderland,Objects,13,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,12A,3A,0A 00,10,Weight
+Wonderland,Objects,14,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,12C,3C,29 00,41,Card: Potion
+Wonderland,Objects,14,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,12E,3E,0A 00,10,Weight
+Wonderland,Objects,15,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,130,40,2A 00,42,Card: Hi-Potion
+Wonderland,Objects,15,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,132,42,07 00,7,Weight
+Wonderland,Objects,16,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,134,44,2C 00,44,Card: Ether
+Wonderland,Objects,16,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,136,46,07 00,7,Weight
+Wonderland,Chests,-,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,138,48,10 00,16,Number of Cards
+Wonderland,Chests,1,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,13A,4A,0A 00,10,Card: Lady Luck
+Wonderland,Chests,1,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,13C,4C,3C 00,60,Weight
+Wonderland,Chests,2,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,13E,4E,0E 00,14,Card: Ultima Weapon
+Wonderland,Chests,2,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,140,50,05 00,5,Weight
+Wonderland,Chests,3,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,142,52,12 00,18,Card: Star Seeker
+Wonderland,Chests,3,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,144,54,05 00,5,Weight
+Wonderland,Chests,4,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,146,56,13 00,19,Card: Total Eclipse
+Wonderland,Chests,4,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,148,58,05 00,5,Weight
+Wonderland,Chests,5,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,14A,5A,14 00,20,Card: Midnight Roar
+Wonderland,Chests,5,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,14C,5C,05 00,5,Weight
+Wonderland,Chests,6,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,14E,5E,15 00,21,Card: Maverick Flare
+Wonderland,Chests,6,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,150,60,05 00,5,Weight
+Wonderland,Chests,7,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,152,62,16 00,22,Card: Two Become One
+Wonderland,Chests,7,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,154,64,05 00,5,Weight
+Wonderland,Chests,8,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,156,66,17 00,23,Card: Bond of Flame
+Wonderland,Chests,8,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,158,68,05 00,5,Weight
+Wonderland,Chests,9,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,15A,6A,19 00,25,Card: Fire
+Wonderland,Chests,9,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,15C,6C,05 00,5,Weight
+Wonderland,Chests,10,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,15E,6E,1A 00,26,Card: Blizzard
+Wonderland,Chests,10,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,160,70,0A 00,10,Weight
+Wonderland,Chests,11,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,162,72,1C 00,28,Card: Cure
+Wonderland,Chests,11,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,164,74,14 00,20,Weight
+Wonderland,Chests,12,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,166,76,1E 00,30,Card: Stop
+Wonderland,Chests,12,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,168,78,0A 00,10,Weight
+Wonderland,Chests,13,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,16A,7A,22 00,34,Card: Simba
+Wonderland,Chests,13,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,16C,7C,05 00,5,Weight
+Wonderland,Chests,14,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,16E,7E,29 00,41,Card: Potion
+Wonderland,Chests,14,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,170,80,0A 00,10,Weight
+Wonderland,Chests,15,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,172,82,2A 00,42,Card: Hi-Potion
+Wonderland,Chests,15,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,174,84,05 00,5,Weight
+Wonderland,Chests,16,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,176,86,2C 00,44,Card: Ether
+Wonderland,Chests,16,WORLD/0204/WO0204.BIN,AtkCardDrop.bin,178,88,05 00,5,Weight
+Monstro,Objects,-,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,F6,6,12 00,18,Number of Cards
+Monstro,Objects,1,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,F8,8,00 00,0,Card: Kingdom Key
+Monstro,Objects,1,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,FA,A,19 00,25,Weight
+Monstro,Objects,2,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,FC,C,05 00,5,Card: Wishing Star
+Monstro,Objects,2,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,FE,E,32 00,50,Weight
+Monstro,Objects,3,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,100,10,0E 00,14,Card: Ultima Weapon
+Monstro,Objects,3,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,102,12,03 00,3,Weight
+Monstro,Objects,4,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,104,14,12 00,18,Card: Star Seeker
+Monstro,Objects,4,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,106,16,03 00,3,Weight
+Monstro,Objects,5,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,108,18,13 00,19,Card: Total Eclipse
+Monstro,Objects,5,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,10A,1A,03 00,3,Weight
+Monstro,Objects,6,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,10C,1C,14 00,20,Card: Midnight Roar
+Monstro,Objects,6,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,10E,1E,03 00,3,Weight
+Monstro,Objects,7,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,110,20,15 00,21,Card: Maverick Flare
+Monstro,Objects,7,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,112,22,03 00,3,Weight
+Monstro,Objects,8,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,114,24,16 00,22,Card: Two Become One
+Monstro,Objects,8,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,116,26,03 00,3,Weight
+Monstro,Objects,9,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,118,28,17 00,23,Card: Bond of Flame
+Monstro,Objects,9,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,11A,2A,03 00,3,Weight
+Monstro,Objects,10,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,11C,2C,19 00,25,Card: Fire
+Monstro,Objects,10,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,11E,2E,0C 00,12,Weight
+Monstro,Objects,11,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,120,30,1A 00,26,Card: Blizzard
+Monstro,Objects,11,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,122,32,03 00,3,Weight
+Monstro,Objects,12,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,124,34,1C 00,28,Card: Cure
+Monstro,Objects,12,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,126,36,0C 00,12,Weight
+Monstro,Objects,13,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,128,38,1D 00,29,Card: Gravity
+Monstro,Objects,13,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,12A,3A,06 00,6,Weight
+Monstro,Objects,14,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,12C,3C,1E 00,30,Card: Stop
+Monstro,Objects,14,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,12E,3E,05 00,5,Weight
+Monstro,Objects,15,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,130,40,25 00,37,Card: Dumbo
+Monstro,Objects,15,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,132,42,07 00,7,Weight
+Monstro,Objects,16,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,134,44,29 00,41,Card: Potion
+Monstro,Objects,16,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,136,46,0A 00,10,Weight
+Monstro,Objects,17,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,138,48,2A 00,42,Card: Hi-Potion
+Monstro,Objects,17,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,13A,4A,05 00,5,Weight
+Monstro,Objects,18,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,13C,4C,2C 00,44,Card: Ether
+Monstro,Objects,18,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,13E,4E,05 00,5,Weight
+Monstro,Chests,-,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,140,50,0F 00,15,Number of Cards
+Monstro,Chests,1,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,142,52,05 00,5,Card: Wishing Star
+Monstro,Chests,1,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,144,54,4B 00,75,Weight
+Monstro,Chests,2,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,146,56,0E 00,14,Card: Ultima Weapon
+Monstro,Chests,2,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,148,58,05 00,5,Weight
+Monstro,Chests,3,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,14A,5A,12 00,18,Card: Star Seeker
+Monstro,Chests,3,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,14C,5C,05 00,5,Weight
+Monstro,Chests,4,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,14E,5E,13 00,19,Card: Total Eclipse
+Monstro,Chests,4,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,150,60,05 00,5,Weight
+Monstro,Chests,5,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,152,62,14 00,20,Card: Midnight Roar
+Monstro,Chests,5,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,154,64,05 00,5,Weight
+Monstro,Chests,6,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,156,66,15 00,21,Card: Maverick Flare
+Monstro,Chests,6,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,158,68,05 00,5,Weight
+Monstro,Chests,7,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,15A,6A,17 00,23,Card: Bond of Flame
+Monstro,Chests,7,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,15C,6C,05 00,5,Weight
+Monstro,Chests,8,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,15E,6E,19 00,25,Card: Fire
+Monstro,Chests,8,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,160,70,14 00,20,Weight
+Monstro,Chests,9,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,162,72,1A 00,26,Card: Blizzard
+Monstro,Chests,9,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,164,74,0A 00,10,Weight
+Monstro,Chests,10,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,166,76,1C 00,28,Card: Cure
+Monstro,Chests,10,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,168,78,0F 00,15,Weight
+Monstro,Chests,11,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,16A,7A,1D 00,29,Card: Gravity
+Monstro,Chests,11,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,16C,7C,05 00,5,Weight
+Monstro,Chests,12,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,16E,7E,1E 00,30,Card: Stop
+Monstro,Chests,12,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,170,80,05 00,5,Weight
+Monstro,Chests,13,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,172,82,25 00,37,Card: Dumbo
+Monstro,Chests,13,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,174,84,0F 00,15,Weight
+Monstro,Chests,14,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,176,86,2A 00,42,Card: Hi-Potion
+Monstro,Chests,14,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,178,88,05 00,5,Weight
+Monstro,Chests,15,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,17A,8A,2C 00,44,Card: Ether
+Monstro,Chests,15,WORLD/0205/WO0205.BIN,AtkCardDrop.bin,17C,8C,05 00,5,Weight
+Halloween Town,Objects,-,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,F6,6,11 00,17,Number of Cards
+Halloween Town,Objects,1,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,F8,8,00 00,0,Card: Kingdom Key
+Halloween Town,Objects,1,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,FA,A,14 00,20,Weight
+Halloween Town,Objects,2,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,FC,C,03 00,3,Card: Pumpkinhead
+Halloween Town,Objects,2,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,FE,E,32 00,50,Weight
+Halloween Town,Objects,3,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,100,10,0E 00,14,Card: Ultima Weapon
+Halloween Town,Objects,3,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,102,12,03 00,3,Weight
+Halloween Town,Objects,4,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,104,14,12 00,18,Card: Star Seeker
+Halloween Town,Objects,4,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,106,16,03 00,3,Weight
+Halloween Town,Objects,5,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,108,18,13 00,19,Card: Total Eclipse
+Halloween Town,Objects,5,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,10A,1A,03 00,3,Weight
+Halloween Town,Objects,6,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,10C,1C,14 00,20,Card: Midnight Roar
+Halloween Town,Objects,6,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,10E,1E,03 00,3,Weight
+Halloween Town,Objects,7,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,110,20,15 00,21,Card: Maverick Flare
+Halloween Town,Objects,7,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,112,22,03 00,3,Weight
+Halloween Town,Objects,8,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,114,24,16 00,22,Card: Two Become One
+Halloween Town,Objects,8,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,116,26,03 00,3,Weight
+Halloween Town,Objects,9,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,118,28,17 00,23,Card: Bond of Flame
+Halloween Town,Objects,9,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,11A,2A,03 00,3,Weight
+Halloween Town,Objects,10,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,11C,2C,19 00,25,Card: Fire
+Halloween Town,Objects,10,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,11E,2E,0A 00,10,Weight
+Halloween Town,Objects,11,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,120,30,1A 00,26,Card: Blizzard
+Halloween Town,Objects,11,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,122,32,05 00,5,Weight
+Halloween Town,Objects,12,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,124,34,1C 00,28,Card: Cure
+Halloween Town,Objects,12,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,126,36,0A 00,10,Weight
+Halloween Town,Objects,13,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,128,38,1D 00,29,Card: Gravity
+Halloween Town,Objects,13,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,12A,3A,08 00,8,Weight
+Halloween Town,Objects,14,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,12C,3C,1E 00,30,Card: Stop
+Halloween Town,Objects,14,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,12E,3E,08 00,8,Weight
+Halloween Town,Objects,15,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,130,40,29 00,41,Card: Potion
+Halloween Town,Objects,15,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,132,42,0F 00,15,Weight
+Halloween Town,Objects,16,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,134,44,2A 00,42,Card: Hi-Potion
+Halloween Town,Objects,16,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,136,46,05 00,5,Weight
+Halloween Town,Objects,17,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,138,48,2C 00,44,Card: Ether
+Halloween Town,Objects,17,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,13A,4A,05 00,5,Weight
+Halloween Town,Chests,-,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,13C,4C,11 00,17,Number of Cards
+Halloween Town,Chests,1,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,13E,4E,03 00,3,Card: Pumpkinhead
+Halloween Town,Chests,1,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,140,50,46 00,70,Weight
+Halloween Town,Chests,2,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,142,52,0E 00,14,Card: Ultima Weapon
+Halloween Town,Chests,2,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,144,54,05 00,5,Weight
+Halloween Town,Chests,3,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,146,56,12 00,18,Card: Star Seeker
+Halloween Town,Chests,3,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,148,58,05 00,5,Weight
+Halloween Town,Chests,4,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,14A,5A,13 00,19,Card: Total Eclipse
+Halloween Town,Chests,4,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,14C,5C,05 00,5,Weight
+Halloween Town,Chests,5,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,14E,5E,14 00,20,Card: Midnight Roar
+Halloween Town,Chests,5,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,150,60,05 00,5,Weight
+Halloween Town,Chests,6,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,152,62,15 00,21,Card: Maverick Flare
+Halloween Town,Chests,6,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,154,64,05 00,5,Weight
+Halloween Town,Chests,7,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,156,66,16 00,22,Card: Two Become One
+Halloween Town,Chests,7,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,158,68,05 00,5,Weight
+Halloween Town,Chests,8,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,15A,6A,17 00,23,Card: Bond of Flame
+Halloween Town,Chests,8,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,15C,6C,05 00,5,Weight
+Halloween Town,Chests,9,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,15E,6E,19 00,25,Card: Fire
+Halloween Town,Chests,9,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,160,70,05 00,5,Weight
+Halloween Town,Chests,10,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,162,72,1A 00,26,Card: Blizzard
+Halloween Town,Chests,10,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,164,74,0A 00,10,Weight
+Halloween Town,Chests,11,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,166,76,1C 00,28,Card: Cure
+Halloween Town,Chests,11,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,168,78,0A 00,10,Weight
+Halloween Town,Chests,12,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,16A,7A,1D 00,29,Card: Gravity
+Halloween Town,Chests,12,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,16C,7C,05 00,5,Weight
+Halloween Town,Chests,13,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,16E,7E,1E 00,30,Card: Stop
+Halloween Town,Chests,13,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,170,80,05 00,5,Weight
+Halloween Town,Chests,14,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,172,82,22 00,34,Card: Simba
+Halloween Town,Chests,14,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,174,84,05 00,5,Weight
+Halloween Town,Chests,15,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,176,86,29 00,41,Card: Potion
+Halloween Town,Chests,15,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,178,88,0A 00,10,Weight
+Halloween Town,Chests,16,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,17A,8A,2A 00,42,Card: Hi-Potion
+Halloween Town,Chests,16,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,17C,8C,05 00,5,Weight
+Halloween Town,Chests,17,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,17E,8E,2C 00,44,Card: Ether
+Halloween Town,Chests,17,WORLD/0206/WO0206.BIN,AtkCardDrop.bin,180,90,05 00,5,Weight
+Atlantica,Objects,-,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,F6,6,13 00,19,Number of Cards
+Atlantica,Objects,1,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,F8,8,00 00,0,Card: Kingdom Key
+Atlantica,Objects,1,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,FA,A,14 00,20,Weight
+Atlantica,Objects,2,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,FC,C,02 00,2,Card: Crabclaw
+Atlantica,Objects,2,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,FE,E,37 00,55,Weight
+Atlantica,Objects,3,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,100,10,06 00,6,Card: Spellbinder
+Atlantica,Objects,3,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,102,12,02 00,2,Weight
+Atlantica,Objects,4,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,104,14,08 00,8,Card: Olympia
+Atlantica,Objects,4,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,106,16,0A 00,10,Weight
+Atlantica,Objects,5,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,108,18,0E 00,14,Card: Ultima Weapon
+Atlantica,Objects,5,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,10A,1A,03 00,3,Weight
+Atlantica,Objects,6,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,10C,1C,12 00,18,Card: Star Seeker
+Atlantica,Objects,6,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,10E,1E,03 00,3,Weight
+Atlantica,Objects,7,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,110,20,13 00,19,Card: Total Eclipse
+Atlantica,Objects,7,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,112,22,03 00,3,Weight
+Atlantica,Objects,8,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,114,24,14 00,20,Card: Midnight Roar
+Atlantica,Objects,8,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,116,26,03 00,3,Weight
+Atlantica,Objects,9,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,118,28,15 00,21,Card: Maverick Flare
+Atlantica,Objects,9,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,11A,2A,03 00,3,Weight
+Atlantica,Objects,10,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,11C,2C,16 00,22,Card: Two Become One
+Atlantica,Objects,10,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,11E,2E,03 00,3,Weight
+Atlantica,Objects,11,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,120,30,17 00,23,Card: Bond of Flame
+Atlantica,Objects,11,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,122,32,03 00,3,Weight
+Atlantica,Objects,12,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,124,34,1A 00,26,Card: Blizzard
+Atlantica,Objects,12,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,126,36,05 00,5,Weight
+Atlantica,Objects,13,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,128,38,1B 00,27,Card: Thunder
+Atlantica,Objects,13,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,12A,3A,09 00,9,Weight
+Atlantica,Objects,14,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,12C,3C,1D 00,29,Card: Gravity
+Atlantica,Objects,14,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,12E,3E,05 00,5,Weight
+Atlantica,Objects,15,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,130,40,1E 00,30,Card: Stop
+Atlantica,Objects,15,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,132,42,0A 00,10,Weight
+Atlantica,Objects,16,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,134,44,1F 00,31,Card: Aero
+Atlantica,Objects,16,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,136,46,0F 00,15,Weight
+Atlantica,Objects,17,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,138,48,29 00,41,Card: Potion
+Atlantica,Objects,17,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,13A,4A,0A 00,10,Weight
+Atlantica,Objects,18,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,13C,4C,2A 00,42,Card: Hi-Potion
+Atlantica,Objects,18,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,13E,4E,04 00,4,Weight
+Atlantica,Objects,19,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,140,50,2C 00,44,Card: Ether
+Atlantica,Objects,19,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,142,52,03 00,3,Weight
+Atlantica,Chests,-,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,144,54,0C 00,12,Number of Cards
+Atlantica,Chests,1,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,146,56,02 00,2,Card: Crabclaw
+Atlantica,Chests,1,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,148,58,50 00,80,Weight
+Atlantica,Chests,2,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,14A,5A,06 00,6,Card: Spellbinder
+Atlantica,Chests,2,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,14C,5C,05 00,5,Weight
+Atlantica,Chests,3,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,14E,5E,09 00,9,Card: Lionheart
+Atlantica,Chests,3,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,150,60,05 00,5,Weight
+Atlantica,Chests,4,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,152,62,0E 00,14,Card: Ultima Weapon
+Atlantica,Chests,4,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,154,64,05 00,5,Weight
+Atlantica,Chests,5,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,156,66,14 00,20,Card: Midnight Roar
+Atlantica,Chests,5,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,158,68,05 00,5,Weight
+Atlantica,Chests,6,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,15A,6A,15 00,21,Card: Maverick Flare
+Atlantica,Chests,6,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,15C,6C,05 00,5,Weight
+Atlantica,Chests,7,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,15E,6E,16 00,22,Card: Two Become One
+Atlantica,Chests,7,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,160,70,05 00,5,Weight
+Atlantica,Chests,8,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,162,72,1A 00,26,Card: Blizzard
+Atlantica,Chests,8,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,164,74,14 00,20,Weight
+Atlantica,Chests,9,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,166,76,1B 00,27,Card: Thunder
+Atlantica,Chests,9,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,168,78,0F 00,15,Weight
+Atlantica,Chests,10,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,16A,7A,1E 00,30,Card: Stop
+Atlantica,Chests,10,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,16C,7C,0F 00,15,Weight
+Atlantica,Chests,11,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,16E,7E,1F 00,31,Card: Aero
+Atlantica,Chests,11,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,170,80,0F 00,15,Weight
+Atlantica,Chests,12,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,172,82,24 00,36,Card: Bambi
+Atlantica,Chests,12,WORLD/0207/WO0207.BIN,AtkCardDrop.bin,174,84,0A 00,10,Weight
+Neverland,Objects,-,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,F6,6,11 00,17,Number of Cards
+Neverland,Objects,1,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,F8,8,00 00,0,Card: Kingdom Key
+Neverland,Objects,1,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,FA,A,1E 00,30,Weight
+Neverland,Objects,2,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,FC,C,04 00,4,Card: Fairy Harp
+Neverland,Objects,2,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,FE,E,3C 00,60,Weight
+Neverland,Objects,3,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,100,10,06 00,6,Card: Spellbinder
+Neverland,Objects,3,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,102,12,02 00,2,Weight
+Neverland,Objects,4,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,104,14,08 00,8,Card: Olympia
+Neverland,Objects,4,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,106,16,0A 00,10,Weight
+Neverland,Objects,5,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,108,18,0E 00,14,Card: Ultima Weapon
+Neverland,Objects,5,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,10A,1A,03 00,3,Weight
+Neverland,Objects,6,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,10C,1C,12 00,18,Card: Star Seeker
+Neverland,Objects,6,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,10E,1E,03 00,3,Weight
+Neverland,Objects,7,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,110,20,13 00,19,Card: Total Eclipse
+Neverland,Objects,7,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,112,22,03 00,3,Weight
+Neverland,Objects,8,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,114,24,14 00,20,Card: Midnight Roar
+Neverland,Objects,8,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,116,26,03 00,3,Weight
+Neverland,Objects,9,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,118,28,15 00,21,Card: Maverick Flare
+Neverland,Objects,9,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,11A,2A,03 00,3,Weight
+Neverland,Objects,10,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,11C,2C,16 00,22,Card: Two Become One
+Neverland,Objects,10,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,11E,2E,03 00,3,Weight
+Neverland,Objects,11,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,120,30,17 00,23,Card: Bond of Flame
+Neverland,Objects,11,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,122,32,03 00,3,Weight
+Neverland,Objects,12,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,124,34,19 00,25,Card: Fire
+Neverland,Objects,12,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,126,36,08 00,8,Weight
+Neverland,Objects,13,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,128,38,1B 00,27,Card: Thunder
+Neverland,Objects,13,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,12A,3A,0A 00,10,Weight
+Neverland,Objects,14,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,12C,3C,1D 00,29,Card: Gravity
+Neverland,Objects,14,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,12E,3E,0A 00,10,Weight
+Neverland,Objects,15,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,130,40,1E 00,30,Card: Stop
+Neverland,Objects,15,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,132,42,05 00,5,Weight
+Neverland,Objects,16,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,134,44,1F 00,31,Card: Aero
+Neverland,Objects,16,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,136,46,14 00,20,Weight
+Neverland,Objects,17,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,138,48,26 00,38,Card: Tinker Bell
+Neverland,Objects,17,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,13A,4A,0A 00,10,Weight
+Neverland,Chests,-,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,13C,4C,0F 00,15,Number of Cards
+Neverland,Chests,1,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,13E,4E,04 00,4,Card: Fairy Harp
+Neverland,Chests,1,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,140,50,46 00,70,Weight
+Neverland,Chests,2,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,142,52,06 00,6,Card: Spellbinder
+Neverland,Chests,2,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,144,54,05 00,5,Weight
+Neverland,Chests,3,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,146,56,09 00,9,Card: Lionheart
+Neverland,Chests,3,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,148,58,05 00,5,Weight
+Neverland,Chests,4,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,14A,5A,0E 00,14,Card: Ultima Weapon
+Neverland,Chests,4,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,14C,5C,05 00,5,Weight
+Neverland,Chests,5,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,14E,5E,14 00,20,Card: Midnight Roar
+Neverland,Chests,5,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,150,60,05 00,5,Weight
+Neverland,Chests,6,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,152,62,16 00,22,Card: Two Become One
+Neverland,Chests,6,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,154,64,05 00,5,Weight
+Neverland,Chests,7,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,156,66,17 00,23,Card: Bond of Flame
+Neverland,Chests,7,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,158,68,05 00,5,Weight
+Neverland,Chests,8,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,15A,6A,19 00,25,Card: Fire
+Neverland,Chests,8,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,15C,6C,05 00,5,Weight
+Neverland,Chests,9,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,15E,6E,1A 00,26,Card: Blizzard
+Neverland,Chests,9,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,160,70,0A 00,10,Weight
+Neverland,Chests,10,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,162,72,1B 00,27,Card: Thunder
+Neverland,Chests,10,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,164,74,0A 00,10,Weight
+Neverland,Chests,11,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,166,76,1C 00,28,Card: Cure
+Neverland,Chests,11,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,168,78,0A 00,10,Weight
+Neverland,Chests,12,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,16A,7A,1D 00,29,Card: Gravity
+Neverland,Chests,12,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,16C,7C,0F 00,15,Weight
+Neverland,Chests,13,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,16E,7E,1F 00,31,Card: Aero
+Neverland,Chests,13,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,170,80,14 00,20,Weight
+Neverland,Chests,14,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,172,82,26 00,38,Card: Tinker Bell
+Neverland,Chests,14,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,174,84,0A 00,10,Weight
+Neverland,Chests,15,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,176,86,29 00,41,Card: Potion
+Neverland,Chests,15,WORLD/0208/WO0208.BIN,AtkCardDrop.bin,178,88,0A 00,10,Weight
+Hollow Bastion,Objects,-,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,F6,6,11 00,17,Number of Cards
+Hollow Bastion,Objects,1,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,F8,8,00 00,0,Card: Kingdom Key
+Hollow Bastion,Objects,1,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,FA,A,14 00,20,Weight
+Hollow Bastion,Objects,2,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,FC,C,06 00,6,Card: Spellbinder
+Hollow Bastion,Objects,2,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,FE,E,02 00,2,Weight
+Hollow Bastion,Objects,3,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,100,10,08 00,8,Card: Olympia
+Hollow Bastion,Objects,3,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,102,12,0A 00,10,Weight
+Hollow Bastion,Objects,4,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,104,14,0B 00,11,Card: Divine Rose
+Hollow Bastion,Objects,4,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,106,16,46 00,70,Weight
+Hollow Bastion,Objects,5,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,108,18,0E 00,14,Card: Ultima Weapon
+Hollow Bastion,Objects,5,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,10A,1A,03 00,3,Weight
+Hollow Bastion,Objects,6,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,10C,1C,12 00,18,Card: Star Seeker
+Hollow Bastion,Objects,6,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,10E,1E,03 00,3,Weight
+Hollow Bastion,Objects,7,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,110,20,13 00,19,Card: Total Eclipse
+Hollow Bastion,Objects,7,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,112,22,03 00,3,Weight
+Hollow Bastion,Objects,8,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,114,24,14 00,20,Card: Midnight Roar
+Hollow Bastion,Objects,8,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,116,26,03 00,3,Weight
+Hollow Bastion,Objects,9,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,118,28,15 00,21,Card: Maverick Flare
+Hollow Bastion,Objects,9,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,11A,2A,03 00,3,Weight
+Hollow Bastion,Objects,10,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,11C,2C,16 00,22,Card: Two Become One
+Hollow Bastion,Objects,10,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,11E,2E,03 00,3,Weight
+Hollow Bastion,Objects,11,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,120,30,17 00,23,Card: Bond of Flame
+Hollow Bastion,Objects,11,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,122,32,03 00,3,Weight
+Hollow Bastion,Objects,12,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,124,34,1B 00,27,Card: Thunder
+Hollow Bastion,Objects,12,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,126,36,19 00,25,Weight
+Hollow Bastion,Objects,13,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,128,38,1D 00,29,Card: Gravity
+Hollow Bastion,Objects,13,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,12A,3A,05 00,5,Weight
+Hollow Bastion,Objects,14,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,12C,3C,1E 00,30,Card: Stop
+Hollow Bastion,Objects,14,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,12E,3E,06 00,6,Weight
+Hollow Bastion,Objects,15,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,130,40,1F 00,31,Card: Aero
+Hollow Bastion,Objects,15,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,132,42,0F 00,15,Weight
+Hollow Bastion,Objects,16,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,134,44,27 00,39,Card: Mushu
+Hollow Bastion,Objects,16,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,136,46,0A 00,10,Weight
+Hollow Bastion,Objects,17,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,138,48,28 00,40,Card: Cloud
+Hollow Bastion,Objects,17,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,13A,4A,0A 00,10,Weight
+Hollow Bastion,Chests,-,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,13C,4C,0C 00,12,Number of Cards
+Hollow Bastion,Chests,1,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,13E,4E,06 00,6,Card: Spellbinder
+Hollow Bastion,Chests,1,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,140,50,05 00,5,Weight
+Hollow Bastion,Chests,2,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,142,52,09 00,9,Card: Lionheart
+Hollow Bastion,Chests,2,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,144,54,05 00,5,Weight
+Hollow Bastion,Chests,3,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,146,56,0B 00,11,Card: Divine Rose
+Hollow Bastion,Chests,3,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,148,58,64 00,100,Weight
+Hollow Bastion,Chests,4,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,14A,5A,0E 00,14,Card: Ultima Weapon
+Hollow Bastion,Chests,4,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,14C,5C,05 00,5,Weight
+Hollow Bastion,Chests,5,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,14E,5E,13 00,19,Card: Total Eclipse
+Hollow Bastion,Chests,5,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,150,60,05 00,5,Weight
+Hollow Bastion,Chests,6,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,152,62,16 00,22,Card: Two Become One
+Hollow Bastion,Chests,6,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,154,64,05 00,5,Weight
+Hollow Bastion,Chests,7,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,156,66,1B 00,27,Card: Thunder
+Hollow Bastion,Chests,7,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,158,68,0F 00,15,Weight
+Hollow Bastion,Chests,8,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,15A,6A,1D 00,29,Card: Gravity
+Hollow Bastion,Chests,8,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,15C,6C,0A 00,10,Weight
+Hollow Bastion,Chests,9,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,15E,6E,1E 00,30,Card: Stop
+Hollow Bastion,Chests,9,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,160,70,0A 00,10,Weight
+Hollow Bastion,Chests,10,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,162,72,1F 00,31,Card: Aero
+Hollow Bastion,Chests,10,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,164,74,0C 00,12,Weight
+Hollow Bastion,Chests,11,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,166,76,27 00,39,Card: Mushu
+Hollow Bastion,Chests,11,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,168,78,0F 00,15,Weight
+Hollow Bastion,Chests,12,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,16A,7A,2C 00,44,Card: Ether
+Hollow Bastion,Chests,12,WORLD/0209/WO0209.BIN,AtkCardDrop.bin,16C,7C,05 00,5,Weight
+100 Acre Wood,Objects,-,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,B6,6,09 00,9,Number of Cards
+100 Acre Wood,Objects,1,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,B8,8,00 00,0,Card: Kingdom Key
+100 Acre Wood,Objects,1,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,BA,A,64 00,100,Weight
+100 Acre Wood,Objects,2,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,BC,C,0E 00,14,Card: Ultima Weapon
+100 Acre Wood,Objects,2,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,BE,E,03 00,3,Weight
+100 Acre Wood,Objects,3,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,C0,10,12 00,18,Card: Star Seeker
+100 Acre Wood,Objects,3,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,C2,12,03 00,3,Weight
+100 Acre Wood,Objects,4,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,C4,14,13 00,19,Card: Total Eclipse
+100 Acre Wood,Objects,4,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,C6,16,03 00,3,Weight
+100 Acre Wood,Objects,5,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,C8,18,14 00,20,Card: Midnight Roar
+100 Acre Wood,Objects,5,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,CA,1A,03 00,3,Weight
+100 Acre Wood,Objects,6,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,CC,1C,15 00,21,Card: Maverick Flare
+100 Acre Wood,Objects,6,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,CE,1E,03 00,3,Weight
+100 Acre Wood,Objects,7,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,D0,20,16 00,22,Card: Two Become One
+100 Acre Wood,Objects,7,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,D2,22,03 00,3,Weight
+100 Acre Wood,Objects,8,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,D4,24,17 00,23,Card: Bond of Flame
+100 Acre Wood,Objects,8,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,D6,26,03 00,3,Weight
+100 Acre Wood,Objects,9,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,D8,28,19 00,25,Card: Fire
+100 Acre Wood,Objects,9,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,DA,2A,0F 00,15,Weight
+100 Acre Wood,Chests,-,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,DC,2C,01 00,1,Number of Cards
+100 Acre Wood,Chests,1,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,DE,2E,06 00,6,Card: Spellbinder
+100 Acre Wood,Chests,1,WORLD/0210/WO0210.BIN,AtkCardDrop.bin,E0,30,64 00,100,Weight
+Twilight Town,Objects,-,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,F6,6,1D 00,29,Number of Cards
+Twilight Town,Objects,1,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,F8,8,00 00,0,Card: Kingdom Key
+Twilight Town,Objects,1,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,FA,A,28 00,40,Weight
+Twilight Town,Objects,2,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,FC,C,06 00,6,Card: Spellbinder
+Twilight Town,Objects,2,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,FE,E,0E 00,14,Weight
+Twilight Town,Objects,3,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,100,10,07 00,7,Card: Metal Chocobo
+Twilight Town,Objects,3,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,102,12,0B 00,11,Weight
+Twilight Town,Objects,4,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,104,14,08 00,8,Card: Olympia
+Twilight Town,Objects,4,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,106,16,28 00,40,Weight
+Twilight Town,Objects,5,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,108,18,0E 00,14,Card: Ultima Weapon
+Twilight Town,Objects,5,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,10A,1A,05 00,5,Weight
+Twilight Town,Objects,6,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,10C,1C,10 00,16,Card: One Winged Angel
+Twilight Town,Objects,6,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,10E,1E,0F 00,15,Weight
+Twilight Town,Objects,7,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,110,20,12 00,18,Card: Star Seeker
+Twilight Town,Objects,7,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,112,22,03 00,3,Weight
+Twilight Town,Objects,8,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,114,24,13 00,19,Card: Total Eclipse
+Twilight Town,Objects,8,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,116,26,03 00,3,Weight
+Twilight Town,Objects,9,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,118,28,14 00,20,Card: Midnight Roar
+Twilight Town,Objects,9,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,11A,2A,03 00,3,Weight
+Twilight Town,Objects,10,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,11C,2C,15 00,21,Card: Maverick Flare
+Twilight Town,Objects,10,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,11E,2E,03 00,3,Weight
+Twilight Town,Objects,11,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,120,30,16 00,22,Card: Two Become One
+Twilight Town,Objects,11,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,122,32,03 00,3,Weight
+Twilight Town,Objects,12,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,124,34,17 00,23,Card: Bond of Flame
+Twilight Town,Objects,12,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,126,36,03 00,3,Weight
+Twilight Town,Objects,13,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,128,38,19 00,25,Card: Fire
+Twilight Town,Objects,13,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,12A,3A,08 00,8,Weight
+Twilight Town,Objects,14,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,12C,3C,1A 00,26,Card: Blizzard
+Twilight Town,Objects,14,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,12E,3E,0A 00,10,Weight
+Twilight Town,Objects,15,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,130,40,1B 00,27,Card: Thunder
+Twilight Town,Objects,15,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,132,42,01 00,1,Weight
+Twilight Town,Objects,16,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,134,44,1C 00,28,Card: Cure
+Twilight Town,Objects,16,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,136,46,0A 00,10,Weight
+Twilight Town,Objects,17,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,138,48,1D 00,29,Card: Gravity
+Twilight Town,Objects,17,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,13A,4A,01 00,1,Weight
+Twilight Town,Objects,18,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,13C,4C,1E 00,30,Card: Stop
+Twilight Town,Objects,18,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,13E,4E,01 00,1,Weight
+Twilight Town,Objects,19,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,140,50,1F 00,31,Card: Aero
+Twilight Town,Objects,19,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,142,52,01 00,1,Weight
+Twilight Town,Objects,20,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,144,54,22 00,34,Card: Simba
+Twilight Town,Objects,20,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,146,56,01 00,1,Weight
+Twilight Town,Objects,21,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,148,58,23 00,35,Card: Genie
+Twilight Town,Objects,21,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,14A,5A,01 00,1,Weight
+Twilight Town,Objects,22,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,14C,5C,24 00,36,Card: Bambi
+Twilight Town,Objects,22,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,14E,5E,01 00,1,Weight
+Twilight Town,Objects,23,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,150,60,25 00,37,Card: Dumbo
+Twilight Town,Objects,23,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,152,62,01 00,1,Weight
+Twilight Town,Objects,24,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,154,64,26 00,38,Card: Tinker Bell
+Twilight Town,Objects,24,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,156,66,01 00,1,Weight
+Twilight Town,Objects,25,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,158,68,27 00,39,Card: Mushu
+Twilight Town,Objects,25,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,15A,6A,01 00,1,Weight
+Twilight Town,Objects,26,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,15C,6C,28 00,40,Card: Cloud
+Twilight Town,Objects,26,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,15E,6E,01 00,1,Weight
+Twilight Town,Objects,27,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,160,70,2C 00,44,Card: Ether
+Twilight Town,Objects,27,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,162,72,03 00,3,Weight
+Twilight Town,Objects,28,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,164,74,2D 00,45,Card: Mega-Ether
+Twilight Town,Objects,28,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,166,76,05 00,5,Weight
+Twilight Town,Objects,29,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,168,78,2E 00,46,Card: Elixir
+Twilight Town,Objects,29,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,16A,7A,05 00,5,Weight
+Twilight Town,Chests,-,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,16C,7C,10 00,16,Number of Cards
+Twilight Town,Chests,1,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,16E,7E,06 00,6,Card: Spellbinder
+Twilight Town,Chests,1,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,170,80,05 00,5,Weight
+Twilight Town,Chests,2,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,172,82,09 00,9,Card: Lionheart
+Twilight Town,Chests,2,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,174,84,05 00,5,Weight
+Twilight Town,Chests,3,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,176,86,0E 00,14,Card: Ultima Weapon
+Twilight Town,Chests,3,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,178,88,05 00,5,Weight
+Twilight Town,Chests,4,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,17A,8A,10 00,16,Card: One Winged Angel
+Twilight Town,Chests,4,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,17C,8C,0F 00,15,Weight
+Twilight Town,Chests,5,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,17E,8E,12 00,18,Card: Star Seeker
+Twilight Town,Chests,5,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,180,90,05 00,5,Weight
+Twilight Town,Chests,6,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,182,92,13 00,19,Card: Total Eclipse
+Twilight Town,Chests,6,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,184,94,05 00,5,Weight
+Twilight Town,Chests,7,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,186,96,14 00,20,Card: Midnight Roar
+Twilight Town,Chests,7,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,188,98,05 00,5,Weight
+Twilight Town,Chests,8,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,18A,9A,15 00,21,Card: Maverick Flare
+Twilight Town,Chests,8,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,18C,9C,05 00,5,Weight
+Twilight Town,Chests,9,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,18E,9E,16 00,22,Card: Two Become One
+Twilight Town,Chests,9,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,190,A0,05 00,5,Weight
+Twilight Town,Chests,10,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,192,A2,17 00,23,Card: Bond of Flame
+Twilight Town,Chests,10,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,194,A4,05 00,5,Weight
+Twilight Town,Chests,11,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,196,A6,19 00,25,Card: Fire
+Twilight Town,Chests,11,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,198,A8,0A 00,10,Weight
+Twilight Town,Chests,12,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,19A,AA,1A 00,26,Card: Blizzard
+Twilight Town,Chests,12,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,19C,AC,3C 00,60,Weight
+Twilight Town,Chests,13,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,19E,AE,1B 00,27,Card: Thunder
+Twilight Town,Chests,13,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,1A0,B0,0A 00,10,Weight
+Twilight Town,Chests,14,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,1A2,B2,1C 00,28,Card: Cure
+Twilight Town,Chests,14,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,1A4,B4,28 00,40,Weight
+Twilight Town,Chests,15,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,1A6,B6,24 00,36,Card: Bambi
+Twilight Town,Chests,15,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,1A8,B8,05 00,5,Weight
+Twilight Town,Chests,16,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,1AA,BA,2B 00,43,Card: Mega-Potion
+Twilight Town,Chests,16,WORLD/0211/WO0211.BIN,AtkCardDrop.bin,1AC,BC,05 00,5,Weight
+Destiny Islands,Objects,-,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,E6,6,13 00,19,Number of Cards
+Destiny Islands,Objects,1,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,E8,8,00 00,0,Card: Kingdom Key
+Destiny Islands,Objects,1,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,EA,A,3C 00,60,Weight
+Destiny Islands,Objects,2,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,EC,C,0C 00,12,Card: Oathkeeper
+Destiny Islands,Objects,2,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,EE,E,0A 00,10,Weight
+Destiny Islands,Objects,3,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,F0,10,0D 00,13,Card: Oblivion
+Destiny Islands,Objects,3,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,F2,12,0A 00,10,Weight
+Destiny Islands,Objects,4,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,F4,14,0E 00,14,Card: Ultima Weapon
+Destiny Islands,Objects,4,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,F6,16,03 00,3,Weight
+Destiny Islands,Objects,5,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,F8,18,12 00,18,Card: Star Seeker
+Destiny Islands,Objects,5,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,FA,1A,03 00,3,Weight
+Destiny Islands,Objects,6,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,FC,1C,13 00,19,Card: Total Eclipse
+Destiny Islands,Objects,6,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,FE,1E,03 00,3,Weight
+Destiny Islands,Objects,7,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,100,20,14 00,20,Card: Midnight Roar
+Destiny Islands,Objects,7,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,102,22,03 00,3,Weight
+Destiny Islands,Objects,8,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,104,24,15 00,21,Card: Maverick Flare
+Destiny Islands,Objects,8,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,106,26,03 00,3,Weight
+Destiny Islands,Objects,9,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,108,28,16 00,22,Card: Two Become One
+Destiny Islands,Objects,9,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,10A,2A,03 00,3,Weight
+Destiny Islands,Objects,10,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,10C,2C,17 00,23,Card: Bond of Flame
+Destiny Islands,Objects,10,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,10E,2E,03 00,3,Weight
+Destiny Islands,Objects,11,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,110,30,19 00,25,Card: Fire
+Destiny Islands,Objects,11,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,112,32,08 00,8,Weight
+Destiny Islands,Objects,12,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,114,34,1A 00,26,Card: Blizzard
+Destiny Islands,Objects,12,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,116,36,28 00,40,Weight
+Destiny Islands,Objects,13,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,118,38,1B 00,27,Card: Thunder
+Destiny Islands,Objects,13,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,11A,3A,0C 00,12,Weight
+Destiny Islands,Objects,14,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,11C,3C,1D 00,29,Card: Gravity
+Destiny Islands,Objects,14,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,11E,3E,04 00,4,Weight
+Destiny Islands,Objects,15,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,120,40,1E 00,30,Card: Stop
+Destiny Islands,Objects,15,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,122,42,04 00,4,Weight
+Destiny Islands,Objects,16,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,124,44,1F 00,31,Card: Aero
+Destiny Islands,Objects,16,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,126,46,04 00,4,Weight
+Destiny Islands,Objects,17,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,128,48,2B 00,43,Card: Mega-Potion
+Destiny Islands,Objects,17,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,12A,4A,03 00,3,Weight
+Destiny Islands,Objects,18,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,12C,4C,2D 00,45,Card: Mega-Ether
+Destiny Islands,Objects,18,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,12E,4E,03 00,3,Weight
+Destiny Islands,Objects,19,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,130,50,2F 00,47,Card: Megalixir
+Destiny Islands,Objects,19,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,132,52,03 00,3,Weight
+Destiny Islands,Chests,-,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,134,54,0F 00,15,Number of Cards
+Destiny Islands,Chests,1,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,136,56,0C 00,12,Card: Oathkeeper
+Destiny Islands,Chests,1,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,138,58,14 00,20,Weight
+Destiny Islands,Chests,2,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,13A,5A,0D 00,13,Card: Oblivion
+Destiny Islands,Chests,2,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,13C,5C,14 00,20,Weight
+Destiny Islands,Chests,3,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,13E,5E,0E 00,14,Card: Ultima Weapon
+Destiny Islands,Chests,3,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,140,60,05 00,5,Weight
+Destiny Islands,Chests,4,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,142,62,12 00,18,Card: Star Seeker
+Destiny Islands,Chests,4,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,144,64,05 00,5,Weight
+Destiny Islands,Chests,5,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,146,66,13 00,19,Card: Total Eclipse
+Destiny Islands,Chests,5,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,148,68,05 00,5,Weight
+Destiny Islands,Chests,6,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,14A,6A,14 00,20,Card: Midnight Roar
+Destiny Islands,Chests,6,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,14C,6C,05 00,5,Weight
+Destiny Islands,Chests,7,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,14E,6E,15 00,21,Card: Maverick Flare
+Destiny Islands,Chests,7,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,150,70,05 00,5,Weight
+Destiny Islands,Chests,8,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,152,72,16 00,22,Card: Two Become One
+Destiny Islands,Chests,8,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,154,74,05 00,5,Weight
+Destiny Islands,Chests,9,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,156,76,17 00,23,Card: Bond of Flame
+Destiny Islands,Chests,9,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,158,78,05 00,5,Weight
+Destiny Islands,Chests,10,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,15A,7A,1C 00,28,Card: Cure
+Destiny Islands,Chests,10,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,15C,7C,64 00,100,Weight
+Destiny Islands,Chests,11,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,15E,7E,1D 00,29,Card: Gravity
+Destiny Islands,Chests,11,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,160,80,05 00,5,Weight
+Destiny Islands,Chests,12,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,162,82,1E 00,30,Card: Stop
+Destiny Islands,Chests,12,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,164,84,05 00,5,Weight
+Destiny Islands,Chests,13,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,166,86,1F 00,31,Card: Aero
+Destiny Islands,Chests,13,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,168,88,05 00,5,Weight
+Destiny Islands,Chests,14,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,16A,8A,2D 00,45,Card: Mega-Ether
+Destiny Islands,Chests,14,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,16C,8C,05 00,5,Weight
+Destiny Islands,Chests,15,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,16E,8E,2E 00,46,Card: Elixir
+Destiny Islands,Chests,15,WORLD/0212/WO0212.BIN,AtkCardDrop.bin,170,90,05 00,5,Weight
+Castle Oblivion,Objects,-,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,F6,6,18 00,24,Number of Cards
+Castle Oblivion,Objects,1,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,F8,8,00 00,0,Card: Kingdom Key
+Castle Oblivion,Objects,1,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,FA,A,14 00,20,Weight
+Castle Oblivion,Objects,2,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,FC,C,05 00,5,Card: Wishing Star
+Castle Oblivion,Objects,2,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,FE,E,32 00,50,Weight
+Castle Oblivion,Objects,3,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,100,10,06 00,6,Card: Spellbinder
+Castle Oblivion,Objects,3,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,102,12,09 00,9,Weight
+Castle Oblivion,Objects,4,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,104,14,08 00,8,Card: Olympia
+Castle Oblivion,Objects,4,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,106,16,0A 00,10,Weight
+Castle Oblivion,Objects,5,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,108,18,0E 00,14,Card: Ultima Weapon
+Castle Oblivion,Objects,5,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,10A,1A,03 00,3,Weight
+Castle Oblivion,Objects,6,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,10C,1C,0F 00,15,Card: Diamond Dust
+Castle Oblivion,Objects,6,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,10E,1E,0A 00,10,Weight
+Castle Oblivion,Objects,7,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,110,20,12 00,18,Card: Star Seeker
+Castle Oblivion,Objects,7,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,112,22,03 00,3,Weight
+Castle Oblivion,Objects,8,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,114,24,13 00,19,Card: Total Eclipse
+Castle Oblivion,Objects,8,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,116,26,03 00,3,Weight
+Castle Oblivion,Objects,9,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,118,28,14 00,20,Card: Midnight Roar
+Castle Oblivion,Objects,9,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,11A,2A,03 00,3,Weight
+Castle Oblivion,Objects,10,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,11C,2C,15 00,21,Card: Maverick Flare
+Castle Oblivion,Objects,10,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,11E,2E,03 00,3,Weight
+Castle Oblivion,Objects,11,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,120,30,16 00,22,Card: Two Become One
+Castle Oblivion,Objects,11,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,122,32,03 00,3,Weight
+Castle Oblivion,Objects,12,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,124,34,17 00,23,Card: Bond of Flame
+Castle Oblivion,Objects,12,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,126,36,03 00,3,Weight
+Castle Oblivion,Objects,13,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,128,38,1C 00,28,Card: Cure
+Castle Oblivion,Objects,13,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,12A,3A,14 00,20,Weight
+Castle Oblivion,Objects,14,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,12C,3C,22 00,34,Card: Simba
+Castle Oblivion,Objects,14,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,12E,3E,04 00,4,Weight
+Castle Oblivion,Objects,15,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,130,40,23 00,35,Card: Genie
+Castle Oblivion,Objects,15,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,132,42,04 00,4,Weight
+Castle Oblivion,Objects,16,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,134,44,24 00,36,Card: Bambi
+Castle Oblivion,Objects,16,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,136,46,04 00,4,Weight
+Castle Oblivion,Objects,17,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,138,48,25 00,37,Card: Dumbo
+Castle Oblivion,Objects,17,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,13A,4A,04 00,4,Weight
+Castle Oblivion,Objects,18,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,13C,4C,26 00,38,Card: Tinker Bell
+Castle Oblivion,Objects,18,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,13E,4E,04 00,4,Weight
+Castle Oblivion,Objects,19,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,140,50,27 00,39,Card: Mushu
+Castle Oblivion,Objects,19,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,142,52,04 00,4,Weight
+Castle Oblivion,Objects,20,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,144,54,28 00,40,Card: Cloud
+Castle Oblivion,Objects,20,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,146,56,04 00,4,Weight
+Castle Oblivion,Objects,21,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,148,58,2B 00,43,Card: Mega-Potion
+Castle Oblivion,Objects,21,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,14A,5A,01 00,1,Weight
+Castle Oblivion,Objects,22,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,14C,5C,2D 00,45,Card: Mega-Ether
+Castle Oblivion,Objects,22,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,14E,5E,01 00,1,Weight
+Castle Oblivion,Objects,23,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,150,60,2E 00,46,Card: Elixir
+Castle Oblivion,Objects,23,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,152,62,02 00,2,Weight
+Castle Oblivion,Objects,24,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,154,64,2F 00,47,Card: Megalixir
+Castle Oblivion,Objects,24,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,156,66,04 00,4,Weight
+Castle Oblivion,Chests,-,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,158,68,15 00,21,Number of Cards
+Castle Oblivion,Chests,1,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,15A,6A,06 00,6,Card: Spellbinder
+Castle Oblivion,Chests,1,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,15C,6C,05 00,5,Weight
+Castle Oblivion,Chests,2,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,15E,6E,07 00,7,Card: Metal Chocobo
+Castle Oblivion,Chests,2,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,160,70,05 00,5,Weight
+Castle Oblivion,Chests,3,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,162,72,09 00,9,Card: Lionheart
+Castle Oblivion,Chests,3,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,164,74,05 00,5,Weight
+Castle Oblivion,Chests,4,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,166,76,0E 00,14,Card: Ultima Weapon
+Castle Oblivion,Chests,4,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,168,78,05 00,5,Weight
+Castle Oblivion,Chests,5,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,16A,7A,0F 00,15,Card: Diamond Dust
+Castle Oblivion,Chests,5,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,16C,7C,0A 00,10,Weight
+Castle Oblivion,Chests,6,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,16E,7E,12 00,18,Card: Star Seeker
+Castle Oblivion,Chests,6,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,170,80,05 00,5,Weight
+Castle Oblivion,Chests,7,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,172,82,13 00,19,Card: Total Eclipse
+Castle Oblivion,Chests,7,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,174,84,05 00,5,Weight
+Castle Oblivion,Chests,8,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,176,86,14 00,20,Card: Midnight Roar
+Castle Oblivion,Chests,8,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,178,88,05 00,5,Weight
+Castle Oblivion,Chests,9,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,17A,8A,15 00,21,Card: Maverick Flare
+Castle Oblivion,Chests,9,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,17C,8C,05 00,5,Weight
+Castle Oblivion,Chests,10,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,17E,8E,16 00,22,Card: Two Become One
+Castle Oblivion,Chests,10,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,180,90,05 00,5,Weight
+Castle Oblivion,Chests,11,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,182,92,17 00,23,Card: Bond of Flame
+Castle Oblivion,Chests,11,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,184,94,05 00,5,Weight
+Castle Oblivion,Chests,12,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,186,96,19 00,25,Card: Fire
+Castle Oblivion,Chests,12,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,188,98,05 00,5,Weight
+Castle Oblivion,Chests,13,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,18A,9A,1A 00,26,Card: Blizzard
+Castle Oblivion,Chests,13,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,18C,9C,64 00,100,Weight
+Castle Oblivion,Chests,14,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,18E,9E,1B 00,27,Card: Thunder
+Castle Oblivion,Chests,14,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,190,A0,05 00,5,Weight
+Castle Oblivion,Chests,15,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,192,A2,1D 00,29,Card: Gravity
+Castle Oblivion,Chests,15,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,194,A4,02 00,2,Weight
+Castle Oblivion,Chests,16,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,196,A6,1E 00,30,Card: Stop
+Castle Oblivion,Chests,16,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,198,A8,02 00,2,Weight
+Castle Oblivion,Chests,17,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,19A,AA,1F 00,31,Card: Aero
+Castle Oblivion,Chests,17,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,19C,AC,05 00,5,Weight
+Castle Oblivion,Chests,18,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,19E,AE,2B 00,43,Card: Mega-Potion
+Castle Oblivion,Chests,18,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,1A0,B0,05 00,5,Weight
+Castle Oblivion,Chests,19,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,1A2,B2,2D 00,45,Card: Mega-Ether
+Castle Oblivion,Chests,19,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,1A4,B4,06 00,6,Weight
+Castle Oblivion,Chests,20,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,1A6,B6,2E 00,46,Card: Elixir
+Castle Oblivion,Chests,20,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,1A8,B8,03 00,3,Weight
+Castle Oblivion,Chests,21,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,1AA,BA,2F 00,47,Card: Megalixir
+Castle Oblivion,Chests,21,WORLD/0213/WO0213.BIN,AtkCardDrop.bin,1AC,BC,02 00,2,Weight

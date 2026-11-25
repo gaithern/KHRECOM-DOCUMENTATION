@@ -1,0 +1,402 @@
+World,Slot,File,Sub-File,Offset,Sub-File Offset,Value (HEX),Value,Notes
+Traverse Town,-,WORLD/0201/WO0201.BIN,MapCardDrop.bin,126,6,0D 00,13,Number of Map Cards
+Traverse Town,1,WORLD/0201/WO0201.BIN,MapCardDrop.bin,128,8,00 00,0,Map Card: Tranquil Darkness
+Traverse Town,1,WORLD/0201/WO0201.BIN,MapCardDrop.bin,12A,A,0A 00,10,Weight
+Traverse Town,2,WORLD/0201/WO0201.BIN,MapCardDrop.bin,12C,C,01 00,1,Map Card: Teeming Darkness
+Traverse Town,2,WORLD/0201/WO0201.BIN,MapCardDrop.bin,12E,E,0A 00,10,Weight
+Traverse Town,3,WORLD/0201/WO0201.BIN,MapCardDrop.bin,130,10,02 00,2,Map Card: Feeble Darkness
+Traverse Town,3,WORLD/0201/WO0201.BIN,MapCardDrop.bin,132,12,0A 00,10,Weight
+Traverse Town,4,WORLD/0201/WO0201.BIN,MapCardDrop.bin,134,14,04 00,4,Map Card: Sleeping Darkness
+Traverse Town,4,WORLD/0201/WO0201.BIN,MapCardDrop.bin,136,16,0A 00,10,Weight
+Traverse Town,5,WORLD/0201/WO0201.BIN,MapCardDrop.bin,138,18,06 00,6,Map Card: Premium Room
+Traverse Town,5,WORLD/0201/WO0201.BIN,MapCardDrop.bin,13A,1A,05 00,5,Weight
+Traverse Town,6,WORLD/0201/WO0201.BIN,MapCardDrop.bin,13C,1C,08 00,8,Map Card: Black Room
+Traverse Town,6,WORLD/0201/WO0201.BIN,MapCardDrop.bin,13E,1E,05 00,5,Weight
+Traverse Town,7,WORLD/0201/WO0201.BIN,MapCardDrop.bin,140,20,0B 00,11,Map Card: Martial Waking
+Traverse Town,7,WORLD/0201/WO0201.BIN,MapCardDrop.bin,142,22,05 00,5,Weight
+Traverse Town,8,WORLD/0201/WO0201.BIN,MapCardDrop.bin,144,24,0C 00,12,Map Card: Sorcerous Waking
+Traverse Town,8,WORLD/0201/WO0201.BIN,MapCardDrop.bin,146,26,04 00,4,Weight
+Traverse Town,9,WORLD/0201/WO0201.BIN,MapCardDrop.bin,148,28,0D 00,13,Map Card: Alchemic Waking
+Traverse Town,9,WORLD/0201/WO0201.BIN,MapCardDrop.bin,14A,2A,04 00,4,Weight
+Traverse Town,10,WORLD/0201/WO0201.BIN,MapCardDrop.bin,14C,2C,0E 00,14,Map Card: Meeting Ground
+Traverse Town,10,WORLD/0201/WO0201.BIN,MapCardDrop.bin,14E,2E,11 00,17,Weight
+Traverse Town,11,WORLD/0201/WO0201.BIN,MapCardDrop.bin,150,30,0F 00,15,Map Card: Stagnant Space
+Traverse Town,11,WORLD/0201/WO0201.BIN,MapCardDrop.bin,152,32,0A 00,10,Weight
+Traverse Town,12,WORLD/0201/WO0201.BIN,MapCardDrop.bin,154,34,10 00,16,Map Card: Strong Initiative
+Traverse Town,12,WORLD/0201/WO0201.BIN,MapCardDrop.bin,156,36,05 00,5,Weight
+Traverse Town,13,WORLD/0201/WO0201.BIN,MapCardDrop.bin,158,38,11 00,17,Map Card: Lasting Daze
+Traverse Town,13,WORLD/0201/WO0201.BIN,MapCardDrop.bin,15A,3A,05 00,5,Weight
+Traverse Town,-,WORLD/0201/WO0201.BIN,MapCardDrop.bin,15C,3C,00 00,0,Random Joker Rate
+Traverse Town,-,WORLD/0201/WO0201.BIN,MapCardDrop.bin,15E,3E,00 00,0,Key to Rewards Rate
+Agrabah,-,WORLD/0202/WO0202.BIN,MapCardDrop.bin,A6,6,0D 00,13,Number of Map Cards
+Agrabah,1,WORLD/0202/WO0202.BIN,MapCardDrop.bin,A8,8,00 00,0,Map Card: Tranquil Darkness
+Agrabah,1,WORLD/0202/WO0202.BIN,MapCardDrop.bin,AA,A,06 00,6,Weight
+Agrabah,2,WORLD/0202/WO0202.BIN,MapCardDrop.bin,AC,C,01 00,1,Map Card: Teeming Darkness
+Agrabah,2,WORLD/0202/WO0202.BIN,MapCardDrop.bin,AE,E,04 00,4,Weight
+Agrabah,3,WORLD/0202/WO0202.BIN,MapCardDrop.bin,B0,10,02 00,2,Map Card: Feeble Darkness
+Agrabah,3,WORLD/0202/WO0202.BIN,MapCardDrop.bin,B2,12,04 00,4,Weight
+Agrabah,4,WORLD/0202/WO0202.BIN,MapCardDrop.bin,B4,14,05 00,5,Map Card: Looming Darkness
+Agrabah,4,WORLD/0202/WO0202.BIN,MapCardDrop.bin,B6,16,02 00,2,Weight
+Agrabah,5,WORLD/0202/WO0202.BIN,MapCardDrop.bin,B8,18,06 00,6,Map Card: Premium Room
+Agrabah,5,WORLD/0202/WO0202.BIN,MapCardDrop.bin,BA,1A,07 00,7,Weight
+Agrabah,6,WORLD/0202/WO0202.BIN,MapCardDrop.bin,BC,1C,0A 00,10,Map Card: Roulette Room
+Agrabah,6,WORLD/0202/WO0202.BIN,MapCardDrop.bin,BE,1E,0A 00,10,Weight
+Agrabah,7,WORLD/0202/WO0202.BIN,MapCardDrop.bin,C0,20,0C 00,12,Map Card: Sorcerous Waking
+Agrabah,7,WORLD/0202/WO0202.BIN,MapCardDrop.bin,C2,22,0A 00,10,Weight
+Agrabah,8,WORLD/0202/WO0202.BIN,MapCardDrop.bin,C4,24,0E 00,14,Map Card: Meeting Ground
+Agrabah,8,WORLD/0202/WO0202.BIN,MapCardDrop.bin,C6,26,0A 00,10,Weight
+Agrabah,9,WORLD/0202/WO0202.BIN,MapCardDrop.bin,C8,28,10 00,16,Map Card: Strong Initiative
+Agrabah,9,WORLD/0202/WO0202.BIN,MapCardDrop.bin,CA,2A,05 00,5,Weight
+Agrabah,10,WORLD/0202/WO0202.BIN,MapCardDrop.bin,CC,2C,11 00,17,Map Card: Lasting Daze
+Agrabah,10,WORLD/0202/WO0202.BIN,MapCardDrop.bin,CE,2E,05 00,5,Weight
+Agrabah,11,WORLD/0202/WO0202.BIN,MapCardDrop.bin,D0,30,12 00,18,Map Card: Calm Bounty
+Agrabah,11,WORLD/0202/WO0202.BIN,MapCardDrop.bin,D2,32,0F 00,15,Weight
+Agrabah,12,WORLD/0202/WO0202.BIN,MapCardDrop.bin,D4,34,15 00,21,Map Card: Moment's Reprieve
+Agrabah,12,WORLD/0202/WO0202.BIN,MapCardDrop.bin,D6,36,0C 00,12,Weight
+Agrabah,13,WORLD/0202/WO0202.BIN,MapCardDrop.bin,D8,38,17 00,23,Map Card: Moogle Room
+Agrabah,13,WORLD/0202/WO0202.BIN,MapCardDrop.bin,DA,3A,0A 00,10,Weight
+Agrabah,-,WORLD/0202/WO0202.BIN,MapCardDrop.bin,DC,3C,04 00,4,Random Joker Rate
+Agrabah,-,WORLD/0202/WO0202.BIN,MapCardDrop.bin,DE,3E,00 00,0,Key to Rewards Rate
+Olympus Coliseum,-,WORLD/0203/WO0203.BIN,MapCardDrop.bin,A6,6,12 00,18,Number of Map Cards
+Olympus Coliseum,1,WORLD/0203/WO0203.BIN,MapCardDrop.bin,A8,8,01 00,1,Map Card: Teeming Darkness
+Olympus Coliseum,1,WORLD/0203/WO0203.BIN,MapCardDrop.bin,AA,A,04 00,4,Weight
+Olympus Coliseum,2,WORLD/0203/WO0203.BIN,MapCardDrop.bin,AC,C,02 00,2,Map Card: Feeble Darkness
+Olympus Coliseum,2,WORLD/0203/WO0203.BIN,MapCardDrop.bin,AE,E,02 00,2,Weight
+Olympus Coliseum,3,WORLD/0203/WO0203.BIN,MapCardDrop.bin,B0,10,03 00,3,Map Card: Almighty Darkness
+Olympus Coliseum,3,WORLD/0203/WO0203.BIN,MapCardDrop.bin,B2,12,02 00,2,Weight
+Olympus Coliseum,4,WORLD/0203/WO0203.BIN,MapCardDrop.bin,B4,14,04 00,4,Map Card: Sleeping Darkness
+Olympus Coliseum,4,WORLD/0203/WO0203.BIN,MapCardDrop.bin,B6,16,05 00,5,Weight
+Olympus Coliseum,5,WORLD/0203/WO0203.BIN,MapCardDrop.bin,B8,18,05 00,5,Map Card: Looming Darkness
+Olympus Coliseum,5,WORLD/0203/WO0203.BIN,MapCardDrop.bin,BA,1A,02 00,2,Weight
+Olympus Coliseum,6,WORLD/0203/WO0203.BIN,MapCardDrop.bin,BC,1C,06 00,6,Map Card: Premium Room
+Olympus Coliseum,6,WORLD/0203/WO0203.BIN,MapCardDrop.bin,BE,1E,02 00,2,Weight
+Olympus Coliseum,7,WORLD/0203/WO0203.BIN,MapCardDrop.bin,C0,20,07 00,7,Map Card: White Room
+Olympus Coliseum,7,WORLD/0203/WO0203.BIN,MapCardDrop.bin,C2,22,02 00,2,Weight
+Olympus Coliseum,8,WORLD/0203/WO0203.BIN,MapCardDrop.bin,C4,24,08 00,8,Map Card: Black Room
+Olympus Coliseum,8,WORLD/0203/WO0203.BIN,MapCardDrop.bin,C6,26,04 00,4,Weight
+Olympus Coliseum,9,WORLD/0203/WO0203.BIN,MapCardDrop.bin,C8,28,0A 00,10,Map Card: Roulette Room
+Olympus Coliseum,9,WORLD/0203/WO0203.BIN,MapCardDrop.bin,CA,2A,06 00,6,Weight
+Olympus Coliseum,10,WORLD/0203/WO0203.BIN,MapCardDrop.bin,CC,2C,0B 00,11,Map Card: Martial Waking
+Olympus Coliseum,10,WORLD/0203/WO0203.BIN,MapCardDrop.bin,CE,2E,11 00,17,Weight
+Olympus Coliseum,11,WORLD/0203/WO0203.BIN,MapCardDrop.bin,D0,30,0C 00,12,Map Card: Sorcerous Waking
+Olympus Coliseum,11,WORLD/0203/WO0203.BIN,MapCardDrop.bin,D2,32,05 00,5,Weight
+Olympus Coliseum,12,WORLD/0203/WO0203.BIN,MapCardDrop.bin,D4,34,0E 00,14,Map Card: Meeting Ground
+Olympus Coliseum,12,WORLD/0203/WO0203.BIN,MapCardDrop.bin,D6,36,05 00,5,Weight
+Olympus Coliseum,13,WORLD/0203/WO0203.BIN,MapCardDrop.bin,D8,38,0F 00,15,Map Card: Stagnant Space
+Olympus Coliseum,13,WORLD/0203/WO0203.BIN,MapCardDrop.bin,DA,3A,05 00,5,Weight
+Olympus Coliseum,14,WORLD/0203/WO0203.BIN,MapCardDrop.bin,DC,3C,10 00,16,Map Card: Strong Initiative
+Olympus Coliseum,14,WORLD/0203/WO0203.BIN,MapCardDrop.bin,DE,3E,05 00,5,Weight
+Olympus Coliseum,15,WORLD/0203/WO0203.BIN,MapCardDrop.bin,E0,40,11 00,17,Map Card: Lasting Daze
+Olympus Coliseum,15,WORLD/0203/WO0203.BIN,MapCardDrop.bin,E2,42,05 00,5,Weight
+Olympus Coliseum,16,WORLD/0203/WO0203.BIN,MapCardDrop.bin,E4,44,12 00,18,Map Card: Calm Bounty
+Olympus Coliseum,16,WORLD/0203/WO0203.BIN,MapCardDrop.bin,E6,46,0C 00,12,Weight
+Olympus Coliseum,17,WORLD/0203/WO0203.BIN,MapCardDrop.bin,E8,48,15 00,21,Map Card: Moment's Reprieve
+Olympus Coliseum,17,WORLD/0203/WO0203.BIN,MapCardDrop.bin,EA,4A,0A 00,10,Weight
+Olympus Coliseum,18,WORLD/0203/WO0203.BIN,MapCardDrop.bin,EC,4C,17 00,23,Map Card: Moogle Room
+Olympus Coliseum,18,WORLD/0203/WO0203.BIN,MapCardDrop.bin,EE,4E,07 00,7,Weight
+Olympus Coliseum,-,WORLD/0203/WO0203.BIN,MapCardDrop.bin,F0,50,04 00,4,Random Joker Rate
+Olympus Coliseum,-,WORLD/0203/WO0203.BIN,MapCardDrop.bin,F2,52,00 00,0,Key to Rewards Rate
+Wonderland,-,WORLD/0204/WO0204.BIN,MapCardDrop.bin,A6,6,10 00,16,Number of Map Cards
+Wonderland,1,WORLD/0204/WO0204.BIN,MapCardDrop.bin,A8,8,00 00,0,Map Card: Tranquil Darkness
+Wonderland,1,WORLD/0204/WO0204.BIN,MapCardDrop.bin,AA,A,04 00,4,Weight
+Wonderland,2,WORLD/0204/WO0204.BIN,MapCardDrop.bin,AC,C,01 00,1,Map Card: Teeming Darkness
+Wonderland,2,WORLD/0204/WO0204.BIN,MapCardDrop.bin,AE,E,05 00,5,Weight
+Wonderland,3,WORLD/0204/WO0204.BIN,MapCardDrop.bin,B0,10,02 00,2,Map Card: Feeble Darkness
+Wonderland,3,WORLD/0204/WO0204.BIN,MapCardDrop.bin,B2,12,05 00,5,Weight
+Wonderland,4,WORLD/0204/WO0204.BIN,MapCardDrop.bin,B4,14,04 00,4,Map Card: Sleeping Darkness
+Wonderland,4,WORLD/0204/WO0204.BIN,MapCardDrop.bin,B6,16,08 00,8,Weight
+Wonderland,5,WORLD/0204/WO0204.BIN,MapCardDrop.bin,B8,18,06 00,6,Map Card: Premium Room
+Wonderland,5,WORLD/0204/WO0204.BIN,MapCardDrop.bin,BA,1A,04 00,4,Weight
+Wonderland,6,WORLD/0204/WO0204.BIN,MapCardDrop.bin,BC,1C,09 00,9,Map Card: Bottomless Darkness
+Wonderland,6,WORLD/0204/WO0204.BIN,MapCardDrop.bin,BE,1E,02 00,2,Weight
+Wonderland,7,WORLD/0204/WO0204.BIN,MapCardDrop.bin,C0,20,0A 00,10,Map Card: Roulette Room
+Wonderland,7,WORLD/0204/WO0204.BIN,MapCardDrop.bin,C2,22,08 00,8,Weight
+Wonderland,8,WORLD/0204/WO0204.BIN,MapCardDrop.bin,C4,24,0B 00,11,Map Card: Martial Waking
+Wonderland,8,WORLD/0204/WO0204.BIN,MapCardDrop.bin,C6,26,03 00,3,Weight
+Wonderland,9,WORLD/0204/WO0204.BIN,MapCardDrop.bin,C8,28,0C 00,12,Map Card: Sorcerous Waking
+Wonderland,9,WORLD/0204/WO0204.BIN,MapCardDrop.bin,CA,2A,05 00,5,Weight
+Wonderland,10,WORLD/0204/WO0204.BIN,MapCardDrop.bin,CC,2C,0D 00,13,Map Card: Alchemic Waking
+Wonderland,10,WORLD/0204/WO0204.BIN,MapCardDrop.bin,CE,2E,05 00,5,Weight
+Wonderland,11,WORLD/0204/WO0204.BIN,MapCardDrop.bin,D0,30,0F 00,15,Map Card: Stagnant Space
+Wonderland,11,WORLD/0204/WO0204.BIN,MapCardDrop.bin,D2,32,07 00,7,Weight
+Wonderland,12,WORLD/0204/WO0204.BIN,MapCardDrop.bin,D4,34,10 00,16,Map Card: Strong Initiative
+Wonderland,12,WORLD/0204/WO0204.BIN,MapCardDrop.bin,D6,36,0A 00,10,Weight
+Wonderland,13,WORLD/0204/WO0204.BIN,MapCardDrop.bin,D8,38,11 00,17,Map Card: Lasting Daze
+Wonderland,13,WORLD/0204/WO0204.BIN,MapCardDrop.bin,DA,3A,05 00,5,Weight
+Wonderland,14,WORLD/0204/WO0204.BIN,MapCardDrop.bin,DC,3C,12 00,18,Map Card: Calm Bounty
+Wonderland,14,WORLD/0204/WO0204.BIN,MapCardDrop.bin,DE,3E,0C 00,12,Weight
+Wonderland,15,WORLD/0204/WO0204.BIN,MapCardDrop.bin,E0,40,15 00,21,Map Card: Moment's Reprieve
+Wonderland,15,WORLD/0204/WO0204.BIN,MapCardDrop.bin,E2,42,0A 00,10,Weight
+Wonderland,16,WORLD/0204/WO0204.BIN,MapCardDrop.bin,E4,44,17 00,23,Map Card: Moogle Room
+Wonderland,16,WORLD/0204/WO0204.BIN,MapCardDrop.bin,E6,46,07 00,7,Weight
+Wonderland,-,WORLD/0204/WO0204.BIN,MapCardDrop.bin,E8,48,04 00,4,Random Joker Rate
+Wonderland,-,WORLD/0204/WO0204.BIN,MapCardDrop.bin,EA,4A,00 00,0,Key to Rewards Rate
+Monstro,-,WORLD/0205/WO0205.BIN,MapCardDrop.bin,A6,6,11 00,17,Number of Map Cards
+Monstro,1,WORLD/0205/WO0205.BIN,MapCardDrop.bin,A8,8,00 00,0,Map Card: Tranquil Darkness
+Monstro,1,WORLD/0205/WO0205.BIN,MapCardDrop.bin,AA,A,04 00,4,Weight
+Monstro,2,WORLD/0205/WO0205.BIN,MapCardDrop.bin,AC,C,01 00,1,Map Card: Teeming Darkness
+Monstro,2,WORLD/0205/WO0205.BIN,MapCardDrop.bin,AE,E,04 00,4,Weight
+Monstro,3,WORLD/0205/WO0205.BIN,MapCardDrop.bin,B0,10,02 00,2,Map Card: Feeble Darkness
+Monstro,3,WORLD/0205/WO0205.BIN,MapCardDrop.bin,B2,12,06 00,6,Weight
+Monstro,4,WORLD/0205/WO0205.BIN,MapCardDrop.bin,B4,14,04 00,4,Map Card: Sleeping Darkness
+Monstro,4,WORLD/0205/WO0205.BIN,MapCardDrop.bin,B6,16,05 00,5,Weight
+Monstro,5,WORLD/0205/WO0205.BIN,MapCardDrop.bin,B8,18,06 00,6,Map Card: Premium Room
+Monstro,5,WORLD/0205/WO0205.BIN,MapCardDrop.bin,BA,1A,04 00,4,Weight
+Monstro,6,WORLD/0205/WO0205.BIN,MapCardDrop.bin,BC,1C,07 00,7,Map Card: White Room
+Monstro,6,WORLD/0205/WO0205.BIN,MapCardDrop.bin,BE,1E,04 00,4,Weight
+Monstro,7,WORLD/0205/WO0205.BIN,MapCardDrop.bin,C0,20,08 00,8,Map Card: Black Room
+Monstro,7,WORLD/0205/WO0205.BIN,MapCardDrop.bin,C2,22,04 00,4,Weight
+Monstro,8,WORLD/0205/WO0205.BIN,MapCardDrop.bin,C4,24,0A 00,10,Map Card: Roulette Room
+Monstro,8,WORLD/0205/WO0205.BIN,MapCardDrop.bin,C6,26,05 00,5,Weight
+Monstro,9,WORLD/0205/WO0205.BIN,MapCardDrop.bin,C8,28,0B 00,11,Map Card: Martial Waking
+Monstro,9,WORLD/0205/WO0205.BIN,MapCardDrop.bin,CA,2A,02 00,2,Weight
+Monstro,10,WORLD/0205/WO0205.BIN,MapCardDrop.bin,CC,2C,0C 00,12,Map Card: Sorcerous Waking
+Monstro,10,WORLD/0205/WO0205.BIN,MapCardDrop.bin,CE,2E,02 00,2,Weight
+Monstro,11,WORLD/0205/WO0205.BIN,MapCardDrop.bin,D0,30,0D 00,13,Map Card: Alchemic Waking
+Monstro,11,WORLD/0205/WO0205.BIN,MapCardDrop.bin,D2,32,0E 00,14,Weight
+Monstro,12,WORLD/0205/WO0205.BIN,MapCardDrop.bin,D4,34,0F 00,15,Map Card: Stagnant Space
+Monstro,12,WORLD/0205/WO0205.BIN,MapCardDrop.bin,D6,36,04 00,4,Weight
+Monstro,13,WORLD/0205/WO0205.BIN,MapCardDrop.bin,D8,38,10 00,16,Map Card: Strong Initiative
+Monstro,13,WORLD/0205/WO0205.BIN,MapCardDrop.bin,DA,3A,04 00,4,Weight
+Monstro,14,WORLD/0205/WO0205.BIN,MapCardDrop.bin,DC,3C,11 00,17,Map Card: Lasting Daze
+Monstro,14,WORLD/0205/WO0205.BIN,MapCardDrop.bin,DE,3E,04 00,4,Weight
+Monstro,15,WORLD/0205/WO0205.BIN,MapCardDrop.bin,E0,40,12 00,18,Map Card: Calm Bounty
+Monstro,15,WORLD/0205/WO0205.BIN,MapCardDrop.bin,E2,42,11 00,17,Weight
+Monstro,16,WORLD/0205/WO0205.BIN,MapCardDrop.bin,E4,44,15 00,21,Map Card: Moment's Reprieve
+Monstro,16,WORLD/0205/WO0205.BIN,MapCardDrop.bin,E6,46,0A 00,10,Weight
+Monstro,17,WORLD/0205/WO0205.BIN,MapCardDrop.bin,E8,48,17 00,23,Map Card: Moogle Room
+Monstro,17,WORLD/0205/WO0205.BIN,MapCardDrop.bin,EA,4A,07 00,7,Weight
+Monstro,-,WORLD/0205/WO0205.BIN,MapCardDrop.bin,EC,4C,04 00,4,Random Joker Rate
+Monstro,-,WORLD/0205/WO0205.BIN,MapCardDrop.bin,EE,4E,00 00,0,Key to Rewards Rate
+Halloween Town,-,WORLD/0206/WO0206.BIN,MapCardDrop.bin,A6,6,0F 00,15,Number of Map Cards
+Halloween Town,1,WORLD/0206/WO0206.BIN,MapCardDrop.bin,A8,8,00 00,0,Map Card: Tranquil Darkness
+Halloween Town,1,WORLD/0206/WO0206.BIN,MapCardDrop.bin,AA,A,02 00,2,Weight
+Halloween Town,2,WORLD/0206/WO0206.BIN,MapCardDrop.bin,AC,C,01 00,1,Map Card: Teeming Darkness
+Halloween Town,2,WORLD/0206/WO0206.BIN,MapCardDrop.bin,AE,E,02 00,2,Weight
+Halloween Town,3,WORLD/0206/WO0206.BIN,MapCardDrop.bin,B0,10,03 00,3,Map Card: Almighty Darkness
+Halloween Town,3,WORLD/0206/WO0206.BIN,MapCardDrop.bin,B2,12,04 00,4,Weight
+Halloween Town,4,WORLD/0206/WO0206.BIN,MapCardDrop.bin,B4,14,04 00,4,Map Card: Sleeping Darkness
+Halloween Town,4,WORLD/0206/WO0206.BIN,MapCardDrop.bin,B6,16,02 00,2,Weight
+Halloween Town,5,WORLD/0206/WO0206.BIN,MapCardDrop.bin,B8,18,05 00,5,Map Card: Looming Darkness
+Halloween Town,5,WORLD/0206/WO0206.BIN,MapCardDrop.bin,BA,1A,02 00,2,Weight
+Halloween Town,6,WORLD/0206/WO0206.BIN,MapCardDrop.bin,BC,1C,08 00,8,Map Card: Black Room
+Halloween Town,6,WORLD/0206/WO0206.BIN,MapCardDrop.bin,BE,1E,06 00,6,Weight
+Halloween Town,7,WORLD/0206/WO0206.BIN,MapCardDrop.bin,C0,20,09 00,9,Map Card: Bottomless Darkness
+Halloween Town,7,WORLD/0206/WO0206.BIN,MapCardDrop.bin,C2,22,0E 00,14,Weight
+Halloween Town,8,WORLD/0206/WO0206.BIN,MapCardDrop.bin,C4,24,0C 00,12,Map Card: Sorcerous Waking
+Halloween Town,8,WORLD/0206/WO0206.BIN,MapCardDrop.bin,C6,26,05 00,5,Weight
+Halloween Town,9,WORLD/0206/WO0206.BIN,MapCardDrop.bin,C8,28,0D 00,13,Map Card: Alchemic Waking
+Halloween Town,9,WORLD/0206/WO0206.BIN,MapCardDrop.bin,CA,2A,0A 00,10,Weight
+Halloween Town,10,WORLD/0206/WO0206.BIN,MapCardDrop.bin,CC,2C,0E 00,14,Map Card: Meeting Ground
+Halloween Town,10,WORLD/0206/WO0206.BIN,MapCardDrop.bin,CE,2E,08 00,8,Weight
+Halloween Town,11,WORLD/0206/WO0206.BIN,MapCardDrop.bin,D0,30,0F 00,15,Map Card: Stagnant Space
+Halloween Town,11,WORLD/0206/WO0206.BIN,MapCardDrop.bin,D2,32,0A 00,10,Weight
+Halloween Town,12,WORLD/0206/WO0206.BIN,MapCardDrop.bin,D4,34,11 00,17,Map Card: Lasting Daze
+Halloween Town,12,WORLD/0206/WO0206.BIN,MapCardDrop.bin,D6,36,04 00,4,Weight
+Halloween Town,13,WORLD/0206/WO0206.BIN,MapCardDrop.bin,D8,38,12 00,18,Map Card: Calm Bounty
+Halloween Town,13,WORLD/0206/WO0206.BIN,MapCardDrop.bin,DA,3A,0D 00,13,Weight
+Halloween Town,14,WORLD/0206/WO0206.BIN,MapCardDrop.bin,DC,3C,15 00,21,Map Card: Moment's Reprieve
+Halloween Town,14,WORLD/0206/WO0206.BIN,MapCardDrop.bin,DE,3E,0A 00,10,Weight
+Halloween Town,15,WORLD/0206/WO0206.BIN,MapCardDrop.bin,E0,40,17 00,23,Map Card: Moogle Room
+Halloween Town,15,WORLD/0206/WO0206.BIN,MapCardDrop.bin,E2,42,08 00,8,Weight
+Halloween Town,-,WORLD/0206/WO0206.BIN,MapCardDrop.bin,E4,44,04 00,4,Random Joker Rate
+Halloween Town,-,WORLD/0206/WO0206.BIN,MapCardDrop.bin,E6,46,00 00,0,Key to Rewards Rate
+Atlantica,-,WORLD/0207/WO0207.BIN,MapCardDrop.bin,A6,6,10 00,16,Number of Map Cards
+Atlantica,1,WORLD/0207/WO0207.BIN,MapCardDrop.bin,A8,8,02 00,2,Map Card: Feeble Darkness
+Atlantica,1,WORLD/0207/WO0207.BIN,MapCardDrop.bin,AA,A,02 00,2,Weight
+Atlantica,2,WORLD/0207/WO0207.BIN,MapCardDrop.bin,AC,C,03 00,3,Map Card: Almighty Darkness
+Atlantica,2,WORLD/0207/WO0207.BIN,MapCardDrop.bin,AE,E,0C 00,12,Weight
+Atlantica,3,WORLD/0207/WO0207.BIN,MapCardDrop.bin,B0,10,04 00,4,Map Card: Sleeping Darkness
+Atlantica,3,WORLD/0207/WO0207.BIN,MapCardDrop.bin,B2,12,02 00,2,Weight
+Atlantica,4,WORLD/0207/WO0207.BIN,MapCardDrop.bin,B4,14,05 00,5,Map Card: Looming Darkness
+Atlantica,4,WORLD/0207/WO0207.BIN,MapCardDrop.bin,B6,16,08 00,8,Weight
+Atlantica,5,WORLD/0207/WO0207.BIN,MapCardDrop.bin,B8,18,07 00,7,Map Card: White Room
+Atlantica,5,WORLD/0207/WO0207.BIN,MapCardDrop.bin,BA,1A,0F 00,15,Weight
+Atlantica,6,WORLD/0207/WO0207.BIN,MapCardDrop.bin,BC,1C,08 00,8,Map Card: Black Room
+Atlantica,6,WORLD/0207/WO0207.BIN,MapCardDrop.bin,BE,1E,02 00,2,Weight
+Atlantica,7,WORLD/0207/WO0207.BIN,MapCardDrop.bin,C0,20,09 00,9,Map Card: Bottomless Darkness
+Atlantica,7,WORLD/0207/WO0207.BIN,MapCardDrop.bin,C2,22,05 00,5,Weight
+Atlantica,8,WORLD/0207/WO0207.BIN,MapCardDrop.bin,C4,24,0A 00,10,Map Card: Roulette Room
+Atlantica,8,WORLD/0207/WO0207.BIN,MapCardDrop.bin,C6,26,03 00,3,Weight
+Atlantica,9,WORLD/0207/WO0207.BIN,MapCardDrop.bin,C8,28,0B 00,11,Map Card: Martial Waking
+Atlantica,9,WORLD/0207/WO0207.BIN,MapCardDrop.bin,CA,2A,05 00,5,Weight
+Atlantica,10,WORLD/0207/WO0207.BIN,MapCardDrop.bin,CC,2C,0E 00,14,Map Card: Meeting Ground
+Atlantica,10,WORLD/0207/WO0207.BIN,MapCardDrop.bin,CE,2E,04 00,4,Weight
+Atlantica,11,WORLD/0207/WO0207.BIN,MapCardDrop.bin,D0,30,10 00,16,Map Card: Strong Initiative
+Atlantica,11,WORLD/0207/WO0207.BIN,MapCardDrop.bin,D2,32,04 00,4,Weight
+Atlantica,12,WORLD/0207/WO0207.BIN,MapCardDrop.bin,D4,34,11 00,17,Map Card: Lasting Daze
+Atlantica,12,WORLD/0207/WO0207.BIN,MapCardDrop.bin,D6,36,02 00,2,Weight
+Atlantica,13,WORLD/0207/WO0207.BIN,MapCardDrop.bin,D8,38,13 00,19,Map Card: Guarded Trove
+Atlantica,13,WORLD/0207/WO0207.BIN,MapCardDrop.bin,DA,3A,0E 00,14,Weight
+Atlantica,14,WORLD/0207/WO0207.BIN,MapCardDrop.bin,DC,3C,14 00,20,Map Card: False Bounty
+Atlantica,14,WORLD/0207/WO0207.BIN,MapCardDrop.bin,DE,3E,0E 00,14,Weight
+Atlantica,15,WORLD/0207/WO0207.BIN,MapCardDrop.bin,E0,40,15 00,21,Map Card: Moment's Reprieve
+Atlantica,15,WORLD/0207/WO0207.BIN,MapCardDrop.bin,E2,42,06 00,6,Weight
+Atlantica,16,WORLD/0207/WO0207.BIN,MapCardDrop.bin,E4,44,17 00,23,Map Card: Moogle Room
+Atlantica,16,WORLD/0207/WO0207.BIN,MapCardDrop.bin,E6,46,02 00,2,Weight
+Atlantica,-,WORLD/0207/WO0207.BIN,MapCardDrop.bin,E8,48,04 00,4,Random Joker Rate
+Atlantica,-,WORLD/0207/WO0207.BIN,MapCardDrop.bin,EA,4A,0F 00,15,Key to Rewards Rate
+Neverland,-,WORLD/0208/WO0208.BIN,MapCardDrop.bin,A6,6,0F 00,15,Number of Map Cards
+Neverland,1,WORLD/0208/WO0208.BIN,MapCardDrop.bin,A8,8,03 00,3,Map Card: Almighty Darkness
+Neverland,1,WORLD/0208/WO0208.BIN,MapCardDrop.bin,AA,A,0A 00,10,Weight
+Neverland,2,WORLD/0208/WO0208.BIN,MapCardDrop.bin,AC,C,04 00,4,Map Card: Sleeping Darkness
+Neverland,2,WORLD/0208/WO0208.BIN,MapCardDrop.bin,AE,E,02 00,2,Weight
+Neverland,3,WORLD/0208/WO0208.BIN,MapCardDrop.bin,B0,10,05 00,5,Map Card: Looming Darkness
+Neverland,3,WORLD/0208/WO0208.BIN,MapCardDrop.bin,B2,12,0C 00,12,Weight
+Neverland,4,WORLD/0208/WO0208.BIN,MapCardDrop.bin,B4,14,06 00,6,Map Card: Premium Room
+Neverland,4,WORLD/0208/WO0208.BIN,MapCardDrop.bin,B6,16,10 00,16,Weight
+Neverland,5,WORLD/0208/WO0208.BIN,MapCardDrop.bin,B8,18,07 00,7,Map Card: White Room
+Neverland,5,WORLD/0208/WO0208.BIN,MapCardDrop.bin,BA,1A,02 00,2,Weight
+Neverland,6,WORLD/0208/WO0208.BIN,MapCardDrop.bin,BC,1C,08 00,8,Map Card: Black Room
+Neverland,6,WORLD/0208/WO0208.BIN,MapCardDrop.bin,BE,1E,02 00,2,Weight
+Neverland,7,WORLD/0208/WO0208.BIN,MapCardDrop.bin,C0,20,09 00,9,Map Card: Bottomless Darkness
+Neverland,7,WORLD/0208/WO0208.BIN,MapCardDrop.bin,C2,22,05 00,5,Weight
+Neverland,8,WORLD/0208/WO0208.BIN,MapCardDrop.bin,C4,24,0A 00,10,Map Card: Roulette Room
+Neverland,8,WORLD/0208/WO0208.BIN,MapCardDrop.bin,C6,26,03 00,3,Weight
+Neverland,9,WORLD/0208/WO0208.BIN,MapCardDrop.bin,C8,28,0B 00,11,Map Card: Martial Waking
+Neverland,9,WORLD/0208/WO0208.BIN,MapCardDrop.bin,CA,2A,02 00,2,Weight
+Neverland,10,WORLD/0208/WO0208.BIN,MapCardDrop.bin,CC,2C,0E 00,14,Map Card: Meeting Ground
+Neverland,10,WORLD/0208/WO0208.BIN,MapCardDrop.bin,CE,2E,04 00,4,Weight
+Neverland,11,WORLD/0208/WO0208.BIN,MapCardDrop.bin,D0,30,11 00,17,Map Card: Lasting Daze
+Neverland,11,WORLD/0208/WO0208.BIN,MapCardDrop.bin,D2,32,08 00,8,Weight
+Neverland,12,WORLD/0208/WO0208.BIN,MapCardDrop.bin,D4,34,13 00,19,Map Card: Guarded Trove
+Neverland,12,WORLD/0208/WO0208.BIN,MapCardDrop.bin,D6,36,0D 00,13,Weight
+Neverland,13,WORLD/0208/WO0208.BIN,MapCardDrop.bin,D8,38,14 00,20,Map Card: False Bounty
+Neverland,13,WORLD/0208/WO0208.BIN,MapCardDrop.bin,DA,3A,0D 00,13,Weight
+Neverland,14,WORLD/0208/WO0208.BIN,MapCardDrop.bin,DC,3C,15 00,21,Map Card: Moment's Reprieve
+Neverland,14,WORLD/0208/WO0208.BIN,MapCardDrop.bin,DE,3E,06 00,6,Weight
+Neverland,15,WORLD/0208/WO0208.BIN,MapCardDrop.bin,E0,40,17 00,23,Map Card: Moogle Room
+Neverland,15,WORLD/0208/WO0208.BIN,MapCardDrop.bin,E2,42,02 00,2,Weight
+Neverland,-,WORLD/0208/WO0208.BIN,MapCardDrop.bin,E4,44,04 00,4,Random Joker Rate
+Neverland,-,WORLD/0208/WO0208.BIN,MapCardDrop.bin,E6,46,0F 00,15,Key to Rewards Rate
+Hollow Bastion,-,WORLD/0209/WO0209.BIN,MapCardDrop.bin,A6,6,10 00,16,Number of Map Cards
+Hollow Bastion,1,WORLD/0209/WO0209.BIN,MapCardDrop.bin,A8,8,02 00,2,Map Card: Feeble Darkness
+Hollow Bastion,1,WORLD/0209/WO0209.BIN,MapCardDrop.bin,AA,A,02 00,2,Weight
+Hollow Bastion,2,WORLD/0209/WO0209.BIN,MapCardDrop.bin,AC,C,03 00,3,Map Card: Almighty Darkness
+Hollow Bastion,2,WORLD/0209/WO0209.BIN,MapCardDrop.bin,AE,E,0C 00,12,Weight
+Hollow Bastion,3,WORLD/0209/WO0209.BIN,MapCardDrop.bin,B0,10,04 00,4,Map Card: Sleeping Darkness
+Hollow Bastion,3,WORLD/0209/WO0209.BIN,MapCardDrop.bin,B2,12,02 00,2,Weight
+Hollow Bastion,4,WORLD/0209/WO0209.BIN,MapCardDrop.bin,B4,14,05 00,5,Map Card: Looming Darkness
+Hollow Bastion,4,WORLD/0209/WO0209.BIN,MapCardDrop.bin,B6,16,08 00,8,Weight
+Hollow Bastion,5,WORLD/0209/WO0209.BIN,MapCardDrop.bin,B8,18,06 00,6,Map Card: Premium Room
+Hollow Bastion,5,WORLD/0209/WO0209.BIN,MapCardDrop.bin,BA,1A,02 00,2,Weight
+Hollow Bastion,6,WORLD/0209/WO0209.BIN,MapCardDrop.bin,BC,1C,07 00,7,Map Card: White Room
+Hollow Bastion,6,WORLD/0209/WO0209.BIN,MapCardDrop.bin,BE,1E,02 00,2,Weight
+Hollow Bastion,7,WORLD/0209/WO0209.BIN,MapCardDrop.bin,C0,20,08 00,8,Map Card: Black Room
+Hollow Bastion,7,WORLD/0209/WO0209.BIN,MapCardDrop.bin,C2,22,10 00,16,Weight
+Hollow Bastion,8,WORLD/0209/WO0209.BIN,MapCardDrop.bin,C4,24,09 00,9,Map Card: Bottomless Darkness
+Hollow Bastion,8,WORLD/0209/WO0209.BIN,MapCardDrop.bin,C6,26,05 00,5,Weight
+Hollow Bastion,9,WORLD/0209/WO0209.BIN,MapCardDrop.bin,C8,28,0A 00,10,Map Card: Roulette Room
+Hollow Bastion,9,WORLD/0209/WO0209.BIN,MapCardDrop.bin,CA,2A,03 00,3,Weight
+Hollow Bastion,10,WORLD/0209/WO0209.BIN,MapCardDrop.bin,CC,2C,0C 00,12,Map Card: Sorcerous Waking
+Hollow Bastion,10,WORLD/0209/WO0209.BIN,MapCardDrop.bin,CE,2E,04 00,4,Weight
+Hollow Bastion,11,WORLD/0209/WO0209.BIN,MapCardDrop.bin,D0,30,0D 00,13,Map Card: Alchemic Waking
+Hollow Bastion,11,WORLD/0209/WO0209.BIN,MapCardDrop.bin,D2,32,04 00,4,Weight
+Hollow Bastion,12,WORLD/0209/WO0209.BIN,MapCardDrop.bin,D4,34,10 00,16,Map Card: Strong Initiative
+Hollow Bastion,12,WORLD/0209/WO0209.BIN,MapCardDrop.bin,D6,36,04 00,4,Weight
+Hollow Bastion,13,WORLD/0209/WO0209.BIN,MapCardDrop.bin,D8,38,13 00,19,Map Card: Guarded Trove
+Hollow Bastion,13,WORLD/0209/WO0209.BIN,MapCardDrop.bin,DA,3A,0E 00,14,Weight
+Hollow Bastion,14,WORLD/0209/WO0209.BIN,MapCardDrop.bin,DC,3C,14 00,20,Map Card: False Bounty
+Hollow Bastion,14,WORLD/0209/WO0209.BIN,MapCardDrop.bin,DE,3E,0E 00,14,Weight
+Hollow Bastion,15,WORLD/0209/WO0209.BIN,MapCardDrop.bin,E0,40,15 00,21,Map Card: Moment's Reprieve
+Hollow Bastion,15,WORLD/0209/WO0209.BIN,MapCardDrop.bin,E2,42,06 00,6,Weight
+Hollow Bastion,16,WORLD/0209/WO0209.BIN,MapCardDrop.bin,E4,44,17 00,23,Map Card: Moogle Room
+Hollow Bastion,16,WORLD/0209/WO0209.BIN,MapCardDrop.bin,E6,46,02 00,2,Weight
+Hollow Bastion,-,WORLD/0209/WO0209.BIN,MapCardDrop.bin,E8,48,04 00,4,Random Joker Rate
+Hollow Bastion,-,WORLD/0209/WO0209.BIN,MapCardDrop.bin,EA,4A,0F 00,15,Key to Rewards Rate
+100 Acre Wood,-,WORLD/0210/WO0210.BIN,MapCardDrop.bin,A6,6,00 00,0,Number of Map Cards
+100 Acre Wood,-,WORLD/0210/WO0210.BIN,MapCardDrop.bin,A8,8,00 00,0,Random Joker Rate
+100 Acre Wood,-,WORLD/0210/WO0210.BIN,MapCardDrop.bin,AA,A,00 00,0,Key to Rewards Rate
+Twilight Town,-,WORLD/0211/WO0211.BIN,MapCardDrop.bin,A6,6,10 00,16,Number of Map Cards
+Twilight Town,1,WORLD/0211/WO0211.BIN,MapCardDrop.bin,A8,8,00 00,0,Map Card: Tranquil Darkness
+Twilight Town,1,WORLD/0211/WO0211.BIN,MapCardDrop.bin,AA,A,08 00,8,Weight
+Twilight Town,2,WORLD/0211/WO0211.BIN,MapCardDrop.bin,AC,C,01 00,1,Map Card: Teeming Darkness
+Twilight Town,2,WORLD/0211/WO0211.BIN,MapCardDrop.bin,AE,E,08 00,8,Weight
+Twilight Town,3,WORLD/0211/WO0211.BIN,MapCardDrop.bin,B0,10,02 00,2,Map Card: Feeble Darkness
+Twilight Town,3,WORLD/0211/WO0211.BIN,MapCardDrop.bin,B2,12,08 00,8,Weight
+Twilight Town,4,WORLD/0211/WO0211.BIN,MapCardDrop.bin,B4,14,04 00,4,Map Card: Sleeping Darkness
+Twilight Town,4,WORLD/0211/WO0211.BIN,MapCardDrop.bin,B6,16,08 00,8,Weight
+Twilight Town,5,WORLD/0211/WO0211.BIN,MapCardDrop.bin,B8,18,09 00,9,Map Card: Bottomless Darkness
+Twilight Town,5,WORLD/0211/WO0211.BIN,MapCardDrop.bin,BA,1A,04 00,4,Weight
+Twilight Town,6,WORLD/0211/WO0211.BIN,MapCardDrop.bin,BC,1C,0A 00,10,Map Card: Roulette Room
+Twilight Town,6,WORLD/0211/WO0211.BIN,MapCardDrop.bin,BE,1E,0A 00,10,Weight
+Twilight Town,7,WORLD/0211/WO0211.BIN,MapCardDrop.bin,C0,20,0B 00,11,Map Card: Martial Waking
+Twilight Town,7,WORLD/0211/WO0211.BIN,MapCardDrop.bin,C2,22,04 00,4,Weight
+Twilight Town,8,WORLD/0211/WO0211.BIN,MapCardDrop.bin,C4,24,0C 00,12,Map Card: Sorcerous Waking
+Twilight Town,8,WORLD/0211/WO0211.BIN,MapCardDrop.bin,C6,26,02 00,2,Weight
+Twilight Town,9,WORLD/0211/WO0211.BIN,MapCardDrop.bin,C8,28,0E 00,14,Map Card: Meeting Ground
+Twilight Town,9,WORLD/0211/WO0211.BIN,MapCardDrop.bin,CA,2A,02 00,2,Weight
+Twilight Town,10,WORLD/0211/WO0211.BIN,MapCardDrop.bin,CC,2C,0F 00,15,Map Card: Stagnant Space
+Twilight Town,10,WORLD/0211/WO0211.BIN,MapCardDrop.bin,CE,2E,0B 00,11,Weight
+Twilight Town,11,WORLD/0211/WO0211.BIN,MapCardDrop.bin,D0,30,10 00,16,Map Card: Strong Initiative
+Twilight Town,11,WORLD/0211/WO0211.BIN,MapCardDrop.bin,D2,32,02 00,2,Weight
+Twilight Town,12,WORLD/0211/WO0211.BIN,MapCardDrop.bin,D4,34,11 00,17,Map Card: Lasting Daze
+Twilight Town,12,WORLD/0211/WO0211.BIN,MapCardDrop.bin,D6,36,02 00,2,Weight
+Twilight Town,13,WORLD/0211/WO0211.BIN,MapCardDrop.bin,D8,38,12 00,18,Map Card: Calm Bounty
+Twilight Town,13,WORLD/0211/WO0211.BIN,MapCardDrop.bin,DA,3A,09 00,9,Weight
+Twilight Town,14,WORLD/0211/WO0211.BIN,MapCardDrop.bin,DC,3C,15 00,21,Map Card: Moment's Reprieve
+Twilight Town,14,WORLD/0211/WO0211.BIN,MapCardDrop.bin,DE,3E,03 00,3,Weight
+Twilight Town,15,WORLD/0211/WO0211.BIN,MapCardDrop.bin,E0,40,16 00,22,Map Card: Mingling Worlds
+Twilight Town,15,WORLD/0211/WO0211.BIN,MapCardDrop.bin,E2,42,11 00,17,Weight
+Twilight Town,16,WORLD/0211/WO0211.BIN,MapCardDrop.bin,E4,44,17 00,23,Map Card: Moogle Room
+Twilight Town,16,WORLD/0211/WO0211.BIN,MapCardDrop.bin,E6,46,02 00,2,Weight
+Twilight Town,-,WORLD/0211/WO0211.BIN,MapCardDrop.bin,E8,48,04 00,4,Random Joker Rate
+Twilight Town,-,WORLD/0211/WO0211.BIN,MapCardDrop.bin,EA,4A,10 00,16,Key to Rewards Rate
+Destiny Islands,-,WORLD/0212/WO0212.BIN,MapCardDrop.bin,A6,6,0C 00,12,Number of Map Cards
+Destiny Islands,1,WORLD/0212/WO0212.BIN,MapCardDrop.bin,A8,8,03 00,3,Map Card: Almighty Darkness
+Destiny Islands,1,WORLD/0212/WO0212.BIN,MapCardDrop.bin,AA,A,0C 00,12,Weight
+Destiny Islands,2,WORLD/0212/WO0212.BIN,MapCardDrop.bin,AC,C,05 00,5,Map Card: Looming Darkness
+Destiny Islands,2,WORLD/0212/WO0212.BIN,MapCardDrop.bin,AE,E,0C 00,12,Weight
+Destiny Islands,3,WORLD/0212/WO0212.BIN,MapCardDrop.bin,B0,10,06 00,6,Map Card: Premium Room
+Destiny Islands,3,WORLD/0212/WO0212.BIN,MapCardDrop.bin,B2,12,03 00,3,Weight
+Destiny Islands,4,WORLD/0212/WO0212.BIN,MapCardDrop.bin,B4,14,07 00,7,Map Card: White Room
+Destiny Islands,4,WORLD/0212/WO0212.BIN,MapCardDrop.bin,B6,16,03 00,3,Weight
+Destiny Islands,5,WORLD/0212/WO0212.BIN,MapCardDrop.bin,B8,18,08 00,8,Map Card: Black Room
+Destiny Islands,5,WORLD/0212/WO0212.BIN,MapCardDrop.bin,BA,1A,03 00,3,Weight
+Destiny Islands,6,WORLD/0212/WO0212.BIN,MapCardDrop.bin,BC,1C,09 00,9,Map Card: Bottomless Darkness
+Destiny Islands,6,WORLD/0212/WO0212.BIN,MapCardDrop.bin,BE,1E,0A 00,10,Weight
+Destiny Islands,7,WORLD/0212/WO0212.BIN,MapCardDrop.bin,C0,20,0A 00,10,Map Card: Roulette Room
+Destiny Islands,7,WORLD/0212/WO0212.BIN,MapCardDrop.bin,C2,22,05 00,5,Weight
+Destiny Islands,8,WORLD/0212/WO0212.BIN,MapCardDrop.bin,C4,24,13 00,19,Map Card: Guarded Trove
+Destiny Islands,8,WORLD/0212/WO0212.BIN,MapCardDrop.bin,C6,26,0C 00,12,Weight
+Destiny Islands,9,WORLD/0212/WO0212.BIN,MapCardDrop.bin,C8,28,14 00,20,Map Card: False Bounty
+Destiny Islands,9,WORLD/0212/WO0212.BIN,MapCardDrop.bin,CA,2A,0C 00,12,Weight
+Destiny Islands,10,WORLD/0212/WO0212.BIN,MapCardDrop.bin,CC,2C,15 00,21,Map Card: Moment's Reprieve
+Destiny Islands,10,WORLD/0212/WO0212.BIN,MapCardDrop.bin,CE,2E,03 00,3,Weight
+Destiny Islands,11,WORLD/0212/WO0212.BIN,MapCardDrop.bin,D0,30,16 00,22,Map Card: Mingling Worlds
+Destiny Islands,11,WORLD/0212/WO0212.BIN,MapCardDrop.bin,D2,32,16 00,22,Weight
+Destiny Islands,12,WORLD/0212/WO0212.BIN,MapCardDrop.bin,D4,34,17 00,23,Map Card: Moogle Room
+Destiny Islands,12,WORLD/0212/WO0212.BIN,MapCardDrop.bin,D6,36,03 00,3,Weight
+Destiny Islands,-,WORLD/0212/WO0212.BIN,MapCardDrop.bin,D8,38,04 00,4,Random Joker Rate
+Destiny Islands,-,WORLD/0212/WO0212.BIN,MapCardDrop.bin,DA,3A,12 00,18,Key to Rewards Rate
+Castle Oblivion,-,WORLD/0213/WO0213.BIN,MapCardDrop.bin,A6,6,0E 00,14,Number of Map Cards
+Castle Oblivion,1,WORLD/0213/WO0213.BIN,MapCardDrop.bin,A8,8,00 00,0,Map Card: Tranquil Darkness
+Castle Oblivion,1,WORLD/0213/WO0213.BIN,MapCardDrop.bin,AA,A,06 00,6,Weight
+Castle Oblivion,2,WORLD/0213/WO0213.BIN,MapCardDrop.bin,AC,C,01 00,1,Map Card: Teeming Darkness
+Castle Oblivion,2,WORLD/0213/WO0213.BIN,MapCardDrop.bin,AE,E,06 00,6,Weight
+Castle Oblivion,3,WORLD/0213/WO0213.BIN,MapCardDrop.bin,B0,10,02 00,2,Map Card: Feeble Darkness
+Castle Oblivion,3,WORLD/0213/WO0213.BIN,MapCardDrop.bin,B2,12,06 00,6,Weight
+Castle Oblivion,4,WORLD/0213/WO0213.BIN,MapCardDrop.bin,B4,14,03 00,3,Map Card: Almighty Darkness
+Castle Oblivion,4,WORLD/0213/WO0213.BIN,MapCardDrop.bin,B6,16,06 00,6,Weight
+Castle Oblivion,5,WORLD/0213/WO0213.BIN,MapCardDrop.bin,B8,18,04 00,4,Map Card: Sleeping Darkness
+Castle Oblivion,5,WORLD/0213/WO0213.BIN,MapCardDrop.bin,BA,1A,06 00,6,Weight
+Castle Oblivion,6,WORLD/0213/WO0213.BIN,MapCardDrop.bin,BC,1C,05 00,5,Map Card: Looming Darkness
+Castle Oblivion,6,WORLD/0213/WO0213.BIN,MapCardDrop.bin,BE,1E,06 00,6,Weight
+Castle Oblivion,7,WORLD/0213/WO0213.BIN,MapCardDrop.bin,C0,20,09 00,9,Map Card: Bottomless Darkness
+Castle Oblivion,7,WORLD/0213/WO0213.BIN,MapCardDrop.bin,C2,22,03 00,3,Weight
+Castle Oblivion,8,WORLD/0213/WO0213.BIN,MapCardDrop.bin,C4,24,0A 00,10,Map Card: Roulette Room
+Castle Oblivion,8,WORLD/0213/WO0213.BIN,MapCardDrop.bin,C6,26,0A 00,10,Weight
+Castle Oblivion,9,WORLD/0213/WO0213.BIN,MapCardDrop.bin,C8,28,12 00,18,Map Card: Calm Bounty
+Castle Oblivion,9,WORLD/0213/WO0213.BIN,MapCardDrop.bin,CA,2A,07 00,7,Weight
+Castle Oblivion,10,WORLD/0213/WO0213.BIN,MapCardDrop.bin,CC,2C,13 00,19,Map Card: Guarded Trove
+Castle Oblivion,10,WORLD/0213/WO0213.BIN,MapCardDrop.bin,CE,2E,07 00,7,Weight
+Castle Oblivion,11,WORLD/0213/WO0213.BIN,MapCardDrop.bin,D0,30,14 00,20,Map Card: False Bounty
+Castle Oblivion,11,WORLD/0213/WO0213.BIN,MapCardDrop.bin,D2,32,07 00,7,Weight
+Castle Oblivion,12,WORLD/0213/WO0213.BIN,MapCardDrop.bin,D4,34,15 00,21,Map Card: Moment's Reprieve
+Castle Oblivion,12,WORLD/0213/WO0213.BIN,MapCardDrop.bin,D6,36,0A 00,10,Weight
+Castle Oblivion,13,WORLD/0213/WO0213.BIN,MapCardDrop.bin,D8,38,16 00,22,Map Card: Mingling Worlds
+Castle Oblivion,13,WORLD/0213/WO0213.BIN,MapCardDrop.bin,DA,3A,0A 00,10,Weight
+Castle Oblivion,14,WORLD/0213/WO0213.BIN,MapCardDrop.bin,DC,3C,17 00,23,Map Card: Moogle Room
+Castle Oblivion,14,WORLD/0213/WO0213.BIN,MapCardDrop.bin,DE,3E,0A 00,10,Weight
+Castle Oblivion,-,WORLD/0213/WO0213.BIN,MapCardDrop.bin,E0,40,04 00,4,Random Joker Rate
+Castle Oblivion,-,WORLD/0213/WO0213.BIN,MapCardDrop.bin,E2,42,14 00,20,Key to Rewards Rate

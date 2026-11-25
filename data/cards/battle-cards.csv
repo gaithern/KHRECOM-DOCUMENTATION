@@ -1,0 +1,395 @@
+Card ID (HEX),Card,File,Sub-File,Offset,Sub-File Offset,Value (HEX),Value,Notes
+1,Kingdom Key,SYS/0002/SY0002.BIN,BattleCardList.bin,280,10,64 00,100,Power 1
+1,Kingdom Key,SYS/0002/SY0002.BIN,BattleCardList.bin,282,12,64 00,100,Power 2
+1,Kingdom Key,SYS/0002/SY0002.BIN,BattleCardList.bin,284,14,96 00,150,Power 3
+1,Kingdom Key,SYS/0002/SY0002.BIN,BattleCardList.bin,286,16,00 00,0,Power 4
+1,Kingdom Key,SYS/0002/SY0002.BIN,BattleCardList.bin,28A,1A,0A,10,Base CP
+2,Three Wishes,SYS/0002/SY0002.BIN,BattleCardList.bin,290,20,C8 00,200,Power 1
+2,Three Wishes,SYS/0002/SY0002.BIN,BattleCardList.bin,292,22,64 00,100,Power 2
+2,Three Wishes,SYS/0002/SY0002.BIN,BattleCardList.bin,294,24,2C 01,300,Power 3
+2,Three Wishes,SYS/0002/SY0002.BIN,BattleCardList.bin,296,26,00 00,0,Power 4
+2,Three Wishes,SYS/0002/SY0002.BIN,BattleCardList.bin,29A,2A,0F,15,Base CP
+3,Crabclaw,SYS/0002/SY0002.BIN,BattleCardList.bin,2A0,30,96 00,150,Power 1
+3,Crabclaw,SYS/0002/SY0002.BIN,BattleCardList.bin,2A2,32,96 00,150,Power 2
+3,Crabclaw,SYS/0002/SY0002.BIN,BattleCardList.bin,2A4,34,5E 01,350,Power 3
+3,Crabclaw,SYS/0002/SY0002.BIN,BattleCardList.bin,2A6,36,00 00,0,Power 4
+3,Crabclaw,SYS/0002/SY0002.BIN,BattleCardList.bin,2AA,3A,14,20,Base CP
+4,Pumpkinhead,SYS/0002/SY0002.BIN,BattleCardList.bin,2B0,40,C8 00,200,Power 1
+4,Pumpkinhead,SYS/0002/SY0002.BIN,BattleCardList.bin,2B2,42,C8 00,200,Power 2
+4,Pumpkinhead,SYS/0002/SY0002.BIN,BattleCardList.bin,2B4,44,96 00,150,Power 3
+4,Pumpkinhead,SYS/0002/SY0002.BIN,BattleCardList.bin,2B6,46,00 00,0,Power 4
+4,Pumpkinhead,SYS/0002/SY0002.BIN,BattleCardList.bin,2BA,4A,0F,15,Base CP
+5,Fairy Harp,SYS/0002/SY0002.BIN,BattleCardList.bin,2C0,50,C8 00,200,Power 1
+5,Fairy Harp,SYS/0002/SY0002.BIN,BattleCardList.bin,2C2,52,C8 00,200,Power 2
+5,Fairy Harp,SYS/0002/SY0002.BIN,BattleCardList.bin,2C4,54,C8 00,200,Power 3
+5,Fairy Harp,SYS/0002/SY0002.BIN,BattleCardList.bin,2C6,56,00 00,0,Power 4
+5,Fairy Harp,SYS/0002/SY0002.BIN,BattleCardList.bin,2CA,5A,14,20,Base CP
+6,Wishing Star,SYS/0002/SY0002.BIN,BattleCardList.bin,2D0,60,96 00,150,Power 1
+6,Wishing Star,SYS/0002/SY0002.BIN,BattleCardList.bin,2D2,62,96 00,150,Power 2
+6,Wishing Star,SYS/0002/SY0002.BIN,BattleCardList.bin,2D4,64,96 00,150,Power 3
+6,Wishing Star,SYS/0002/SY0002.BIN,BattleCardList.bin,2D6,66,00 00,0,Power 4
+6,Wishing Star,SYS/0002/SY0002.BIN,BattleCardList.bin,2DA,6A,0F,15,Base CP
+7,Spellbinder,SYS/0002/SY0002.BIN,BattleCardList.bin,2E0,70,64 00,100,Power 1
+7,Spellbinder,SYS/0002/SY0002.BIN,BattleCardList.bin,2E2,72,5E 01,350,Power 2
+7,Spellbinder,SYS/0002/SY0002.BIN,BattleCardList.bin,2E4,74,96 00,150,Power 3
+7,Spellbinder,SYS/0002/SY0002.BIN,BattleCardList.bin,2E6,76,00 00,0,Power 4
+7,Spellbinder,SYS/0002/SY0002.BIN,BattleCardList.bin,2EA,7A,14,20,Base CP
+8,Metal Chocobo,SYS/0002/SY0002.BIN,BattleCardList.bin,2F0,80,C8 00,200,Power 1
+8,Metal Chocobo,SYS/0002/SY0002.BIN,BattleCardList.bin,2F2,82,C8 00,200,Power 2
+8,Metal Chocobo,SYS/0002/SY0002.BIN,BattleCardList.bin,2F4,84,5E 01,350,Power 3
+8,Metal Chocobo,SYS/0002/SY0002.BIN,BattleCardList.bin,2F6,86,00 00,0,Power 4
+8,Metal Chocobo,SYS/0002/SY0002.BIN,BattleCardList.bin,2FA,8A,14,20,Base CP
+9,Olympia,SYS/0002/SY0002.BIN,BattleCardList.bin,300,90,C8 00,200,Power 1
+9,Olympia,SYS/0002/SY0002.BIN,BattleCardList.bin,302,92,64 00,100,Power 2
+9,Olympia,SYS/0002/SY0002.BIN,BattleCardList.bin,304,94,2C 01,300,Power 3
+9,Olympia,SYS/0002/SY0002.BIN,BattleCardList.bin,306,96,00 00,0,Power 4
+9,Olympia,SYS/0002/SY0002.BIN,BattleCardList.bin,30A,9A,0F,15,Base CP
+A,Lionheart,SYS/0002/SY0002.BIN,BattleCardList.bin,310,A0,FA 00,250,Power 1
+A,Lionheart,SYS/0002/SY0002.BIN,BattleCardList.bin,312,A2,FA 00,250,Power 2
+A,Lionheart,SYS/0002/SY0002.BIN,BattleCardList.bin,314,A4,2C 01,300,Power 3
+A,Lionheart,SYS/0002/SY0002.BIN,BattleCardList.bin,316,A6,00 00,0,Power 4
+A,Lionheart,SYS/0002/SY0002.BIN,BattleCardList.bin,31A,AA,14,20,Base CP
+B,Lady Luck,SYS/0002/SY0002.BIN,BattleCardList.bin,320,B0,C8 00,200,Power 1
+B,Lady Luck,SYS/0002/SY0002.BIN,BattleCardList.bin,322,B2,C8 00,200,Power 2
+B,Lady Luck,SYS/0002/SY0002.BIN,BattleCardList.bin,324,B4,64 00,100,Power 3
+B,Lady Luck,SYS/0002/SY0002.BIN,BattleCardList.bin,326,B6,00 00,0,Power 4
+B,Lady Luck,SYS/0002/SY0002.BIN,BattleCardList.bin,32A,BA,0F,15,Base CP
+C,Divine Rose,SYS/0002/SY0002.BIN,BattleCardList.bin,330,C0,5E 01,350,Power 1
+C,Divine Rose,SYS/0002/SY0002.BIN,BattleCardList.bin,332,C2,64 00,100,Power 2
+C,Divine Rose,SYS/0002/SY0002.BIN,BattleCardList.bin,334,C4,C8 00,200,Power 3
+C,Divine Rose,SYS/0002/SY0002.BIN,BattleCardList.bin,336,C6,00 00,0,Power 4
+C,Divine Rose,SYS/0002/SY0002.BIN,BattleCardList.bin,33A,CA,14,20,Base CP
+D,Oathkeeper,SYS/0002/SY0002.BIN,BattleCardList.bin,340,D0,FA 00,250,Power 1
+D,Oathkeeper,SYS/0002/SY0002.BIN,BattleCardList.bin,342,D2,90 01,400,Power 2
+D,Oathkeeper,SYS/0002/SY0002.BIN,BattleCardList.bin,344,D4,5E 01,350,Power 3
+D,Oathkeeper,SYS/0002/SY0002.BIN,BattleCardList.bin,346,D6,00 00,0,Power 4
+D,Oathkeeper,SYS/0002/SY0002.BIN,BattleCardList.bin,34A,DA,19,25,Base CP
+E,Oblivion,SYS/0002/SY0002.BIN,BattleCardList.bin,350,E0,5E 01,350,Power 1
+E,Oblivion,SYS/0002/SY0002.BIN,BattleCardList.bin,352,E2,5E 01,350,Power 2
+E,Oblivion,SYS/0002/SY0002.BIN,BattleCardList.bin,354,E4,64 00,100,Power 3
+E,Oblivion,SYS/0002/SY0002.BIN,BattleCardList.bin,356,E6,00 00,0,Power 4
+E,Oblivion,SYS/0002/SY0002.BIN,BattleCardList.bin,35A,EA,19,25,Base CP
+F,Ultima Weapon,SYS/0002/SY0002.BIN,BattleCardList.bin,360,F0,90 01,400,Power 1
+F,Ultima Weapon,SYS/0002/SY0002.BIN,BattleCardList.bin,362,F2,90 01,400,Power 2
+F,Ultima Weapon,SYS/0002/SY0002.BIN,BattleCardList.bin,364,F4,90 01,400,Power 3
+F,Ultima Weapon,SYS/0002/SY0002.BIN,BattleCardList.bin,366,F6,00 00,0,Power 4
+F,Ultima Weapon,SYS/0002/SY0002.BIN,BattleCardList.bin,36A,FA,1E,30,Base CP
+10,Diamond Dust,SYS/0002/SY0002.BIN,BattleCardList.bin,370,100,2C 01,300,Power 1
+10,Diamond Dust,SYS/0002/SY0002.BIN,BattleCardList.bin,372,102,2C 01,300,Power 2
+10,Diamond Dust,SYS/0002/SY0002.BIN,BattleCardList.bin,374,104,2C 01,300,Power 3
+10,Diamond Dust,SYS/0002/SY0002.BIN,BattleCardList.bin,376,106,00 00,0,Power 4
+10,Diamond Dust,SYS/0002/SY0002.BIN,BattleCardList.bin,37A,10A,19,25,Base CP
+11,One Winged Angel,SYS/0002/SY0002.BIN,BattleCardList.bin,380,110,96 00,150,Power 1
+11,One Winged Angel,SYS/0002/SY0002.BIN,BattleCardList.bin,382,112,96 00,150,Power 2
+11,One Winged Angel,SYS/0002/SY0002.BIN,BattleCardList.bin,384,114,58 02,600,Power 3
+11,One Winged Angel,SYS/0002/SY0002.BIN,BattleCardList.bin,386,116,00 00,0,Power 4
+11,One Winged Angel,SYS/0002/SY0002.BIN,BattleCardList.bin,38A,11A,19,25,Base CP
+12,Soul Eater,SYS/0002/SY0002.BIN,BattleCardList.bin,390,120,64 00,100,Power 1
+12,Soul Eater,SYS/0002/SY0002.BIN,BattleCardList.bin,392,122,64 00,100,Power 2
+12,Soul Eater,SYS/0002/SY0002.BIN,BattleCardList.bin,394,124,96 00,150,Power 3
+12,Soul Eater,SYS/0002/SY0002.BIN,BattleCardList.bin,396,126,96 00,150,Power 4
+12,Soul Eater,SYS/0002/SY0002.BIN,BattleCardList.bin,39A,12A,0A,10,Base CP
+13,Star Seeker,SYS/0002/SY0002.BIN,BattleCardList.bin,3A0,130,96 00,150,Power 1
+13,Star Seeker,SYS/0002/SY0002.BIN,BattleCardList.bin,3A2,132,64 00,100,Power 2
+13,Star Seeker,SYS/0002/SY0002.BIN,BattleCardList.bin,3A4,134,5E 01,350,Power 3
+13,Star Seeker,SYS/0002/SY0002.BIN,BattleCardList.bin,3A6,136,00 00,0,Power 4
+13,Star Seeker,SYS/0002/SY0002.BIN,BattleCardList.bin,3AA,13A,0F,15,Base CP
+14,Total Eclipse,SYS/0002/SY0002.BIN,BattleCardList.bin,3B0,140,64 00,100,Power 1
+14,Total Eclipse,SYS/0002/SY0002.BIN,BattleCardList.bin,3B2,142,FA 00,250,Power 2
+14,Total Eclipse,SYS/0002/SY0002.BIN,BattleCardList.bin,3B4,144,5E 01,350,Power 3
+14,Total Eclipse,SYS/0002/SY0002.BIN,BattleCardList.bin,3B6,146,00 00,0,Power 4
+14,Total Eclipse,SYS/0002/SY0002.BIN,BattleCardList.bin,3BA,14A,14,20,Base CP
+15,Midnight Roar,SYS/0002/SY0002.BIN,BattleCardList.bin,3C0,150,C8 00,200,Power 1
+15,Midnight Roar,SYS/0002/SY0002.BIN,BattleCardList.bin,3C2,152,5E 01,350,Power 2
+15,Midnight Roar,SYS/0002/SY0002.BIN,BattleCardList.bin,3C4,154,64 00,100,Power 3
+15,Midnight Roar,SYS/0002/SY0002.BIN,BattleCardList.bin,3C6,156,00 00,0,Power 4
+15,Midnight Roar,SYS/0002/SY0002.BIN,BattleCardList.bin,3CA,15A,14,20,Base CP
+16,Maverick Flare,SYS/0002/SY0002.BIN,BattleCardList.bin,3D0,160,64 00,100,Power 1
+16,Maverick Flare,SYS/0002/SY0002.BIN,BattleCardList.bin,3D2,162,C8 00,200,Power 2
+16,Maverick Flare,SYS/0002/SY0002.BIN,BattleCardList.bin,3D4,164,5E 01,350,Power 3
+16,Maverick Flare,SYS/0002/SY0002.BIN,BattleCardList.bin,3D6,166,00 00,0,Power 4
+16,Maverick Flare,SYS/0002/SY0002.BIN,BattleCardList.bin,3DA,16A,14,20,Base CP
+17,Two Become One,SYS/0002/SY0002.BIN,BattleCardList.bin,3E0,170,FA 00,250,Power 1
+17,Two Become One,SYS/0002/SY0002.BIN,BattleCardList.bin,3E2,172,2C 01,300,Power 2
+17,Two Become One,SYS/0002/SY0002.BIN,BattleCardList.bin,3E4,174,5E 01,350,Power 3
+17,Two Become One,SYS/0002/SY0002.BIN,BattleCardList.bin,3E6,176,00 00,0,Power 4
+17,Two Become One,SYS/0002/SY0002.BIN,BattleCardList.bin,3EA,17A,14,20,Base CP
+18,Bond of Flame,SYS/0002/SY0002.BIN,BattleCardList.bin,3F0,180,90 01,400,Power 1
+18,Bond of Flame,SYS/0002/SY0002.BIN,BattleCardList.bin,3F2,182,C8 00,200,Power 2
+18,Bond of Flame,SYS/0002/SY0002.BIN,BattleCardList.bin,3F4,184,2C 01,300,Power 3
+18,Bond of Flame,SYS/0002/SY0002.BIN,BattleCardList.bin,3F6,186,00 00,0,Power 4
+18,Bond of Flame,SYS/0002/SY0002.BIN,BattleCardList.bin,3FA,18A,19,25,Base CP
+19,Keyblade,SYS/0002/SY0002.BIN,BattleCardList.bin,400,190,64 00,100,Power 1
+19,Keyblade,SYS/0002/SY0002.BIN,BattleCardList.bin,402,192,64 00,100,Power 2
+19,Keyblade,SYS/0002/SY0002.BIN,BattleCardList.bin,404,194,96 00,150,Power 3
+19,Keyblade,SYS/0002/SY0002.BIN,BattleCardList.bin,406,196,00 00,0,Power 4
+19,Keyblade,SYS/0002/SY0002.BIN,BattleCardList.bin,40A,19A,00,0,Base CP
+1A,Fire,SYS/0002/SY0002.BIN,BattleCardList.bin,410,1A0,F4 01,500,Power 1
+1A,Fire,SYS/0002/SY0002.BIN,BattleCardList.bin,412,1A2,00 00,0,Power 2
+1A,Fire,SYS/0002/SY0002.BIN,BattleCardList.bin,414,1A4,00 00,0,Power 3
+1A,Fire,SYS/0002/SY0002.BIN,BattleCardList.bin,416,1A6,00 00,0,Power 4
+1A,Fire,SYS/0002/SY0002.BIN,BattleCardList.bin,41A,1AA,0F,15,Base CP
+1B,Blizzard,SYS/0002/SY0002.BIN,BattleCardList.bin,420,1B0,90 01,400,Power 1
+1B,Blizzard,SYS/0002/SY0002.BIN,BattleCardList.bin,422,1B2,00 00,0,Power 2
+1B,Blizzard,SYS/0002/SY0002.BIN,BattleCardList.bin,424,1B4,00 00,0,Power 3
+1B,Blizzard,SYS/0002/SY0002.BIN,BattleCardList.bin,426,1B6,00 00,0,Power 4
+1B,Blizzard,SYS/0002/SY0002.BIN,BattleCardList.bin,42A,1BA,0F,15,Base CP
+1C,Thunder,SYS/0002/SY0002.BIN,BattleCardList.bin,430,1C0,5E 01,350,Power 1
+1C,Thunder,SYS/0002/SY0002.BIN,BattleCardList.bin,432,1C2,00 00,0,Power 2
+1C,Thunder,SYS/0002/SY0002.BIN,BattleCardList.bin,434,1C4,00 00,0,Power 3
+1C,Thunder,SYS/0002/SY0002.BIN,BattleCardList.bin,436,1C6,00 00,0,Power 4
+1C,Thunder,SYS/0002/SY0002.BIN,BattleCardList.bin,43A,1CA,0F,15,Base CP
+1D,Cure,SYS/0002/SY0002.BIN,BattleCardList.bin,440,1D0,F4 01,500,Power 1
+1D,Cure,SYS/0002/SY0002.BIN,BattleCardList.bin,442,1D2,00 00,0,Power 2
+1D,Cure,SYS/0002/SY0002.BIN,BattleCardList.bin,444,1D4,00 00,0,Power 3
+1D,Cure,SYS/0002/SY0002.BIN,BattleCardList.bin,446,1D6,00 00,0,Power 4
+1D,Cure,SYS/0002/SY0002.BIN,BattleCardList.bin,44A,1DA,19,25,Base CP
+1E,Gravity,SYS/0002/SY0002.BIN,BattleCardList.bin,450,1E0,14 00,20,Power 1
+1E,Gravity,SYS/0002/SY0002.BIN,BattleCardList.bin,452,1E2,00 00,0,Power 2
+1E,Gravity,SYS/0002/SY0002.BIN,BattleCardList.bin,454,1E4,00 00,0,Power 3
+1E,Gravity,SYS/0002/SY0002.BIN,BattleCardList.bin,456,1E6,00 00,0,Power 4
+1E,Gravity,SYS/0002/SY0002.BIN,BattleCardList.bin,45A,1EA,14,20,Base CP
+1F,Stop,SYS/0002/SY0002.BIN,BattleCardList.bin,460,1F0,28 23,9000,Power 1
+1F,Stop,SYS/0002/SY0002.BIN,BattleCardList.bin,462,1F2,00 00,0,Power 2
+1F,Stop,SYS/0002/SY0002.BIN,BattleCardList.bin,464,1F4,00 00,0,Power 3
+1F,Stop,SYS/0002/SY0002.BIN,BattleCardList.bin,466,1F6,00 00,0,Power 4
+1F,Stop,SYS/0002/SY0002.BIN,BattleCardList.bin,46A,1FA,14,20,Base CP
+20,Aero,SYS/0002/SY0002.BIN,BattleCardList.bin,470,200,2C 01,300,Power 1
+20,Aero,SYS/0002/SY0002.BIN,BattleCardList.bin,472,202,00 00,0,Power 2
+20,Aero,SYS/0002/SY0002.BIN,BattleCardList.bin,474,204,00 00,0,Power 3
+20,Aero,SYS/0002/SY0002.BIN,BattleCardList.bin,476,206,00 00,0,Power 4
+20,Aero,SYS/0002/SY0002.BIN,BattleCardList.bin,47A,20A,14,20,Base CP
+21,Wind,SYS/0002/SY0002.BIN,BattleCardList.bin,480,210,2C 01,300,Power 1
+21,Wind,SYS/0002/SY0002.BIN,BattleCardList.bin,482,212,00 00,0,Power 2
+21,Wind,SYS/0002/SY0002.BIN,BattleCardList.bin,484,214,00 00,0,Power 3
+21,Wind,SYS/0002/SY0002.BIN,BattleCardList.bin,486,216,00 00,0,Power 4
+21,Wind,SYS/0002/SY0002.BIN,BattleCardList.bin,48A,21A,00,0,Base CP
+22,Hunny,SYS/0002/SY0002.BIN,BattleCardList.bin,490,220,2C 01,300,Power 1
+22,Hunny,SYS/0002/SY0002.BIN,BattleCardList.bin,492,222,00 00,0,Power 2
+22,Hunny,SYS/0002/SY0002.BIN,BattleCardList.bin,494,224,00 00,0,Power 3
+22,Hunny,SYS/0002/SY0002.BIN,BattleCardList.bin,496,226,00 00,0,Power 4
+22,Hunny,SYS/0002/SY0002.BIN,BattleCardList.bin,49A,22A,00,0,Base CP
+23,Simba,SYS/0002/SY0002.BIN,BattleCardList.bin,4A0,230,2C 01,300,Power 1
+23,Simba,SYS/0002/SY0002.BIN,BattleCardList.bin,4A2,232,00 00,0,Power 2
+23,Simba,SYS/0002/SY0002.BIN,BattleCardList.bin,4A4,234,00 00,0,Power 3
+23,Simba,SYS/0002/SY0002.BIN,BattleCardList.bin,4A6,236,00 00,0,Power 4
+23,Simba,SYS/0002/SY0002.BIN,BattleCardList.bin,4AA,23A,14,20,Base CP
+24,Genie,SYS/0002/SY0002.BIN,BattleCardList.bin,4B0,240,58 02,600,Power 1
+24,Genie,SYS/0002/SY0002.BIN,BattleCardList.bin,4B2,242,28 00,40,Power 2
+24,Genie,SYS/0002/SY0002.BIN,BattleCardList.bin,4B4,244,C0 5D,24000,Power 3
+24,Genie,SYS/0002/SY0002.BIN,BattleCardList.bin,4B6,246,01 00,1,Power 4
+24,Genie,SYS/0002/SY0002.BIN,BattleCardList.bin,4BA,24A,14,20,Base CP
+25,Bambi,SYS/0002/SY0002.BIN,BattleCardList.bin,4C0,250,0A 00,10,Power 1
+25,Bambi,SYS/0002/SY0002.BIN,BattleCardList.bin,4C2,252,00 00,0,Power 2
+25,Bambi,SYS/0002/SY0002.BIN,BattleCardList.bin,4C4,254,00 00,0,Power 3
+25,Bambi,SYS/0002/SY0002.BIN,BattleCardList.bin,4C6,256,00 00,0,Power 4
+25,Bambi,SYS/0002/SY0002.BIN,BattleCardList.bin,4CA,25A,14,20,Base CP
+26,Dumbo,SYS/0002/SY0002.BIN,BattleCardList.bin,4D0,260,96 00,150,Power 1
+26,Dumbo,SYS/0002/SY0002.BIN,BattleCardList.bin,4D2,262,00 00,0,Power 2
+26,Dumbo,SYS/0002/SY0002.BIN,BattleCardList.bin,4D4,264,00 00,0,Power 3
+26,Dumbo,SYS/0002/SY0002.BIN,BattleCardList.bin,4D6,266,98 3A,15000,Power 4
+26,Dumbo,SYS/0002/SY0002.BIN,BattleCardList.bin,4DA,26A,14,20,Base CP
+27,Tinker Bell,SYS/0002/SY0002.BIN,BattleCardList.bin,4E0,270,07 00,7,Power 1
+27,Tinker Bell,SYS/0002/SY0002.BIN,BattleCardList.bin,4E2,272,05 00,5,Power 2
+27,Tinker Bell,SYS/0002/SY0002.BIN,BattleCardList.bin,4E4,274,1E 00,30,Power 3
+27,Tinker Bell,SYS/0002/SY0002.BIN,BattleCardList.bin,4E6,276,28 23,9000,Power 4
+27,Tinker Bell,SYS/0002/SY0002.BIN,BattleCardList.bin,4EA,27A,14,20,Base CP
+28,Mushu,SYS/0002/SY0002.BIN,BattleCardList.bin,4F0,280,64 00,100,Power 1
+28,Mushu,SYS/0002/SY0002.BIN,BattleCardList.bin,4F2,282,00 00,0,Power 2
+28,Mushu,SYS/0002/SY0002.BIN,BattleCardList.bin,4F4,284,00 00,0,Power 3
+28,Mushu,SYS/0002/SY0002.BIN,BattleCardList.bin,4F6,286,0A 00,10,Power 4
+28,Mushu,SYS/0002/SY0002.BIN,BattleCardList.bin,4FA,28A,19,25,Base CP
+29,Cloud,SYS/0002/SY0002.BIN,BattleCardList.bin,500,290,F4 01,500,Power 1
+29,Cloud,SYS/0002/SY0002.BIN,BattleCardList.bin,502,292,F4 01,500,Power 2
+29,Cloud,SYS/0002/SY0002.BIN,BattleCardList.bin,504,294,00 00,0,Power 3
+29,Cloud,SYS/0002/SY0002.BIN,BattleCardList.bin,506,296,00 00,0,Power 4
+29,Cloud,SYS/0002/SY0002.BIN,BattleCardList.bin,50A,29A,19,25,Base CP
+2A,Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,510,2A0,00 00,0,Power 1
+2A,Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,512,2A2,00 00,0,Power 2
+2A,Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,514,2A4,00 00,0,Power 3
+2A,Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,516,2A6,00 00,0,Power 4
+2A,Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,51A,2AA,1E,30,Base CP
+2B,Hi-Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,520,2B0,00 00,0,Power 1
+2B,Hi-Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,522,2B2,00 00,0,Power 2
+2B,Hi-Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,524,2B4,00 00,0,Power 3
+2B,Hi-Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,526,2B6,00 00,0,Power 4
+2B,Hi-Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,52A,2BA,28,40,Base CP
+2C,Mega-Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,530,2C0,00 00,0,Power 1
+2C,Mega-Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,532,2C2,00 00,0,Power 2
+2C,Mega-Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,534,2C4,00 00,0,Power 3
+2C,Mega-Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,536,2C6,00 00,0,Power 4
+2C,Mega-Potion,SYS/0002/SY0002.BIN,BattleCardList.bin,53A,2CA,2D,45,Base CP
+2D,Ether,SYS/0002/SY0002.BIN,BattleCardList.bin,540,2D0,00 00,0,Power 1
+2D,Ether,SYS/0002/SY0002.BIN,BattleCardList.bin,542,2D2,00 00,0,Power 2
+2D,Ether,SYS/0002/SY0002.BIN,BattleCardList.bin,544,2D4,00 00,0,Power 3
+2D,Ether,SYS/0002/SY0002.BIN,BattleCardList.bin,546,2D6,00 00,0,Power 4
+2D,Ether,SYS/0002/SY0002.BIN,BattleCardList.bin,54A,2DA,14,20,Base CP
+2E,Mega-Ether,SYS/0002/SY0002.BIN,BattleCardList.bin,550,2E0,00 00,0,Power 1
+2E,Mega-Ether,SYS/0002/SY0002.BIN,BattleCardList.bin,552,2E2,00 00,0,Power 2
+2E,Mega-Ether,SYS/0002/SY0002.BIN,BattleCardList.bin,554,2E4,00 00,0,Power 3
+2E,Mega-Ether,SYS/0002/SY0002.BIN,BattleCardList.bin,556,2E6,00 00,0,Power 4
+2E,Mega-Ether,SYS/0002/SY0002.BIN,BattleCardList.bin,55A,2EA,23,35,Base CP
+2F,Elixir,SYS/0002/SY0002.BIN,BattleCardList.bin,560,2F0,00 00,0,Power 1
+2F,Elixir,SYS/0002/SY0002.BIN,BattleCardList.bin,562,2F2,00 00,0,Power 2
+2F,Elixir,SYS/0002/SY0002.BIN,BattleCardList.bin,564,2F4,00 00,0,Power 3
+2F,Elixir,SYS/0002/SY0002.BIN,BattleCardList.bin,566,2F6,00 00,0,Power 4
+2F,Elixir,SYS/0002/SY0002.BIN,BattleCardList.bin,56A,2FA,2D,45,Base CP
+30,Megalixir,SYS/0002/SY0002.BIN,BattleCardList.bin,570,300,00 00,0,Power 1
+30,Megalixir,SYS/0002/SY0002.BIN,BattleCardList.bin,572,302,00 00,0,Power 2
+30,Megalixir,SYS/0002/SY0002.BIN,BattleCardList.bin,574,304,00 00,0,Power 3
+30,Megalixir,SYS/0002/SY0002.BIN,BattleCardList.bin,576,306,00 00,0,Power 4
+30,Megalixir,SYS/0002/SY0002.BIN,BattleCardList.bin,57A,30A,32,50,Base CP
+31,Donald Duck,SYS/0002/SY0002.BIN,BattleCardList.bin,580,310,F4 01,500,Power 1
+31,Donald Duck,SYS/0002/SY0002.BIN,BattleCardList.bin,582,312,90 01,400,Power 2
+31,Donald Duck,SYS/0002/SY0002.BIN,BattleCardList.bin,584,314,5E 01,350,Power 3
+31,Donald Duck,SYS/0002/SY0002.BIN,BattleCardList.bin,586,316,F4 01,500,Power 4
+31,Donald Duck,SYS/0002/SY0002.BIN,BattleCardList.bin,58A,31A,00,0,Base CP
+32,Goofy,SYS/0002/SY0002.BIN,BattleCardList.bin,590,320,96 00,150,Power 1
+32,Goofy,SYS/0002/SY0002.BIN,BattleCardList.bin,592,322,00 00,0,Power 2
+32,Goofy,SYS/0002/SY0002.BIN,BattleCardList.bin,594,324,00 00,0,Power 3
+32,Goofy,SYS/0002/SY0002.BIN,BattleCardList.bin,596,326,28 23,9000,Power 4
+32,Goofy,SYS/0002/SY0002.BIN,BattleCardList.bin,59A,32A,00,0,Base CP
+33,Aladdin,SYS/0002/SY0002.BIN,BattleCardList.bin,5A0,330,C8 00,200,Power 1
+33,Aladdin,SYS/0002/SY0002.BIN,BattleCardList.bin,5A2,332,00 00,0,Power 2
+33,Aladdin,SYS/0002/SY0002.BIN,BattleCardList.bin,5A4,334,00 00,0,Power 3
+33,Aladdin,SYS/0002/SY0002.BIN,BattleCardList.bin,5A6,336,00 00,0,Power 4
+33,Aladdin,SYS/0002/SY0002.BIN,BattleCardList.bin,5AA,33A,00,0,Base CP
+34,Ariel,SYS/0002/SY0002.BIN,BattleCardList.bin,5B0,340,C2 01,450,Power 1
+34,Ariel,SYS/0002/SY0002.BIN,BattleCardList.bin,5B2,342,F4 01,500,Power 2
+34,Ariel,SYS/0002/SY0002.BIN,BattleCardList.bin,5B4,344,00 00,0,Power 3
+34,Ariel,SYS/0002/SY0002.BIN,BattleCardList.bin,5B6,346,00 00,0,Power 4
+34,Ariel,SYS/0002/SY0002.BIN,BattleCardList.bin,5BA,34A,00,0,Base CP
+35,Jack,SYS/0002/SY0002.BIN,BattleCardList.bin,5C0,350,58 02,600,Power 1
+35,Jack,SYS/0002/SY0002.BIN,BattleCardList.bin,5C2,352,F4 01,500,Power 2
+35,Jack,SYS/0002/SY0002.BIN,BattleCardList.bin,5C4,354,90 01,400,Power 3
+35,Jack,SYS/0002/SY0002.BIN,BattleCardList.bin,5C6,356,0A 00,10,Power 4
+35,Jack,SYS/0002/SY0002.BIN,BattleCardList.bin,5CA,35A,00,0,Base CP
+36,Peter Pan,SYS/0002/SY0002.BIN,BattleCardList.bin,5D0,360,C8 00,200,Power 1
+36,Peter Pan,SYS/0002/SY0002.BIN,BattleCardList.bin,5D2,362,00 00,0,Power 2
+36,Peter Pan,SYS/0002/SY0002.BIN,BattleCardList.bin,5D4,364,00 00,0,Power 3
+36,Peter Pan,SYS/0002/SY0002.BIN,BattleCardList.bin,5D6,366,00 00,0,Power 4
+36,Peter Pan,SYS/0002/SY0002.BIN,BattleCardList.bin,5DA,36A,00,0,Base CP
+37,The Beast,SYS/0002/SY0002.BIN,BattleCardList.bin,5E0,370,2C 01,300,Power 1
+37,The Beast,SYS/0002/SY0002.BIN,BattleCardList.bin,5E2,372,C8 00,200,Power 2
+37,The Beast,SYS/0002/SY0002.BIN,BattleCardList.bin,5E4,374,F4 01,500,Power 3
+37,The Beast,SYS/0002/SY0002.BIN,BattleCardList.bin,5E6,376,64 00,100,Power 4
+37,The Beast,SYS/0002/SY0002.BIN,BattleCardList.bin,5EA,37A,00,0,Base CP
+38,The King,SYS/0002/SY0002.BIN,BattleCardList.bin,5F0,380,64 00,100,Power 1
+38,The King,SYS/0002/SY0002.BIN,BattleCardList.bin,5F2,382,00 00,0,Power 2
+38,The King,SYS/0002/SY0002.BIN,BattleCardList.bin,5F4,384,00 00,0,Power 3
+38,The King,SYS/0002/SY0002.BIN,BattleCardList.bin,5F6,386,14 00,20,Power 4
+38,The King,SYS/0002/SY0002.BIN,BattleCardList.bin,5FA,38A,00,0,Base CP
+39,Pluto,SYS/0002/SY0002.BIN,BattleCardList.bin,600,390,00 00,0,Power 1
+39,Pluto,SYS/0002/SY0002.BIN,BattleCardList.bin,602,392,00 00,0,Power 2
+39,Pluto,SYS/0002/SY0002.BIN,BattleCardList.bin,604,394,00 00,0,Power 3
+39,Pluto,SYS/0002/SY0002.BIN,BattleCardList.bin,606,396,00 00,0,Power 4
+39,Pluto,SYS/0002/SY0002.BIN,BattleCardList.bin,60A,39A,00,0,Base CP
+3A,Guard Armor (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,610,3A0,00 00,0,Power 1
+3A,Guard Armor (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,612,3A2,00 00,0,Power 2
+3A,Guard Armor (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,614,3A4,00 00,0,Power 3
+3A,Guard Armor (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,616,3A6,00 00,0,Power 4
+3A,Guard Armor (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,61A,3AA,00,0,Base CP
+3B,Trickmaster (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,620,3B0,00 00,0,Power 1
+3B,Trickmaster (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,622,3B2,00 00,0,Power 2
+3B,Trickmaster (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,624,3B4,00 00,0,Power 3
+3B,Trickmaster (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,626,3B6,00 00,0,Power 4
+3B,Trickmaster (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,62A,3BA,00,0,Base CP
+3C,Jafar (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,630,3C0,00 00,0,Power 1
+3C,Jafar (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,632,3C2,00 00,0,Power 2
+3C,Jafar (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,634,3C4,00 00,0,Power 3
+3C,Jafar (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,636,3C6,00 00,0,Power 4
+3C,Jafar (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,63A,3CA,00,0,Base CP
+3D,Oogie Boogie (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,640,3D0,00 00,0,Power 1
+3D,Oogie Boogie (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,642,3D2,00 00,0,Power 2
+3D,Oogie Boogie (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,644,3D4,00 00,0,Power 3
+3D,Oogie Boogie (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,646,3D6,00 00,0,Power 4
+3D,Oogie Boogie (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,64A,3DA,00,0,Base CP
+3E,Parasite Cage (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,650,3E0,00 00,0,Power 1
+3E,Parasite Cage (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,652,3E2,00 00,0,Power 2
+3E,Parasite Cage (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,654,3E4,00 00,0,Power 3
+3E,Parasite Cage (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,656,3E6,00 00,0,Power 4
+3E,Parasite Cage (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,65A,3EA,00,0,Base CP
+3F,Ursula (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,660,3F0,00 00,0,Power 1
+3F,Ursula (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,662,3F2,00 00,0,Power 2
+3F,Ursula (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,664,3F4,00 00,0,Power 3
+3F,Ursula (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,666,3F6,00 00,0,Power 4
+3F,Ursula (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,66A,3FA,00,0,Base CP
+40,Dragon Maleficent (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,670,400,00 00,0,Power 1
+40,Dragon Maleficent (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,672,402,00 00,0,Power 2
+40,Dragon Maleficent (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,674,404,00 00,0,Power 3
+40,Dragon Maleficent (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,676,406,00 00,0,Power 4
+40,Dragon Maleficent (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,67A,40A,00,0,Base CP
+41,Darkside (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,680,410,00 00,0,Power 1
+41,Darkside (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,682,412,00 00,0,Power 2
+41,Darkside (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,684,414,00 00,0,Power 3
+41,Darkside (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,686,416,00 00,0,Power 4
+41,Darkside (Gimmick Card),SYS/0002/SY0002.BIN,BattleCardList.bin,68A,41A,00,0,Base CP
+42,Repliku Soul Eater,SYS/0002/SY0002.BIN,BattleCardList.bin,690,420,00 00,0,Power 1
+42,Repliku Soul Eater,SYS/0002/SY0002.BIN,BattleCardList.bin,692,422,00 00,0,Power 2
+42,Repliku Soul Eater,SYS/0002/SY0002.BIN,BattleCardList.bin,694,424,00 00,0,Power 3
+42,Repliku Soul Eater,SYS/0002/SY0002.BIN,BattleCardList.bin,696,426,00 00,0,Power 4
+42,Repliku Soul Eater,SYS/0002/SY0002.BIN,BattleCardList.bin,69A,42A,00,0,Base CP
+43,Zexion,SYS/0002/SY0002.BIN,BattleCardList.bin,6A0,430,00 00,0,Power 1
+43,Zexion,SYS/0002/SY0002.BIN,BattleCardList.bin,6A2,432,00 00,0,Power 2
+43,Zexion,SYS/0002/SY0002.BIN,BattleCardList.bin,6A4,434,00 00,0,Power 3
+43,Zexion,SYS/0002/SY0002.BIN,BattleCardList.bin,6A6,436,00 00,0,Power 4
+43,Zexion,SYS/0002/SY0002.BIN,BattleCardList.bin,6AA,43A,00,0,Base CP
+44,Shadow (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,6BA,44A,19,25,Base CP
+45,Soldier (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,6CA,45A,0F,15,Base CP
+46,Large Body (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,6DA,46A,28,40,Base CP
+47,Red Nocturne (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,6EA,47A,14,20,Base CP
+48,Blue Rhapsody (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,6FA,48A,14,20,Base CP
+49,Yellow Opera (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,70A,49A,14,20,Base CP
+4A,Green Requiem (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,71A,4AA,14,20,Base CP
+4B,Powerwild (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,72A,4BA,1E,30,Base CP
+4C,Bouncywild (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,73A,4CA,0A,10,Base CP
+4D,Air Soldier (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,74A,4DA,1E,30,Base CP
+4E,Bandit (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,75A,4EA,1E,30,Base CP
+4F,Fat Bandit (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,76A,4FA,28,40,Base CP
+50,Barrel Spider (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,77A,50A,1E,30,Base CP
+51,Search Ghost (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,78A,51A,23,35,Base CP
+52,Sea Neon (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,79A,52A,14,20,Base CP
+53,Screwdiver (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,7AA,53A,0F,15,Base CP
+54,Aquatank (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,7BA,54A,1E,30,Base CP
+55,Wight Knight (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,7CA,55A,0F,15,Base CP
+56,Gargoyle (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,7DA,56A,1E,30,Base CP
+57,Pirate (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,7EA,57A,1E,30,Base CP
+58,Air Pirate (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,7FA,58A,1E,30,Base CP
+59,Darkball (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,80A,59A,28,40,Base CP
+5A,Defender (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,81A,5AA,1E,30,Base CP
+5B,Wyvern (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,82A,5BA,14,20,Base CP
+5C,Wizard (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,83A,5CA,1E,30,Base CP
+5D,Neoshadow (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,84A,5DA,1E,30,Base CP
+5E,White Mushroom (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,85A,5EA,28,40,Base CP
+5F,Black Fungus (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,86A,5FA,28,40,Base CP
+60,Creeper Plant (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,87A,60A,23,35,Base CP
+61,Tornado Step (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,88A,61A,1E,30,Base CP
+62,Crescendo (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,89A,62A,1E,30,Base CP
+63,Guard Armor (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,8AA,63A,1E,30,Base CP
+64,Parasite Cage (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,8BA,64A,3C,60,Base CP
+65,Trickmaster (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,8CA,65A,19,25,Base CP
+66,Darkside (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,8DA,66A,63,99,Base CP
+67,Card Soldier (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,8EA,67A,37,55,Base CP
+68,Hades (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,8FA,68A,28,40,Base CP
+69,Jafar (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,90A,69A,41,65,Base CP
+6A,Oogie Boogie (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,91A,6AA,28,40,Base CP
+6B,Ursula (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,92A,6BA,32,50,Base CP
+6C,Hook (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,93A,6CA,23,35,Base CP
+6D,Dragon Maleficent (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,94A,6DA,46,70,Base CP
+6E,Riku (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,95A,6EA,50,80,Base CP
+6F,Axel (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,96A,6FA,4B,75,Base CP
+70,Larxene (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,97A,70A,41,65,Base CP
+71,Vexen (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,98A,71A,3C,60,Base CP
+72,Marluxia (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,99A,72A,63,99,Base CP
+73,Lexaeus (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,9AA,73A,63,99,Base CP
+74,Ansem (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,9BA,74A,28,40,Base CP
+75,Zexion (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,9CA,75A,41,65,Base CP
+76,Xemnas (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,9DA,76A,41,65,Base CP
+77,Xigbar (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,9EA,77A,50,80,Base CP
+78,Xaldin (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,9FA,78A,41,65,Base CP
+79,Saix (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,A0A,79A,50,80,Base CP
+7A,Demyx (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,A1A,7AA,50,80,Base CP
+7B,Luxord (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,A2A,7BA,63,99,Base CP
+7C,Roxas (Enemy Card),SYS/0002/SY0002.BIN,BattleCardList.bin,A3A,7CA,63,99,Base CP
+7D,Gold Card,SYS/0002/SY0002.BIN,BattleCardList.bin,A4A,7DA,63,99,Base CP
+7E,Platinum Card,SYS/0002/SY0002.BIN,BattleCardList.bin,A5A,7EA,63,99,Base CP

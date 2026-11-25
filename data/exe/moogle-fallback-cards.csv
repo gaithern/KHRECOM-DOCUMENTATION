@@ -1,0 +1,4 @@
+Category,EGS Address,Steam Address,Value (HEX),Card,Notes
+Attack,3A5F95,3A6425,01,Kingdom Key,"Added to a register that holds 0, so the byte is the card"
+Magic,3A5FC8,3A6458,1D 00 00 00,Cure,Card
+Item,3A5FC3,3A6453,2A 00 00 00,Potion,Card

@@ -1,0 +1,119 @@
+Story,World,Room,File,Room Value,Offset,Value (HEX),Sleight,Shows Popup
+Riku,Castle Oblivion Halls,-,WORLD00/1100/WO001100.ABC,1100,20B8,5F 00 00 00,???,No
+Riku,Castle Oblivion Halls,-,WORLD00/1100/WO001100.ABC,1100,20E0,60 00 00 00,???,No
+Riku,Castle Oblivion Halls,-,WORLD00/1100/WO001100.ABC,1100,2108,61 00 00 00,???,No
+Riku,Castle Oblivion Halls,-,WORLD00/1100/WO001100.ABC,1100,2130,66 00 00 00,???,No
+Riku,Castle Oblivion Halls,-,WORLD00/1100/WO001100.ABC,1100,2158,67 00 00 00,???,No
+Riku,Castle Oblivion Halls,-,WORLD00/1100/WO001100.ABC,1100,2180,68 00 00 00,???,No
+Riku,Castle Oblivion Halls,-,WORLD00/1100/WO001100.ABC,1100,21A8,69 00 00 00,???,No
+Riku,Castle Oblivion Halls,-,WORLD00/1100/WO001100.ABC,1100,21D0,6A 00 00 00,???,No
+Riku,Castle Oblivion Halls,-,WORLD00/1100/WO001100.ABC,1100,21F8,6B 00 00 00,???,No
+Sora,Castle Oblivion Halls,-,WORLD00/2001/WO002001.ABC,2001,308,44 00 00 00,Magic LV2,No
+Sora,Castle Oblivion Halls,-,WORLD00/2001/WO002001.ABC,2001,330,45 00 00 00,Magic LV3,No
+Sora,Castle Oblivion Halls,-,WORLD00/2001/WO002001.ABC,2001,358,47 00 00 00,Goofy Tornado LV2,No
+Sora,Castle Oblivion Halls,-,WORLD00/2001/WO002001.ABC,2001,380,48 00 00 00,Goofy Tornado LV3,No
+Sora,Castle Oblivion Halls,-,WORLD00/2001/WO002001.ABC,2001,3A8,49 00 00 00,Goofy Smash,No
+Sora,Castle Oblivion Halls,-,WORLD00/2001/WO002001.ABC,2001,3D0,4A 00 00 00,Wild Crush,No
+Sora,Castle Oblivion Halls,-,WORLD00/2016/WO002016.ABC,2016,6B8,26 00 00 00,Magnet Spiral,Yes
+Sora,Castle Oblivion Halls,-,WORLD00/2020/WO002020.ABC,2020,6E0,23 00 00 00,Freeze,Yes
+Riku,Castle Oblivion Halls,-,WORLD00/2102/WO002102.ABC,2102,810,6D 00 00 00,???,Yes
+Riku,Castle Oblivion Halls,-,WORLD00/2103/WO002103.ABC,2103,2E8,62 00 00 00,???,No
+Riku,Castle Oblivion Halls,-,WORLD00/2103/WO002103.ABC,2103,310,63 00 00 00,???,No
+Riku,Castle Oblivion Halls,-,WORLD00/2103/WO002103.ABC,2103,338,64 00 00 00,???,No
+Riku,Castle Oblivion Halls,-,WORLD00/2103/WO002103.ABC,2103,360,65 00 00 00,???,No
+Sora,Traverse Town,-,WORLD01/2003/WO012003.ABC,2003,B38,55 00 00 00,Lucky Bounty LV2,No
+Sora,Traverse Town,-,WORLD01/2003/WO012003.ABC,2003,B60,56 00 00 00,Lucky Bounty LV3,No
+Sora,Traverse Town,-,WORLD01/2003/WO012003.ABC,2003,F90,55 00 00 00,Lucky Bounty LV2,No
+Sora,Traverse Town,-,WORLD01/2003/WO012003.ABC,2003,FB8,56 00 00 00,Lucky Bounty LV3,No
+Sora,Agrabah,Entrance,WORLD02/2000/WO022000.ABC,2000,1128,4B 00 00 00,Sandstorm LV2,No
+Sora,Agrabah,Entrance,WORLD02/2000/WO022000.ABC,2000,1150,4C 00 00 00,Sandstorm LV3,No
+Sora,Agrabah,Entrance,WORLD02/2000/WO022000.ABC,2000,14A8,4B 00 00 00,Sandstorm LV2,No
+Sora,Agrabah,Entrance,WORLD02/2000/WO022000.ABC,2000,14D0,4C 00 00 00,Sandstorm LV3,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,2C8,06 00 00 00,Stun Impact,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,2F0,04 00 00 00,Sliding Dash,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,318,08 00 00 00,Strike Raid,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,340,05 00 00 00,Blitz,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,368,09 00 00 00,Sonic Blade,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,390,07 00 00 00,Zantetsuken,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,3B8,0A 00 00 00,Ars Arcanum,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,3E0,0B 00 00 00,Ragnarok,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,408,0D 00 00 00,Fira,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,430,14 00 00 00,Firaga,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,458,0E 00 00 00,Blizzara,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,480,15 00 00 00,Blizzaga,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,4A8,0F 00 00 00,Thundara,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,4D0,16 00 00 00,Thundaga,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,4F8,10 00 00 00,Cura,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,520,17 00 00 00,Curaga,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,548,11 00 00 00,Gravira,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,570,18 00 00 00,Graviga,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,598,13 00 00 00,Aerora,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,5C0,1A 00 00 00,Aeroga,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,5E8,1B 00 00 00,Fire Raid,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,610,1C 00 00 00,Blizzard Raid,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,638,1D 00 00 00,Thunder Raid,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,660,44 00 00 00,Magic LV2,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,688,45 00 00 00,Magic LV3,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,6B0,47 00 00 00,Goofy Tornado LV2,No
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,6D8,48 00 00 00,Goofy Tornado LV3,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,498,06 00 00 00,Stun Impact,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,4C0,04 00 00 00,Sliding Dash,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,4E8,08 00 00 00,Strike Raid,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,510,05 00 00 00,Blitz,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,538,09 00 00 00,Sonic Blade,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,560,07 00 00 00,Zantetsuken,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,588,0A 00 00 00,Ars Arcanum,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,5B0,0B 00 00 00,Ragnarok,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,5D8,0D 00 00 00,Fira,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,600,14 00 00 00,Firaga,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,628,0E 00 00 00,Blizzara,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,650,15 00 00 00,Blizzaga,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,678,0F 00 00 00,Thundara,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,6A0,16 00 00 00,Thundaga,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,6C8,10 00 00 00,Cura,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,6F0,17 00 00 00,Curaga,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,718,11 00 00 00,Gravira,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,740,18 00 00 00,Graviga,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,768,13 00 00 00,Aerora,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,790,1A 00 00 00,Aeroga,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,7B8,1B 00 00 00,Fire Raid,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,7E0,1C 00 00 00,Blizzard Raid,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,808,1D 00 00 00,Thunder Raid,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,830,44 00 00 00,Magic LV2,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,858,45 00 00 00,Magic LV3,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,880,47 00 00 00,Goofy Tornado LV2,No
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,8A8,48 00 00 00,Goofy Tornado LV3,No
+Sora,Monstro,Room of Beginnings,WORLD05/2001/WO052001.ABC,2001,2258,5A 00 00 00,High Jump,Yes
+Sora,Monstro,Room of Beginnings,WORLD05/2001/WO052001.ABC,2001,2650,5A 00 00 00,High Jump,Yes
+Sora,Halloween Town,Entrance,WORLD06/2000/WO062000.ABC,2000,1F08,4D 00 00 00,Surprise! LV2,No
+Sora,Halloween Town,Entrance,WORLD06/2000/WO062000.ABC,2000,1F30,4E 00 00 00,Surprise! LV3,No
+Sora,Halloween Town,Entrance,WORLD06/2000/WO062000.ABC,2000,2248,4D 00 00 00,Surprise! LV2,No
+Sora,Halloween Town,Entrance,WORLD06/2000/WO062000.ABC,2000,2270,4E 00 00 00,Surprise! LV3,No
+Sora,Halloween Town,-,WORLD06/2001/WO062001.ABC,2001,1410,2F 00 00 00,Terror,Yes
+Sora,Halloween Town,-,WORLD06/2001/WO062001.ABC,2001,1788,2F 00 00 00,Terror,Yes
+Sora,Atlantica,Room of Guidance,WORLD07/2002/WO072002.ABC,2002,29E8,4F 00 00 00,Spiral Wave LV2,No
+Sora,Atlantica,Room of Guidance,WORLD07/2002/WO072002.ABC,2002,2A10,50 00 00 00,Spiral Wave LV3,No
+Sora,Atlantica,Room of Guidance,WORLD07/2002/WO072002.ABC,2002,2E30,4F 00 00 00,Spiral Wave LV2,No
+Sora,Atlantica,Room of Guidance,WORLD07/2002/WO072002.ABC,2002,2E58,50 00 00 00,Spiral Wave LV3,No
+Sora,Neverland,Entrance,WORLD08/2000/WO082000.ABC,2000,18D0,5B 00 00 00,Glide,Yes
+Sora,Neverland,Entrance,WORLD08/2000/WO082000.ABC,2000,1D48,5B 00 00 00,Glide,Yes
+Sora,Neverland,Room of Beginnings,WORLD08/2001/WO082001.ABC,2001,3A48,51 00 00 00,Hummingbird LV2,No
+Sora,Neverland,Room of Beginnings,WORLD08/2001/WO082001.ABC,2001,3A70,52 00 00 00,Hummingbird LV3,No
+Sora,Neverland,Room of Beginnings,WORLD08/2001/WO082001.ABC,2001,3E68,51 00 00 00,Hummingbird LV2,No
+Sora,Neverland,Room of Beginnings,WORLD08/2001/WO082001.ABC,2001,3E90,52 00 00 00,Hummingbird LV3,No
+Sora,Hollow Bastion,Room of Guidance,WORLD09/2002/WO092002.ABC,2002,3538,53 00 00 00,Furious Volley LV2,No
+Sora,Hollow Bastion,Room of Guidance,WORLD09/2002/WO092002.ABC,2002,3560,54 00 00 00,Furious Volley LV3,No
+Sora,Hollow Bastion,Room of Guidance,WORLD09/2002/WO092002.ABC,2002,3AC0,53 00 00 00,Furious Volley LV2,No
+Sora,Hollow Bastion,Room of Guidance,WORLD09/2002/WO092002.ABC,2002,3AE8,54 00 00 00,Furious Volley LV3,No
+Sora,100 Acre Wood,-,WORLD10/2101/WO102101.ABC,2101,18A0,2E 00 00 00,Confuse,Yes
+Sora,100 Acre Wood,-,WORLD10/2101/WO102101.ABC,2101,1BE8,2E 00 00 00,Confuse,Yes
+Sora,100 Acre Wood,-,WORLD10/2201/WO102201.ABC,2201,1588,20 00 00 00,Firaga Burst,Yes
+Sora,100 Acre Wood,-,WORLD10/2201/WO102201.ABC,2201,18D0,20 00 00 00,Firaga Burst,Yes
+Sora,100 Acre Wood,-,WORLD10/2501/WO102501.ABC,2501,1630,3A 00 00 00,Idyll Romp,Yes
+Sora,100 Acre Wood,-,WORLD10/2501/WO102501.ABC,2501,1978,3A 00 00 00,Idyll Romp,Yes
+Sora,100 Acre Wood,-,WORLD10/2601/WO102601.ABC,2601,558,43 00 00 00,Cross-slash+,Yes
+Sora,100 Acre Wood,-,WORLD10/2601/WO102601.ABC,2601,8A0,43 00 00 00,Cross-slash+,Yes
+Sora,Castle Oblivion,Entrance,WORLD13/2000/WO132000.ABC,2000,330,0C 00 00 00,Trinity Limit,Yes
+???,???,-,WORLD21/1002/WO211002.ABC,1002,1D0,0D 00 00 00,Fira,Yes
+???,???,-,WORLD21/1002/WO211002.ABC,1002,220,0E 00 00 00,Blizzara,Yes
+???,???,-,WORLD21/1002/WO211002.ABC,1002,270,0F 00 00 00,Thundara,Yes

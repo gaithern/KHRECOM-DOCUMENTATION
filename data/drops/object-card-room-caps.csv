@@ -1,0 +1,29 @@
+Room Code,Room,File,Sub-File,Offset,Sub-File Offset,Value (HEX),Cards per Room
+0,???,SYS/0002/SY0002.BIN,GimCom.bin,13DC,1C,00 00,0
+1,???,SYS/0002/SY0002.BIN,GimCom.bin,13E0,20,01 00,1
+2,???,SYS/0002/SY0002.BIN,GimCom.bin,13E4,24,01 00,1
+3,Teeming Darkness,SYS/0002/SY0002.BIN,GimCom.bin,13E8,28,04 00,4
+4,Moogle Room,SYS/0002/SY0002.BIN,GimCom.bin,13EC,2C,01 00,1
+5,Calm Bounty,SYS/0002/SY0002.BIN,GimCom.bin,13F0,30,02 00,2
+6,Moment's Reprieve,SYS/0002/SY0002.BIN,GimCom.bin,13F4,34,01 00,1
+7,Guarded Trove,SYS/0002/SY0002.BIN,GimCom.bin,13F8,38,02 00,2
+8,False Bounty,SYS/0002/SY0002.BIN,GimCom.bin,13FC,3C,02 00,2
+9,Stagnant Space,SYS/0002/SY0002.BIN,GimCom.bin,1400,40,02 00,2
+10,Alchemic Waking,SYS/0002/SY0002.BIN,GimCom.bin,1404,44,03 00,3
+11,Meeting Ground,SYS/0002/SY0002.BIN,GimCom.bin,1408,48,03 00,3
+12,Black Room,SYS/0002/SY0002.BIN,GimCom.bin,140C,4C,01 00,1
+13,Sleeping Darkness,SYS/0002/SY0002.BIN,GimCom.bin,1410,50,02 00,2
+14,Strong Initiative,SYS/0002/SY0002.BIN,GimCom.bin,1414,54,03 00,3
+15,Sorcerous Waking,SYS/0002/SY0002.BIN,GimCom.bin,1418,58,03 00,3
+16,Almighty Darkness,SYS/0002/SY0002.BIN,GimCom.bin,141C,5C,04 00,4
+17,Premium Room,SYS/0002/SY0002.BIN,GimCom.bin,1420,60,01 00,1
+18,Feeble Darkness,SYS/0002/SY0002.BIN,GimCom.bin,1424,64,02 00,2
+19,Looming Darkness,SYS/0002/SY0002.BIN,GimCom.bin,1428,68,04 00,4
+20,White Room,SYS/0002/SY0002.BIN,GimCom.bin,142C,6C,01 00,1
+21,Martial Waking,SYS/0002/SY0002.BIN,GimCom.bin,1430,70,03 00,3
+22,Tranquil Darkness,SYS/0002/SY0002.BIN,GimCom.bin,1434,74,02 00,2
+23,Lasting Daze,SYS/0002/SY0002.BIN,GimCom.bin,1438,78,03 00,3
+24,Room of Rewards,SYS/0002/SY0002.BIN,GimCom.bin,143C,7C,00 00,0
+25,Roulette Room,SYS/0002/SY0002.BIN,GimCom.bin,1440,80,02 00,2
+26,Bottomless Darkness,SYS/0002/SY0002.BIN,GimCom.bin,1444,84,01 00,1
+27,???,SYS/0002/SY0002.BIN,GimCom.bin,1448,88,01 00,1

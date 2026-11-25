@@ -1,0 +1,38 @@
+Story,World,Room,File,Room Value,Offset,Value (HEX),Friend,Change
+Sora,Castle Oblivion Halls,-,WORLD00/0022/WO000022.ABC,22,2A58,01 00 00 00,Donald,Removed
+Sora,Castle Oblivion Halls,-,WORLD00/0022/WO000022.ABC,22,2AD8,02 00 00 00,Goofy,Removed
+Sora,Castle Oblivion Halls,-,WORLD00/0225/WO000225.ABC,225,C18,01 00 00 00,Donald,Added
+Sora,Castle Oblivion Halls,-,WORLD00/0225/WO000225.ABC,225,C98,02 00 00 00,Goofy,Added
+Riku,Castle Oblivion Halls,-,WORLD00/2103/WO002103.ABC,2103,298,80 00 00 00,The King,Added
+Sora,Traverse Town,-,WORLD01/0001/WO010001.ABC,1,14F0,01 00 00 00,Donald,Added
+Sora,Traverse Town,-,WORLD01/0001/WO010001.ABC,1,1570,02 00 00 00,Goofy,Added
+Sora,Traverse Town,-,WORLD01/1100/WO011100.ABC,1100,378,01 00 00 00,Donald,Removed
+Sora,Traverse Town,-,WORLD01/1100/WO011100.ABC,1100,3F8,02 00 00 00,Goofy,Removed
+Sora,Traverse Town,-,WORLD01/1100/WO011100.ABC,1100,1400,01 00 00 00,Donald,Added
+Sora,Traverse Town,-,WORLD01/1100/WO011100.ABC,1100,1480,02 00 00 00,Goofy,Added
+Sora,Traverse Town,Entrance,WORLD01/2000/WO012000.ABC,2000,250,01 00 00 00,Donald,Added
+Sora,Traverse Town,Entrance,WORLD01/2000/WO012000.ABC,2000,2D0,02 00 00 00,Goofy,Added
+Sora,Traverse Town,Room of Beginnings,WORLD01/2002/WO012002.ABC,2002,278,01 00 00 00,Donald,Removed
+Sora,Traverse Town,Room of Beginnings,WORLD01/2002/WO012002.ABC,2002,2F8,02 00 00 00,Goofy,Removed
+Sora,Traverse Town,-,WORLD01/2003/WO012003.ABC,2003,2E0,01 00 00 00,Donald,Added
+Sora,Traverse Town,-,WORLD01/2003/WO012003.ABC,2003,360,02 00 00 00,Goofy,Added
+Sora,Traverse Town,-,WORLD01/2003/WO012003.ABC,2003,AE8,00 01 00 00,Pluto,Added
+Sora,Traverse Town,-,WORLD01/2003/WO012003.ABC,2003,F40,00 01 00 00,Pluto,Added
+Sora,Agrabah,Entrance,WORLD02/2000/WO022000.ABC,2000,10D8,04 00 00 00,Aladdin,Added
+Sora,Agrabah,Entrance,WORLD02/2000/WO022000.ABC,2000,1458,04 00 00 00,Aladdin,Added
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,A28,01 00 00 00,Donald,Added
+Sora,Olympus Coliseum,-,WORLD03/1501/WO031501.ABC,1501,AA8,02 00 00 00,Goofy,Added
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,3A0,01 00 00 00,Donald,Added
+???,Olympus Coliseum,-,WORLD03/2500/WO032500.ABC,2500,420,02 00 00 00,Goofy,Added
+Sora,Halloween Town,Entrance,WORLD06/2000/WO062000.ABC,2000,1EB8,10 00 00 00,Jack,Added
+Sora,Halloween Town,Entrance,WORLD06/2000/WO062000.ABC,2000,21F8,10 00 00 00,Jack,Added
+Sora,Atlantica,Room of Guidance,WORLD07/2002/WO072002.ABC,2002,2998,08 00 00 00,Ariel,Added
+Sora,Atlantica,Room of Guidance,WORLD07/2002/WO072002.ABC,2002,2DE0,08 00 00 00,Ariel,Added
+Sora,Neverland,Room of Beginnings,WORLD08/2001/WO082001.ABC,2001,39F8,20 00 00 00,Peter Pan,Added
+Sora,Neverland,Room of Beginnings,WORLD08/2001/WO082001.ABC,2001,3E18,20 00 00 00,Peter Pan,Added
+Sora,Neverland,Room of Guidance,WORLD08/2002/WO082002.ABC,2002,2C98,20 00 00 00,Peter Pan,Removed
+Sora,Neverland,Room of Guidance,WORLD08/2002/WO082002.ABC,2002,3128,20 00 00 00,Peter Pan,Removed
+Sora,Neverland,Room of Truth,WORLD08/2003/WO082003.ABC,2003,3250,20 00 00 00,Peter Pan,Added
+Sora,Neverland,Room of Truth,WORLD08/2003/WO082003.ABC,2003,35A8,20 00 00 00,Peter Pan,Added
+Sora,Hollow Bastion,Room of Guidance,WORLD09/2002/WO092002.ABC,2002,34E8,40 00 00 00,Beast,Added
+Sora,Hollow Bastion,Room of Guidance,WORLD09/2002/WO092002.ABC,2002,3A70,40 00 00 00,Beast,Added

@@ -1,0 +1,31 @@
+Story,Floors,Card Number,EGS Address,Steam Address,Value (HEX),World ID,World
+Riku,Floors 2-6,1,51D678,51D568,02 00,2,Agrabah
+Riku,Floors 2-6,2,51D67A,51D56A,05 00,5,Monstro
+Riku,Floors 2-6,3,51D67C,51D56C,08 00,8,Neverland
+Riku,Floors 2-6,4,51D67E,51D56E,01 00,1,Traverse Town
+Riku,Floors 2-6,5,51D680,51D570,0F 27,9999,???
+Sora,Floors 2-6,1,51D682,51D572,02 00,2,Agrabah
+Sora,Floors 2-6,2,51D684,51D574,03 00,3,Olympus Coliseum
+Sora,Floors 2-6,3,51D686,51D576,04 00,4,Wonderland
+Sora,Floors 2-6,4,51D688,51D578,05 00,5,Monstro
+Sora,Floors 2-6,5,51D68A,51D57A,06 00,6,Halloween Town
+Riku,Floors 7-10,1,51D690,51D580,07 00,7,Atlantica
+Riku,Floors 7-10,2,51D692,51D582,03 00,3,Olympus Coliseum
+Riku,Floors 7-10,3,51D694,51D584,04 00,4,Wonderland
+Riku,Floors 7-10,4,51D696,51D586,06 00,6,Halloween Town
+Sora,Floors 7-10,1,51D698,51D588,07 00,7,Atlantica
+Sora,Floors 7-10,2,51D69A,51D58A,08 00,8,Neverland
+Sora,Floors 7-10,3,51D69C,51D58C,09 00,9,Hollow Bastion
+Sora,Floors 7-10,4,51D69E,51D58E,0A 00,10,100 Acre Wood
+-,"One-world floors table, used as floor 2 by a fixed world order",1,51D694,51D584,04 00,4,Wonderland
+-,"One-world floors table, used as floor 3 by a fixed world order",1,51D696,51D586,06 00,6,Halloween Town
+-,"One-world floors table, used as floor 4 by a fixed world order",1,51D698,51D588,07 00,7,Atlantica
+-,"One-world floors table, used as floor 5 by a fixed world order",1,51D69A,51D58A,08 00,8,Neverland
+-,"One-world floors table, used as floor 6 by a fixed world order",1,51D69C,51D58C,09 00,9,Hollow Bastion
+-,"One-world floors table, used as floor 7 by a fixed world order",1,51D69E,51D58E,0A 00,10,100 Acre Wood
+-,"One-world floors table, used as floor 8 by a fixed world order",1,51D6A0,51D590,0C 00,12,Destiny Islands
+-,"One-world floors table, used as floor 9 by a fixed world order",1,51D6A2,51D592,0B 00,11,Twilight Town
+-,"One-world floors table, used as floor 10 by a fixed world order",1,51D6A4,51D594,0D 00,13,Castle Oblivion
+-,"One-world floors table, used as floor 11 by a fixed world order",1,51D6A6,51D596,0B 00,11,Twilight Town
+-,"One-world floors table, used as floor 12 by a fixed world order",1,51D6A8,51D598,0C 00,12,Destiny Islands
+-,"One-world floors table, used as floor 13 by a fixed world order",1,51D6AA,51D59A,0D 00,13,Castle Oblivion

@@ -1,0 +1,14 @@
+Name,EGS Address,Steam Address,Location (HEX),Size,Notes,Library Function
+Friends (Dword Variable 22),87AAE0,87B0E0,[[Address] + 8] + 88,4,Bits: 1 Donald 2 Goofy 4 Aladdin 8 Ariel 10 Jack 20 Peter Pan 40 Beast 80 The King 100 Pluto,set_donald_and_goofy_join_early
+Movement Abilities (Dword Variable 24),87AAE0,87B0E0,[[Address] + 8] + 90,4,Bits: 1 High Jump 2 Glide 4 Superglide,set_movement_abilities_follow_sleights
+Time Played (Dword Variable C0),87AAE0,87B0E0,[[Address] + 8] + 300,4,Frames,get_time_played
+Sleights Owned,87C608,87CC08,[Address] + Sleight ID / 4,24,2 bits per sleight: 0 not owned 1 owned 2 seen,get_sleights
+First Heartless Drop Received,87C608,87CC08,[Address] + 7B + Enemy Card ID - 44,31,Bit 80; the other bits are the game's journal entries,set_heartless_first_drop_guaranteed
+Exit Halls Cleared,87C5F8,87CBF8,[Address] + 14,1,-,get_story_progress
+Level,87C5F8,87CBF8,[Address] + 1C,4,-,get_soras_level
+Moogle Points,87C5F8,87CBF8,[Address] + 20,4,-,get_moogle_points
+Battle Cards Owned,87C5F8,87CBF8,[Address] - D74,870,One byte per card and value,get_battle_card_inventory
+Map Cards Owned,87C5F8,87CBF8,[Address] - A0E,250,One byte per card (from A1 to B9) and value,get_map_card_inventory
+Enemy Cards Owned,87C5F8,87CBF8,[Address] - 914,57,"One byte per card, from 44",get_enemy_card_inventory
+358/2 Days Watched,87ABDC,87B1DC,Address,1,-,set_watched_days
+Loaded File Pools,AC6130,AC6730,Address + Pool * 8,1024,Pool 1 data tables 18 ESD 21 EPD 23 archives 37 ABC; each file's copy is edited here,list_loaded_files

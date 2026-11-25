@@ -1,0 +1,1929 @@
+World,Room Code,Room,File,Sub-File,Offset,Sub-File Offset,Value (HEX),Enemy ID,Enemy
+Traverse Town,1,???,WORLD01/0001/WO010001.ESD,W01S0001.esd,1EE,1AE,02 00,2,Soldier
+Traverse Town,1,???,WORLD01/0001/WO010001.ESD,W01S0001.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,1,???,WORLD01/0001/WO010001.ESD,W01S0001.esd,24E,20E,01 00,1,Shadow
+Traverse Town,1,???,WORLD01/0001/WO010001.ESD,W01S0001.esd,27E,23E,01 00,1,Shadow
+Traverse Town,1,???,WORLD01/0001/WO010001.ESD,W01S0001.esd,2AE,26E,01 00,1,Shadow
+Traverse Town,1,???,WORLD01/0001/WO010001.ESD,W01S0001.esd,2DE,29E,03 00,3,Red Nocturne
+Traverse Town,1,???,WORLD01/0001/WO010001.ESD,W01S0001.esd,30E,2CE,03 00,3,Red Nocturne
+Traverse Town,1,???,WORLD01/0001/WO010001.ESD,W01S0001.esd,33E,2FE,03 00,3,Red Nocturne
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,24E,20E,01 00,1,Shadow
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,27E,23E,01 00,1,Shadow
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,2AE,26E,01 00,1,Shadow
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,2DE,29E,01 00,1,Shadow
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,30E,2CE,01 00,1,Shadow
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,33E,2FE,03 00,3,Red Nocturne
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,36E,32E,03 00,3,Red Nocturne
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,39E,35E,03 00,3,Red Nocturne
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,3CE,38E,03 00,3,Red Nocturne
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,3FE,3BE,03 00,3,Red Nocturne
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,42E,3EE,02 00,2,Soldier
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,45E,41E,02 00,2,Soldier
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,48E,44E,02 00,2,Soldier
+Traverse Town,3,Teeming Darkness,WORLD01/0003/WO010003.ESD,W01S0003.esd,4BE,47E,03 00,3,Red Nocturne
+Traverse Town,7,Guarded Trove,WORLD01/0007/WO010007.ESD,W01S0007.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,7,Guarded Trove,WORLD01/0007/WO010007.ESD,W01S0007.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,7,Guarded Trove,WORLD01/0007/WO010007.ESD,W01S0007.esd,24E,20E,01 00,1,Shadow
+Traverse Town,7,Guarded Trove,WORLD01/0007/WO010007.ESD,W01S0007.esd,27E,23E,02 00,2,Soldier
+Traverse Town,7,Guarded Trove,WORLD01/0007/WO010007.ESD,W01S0007.esd,2AE,26E,03 00,3,Red Nocturne
+Traverse Town,7,Guarded Trove,WORLD01/0007/WO010007.ESD,W01S0007.esd,2DE,29E,03 00,3,Red Nocturne
+Traverse Town,7,Guarded Trove,WORLD01/0007/WO010007.ESD,W01S0007.esd,30E,2CE,03 00,3,Red Nocturne
+Traverse Town,8,False Bounty,WORLD01/0008/WO010008.ESD,W01S0008.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,8,False Bounty,WORLD01/0008/WO010008.ESD,W01S0008.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,8,False Bounty,WORLD01/0008/WO010008.ESD,W01S0008.esd,24E,20E,01 00,1,Shadow
+Traverse Town,8,False Bounty,WORLD01/0008/WO010008.ESD,W01S0008.esd,27E,23E,03 00,3,Red Nocturne
+Traverse Town,8,False Bounty,WORLD01/0008/WO010008.ESD,W01S0008.esd,2AE,26E,03 00,3,Red Nocturne
+Traverse Town,9,Stagnant Space,WORLD01/0009/WO010009.ESD,W01S0009.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,9,Stagnant Space,WORLD01/0009/WO010009.ESD,W01S0009.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,9,Stagnant Space,WORLD01/0009/WO010009.ESD,W01S0009.esd,24E,20E,03 00,3,Red Nocturne
+Traverse Town,9,Stagnant Space,WORLD01/0009/WO010009.ESD,W01S0009.esd,27E,23E,03 00,3,Red Nocturne
+Traverse Town,9,Stagnant Space,WORLD01/0009/WO010009.ESD,W01S0009.esd,2AE,26E,01 00,1,Shadow
+Traverse Town,10,Alchemic Waking,WORLD01/0010/WO010010.ESD,W01S0010.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,10,Alchemic Waking,WORLD01/0010/WO010010.ESD,W01S0010.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,10,Alchemic Waking,WORLD01/0010/WO010010.ESD,W01S0010.esd,24E,20E,03 00,3,Red Nocturne
+Traverse Town,10,Alchemic Waking,WORLD01/0010/WO010010.ESD,W01S0010.esd,27E,23E,03 00,3,Red Nocturne
+Traverse Town,10,Alchemic Waking,WORLD01/0010/WO010010.ESD,W01S0010.esd,2AE,26E,01 00,1,Shadow
+Traverse Town,10,Alchemic Waking,WORLD01/0010/WO010010.ESD,W01S0010.esd,2DE,29E,02 00,2,Soldier
+Traverse Town,11,Meeting Ground,WORLD01/0011/WO010011.ESD,W01S0011.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,11,Meeting Ground,WORLD01/0011/WO010011.ESD,W01S0011.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,11,Meeting Ground,WORLD01/0011/WO010011.ESD,W01S0011.esd,24E,20E,01 00,1,Shadow
+Traverse Town,11,Meeting Ground,WORLD01/0011/WO010011.ESD,W01S0011.esd,27E,23E,01 00,1,Shadow
+Traverse Town,11,Meeting Ground,WORLD01/0011/WO010011.ESD,W01S0011.esd,2AE,26E,03 00,3,Red Nocturne
+Traverse Town,11,Meeting Ground,WORLD01/0011/WO010011.ESD,W01S0011.esd,2DE,29E,03 00,3,Red Nocturne
+Traverse Town,11,Meeting Ground,WORLD01/0011/WO010011.ESD,W01S0011.esd,30E,2CE,03 00,3,Red Nocturne
+Traverse Town,12,Black Room,WORLD01/0012/WO010012.ESD,W01S0012.esd,1EE,1AE,11 00,17,Black Fungus
+Traverse Town,12,Black Room,WORLD01/0012/WO010012.ESD,W01S0012.esd,21E,1DE,11 00,17,Black Fungus
+Traverse Town,12,Black Room,WORLD01/0012/WO010012.ESD,W01S0012.esd,24E,20E,11 00,17,Black Fungus
+Traverse Town,13,Sleeping Darkness,WORLD01/0013/WO010013.ESD,W01S0013.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,13,Sleeping Darkness,WORLD01/0013/WO010013.ESD,W01S0013.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,13,Sleeping Darkness,WORLD01/0013/WO010013.ESD,W01S0013.esd,24E,20E,03 00,3,Red Nocturne
+Traverse Town,13,Sleeping Darkness,WORLD01/0013/WO010013.ESD,W01S0013.esd,27E,23E,03 00,3,Red Nocturne
+Traverse Town,13,Sleeping Darkness,WORLD01/0013/WO010013.ESD,W01S0013.esd,2AE,26E,02 00,2,Soldier
+Traverse Town,14,Strong Initiative,WORLD01/0014/WO010014.ESD,W01S0014.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,14,Strong Initiative,WORLD01/0014/WO010014.ESD,W01S0014.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,14,Strong Initiative,WORLD01/0014/WO010014.ESD,W01S0014.esd,24E,20E,01 00,1,Shadow
+Traverse Town,14,Strong Initiative,WORLD01/0014/WO010014.ESD,W01S0014.esd,27E,23E,01 00,1,Shadow
+Traverse Town,14,Strong Initiative,WORLD01/0014/WO010014.ESD,W01S0014.esd,2AE,26E,01 00,1,Shadow
+Traverse Town,14,Strong Initiative,WORLD01/0014/WO010014.ESD,W01S0014.esd,2DE,29E,03 00,3,Red Nocturne
+Traverse Town,14,Strong Initiative,WORLD01/0014/WO010014.ESD,W01S0014.esd,30E,2CE,03 00,3,Red Nocturne
+Traverse Town,14,Strong Initiative,WORLD01/0014/WO010014.ESD,W01S0014.esd,33E,2FE,03 00,3,Red Nocturne
+Traverse Town,14,Strong Initiative,WORLD01/0014/WO010014.ESD,W01S0014.esd,36E,32E,03 00,3,Red Nocturne
+Traverse Town,14,Strong Initiative,WORLD01/0014/WO010014.ESD,W01S0014.esd,39E,35E,03 00,3,Red Nocturne
+Traverse Town,15,Sorcerous Waking,WORLD01/0015/WO010015.ESD,W01S0015.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,15,Sorcerous Waking,WORLD01/0015/WO010015.ESD,W01S0015.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,15,Sorcerous Waking,WORLD01/0015/WO010015.ESD,W01S0015.esd,24E,20E,01 00,1,Shadow
+Traverse Town,15,Sorcerous Waking,WORLD01/0015/WO010015.ESD,W01S0015.esd,27E,23E,01 00,1,Shadow
+Traverse Town,15,Sorcerous Waking,WORLD01/0015/WO010015.ESD,W01S0015.esd,2AE,26E,03 00,3,Red Nocturne
+Traverse Town,15,Sorcerous Waking,WORLD01/0015/WO010015.ESD,W01S0015.esd,2DE,29E,03 00,3,Red Nocturne
+Traverse Town,15,Sorcerous Waking,WORLD01/0015/WO010015.ESD,W01S0015.esd,30E,2CE,03 00,3,Red Nocturne
+Traverse Town,15,Sorcerous Waking,WORLD01/0015/WO010015.ESD,W01S0015.esd,33E,2FE,02 00,2,Soldier
+Traverse Town,16,Almighty Darkness,WORLD01/0016/WO010016.ESD,W01S0016.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,16,Almighty Darkness,WORLD01/0016/WO010016.ESD,W01S0016.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,16,Almighty Darkness,WORLD01/0016/WO010016.ESD,W01S0016.esd,24E,20E,01 00,1,Shadow
+Traverse Town,16,Almighty Darkness,WORLD01/0016/WO010016.ESD,W01S0016.esd,27E,23E,01 00,1,Shadow
+Traverse Town,16,Almighty Darkness,WORLD01/0016/WO010016.ESD,W01S0016.esd,2AE,26E,03 00,3,Red Nocturne
+Traverse Town,16,Almighty Darkness,WORLD01/0016/WO010016.ESD,W01S0016.esd,2DE,29E,03 00,3,Red Nocturne
+Traverse Town,16,Almighty Darkness,WORLD01/0016/WO010016.ESD,W01S0016.esd,30E,2CE,03 00,3,Red Nocturne
+Traverse Town,17,Premium Room,WORLD01/0017/WO010017.ESD,W01S0017.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,17,Premium Room,WORLD01/0017/WO010017.ESD,W01S0017.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,17,Premium Room,WORLD01/0017/WO010017.ESD,W01S0017.esd,24E,20E,01 00,1,Shadow
+Traverse Town,17,Premium Room,WORLD01/0017/WO010017.ESD,W01S0017.esd,27E,23E,01 00,1,Shadow
+Traverse Town,17,Premium Room,WORLD01/0017/WO010017.ESD,W01S0017.esd,2AE,26E,03 00,3,Red Nocturne
+Traverse Town,17,Premium Room,WORLD01/0017/WO010017.ESD,W01S0017.esd,2DE,29E,03 00,3,Red Nocturne
+Traverse Town,17,Premium Room,WORLD01/0017/WO010017.ESD,W01S0017.esd,30E,2CE,03 00,3,Red Nocturne
+Traverse Town,17,Premium Room,WORLD01/0017/WO010017.ESD,W01S0017.esd,33E,2FE,03 00,3,Red Nocturne
+Traverse Town,18,Feeble Darkness,WORLD01/0018/WO010018.ESD,W01S0018.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,18,Feeble Darkness,WORLD01/0018/WO010018.ESD,W01S0018.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,18,Feeble Darkness,WORLD01/0018/WO010018.ESD,W01S0018.esd,24E,20E,01 00,1,Shadow
+Traverse Town,18,Feeble Darkness,WORLD01/0018/WO010018.ESD,W01S0018.esd,27E,23E,03 00,3,Red Nocturne
+Traverse Town,18,Feeble Darkness,WORLD01/0018/WO010018.ESD,W01S0018.esd,2AE,26E,03 00,3,Red Nocturne
+Traverse Town,18,Feeble Darkness,WORLD01/0018/WO010018.ESD,W01S0018.esd,2DE,29E,03 00,3,Red Nocturne
+Traverse Town,19,Looming Darkness,WORLD01/0019/WO010019.ESD,W01S0019.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,19,Looming Darkness,WORLD01/0019/WO010019.ESD,W01S0019.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,19,Looming Darkness,WORLD01/0019/WO010019.ESD,W01S0019.esd,24E,20E,01 00,1,Shadow
+Traverse Town,19,Looming Darkness,WORLD01/0019/WO010019.ESD,W01S0019.esd,27E,23E,01 00,1,Shadow
+Traverse Town,19,Looming Darkness,WORLD01/0019/WO010019.ESD,W01S0019.esd,2AE,26E,03 00,3,Red Nocturne
+Traverse Town,19,Looming Darkness,WORLD01/0019/WO010019.ESD,W01S0019.esd,2DE,29E,03 00,3,Red Nocturne
+Traverse Town,19,Looming Darkness,WORLD01/0019/WO010019.ESD,W01S0019.esd,30E,2CE,03 00,3,Red Nocturne
+Traverse Town,19,Looming Darkness,WORLD01/0019/WO010019.ESD,W01S0019.esd,33E,2FE,03 00,3,Red Nocturne
+Traverse Town,19,Looming Darkness,WORLD01/0019/WO010019.ESD,W01S0019.esd,36E,32E,02 00,2,Soldier
+Traverse Town,19,Looming Darkness,WORLD01/0019/WO010019.ESD,W01S0019.esd,39E,35E,02 00,2,Soldier
+Traverse Town,20,White Room,WORLD01/0020/WO010020.ESD,W01S0020.esd,1EE,1AE,10 00,16,White Mushroom
+Traverse Town,20,White Room,WORLD01/0020/WO010020.ESD,W01S0020.esd,21E,1DE,10 00,16,White Mushroom
+Traverse Town,21,Martial Waking,WORLD01/0021/WO010021.ESD,W01S0021.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,21,Martial Waking,WORLD01/0021/WO010021.ESD,W01S0021.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,21,Martial Waking,WORLD01/0021/WO010021.ESD,W01S0021.esd,24E,20E,01 00,1,Shadow
+Traverse Town,21,Martial Waking,WORLD01/0021/WO010021.ESD,W01S0021.esd,27E,23E,03 00,3,Red Nocturne
+Traverse Town,21,Martial Waking,WORLD01/0021/WO010021.ESD,W01S0021.esd,2AE,26E,03 00,3,Red Nocturne
+Traverse Town,21,Martial Waking,WORLD01/0021/WO010021.ESD,W01S0021.esd,2DE,29E,03 00,3,Red Nocturne
+Traverse Town,21,Martial Waking,WORLD01/0021/WO010021.ESD,W01S0021.esd,30E,2CE,03 00,3,Red Nocturne
+Traverse Town,21,Martial Waking,WORLD01/0021/WO010021.ESD,W01S0021.esd,33E,2FE,02 00,2,Soldier
+Traverse Town,22,Tranquil Darkness,WORLD01/0022/WO010022.ESD,W01S0022.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,22,Tranquil Darkness,WORLD01/0022/WO010022.ESD,W01S0022.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,22,Tranquil Darkness,WORLD01/0022/WO010022.ESD,W01S0022.esd,24E,20E,01 00,1,Shadow
+Traverse Town,22,Tranquil Darkness,WORLD01/0022/WO010022.ESD,W01S0022.esd,27E,23E,03 00,3,Red Nocturne
+Traverse Town,22,Tranquil Darkness,WORLD01/0022/WO010022.ESD,W01S0022.esd,2AE,26E,03 00,3,Red Nocturne
+Traverse Town,22,Tranquil Darkness,WORLD01/0022/WO010022.ESD,W01S0022.esd,2DE,29E,03 00,3,Red Nocturne
+Traverse Town,23,Lasting Daze,WORLD01/0023/WO010023.ESD,W01S0023.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,23,Lasting Daze,WORLD01/0023/WO010023.ESD,W01S0023.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,23,Lasting Daze,WORLD01/0023/WO010023.ESD,W01S0023.esd,24E,20E,01 00,1,Shadow
+Traverse Town,23,Lasting Daze,WORLD01/0023/WO010023.ESD,W01S0023.esd,27E,23E,01 00,1,Shadow
+Traverse Town,23,Lasting Daze,WORLD01/0023/WO010023.ESD,W01S0023.esd,2AE,26E,01 00,1,Shadow
+Traverse Town,23,Lasting Daze,WORLD01/0023/WO010023.ESD,W01S0023.esd,2DE,29E,03 00,3,Red Nocturne
+Traverse Town,23,Lasting Daze,WORLD01/0023/WO010023.ESD,W01S0023.esd,30E,2CE,03 00,3,Red Nocturne
+Traverse Town,23,Lasting Daze,WORLD01/0023/WO010023.ESD,W01S0023.esd,33E,2FE,03 00,3,Red Nocturne
+Traverse Town,23,Lasting Daze,WORLD01/0023/WO010023.ESD,W01S0023.esd,36E,32E,03 00,3,Red Nocturne
+Traverse Town,23,Lasting Daze,WORLD01/0023/WO010023.ESD,W01S0023.esd,39E,35E,02 00,2,Soldier
+Traverse Town,25,Roulette Room,WORLD01/0025/WO010025.ESD,W01S0025.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,25,Roulette Room,WORLD01/0025/WO010025.ESD,W01S0025.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,25,Roulette Room,WORLD01/0025/WO010025.ESD,W01S0025.esd,24E,20E,01 00,1,Shadow
+Traverse Town,25,Roulette Room,WORLD01/0025/WO010025.ESD,W01S0025.esd,27E,23E,01 00,1,Shadow
+Traverse Town,25,Roulette Room,WORLD01/0025/WO010025.ESD,W01S0025.esd,2AE,26E,01 00,1,Shadow
+Traverse Town,25,Roulette Room,WORLD01/0025/WO010025.ESD,W01S0025.esd,2DE,29E,03 00,3,Red Nocturne
+Traverse Town,25,Roulette Room,WORLD01/0025/WO010025.ESD,W01S0025.esd,30E,2CE,03 00,3,Red Nocturne
+Traverse Town,25,Roulette Room,WORLD01/0025/WO010025.ESD,W01S0025.esd,33E,2FE,03 00,3,Red Nocturne
+Traverse Town,25,Roulette Room,WORLD01/0025/WO010025.ESD,W01S0025.esd,36E,32E,03 00,3,Red Nocturne
+Traverse Town,25,Roulette Room,WORLD01/0025/WO010025.ESD,W01S0025.esd,39E,35E,02 00,2,Soldier
+Traverse Town,26,Bottomless Darkness,WORLD01/0026/WO010026.ESD,W01S0026.esd,1EE,1AE,01 00,1,Shadow
+Traverse Town,26,Bottomless Darkness,WORLD01/0026/WO010026.ESD,W01S0026.esd,21E,1DE,01 00,1,Shadow
+Traverse Town,26,Bottomless Darkness,WORLD01/0026/WO010026.ESD,W01S0026.esd,24E,20E,01 00,1,Shadow
+Traverse Town,26,Bottomless Darkness,WORLD01/0026/WO010026.ESD,W01S0026.esd,27E,23E,01 00,1,Shadow
+Traverse Town,26,Bottomless Darkness,WORLD01/0026/WO010026.ESD,W01S0026.esd,2AE,26E,01 00,1,Shadow
+Traverse Town,26,Bottomless Darkness,WORLD01/0026/WO010026.ESD,W01S0026.esd,2DE,29E,01 00,1,Shadow
+Traverse Town,26,Bottomless Darkness,WORLD01/0026/WO010026.ESD,W01S0026.esd,30E,2CE,01 00,1,Shadow
+Traverse Town,26,Bottomless Darkness,WORLD01/0026/WO010026.ESD,W01S0026.esd,33E,2FE,01 00,1,Shadow
+Traverse Town,26,Bottomless Darkness,WORLD01/0026/WO010026.ESD,W01S0026.esd,36E,32E,01 00,1,Shadow
+Traverse Town,26,Bottomless Darkness,WORLD01/0026/WO010026.ESD,W01S0026.esd,39E,35E,01 00,1,Shadow
+Traverse Town,26,Bottomless Darkness,WORLD01/0026/WO010026.ESD,W01S0026.esd,3CE,38E,01 00,1,Shadow
+Traverse Town,26,Bottomless Darkness,WORLD01/0026/WO010026.ESD,W01S0026.esd,3FE,3BE,01 00,1,Shadow
+Traverse Town,26,Bottomless Darkness,WORLD01/0026/WO010026.ESD,W01S0026.esd,42E,3EE,01 00,1,Shadow
+Agrabah,1,???,WORLD02/0001/WO020001.ESD,W02S0001.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,1,???,WORLD02/0001/WO020001.ESD,W02S0001.esd,21E,1DE,01 00,1,Shadow
+Agrabah,1,???,WORLD02/0001/WO020001.ESD,W02S0001.esd,24E,20E,01 00,1,Shadow
+Agrabah,1,???,WORLD02/0001/WO020001.ESD,W02S0001.esd,27E,23E,05 00,5,Yellow Opera
+Agrabah,1,???,WORLD02/0001/WO020001.ESD,W02S0001.esd,2AE,26E,05 00,5,Yellow Opera
+Agrabah,1,???,WORLD02/0001/WO020001.ESD,W02S0001.esd,2DE,29E,05 00,5,Yellow Opera
+Agrabah,1,???,WORLD02/0001/WO020001.ESD,W02S0001.esd,30E,2CE,01 00,1,Shadow
+Agrabah,2,???,WORLD02/0002/WO020002.ESD,W02S0023.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,2,???,WORLD02/0002/WO020002.ESD,W02S0023.esd,21E,1DE,01 00,1,Shadow
+Agrabah,2,???,WORLD02/0002/WO020002.ESD,W02S0023.esd,24E,20E,01 00,1,Shadow
+Agrabah,2,???,WORLD02/0002/WO020002.ESD,W02S0023.esd,27E,23E,01 00,1,Shadow
+Agrabah,2,???,WORLD02/0002/WO020002.ESD,W02S0023.esd,2AE,26E,01 00,1,Shadow
+Agrabah,2,???,WORLD02/0002/WO020002.ESD,W02S0023.esd,2DE,29E,05 00,5,Yellow Opera
+Agrabah,2,???,WORLD02/0002/WO020002.ESD,W02S0023.esd,30E,2CE,05 00,5,Yellow Opera
+Agrabah,2,???,WORLD02/0002/WO020002.ESD,W02S0023.esd,33E,2FE,05 00,5,Yellow Opera
+Agrabah,2,???,WORLD02/0002/WO020002.ESD,W02S0023.esd,36E,32E,05 00,5,Yellow Opera
+Agrabah,2,???,WORLD02/0002/WO020002.ESD,W02S0023.esd,39E,35E,0A 00,10,Fat Bandit
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,21E,1DE,01 00,1,Shadow
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,24E,20E,01 00,1,Shadow
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,27E,23E,01 00,1,Shadow
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,2AE,26E,01 00,1,Shadow
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,2DE,29E,01 00,1,Shadow
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,30E,2CE,0A 00,10,Fat Bandit
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,33E,2FE,0A 00,10,Fat Bandit
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,36E,32E,05 00,5,Yellow Opera
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,39E,35E,05 00,5,Yellow Opera
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,3CE,38E,05 00,5,Yellow Opera
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,3FE,3BE,05 00,5,Yellow Opera
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,42E,3EE,05 00,5,Yellow Opera
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,45E,41E,05 00,5,Yellow Opera
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,48E,44E,05 00,5,Yellow Opera
+Agrabah,3,Teeming Darkness,WORLD02/0003/WO020003.ESD,W02S0003.esd,4BE,47E,0A 00,10,Fat Bandit
+Agrabah,7,Guarded Trove,WORLD02/0007/WO020007.ESD,W02S0007.esd,1EE,1AE,0A 00,10,Fat Bandit
+Agrabah,7,Guarded Trove,WORLD02/0007/WO020007.ESD,W02S0007.esd,21E,1DE,01 00,1,Shadow
+Agrabah,7,Guarded Trove,WORLD02/0007/WO020007.ESD,W02S0007.esd,24E,20E,01 00,1,Shadow
+Agrabah,7,Guarded Trove,WORLD02/0007/WO020007.ESD,W02S0007.esd,27E,23E,01 00,1,Shadow
+Agrabah,7,Guarded Trove,WORLD02/0007/WO020007.ESD,W02S0007.esd,2AE,26E,01 00,1,Shadow
+Agrabah,7,Guarded Trove,WORLD02/0007/WO020007.ESD,W02S0007.esd,2DE,29E,05 00,5,Yellow Opera
+Agrabah,7,Guarded Trove,WORLD02/0007/WO020007.ESD,W02S0007.esd,30E,2CE,05 00,5,Yellow Opera
+Agrabah,8,False Bounty,WORLD02/0008/WO020008.ESD,W02S0008.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,8,False Bounty,WORLD02/0008/WO020008.ESD,W02S0008.esd,21E,1DE,01 00,1,Shadow
+Agrabah,8,False Bounty,WORLD02/0008/WO020008.ESD,W02S0008.esd,24E,20E,01 00,1,Shadow
+Agrabah,8,False Bounty,WORLD02/0008/WO020008.ESD,W02S0008.esd,27E,23E,05 00,5,Yellow Opera
+Agrabah,8,False Bounty,WORLD02/0008/WO020008.ESD,W02S0008.esd,2AE,26E,05 00,5,Yellow Opera
+Agrabah,9,Stagnant Space,WORLD02/0009/WO020009.ESD,W02S0009.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,9,Stagnant Space,WORLD02/0009/WO020009.ESD,W02S0009.esd,21E,1DE,01 00,1,Shadow
+Agrabah,9,Stagnant Space,WORLD02/0009/WO020009.ESD,W02S0009.esd,24E,20E,01 00,1,Shadow
+Agrabah,9,Stagnant Space,WORLD02/0009/WO020009.ESD,W02S0009.esd,27E,23E,05 00,5,Yellow Opera
+Agrabah,9,Stagnant Space,WORLD02/0009/WO020009.ESD,W02S0009.esd,2AE,26E,05 00,5,Yellow Opera
+Agrabah,10,Alchemic Waking,WORLD02/0010/WO020010.ESD,W02S0010.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,10,Alchemic Waking,WORLD02/0010/WO020010.ESD,W02S0010.esd,21E,1DE,01 00,1,Shadow
+Agrabah,10,Alchemic Waking,WORLD02/0010/WO020010.ESD,W02S0010.esd,24E,20E,01 00,1,Shadow
+Agrabah,10,Alchemic Waking,WORLD02/0010/WO020010.ESD,W02S0010.esd,27E,23E,05 00,5,Yellow Opera
+Agrabah,10,Alchemic Waking,WORLD02/0010/WO020010.ESD,W02S0010.esd,2AE,26E,05 00,5,Yellow Opera
+Agrabah,10,Alchemic Waking,WORLD02/0010/WO020010.ESD,W02S0010.esd,2DE,29E,05 00,5,Yellow Opera
+Agrabah,11,Meeting Ground,WORLD02/0011/WO020011.ESD,W02S0011.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,11,Meeting Ground,WORLD02/0011/WO020011.ESD,W02S0011.esd,21E,1DE,01 00,1,Shadow
+Agrabah,11,Meeting Ground,WORLD02/0011/WO020011.ESD,W02S0011.esd,24E,20E,01 00,1,Shadow
+Agrabah,11,Meeting Ground,WORLD02/0011/WO020011.ESD,W02S0011.esd,27E,23E,01 00,1,Shadow
+Agrabah,11,Meeting Ground,WORLD02/0011/WO020011.ESD,W02S0011.esd,2AE,26E,05 00,5,Yellow Opera
+Agrabah,11,Meeting Ground,WORLD02/0011/WO020011.ESD,W02S0011.esd,2DE,29E,05 00,5,Yellow Opera
+Agrabah,11,Meeting Ground,WORLD02/0011/WO020011.ESD,W02S0011.esd,30E,2CE,05 00,5,Yellow Opera
+Agrabah,12,Black Room,WORLD02/0012/WO020012.ESD,W02S0012.esd,1EE,1AE,11 00,17,Black Fungus
+Agrabah,12,Black Room,WORLD02/0012/WO020012.ESD,W02S0012.esd,21E,1DE,11 00,17,Black Fungus
+Agrabah,12,Black Room,WORLD02/0012/WO020012.ESD,W02S0012.esd,24E,20E,11 00,17,Black Fungus
+Agrabah,13,Sleeping Darkness,WORLD02/0013/WO020013.ESD,W02S0013.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,13,Sleeping Darkness,WORLD02/0013/WO020013.ESD,W02S0013.esd,21E,1DE,01 00,1,Shadow
+Agrabah,13,Sleeping Darkness,WORLD02/0013/WO020013.ESD,W02S0013.esd,24E,20E,05 00,5,Yellow Opera
+Agrabah,13,Sleeping Darkness,WORLD02/0013/WO020013.ESD,W02S0013.esd,27E,23E,0A 00,10,Fat Bandit
+Agrabah,13,Sleeping Darkness,WORLD02/0013/WO020013.ESD,W02S0013.esd,2AE,26E,0A 00,10,Fat Bandit
+Agrabah,14,Strong Initiative,WORLD02/0014/WO020014.ESD,W02S0014.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,14,Strong Initiative,WORLD02/0014/WO020014.ESD,W02S0014.esd,21E,1DE,01 00,1,Shadow
+Agrabah,14,Strong Initiative,WORLD02/0014/WO020014.ESD,W02S0014.esd,24E,20E,01 00,1,Shadow
+Agrabah,14,Strong Initiative,WORLD02/0014/WO020014.ESD,W02S0014.esd,27E,23E,01 00,1,Shadow
+Agrabah,14,Strong Initiative,WORLD02/0014/WO020014.ESD,W02S0014.esd,2AE,26E,01 00,1,Shadow
+Agrabah,14,Strong Initiative,WORLD02/0014/WO020014.ESD,W02S0014.esd,2DE,29E,05 00,5,Yellow Opera
+Agrabah,14,Strong Initiative,WORLD02/0014/WO020014.ESD,W02S0014.esd,30E,2CE,05 00,5,Yellow Opera
+Agrabah,14,Strong Initiative,WORLD02/0014/WO020014.ESD,W02S0014.esd,33E,2FE,05 00,5,Yellow Opera
+Agrabah,14,Strong Initiative,WORLD02/0014/WO020014.ESD,W02S0014.esd,36E,32E,05 00,5,Yellow Opera
+Agrabah,14,Strong Initiative,WORLD02/0014/WO020014.ESD,W02S0014.esd,39E,35E,05 00,5,Yellow Opera
+Agrabah,15,Sorcerous Waking,WORLD02/0015/WO020015.ESD,W02S0015.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,15,Sorcerous Waking,WORLD02/0015/WO020015.ESD,W02S0015.esd,21E,1DE,01 00,1,Shadow
+Agrabah,15,Sorcerous Waking,WORLD02/0015/WO020015.ESD,W02S0015.esd,24E,20E,01 00,1,Shadow
+Agrabah,15,Sorcerous Waking,WORLD02/0015/WO020015.ESD,W02S0015.esd,27E,23E,01 00,1,Shadow
+Agrabah,15,Sorcerous Waking,WORLD02/0015/WO020015.ESD,W02S0015.esd,2AE,26E,05 00,5,Yellow Opera
+Agrabah,15,Sorcerous Waking,WORLD02/0015/WO020015.ESD,W02S0015.esd,2DE,29E,05 00,5,Yellow Opera
+Agrabah,15,Sorcerous Waking,WORLD02/0015/WO020015.ESD,W02S0015.esd,30E,2CE,05 00,5,Yellow Opera
+Agrabah,15,Sorcerous Waking,WORLD02/0015/WO020015.ESD,W02S0015.esd,33E,2FE,05 00,5,Yellow Opera
+Agrabah,16,Almighty Darkness,WORLD02/0016/WO020016.ESD,W02S0016.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,16,Almighty Darkness,WORLD02/0016/WO020016.ESD,W02S0016.esd,21E,1DE,01 00,1,Shadow
+Agrabah,16,Almighty Darkness,WORLD02/0016/WO020016.ESD,W02S0016.esd,24E,20E,01 00,1,Shadow
+Agrabah,16,Almighty Darkness,WORLD02/0016/WO020016.ESD,W02S0016.esd,27E,23E,01 00,1,Shadow
+Agrabah,16,Almighty Darkness,WORLD02/0016/WO020016.ESD,W02S0016.esd,2AE,26E,05 00,5,Yellow Opera
+Agrabah,16,Almighty Darkness,WORLD02/0016/WO020016.ESD,W02S0016.esd,2DE,29E,05 00,5,Yellow Opera
+Agrabah,16,Almighty Darkness,WORLD02/0016/WO020016.ESD,W02S0016.esd,30E,2CE,05 00,5,Yellow Opera
+Agrabah,17,Premium Room,WORLD02/0017/WO020017.ESD,W02S0017.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,17,Premium Room,WORLD02/0017/WO020017.ESD,W02S0017.esd,21E,1DE,01 00,1,Shadow
+Agrabah,17,Premium Room,WORLD02/0017/WO020017.ESD,W02S0017.esd,24E,20E,01 00,1,Shadow
+Agrabah,17,Premium Room,WORLD02/0017/WO020017.ESD,W02S0017.esd,27E,23E,01 00,1,Shadow
+Agrabah,17,Premium Room,WORLD02/0017/WO020017.ESD,W02S0017.esd,2AE,26E,05 00,5,Yellow Opera
+Agrabah,17,Premium Room,WORLD02/0017/WO020017.ESD,W02S0017.esd,2DE,29E,05 00,5,Yellow Opera
+Agrabah,17,Premium Room,WORLD02/0017/WO020017.ESD,W02S0017.esd,30E,2CE,05 00,5,Yellow Opera
+Agrabah,17,Premium Room,WORLD02/0017/WO020017.ESD,W02S0017.esd,33E,2FE,05 00,5,Yellow Opera
+Agrabah,18,Feeble Darkness,WORLD02/0018/WO020018.ESD,W02S0018.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,18,Feeble Darkness,WORLD02/0018/WO020018.ESD,W02S0018.esd,21E,1DE,01 00,1,Shadow
+Agrabah,18,Feeble Darkness,WORLD02/0018/WO020018.ESD,W02S0018.esd,24E,20E,01 00,1,Shadow
+Agrabah,18,Feeble Darkness,WORLD02/0018/WO020018.ESD,W02S0018.esd,27E,23E,05 00,5,Yellow Opera
+Agrabah,18,Feeble Darkness,WORLD02/0018/WO020018.ESD,W02S0018.esd,2AE,26E,05 00,5,Yellow Opera
+Agrabah,18,Feeble Darkness,WORLD02/0018/WO020018.ESD,W02S0018.esd,2DE,29E,05 00,5,Yellow Opera
+Agrabah,19,Looming Darkness,WORLD02/0019/WO020019.ESD,W02S0019.esd,1EE,1AE,0A 00,10,Fat Bandit
+Agrabah,19,Looming Darkness,WORLD02/0019/WO020019.ESD,W02S0019.esd,21E,1DE,0A 00,10,Fat Bandit
+Agrabah,19,Looming Darkness,WORLD02/0019/WO020019.ESD,W02S0019.esd,24E,20E,01 00,1,Shadow
+Agrabah,19,Looming Darkness,WORLD02/0019/WO020019.ESD,W02S0019.esd,27E,23E,01 00,1,Shadow
+Agrabah,19,Looming Darkness,WORLD02/0019/WO020019.ESD,W02S0019.esd,2AE,26E,01 00,1,Shadow
+Agrabah,19,Looming Darkness,WORLD02/0019/WO020019.ESD,W02S0019.esd,2DE,29E,01 00,1,Shadow
+Agrabah,19,Looming Darkness,WORLD02/0019/WO020019.ESD,W02S0019.esd,30E,2CE,05 00,5,Yellow Opera
+Agrabah,19,Looming Darkness,WORLD02/0019/WO020019.ESD,W02S0019.esd,33E,2FE,05 00,5,Yellow Opera
+Agrabah,19,Looming Darkness,WORLD02/0019/WO020019.ESD,W02S0019.esd,36E,32E,05 00,5,Yellow Opera
+Agrabah,19,Looming Darkness,WORLD02/0019/WO020019.ESD,W02S0019.esd,39E,35E,05 00,5,Yellow Opera
+Agrabah,20,White Room,WORLD02/0020/WO020020.ESD,W02S0020.esd,1EE,1AE,10 00,16,White Mushroom
+Agrabah,20,White Room,WORLD02/0020/WO020020.ESD,W02S0020.esd,21E,1DE,10 00,16,White Mushroom
+Agrabah,20,White Room,WORLD02/0020/WO020020.ESD,W02S0020.esd,24E,20E,10 00,16,White Mushroom
+Agrabah,21,Martial Waking,WORLD02/0021/WO020021.ESD,W02S0021.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,21,Martial Waking,WORLD02/0021/WO020021.ESD,W02S0021.esd,21E,1DE,01 00,1,Shadow
+Agrabah,21,Martial Waking,WORLD02/0021/WO020021.ESD,W02S0021.esd,24E,20E,01 00,1,Shadow
+Agrabah,21,Martial Waking,WORLD02/0021/WO020021.ESD,W02S0021.esd,27E,23E,01 00,1,Shadow
+Agrabah,21,Martial Waking,WORLD02/0021/WO020021.ESD,W02S0021.esd,2AE,26E,05 00,5,Yellow Opera
+Agrabah,21,Martial Waking,WORLD02/0021/WO020021.ESD,W02S0021.esd,2DE,29E,05 00,5,Yellow Opera
+Agrabah,21,Martial Waking,WORLD02/0021/WO020021.ESD,W02S0021.esd,30E,2CE,05 00,5,Yellow Opera
+Agrabah,21,Martial Waking,WORLD02/0021/WO020021.ESD,W02S0021.esd,33E,2FE,05 00,5,Yellow Opera
+Agrabah,22,Tranquil Darkness,WORLD02/0022/WO020022.ESD,W02S0022.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,22,Tranquil Darkness,WORLD02/0022/WO020022.ESD,W02S0022.esd,21E,1DE,01 00,1,Shadow
+Agrabah,22,Tranquil Darkness,WORLD02/0022/WO020022.ESD,W02S0022.esd,24E,20E,01 00,1,Shadow
+Agrabah,22,Tranquil Darkness,WORLD02/0022/WO020022.ESD,W02S0022.esd,27E,23E,05 00,5,Yellow Opera
+Agrabah,22,Tranquil Darkness,WORLD02/0022/WO020022.ESD,W02S0022.esd,2AE,26E,05 00,5,Yellow Opera
+Agrabah,22,Tranquil Darkness,WORLD02/0022/WO020022.ESD,W02S0022.esd,2DE,29E,01 00,1,Shadow
+Agrabah,23,Lasting Daze,WORLD02/0023/WO020023.ESD,W02S0023.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,23,Lasting Daze,WORLD02/0023/WO020023.ESD,W02S0023.esd,21E,1DE,01 00,1,Shadow
+Agrabah,23,Lasting Daze,WORLD02/0023/WO020023.ESD,W02S0023.esd,24E,20E,01 00,1,Shadow
+Agrabah,23,Lasting Daze,WORLD02/0023/WO020023.ESD,W02S0023.esd,27E,23E,01 00,1,Shadow
+Agrabah,23,Lasting Daze,WORLD02/0023/WO020023.ESD,W02S0023.esd,2AE,26E,01 00,1,Shadow
+Agrabah,23,Lasting Daze,WORLD02/0023/WO020023.ESD,W02S0023.esd,2DE,29E,05 00,5,Yellow Opera
+Agrabah,23,Lasting Daze,WORLD02/0023/WO020023.ESD,W02S0023.esd,30E,2CE,05 00,5,Yellow Opera
+Agrabah,23,Lasting Daze,WORLD02/0023/WO020023.ESD,W02S0023.esd,33E,2FE,05 00,5,Yellow Opera
+Agrabah,23,Lasting Daze,WORLD02/0023/WO020023.ESD,W02S0023.esd,36E,32E,05 00,5,Yellow Opera
+Agrabah,23,Lasting Daze,WORLD02/0023/WO020023.ESD,W02S0023.esd,39E,35E,05 00,5,Yellow Opera
+Agrabah,25,Roulette Room,WORLD02/0025/WO020025.ESD,W02S0025.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,25,Roulette Room,WORLD02/0025/WO020025.ESD,W02S0025.esd,21E,1DE,01 00,1,Shadow
+Agrabah,25,Roulette Room,WORLD02/0025/WO020025.ESD,W02S0025.esd,24E,20E,01 00,1,Shadow
+Agrabah,25,Roulette Room,WORLD02/0025/WO020025.ESD,W02S0025.esd,27E,23E,01 00,1,Shadow
+Agrabah,25,Roulette Room,WORLD02/0025/WO020025.ESD,W02S0025.esd,2AE,26E,01 00,1,Shadow
+Agrabah,25,Roulette Room,WORLD02/0025/WO020025.ESD,W02S0025.esd,2DE,29E,05 00,5,Yellow Opera
+Agrabah,25,Roulette Room,WORLD02/0025/WO020025.ESD,W02S0025.esd,30E,2CE,05 00,5,Yellow Opera
+Agrabah,25,Roulette Room,WORLD02/0025/WO020025.ESD,W02S0025.esd,33E,2FE,05 00,5,Yellow Opera
+Agrabah,25,Roulette Room,WORLD02/0025/WO020025.ESD,W02S0025.esd,36E,32E,05 00,5,Yellow Opera
+Agrabah,25,Roulette Room,WORLD02/0025/WO020025.ESD,W02S0025.esd,39E,35E,0A 00,10,Fat Bandit
+Agrabah,26,Bottomless Darkness,WORLD02/0026/WO020026.ESD,W02S0026.esd,1EE,1AE,01 00,1,Shadow
+Agrabah,26,Bottomless Darkness,WORLD02/0026/WO020026.ESD,W02S0026.esd,21E,1DE,01 00,1,Shadow
+Agrabah,26,Bottomless Darkness,WORLD02/0026/WO020026.ESD,W02S0026.esd,24E,20E,01 00,1,Shadow
+Agrabah,26,Bottomless Darkness,WORLD02/0026/WO020026.ESD,W02S0026.esd,27E,23E,01 00,1,Shadow
+Agrabah,26,Bottomless Darkness,WORLD02/0026/WO020026.ESD,W02S0026.esd,2AE,26E,01 00,1,Shadow
+Agrabah,26,Bottomless Darkness,WORLD02/0026/WO020026.ESD,W02S0026.esd,2DE,29E,01 00,1,Shadow
+Agrabah,26,Bottomless Darkness,WORLD02/0026/WO020026.ESD,W02S0026.esd,30E,2CE,01 00,1,Shadow
+Agrabah,26,Bottomless Darkness,WORLD02/0026/WO020026.ESD,W02S0026.esd,33E,2FE,01 00,1,Shadow
+Agrabah,26,Bottomless Darkness,WORLD02/0026/WO020026.ESD,W02S0026.esd,36E,32E,01 00,1,Shadow
+Agrabah,26,Bottomless Darkness,WORLD02/0026/WO020026.ESD,W02S0026.esd,39E,35E,01 00,1,Shadow
+Agrabah,26,Bottomless Darkness,WORLD02/0026/WO020026.ESD,W02S0026.esd,3CE,38E,01 00,1,Shadow
+Agrabah,26,Bottomless Darkness,WORLD02/0026/WO020026.ESD,W02S0026.esd,3FE,3BE,01 00,1,Shadow
+Agrabah,26,Bottomless Darkness,WORLD02/0026/WO020026.ESD,W02S0026.esd,42E,3EE,01 00,1,Shadow
+Olympus Coliseum,1,???,WORLD03/0001/WO030001.ESD,W03S0001.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,1,???,WORLD03/0001/WO030001.ESD,W03S0001.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,1,???,WORLD03/0001/WO030001.ESD,W03S0001.esd,24E,20E,04 00,4,Blue Rhapsody
+Olympus Coliseum,1,???,WORLD03/0001/WO030001.ESD,W03S0001.esd,27E,23E,04 00,4,Blue Rhapsody
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,24E,20E,04 00,4,Blue Rhapsody
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,27E,23E,01 00,1,Shadow
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,2AE,26E,04 00,4,Blue Rhapsody
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,2DE,29E,04 00,4,Blue Rhapsody
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,30E,2CE,01 00,1,Shadow
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,33E,2FE,09 00,9,Large Body
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,36E,32E,09 00,9,Large Body
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,39E,35E,01 00,1,Shadow
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,3CE,38E,01 00,1,Shadow
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,3FE,3BE,04 00,4,Blue Rhapsody
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,42E,3EE,04 00,4,Blue Rhapsody
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,45E,41E,01 00,1,Shadow
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,48E,44E,01 00,1,Shadow
+Olympus Coliseum,3,Teeming Darkness,WORLD03/0003/WO030003.ESD,W03S0003.esd,4BE,47E,04 00,4,Blue Rhapsody
+Olympus Coliseum,7,Guarded Trove,WORLD03/0007/WO030007.ESD,W03S0007.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,7,Guarded Trove,WORLD03/0007/WO030007.ESD,W03S0007.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,7,Guarded Trove,WORLD03/0007/WO030007.ESD,W03S0007.esd,24E,20E,09 00,9,Large Body
+Olympus Coliseum,7,Guarded Trove,WORLD03/0007/WO030007.ESD,W03S0007.esd,27E,23E,09 00,9,Large Body
+Olympus Coliseum,7,Guarded Trove,WORLD03/0007/WO030007.ESD,W03S0007.esd,2AE,26E,01 00,1,Shadow
+Olympus Coliseum,7,Guarded Trove,WORLD03/0007/WO030007.ESD,W03S0007.esd,2DE,29E,04 00,4,Blue Rhapsody
+Olympus Coliseum,7,Guarded Trove,WORLD03/0007/WO030007.ESD,W03S0007.esd,30E,2CE,04 00,4,Blue Rhapsody
+Olympus Coliseum,8,False Bounty,WORLD03/0008/WO030008.ESD,W03S0008.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,8,False Bounty,WORLD03/0008/WO030008.ESD,W03S0008.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,8,False Bounty,WORLD03/0008/WO030008.ESD,W03S0008.esd,24E,20E,04 00,4,Blue Rhapsody
+Olympus Coliseum,8,False Bounty,WORLD03/0008/WO030008.ESD,W03S0008.esd,27E,23E,04 00,4,Blue Rhapsody
+Olympus Coliseum,8,False Bounty,WORLD03/0008/WO030008.ESD,W03S0008.esd,2AE,26E,01 00,1,Shadow
+Olympus Coliseum,9,Stagnant Space,WORLD03/0009/WO030009.ESD,W03S0009.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,9,Stagnant Space,WORLD03/0009/WO030009.ESD,W03S0009.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,9,Stagnant Space,WORLD03/0009/WO030009.ESD,W03S0009.esd,24E,20E,04 00,4,Blue Rhapsody
+Olympus Coliseum,9,Stagnant Space,WORLD03/0009/WO030009.ESD,W03S0009.esd,27E,23E,04 00,4,Blue Rhapsody
+Olympus Coliseum,9,Stagnant Space,WORLD03/0009/WO030009.ESD,W03S0009.esd,2AE,26E,04 00,4,Blue Rhapsody
+Olympus Coliseum,10,Alchemic Waking,WORLD03/0010/WO030010.ESD,W03S0010.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,10,Alchemic Waking,WORLD03/0010/WO030010.ESD,W03S0010.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,10,Alchemic Waking,WORLD03/0010/WO030010.ESD,W03S0010.esd,24E,20E,01 00,1,Shadow
+Olympus Coliseum,10,Alchemic Waking,WORLD03/0010/WO030010.ESD,W03S0010.esd,27E,23E,04 00,4,Blue Rhapsody
+Olympus Coliseum,10,Alchemic Waking,WORLD03/0010/WO030010.ESD,W03S0010.esd,2AE,26E,04 00,4,Blue Rhapsody
+Olympus Coliseum,10,Alchemic Waking,WORLD03/0010/WO030010.ESD,W03S0010.esd,2DE,29E,04 00,4,Blue Rhapsody
+Olympus Coliseum,11,Meeting Ground,WORLD03/0011/WO030011.ESD,W03S0011.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,11,Meeting Ground,WORLD03/0011/WO030011.ESD,W03S0011.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,11,Meeting Ground,WORLD03/0011/WO030011.ESD,W03S0011.esd,24E,20E,01 00,1,Shadow
+Olympus Coliseum,11,Meeting Ground,WORLD03/0011/WO030011.ESD,W03S0011.esd,27E,23E,01 00,1,Shadow
+Olympus Coliseum,11,Meeting Ground,WORLD03/0011/WO030011.ESD,W03S0011.esd,2AE,26E,04 00,4,Blue Rhapsody
+Olympus Coliseum,11,Meeting Ground,WORLD03/0011/WO030011.ESD,W03S0011.esd,2DE,29E,04 00,4,Blue Rhapsody
+Olympus Coliseum,11,Meeting Ground,WORLD03/0011/WO030011.ESD,W03S0011.esd,30E,2CE,04 00,4,Blue Rhapsody
+Olympus Coliseum,12,Black Room,WORLD03/0012/WO030012.ESD,W03S0012.esd,1EE,1AE,11 00,17,Black Fungus
+Olympus Coliseum,12,Black Room,WORLD03/0012/WO030012.ESD,W03S0012.esd,21E,1DE,11 00,17,Black Fungus
+Olympus Coliseum,12,Black Room,WORLD03/0012/WO030012.ESD,W03S0012.esd,24E,20E,11 00,17,Black Fungus
+Olympus Coliseum,13,Sleeping Darkness,WORLD03/0013/WO030013.ESD,W03S0013.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,13,Sleeping Darkness,WORLD03/0013/WO030013.ESD,W03S0013.esd,21E,1DE,09 00,9,Large Body
+Olympus Coliseum,13,Sleeping Darkness,WORLD03/0013/WO030013.ESD,W03S0013.esd,24E,20E,09 00,9,Large Body
+Olympus Coliseum,13,Sleeping Darkness,WORLD03/0013/WO030013.ESD,W03S0013.esd,27E,23E,04 00,4,Blue Rhapsody
+Olympus Coliseum,13,Sleeping Darkness,WORLD03/0013/WO030013.ESD,W03S0013.esd,2AE,26E,01 00,1,Shadow
+Olympus Coliseum,14,Strong Initiative,WORLD03/0014/WO030014.ESD,W03S0014.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,14,Strong Initiative,WORLD03/0014/WO030014.ESD,W03S0014.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,14,Strong Initiative,WORLD03/0014/WO030014.ESD,W03S0014.esd,24E,20E,04 00,4,Blue Rhapsody
+Olympus Coliseum,14,Strong Initiative,WORLD03/0014/WO030014.ESD,W03S0014.esd,27E,23E,04 00,4,Blue Rhapsody
+Olympus Coliseum,14,Strong Initiative,WORLD03/0014/WO030014.ESD,W03S0014.esd,2AE,26E,04 00,4,Blue Rhapsody
+Olympus Coliseum,14,Strong Initiative,WORLD03/0014/WO030014.ESD,W03S0014.esd,2DE,29E,01 00,1,Shadow
+Olympus Coliseum,14,Strong Initiative,WORLD03/0014/WO030014.ESD,W03S0014.esd,30E,2CE,01 00,1,Shadow
+Olympus Coliseum,14,Strong Initiative,WORLD03/0014/WO030014.ESD,W03S0014.esd,33E,2FE,04 00,4,Blue Rhapsody
+Olympus Coliseum,14,Strong Initiative,WORLD03/0014/WO030014.ESD,W03S0014.esd,36E,32E,04 00,4,Blue Rhapsody
+Olympus Coliseum,14,Strong Initiative,WORLD03/0014/WO030014.ESD,W03S0014.esd,39E,35E,01 00,1,Shadow
+Olympus Coliseum,15,Sorcerous Waking,WORLD03/0015/WO030015.ESD,W03S0015.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,15,Sorcerous Waking,WORLD03/0015/WO030015.ESD,W03S0015.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,15,Sorcerous Waking,WORLD03/0015/WO030015.ESD,W03S0015.esd,24E,20E,01 00,1,Shadow
+Olympus Coliseum,15,Sorcerous Waking,WORLD03/0015/WO030015.ESD,W03S0015.esd,27E,23E,04 00,4,Blue Rhapsody
+Olympus Coliseum,15,Sorcerous Waking,WORLD03/0015/WO030015.ESD,W03S0015.esd,2AE,26E,04 00,4,Blue Rhapsody
+Olympus Coliseum,15,Sorcerous Waking,WORLD03/0015/WO030015.ESD,W03S0015.esd,2DE,29E,01 00,1,Shadow
+Olympus Coliseum,15,Sorcerous Waking,WORLD03/0015/WO030015.ESD,W03S0015.esd,30E,2CE,04 00,4,Blue Rhapsody
+Olympus Coliseum,15,Sorcerous Waking,WORLD03/0015/WO030015.ESD,W03S0015.esd,33E,2FE,04 00,4,Blue Rhapsody
+Olympus Coliseum,16,Almighty Darkness,WORLD03/0016/WO030016.ESD,W03S0016.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,16,Almighty Darkness,WORLD03/0016/WO030016.ESD,W03S0016.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,16,Almighty Darkness,WORLD03/0016/WO030016.ESD,W03S0016.esd,24E,20E,01 00,1,Shadow
+Olympus Coliseum,16,Almighty Darkness,WORLD03/0016/WO030016.ESD,W03S0016.esd,27E,23E,01 00,1,Shadow
+Olympus Coliseum,16,Almighty Darkness,WORLD03/0016/WO030016.ESD,W03S0016.esd,2AE,26E,04 00,4,Blue Rhapsody
+Olympus Coliseum,16,Almighty Darkness,WORLD03/0016/WO030016.ESD,W03S0016.esd,2DE,29E,04 00,4,Blue Rhapsody
+Olympus Coliseum,16,Almighty Darkness,WORLD03/0016/WO030016.ESD,W03S0016.esd,30E,2CE,04 00,4,Blue Rhapsody
+Olympus Coliseum,17,Premium Room,WORLD03/0017/WO030017.ESD,W03S0017.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,17,Premium Room,WORLD03/0017/WO030017.ESD,W03S0017.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,17,Premium Room,WORLD03/0017/WO030017.ESD,W03S0017.esd,24E,20E,01 00,1,Shadow
+Olympus Coliseum,17,Premium Room,WORLD03/0017/WO030017.ESD,W03S0017.esd,27E,23E,01 00,1,Shadow
+Olympus Coliseum,17,Premium Room,WORLD03/0017/WO030017.ESD,W03S0017.esd,2AE,26E,01 00,1,Shadow
+Olympus Coliseum,17,Premium Room,WORLD03/0017/WO030017.ESD,W03S0017.esd,2DE,29E,04 00,4,Blue Rhapsody
+Olympus Coliseum,17,Premium Room,WORLD03/0017/WO030017.ESD,W03S0017.esd,30E,2CE,04 00,4,Blue Rhapsody
+Olympus Coliseum,17,Premium Room,WORLD03/0017/WO030017.ESD,W03S0017.esd,33E,2FE,04 00,4,Blue Rhapsody
+Olympus Coliseum,18,Feeble Darkness,WORLD03/0018/WO030018.ESD,W03S0018.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,18,Feeble Darkness,WORLD03/0018/WO030018.ESD,W03S0018.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,18,Feeble Darkness,WORLD03/0018/WO030018.ESD,W03S0018.esd,24E,20E,04 00,4,Blue Rhapsody
+Olympus Coliseum,18,Feeble Darkness,WORLD03/0018/WO030018.ESD,W03S0018.esd,27E,23E,04 00,4,Blue Rhapsody
+Olympus Coliseum,18,Feeble Darkness,WORLD03/0018/WO030018.ESD,W03S0018.esd,2AE,26E,01 00,1,Shadow
+Olympus Coliseum,18,Feeble Darkness,WORLD03/0018/WO030018.ESD,W03S0018.esd,2DE,29E,04 00,4,Blue Rhapsody
+Olympus Coliseum,19,Looming Darkness,WORLD03/0019/WO030019.ESD,W03S0019.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,19,Looming Darkness,WORLD03/0019/WO030019.ESD,W03S0019.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,19,Looming Darkness,WORLD03/0019/WO030019.ESD,W03S0019.esd,24E,20E,01 00,1,Shadow
+Olympus Coliseum,19,Looming Darkness,WORLD03/0019/WO030019.ESD,W03S0019.esd,27E,23E,09 00,9,Large Body
+Olympus Coliseum,19,Looming Darkness,WORLD03/0019/WO030019.ESD,W03S0019.esd,2AE,26E,04 00,4,Blue Rhapsody
+Olympus Coliseum,19,Looming Darkness,WORLD03/0019/WO030019.ESD,W03S0019.esd,2DE,29E,04 00,4,Blue Rhapsody
+Olympus Coliseum,19,Looming Darkness,WORLD03/0019/WO030019.ESD,W03S0019.esd,30E,2CE,01 00,1,Shadow
+Olympus Coliseum,19,Looming Darkness,WORLD03/0019/WO030019.ESD,W03S0019.esd,33E,2FE,04 00,4,Blue Rhapsody
+Olympus Coliseum,19,Looming Darkness,WORLD03/0019/WO030019.ESD,W03S0019.esd,36E,32E,01 00,1,Shadow
+Olympus Coliseum,19,Looming Darkness,WORLD03/0019/WO030019.ESD,W03S0019.esd,39E,35E,04 00,4,Blue Rhapsody
+Olympus Coliseum,20,White Room,WORLD03/0020/WO030020.ESD,W03S0020.esd,1EE,1AE,10 00,16,White Mushroom
+Olympus Coliseum,20,White Room,WORLD03/0020/WO030020.ESD,W03S0020.esd,21E,1DE,10 00,16,White Mushroom
+Olympus Coliseum,20,White Room,WORLD03/0020/WO030020.ESD,W03S0020.esd,24E,20E,10 00,16,White Mushroom
+Olympus Coliseum,21,Martial Waking,WORLD03/0021/WO030021.ESD,W03S0021.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,21,Martial Waking,WORLD03/0021/WO030021.ESD,W03S0021.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,21,Martial Waking,WORLD03/0021/WO030021.ESD,W03S0021.esd,24E,20E,04 00,4,Blue Rhapsody
+Olympus Coliseum,21,Martial Waking,WORLD03/0021/WO030021.ESD,W03S0021.esd,27E,23E,01 00,1,Shadow
+Olympus Coliseum,21,Martial Waking,WORLD03/0021/WO030021.ESD,W03S0021.esd,2AE,26E,01 00,1,Shadow
+Olympus Coliseum,21,Martial Waking,WORLD03/0021/WO030021.ESD,W03S0021.esd,2DE,29E,04 00,4,Blue Rhapsody
+Olympus Coliseum,21,Martial Waking,WORLD03/0021/WO030021.ESD,W03S0021.esd,30E,2CE,04 00,4,Blue Rhapsody
+Olympus Coliseum,21,Martial Waking,WORLD03/0021/WO030021.ESD,W03S0021.esd,33E,2FE,04 00,4,Blue Rhapsody
+Olympus Coliseum,22,Tranquil Darkness,WORLD03/0022/WO030022.ESD,W03S0022.esd,1EE,1AE,04 00,4,Blue Rhapsody
+Olympus Coliseum,22,Tranquil Darkness,WORLD03/0022/WO030022.ESD,W03S0022.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,22,Tranquil Darkness,WORLD03/0022/WO030022.ESD,W03S0022.esd,24E,20E,01 00,1,Shadow
+Olympus Coliseum,22,Tranquil Darkness,WORLD03/0022/WO030022.ESD,W03S0022.esd,27E,23E,01 00,1,Shadow
+Olympus Coliseum,22,Tranquil Darkness,WORLD03/0022/WO030022.ESD,W03S0022.esd,2AE,26E,04 00,4,Blue Rhapsody
+Olympus Coliseum,22,Tranquil Darkness,WORLD03/0022/WO030022.ESD,W03S0022.esd,2DE,29E,04 00,4,Blue Rhapsody
+Olympus Coliseum,23,Lasting Daze,WORLD03/0023/WO030023.ESD,W03S0023.esd,1EE,1AE,04 00,4,Blue Rhapsody
+Olympus Coliseum,23,Lasting Daze,WORLD03/0023/WO030023.ESD,W03S0023.esd,21E,1DE,04 00,4,Blue Rhapsody
+Olympus Coliseum,23,Lasting Daze,WORLD03/0023/WO030023.ESD,W03S0023.esd,24E,20E,04 00,4,Blue Rhapsody
+Olympus Coliseum,23,Lasting Daze,WORLD03/0023/WO030023.ESD,W03S0023.esd,27E,23E,01 00,1,Shadow
+Olympus Coliseum,23,Lasting Daze,WORLD03/0023/WO030023.ESD,W03S0023.esd,2AE,26E,01 00,1,Shadow
+Olympus Coliseum,23,Lasting Daze,WORLD03/0023/WO030023.ESD,W03S0023.esd,2DE,29E,01 00,1,Shadow
+Olympus Coliseum,23,Lasting Daze,WORLD03/0023/WO030023.ESD,W03S0023.esd,30E,2CE,04 00,4,Blue Rhapsody
+Olympus Coliseum,23,Lasting Daze,WORLD03/0023/WO030023.ESD,W03S0023.esd,33E,2FE,04 00,4,Blue Rhapsody
+Olympus Coliseum,23,Lasting Daze,WORLD03/0023/WO030023.ESD,W03S0023.esd,36E,32E,01 00,1,Shadow
+Olympus Coliseum,23,Lasting Daze,WORLD03/0023/WO030023.ESD,W03S0023.esd,39E,35E,09 00,9,Large Body
+Olympus Coliseum,25,Roulette Room,WORLD03/0025/WO030025.ESD,W03S0025.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,25,Roulette Room,WORLD03/0025/WO030025.ESD,W03S0025.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,25,Roulette Room,WORLD03/0025/WO030025.ESD,W03S0025.esd,24E,20E,01 00,1,Shadow
+Olympus Coliseum,25,Roulette Room,WORLD03/0025/WO030025.ESD,W03S0025.esd,27E,23E,01 00,1,Shadow
+Olympus Coliseum,25,Roulette Room,WORLD03/0025/WO030025.ESD,W03S0025.esd,2AE,26E,01 00,1,Shadow
+Olympus Coliseum,25,Roulette Room,WORLD03/0025/WO030025.ESD,W03S0025.esd,2DE,29E,04 00,4,Blue Rhapsody
+Olympus Coliseum,25,Roulette Room,WORLD03/0025/WO030025.ESD,W03S0025.esd,30E,2CE,04 00,4,Blue Rhapsody
+Olympus Coliseum,25,Roulette Room,WORLD03/0025/WO030025.ESD,W03S0025.esd,33E,2FE,04 00,4,Blue Rhapsody
+Olympus Coliseum,25,Roulette Room,WORLD03/0025/WO030025.ESD,W03S0025.esd,36E,32E,04 00,4,Blue Rhapsody
+Olympus Coliseum,25,Roulette Room,WORLD03/0025/WO030025.ESD,W03S0025.esd,39E,35E,09 00,9,Large Body
+Olympus Coliseum,26,Bottomless Darkness,WORLD03/0026/WO030026.ESD,W03S0026.esd,1EE,1AE,01 00,1,Shadow
+Olympus Coliseum,26,Bottomless Darkness,WORLD03/0026/WO030026.ESD,W03S0026.esd,21E,1DE,01 00,1,Shadow
+Olympus Coliseum,26,Bottomless Darkness,WORLD03/0026/WO030026.ESD,W03S0026.esd,24E,20E,01 00,1,Shadow
+Olympus Coliseum,26,Bottomless Darkness,WORLD03/0026/WO030026.ESD,W03S0026.esd,27E,23E,01 00,1,Shadow
+Olympus Coliseum,26,Bottomless Darkness,WORLD03/0026/WO030026.ESD,W03S0026.esd,2AE,26E,01 00,1,Shadow
+Olympus Coliseum,26,Bottomless Darkness,WORLD03/0026/WO030026.ESD,W03S0026.esd,2DE,29E,01 00,1,Shadow
+Olympus Coliseum,26,Bottomless Darkness,WORLD03/0026/WO030026.ESD,W03S0026.esd,30E,2CE,01 00,1,Shadow
+Olympus Coliseum,26,Bottomless Darkness,WORLD03/0026/WO030026.ESD,W03S0026.esd,33E,2FE,01 00,1,Shadow
+Olympus Coliseum,26,Bottomless Darkness,WORLD03/0026/WO030026.ESD,W03S0026.esd,36E,32E,01 00,1,Shadow
+Olympus Coliseum,26,Bottomless Darkness,WORLD03/0026/WO030026.ESD,W03S0026.esd,39E,35E,01 00,1,Shadow
+Olympus Coliseum,26,Bottomless Darkness,WORLD03/0026/WO030026.ESD,W03S0026.esd,3CE,38E,01 00,1,Shadow
+Olympus Coliseum,26,Bottomless Darkness,WORLD03/0026/WO030026.ESD,W03S0026.esd,3FE,3BE,01 00,1,Shadow
+Olympus Coliseum,26,Bottomless Darkness,WORLD03/0026/WO030026.ESD,W03S0026.esd,42E,3EE,01 00,1,Shadow
+Wonderland,1,???,WORLD04/0001/WO040001.ESD,W04S0001.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,1,???,WORLD04/0001/WO040001.ESD,W04S0001.esd,21E,1DE,01 00,1,Shadow
+Wonderland,1,???,WORLD04/0001/WO040001.ESD,W04S0001.esd,24E,20E,01 00,1,Shadow
+Wonderland,1,???,WORLD04/0001/WO040001.ESD,W04S0001.esd,27E,23E,03 00,3,Red Nocturne
+Wonderland,1,???,WORLD04/0001/WO040001.ESD,W04S0001.esd,2AE,26E,03 00,3,Red Nocturne
+Wonderland,1,???,WORLD04/0001/WO040001.ESD,W04S0001.esd,2DE,29E,03 00,3,Red Nocturne
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,21E,1DE,01 00,1,Shadow
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,24E,20E,01 00,1,Shadow
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,27E,23E,01 00,1,Shadow
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,2AE,26E,01 00,1,Shadow
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,2DE,29E,01 00,1,Shadow
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,30E,2CE,01 00,1,Shadow
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,33E,2FE,09 00,9,Large Body
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,36E,32E,09 00,9,Large Body
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,39E,35E,09 00,9,Large Body
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,3CE,38E,03 00,3,Red Nocturne
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,3FE,3BE,03 00,3,Red Nocturne
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,42E,3EE,03 00,3,Red Nocturne
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,45E,41E,03 00,3,Red Nocturne
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,48E,44E,03 00,3,Red Nocturne
+Wonderland,3,Teeming Darkness,WORLD04/0003/WO040003.ESD,W04S0003.esd,4BE,47E,03 00,3,Red Nocturne
+Wonderland,7,Guarded Trove,WORLD04/0007/WO040007.ESD,W04S0007.esd,1EE,1AE,09 00,9,Large Body
+Wonderland,7,Guarded Trove,WORLD04/0007/WO040007.ESD,W04S0007.esd,21E,1DE,01 00,1,Shadow
+Wonderland,7,Guarded Trove,WORLD04/0007/WO040007.ESD,W04S0007.esd,24E,20E,01 00,1,Shadow
+Wonderland,7,Guarded Trove,WORLD04/0007/WO040007.ESD,W04S0007.esd,27E,23E,01 00,1,Shadow
+Wonderland,7,Guarded Trove,WORLD04/0007/WO040007.ESD,W04S0007.esd,2AE,26E,03 00,3,Red Nocturne
+Wonderland,7,Guarded Trove,WORLD04/0007/WO040007.ESD,W04S0007.esd,2DE,29E,03 00,3,Red Nocturne
+Wonderland,7,Guarded Trove,WORLD04/0007/WO040007.ESD,W04S0007.esd,30E,2CE,03 00,3,Red Nocturne
+Wonderland,8,False Bounty,WORLD04/0008/WO040008.ESD,W04S0008.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,8,False Bounty,WORLD04/0008/WO040008.ESD,W04S0008.esd,21E,1DE,01 00,1,Shadow
+Wonderland,8,False Bounty,WORLD04/0008/WO040008.ESD,W04S0008.esd,24E,20E,01 00,1,Shadow
+Wonderland,8,False Bounty,WORLD04/0008/WO040008.ESD,W04S0008.esd,27E,23E,03 00,3,Red Nocturne
+Wonderland,8,False Bounty,WORLD04/0008/WO040008.ESD,W04S0008.esd,2AE,26E,03 00,3,Red Nocturne
+Wonderland,9,Stagnant Space,WORLD04/0009/WO040009.ESD,W04S0009.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,9,Stagnant Space,WORLD04/0009/WO040009.ESD,W04S0009.esd,21E,1DE,01 00,1,Shadow
+Wonderland,9,Stagnant Space,WORLD04/0009/WO040009.ESD,W04S0009.esd,24E,20E,01 00,1,Shadow
+Wonderland,9,Stagnant Space,WORLD04/0009/WO040009.ESD,W04S0009.esd,27E,23E,03 00,3,Red Nocturne
+Wonderland,9,Stagnant Space,WORLD04/0009/WO040009.ESD,W04S0009.esd,2AE,26E,03 00,3,Red Nocturne
+Wonderland,10,Alchemic Waking,WORLD04/0010/WO040010.ESD,W04S0010.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,10,Alchemic Waking,WORLD04/0010/WO040010.ESD,W04S0010.esd,21E,1DE,01 00,1,Shadow
+Wonderland,10,Alchemic Waking,WORLD04/0010/WO040010.ESD,W04S0010.esd,24E,20E,01 00,1,Shadow
+Wonderland,10,Alchemic Waking,WORLD04/0010/WO040010.ESD,W04S0010.esd,27E,23E,03 00,3,Red Nocturne
+Wonderland,10,Alchemic Waking,WORLD04/0010/WO040010.ESD,W04S0010.esd,2AE,26E,03 00,3,Red Nocturne
+Wonderland,10,Alchemic Waking,WORLD04/0010/WO040010.ESD,W04S0010.esd,2DE,29E,03 00,3,Red Nocturne
+Wonderland,11,Meeting Ground,WORLD04/0011/WO040011.ESD,W04S0011.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,11,Meeting Ground,WORLD04/0011/WO040011.ESD,W04S0011.esd,21E,1DE,01 00,1,Shadow
+Wonderland,11,Meeting Ground,WORLD04/0011/WO040011.ESD,W04S0011.esd,24E,20E,01 00,1,Shadow
+Wonderland,11,Meeting Ground,WORLD04/0011/WO040011.ESD,W04S0011.esd,27E,23E,03 00,3,Red Nocturne
+Wonderland,11,Meeting Ground,WORLD04/0011/WO040011.ESD,W04S0011.esd,2AE,26E,03 00,3,Red Nocturne
+Wonderland,11,Meeting Ground,WORLD04/0011/WO040011.ESD,W04S0011.esd,2DE,29E,03 00,3,Red Nocturne
+Wonderland,11,Meeting Ground,WORLD04/0011/WO040011.ESD,W04S0011.esd,30E,2CE,03 00,3,Red Nocturne
+Wonderland,12,Black Room,WORLD04/0012/WO040012.ESD,W04S0012.esd,1EE,1AE,11 00,17,Black Fungus
+Wonderland,12,Black Room,WORLD04/0012/WO040012.ESD,W04S0012.esd,21E,1DE,11 00,17,Black Fungus
+Wonderland,12,Black Room,WORLD04/0012/WO040012.ESD,W04S0012.esd,24E,20E,11 00,17,Black Fungus
+Wonderland,13,Sleeping Darkness,WORLD04/0013/WO040013.ESD,W04S0013.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,13,Sleeping Darkness,WORLD04/0013/WO040013.ESD,W04S0013.esd,21E,1DE,03 00,3,Red Nocturne
+Wonderland,13,Sleeping Darkness,WORLD04/0013/WO040013.ESD,W04S0013.esd,24E,20E,03 00,3,Red Nocturne
+Wonderland,13,Sleeping Darkness,WORLD04/0013/WO040013.ESD,W04S0013.esd,27E,23E,09 00,9,Large Body
+Wonderland,13,Sleeping Darkness,WORLD04/0013/WO040013.ESD,W04S0013.esd,2AE,26E,09 00,9,Large Body
+Wonderland,14,Strong Initiative,WORLD04/0014/WO040014.ESD,W04S0014.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,14,Strong Initiative,WORLD04/0014/WO040014.ESD,W04S0014.esd,21E,1DE,01 00,1,Shadow
+Wonderland,14,Strong Initiative,WORLD04/0014/WO040014.ESD,W04S0014.esd,24E,20E,01 00,1,Shadow
+Wonderland,14,Strong Initiative,WORLD04/0014/WO040014.ESD,W04S0014.esd,27E,23E,01 00,1,Shadow
+Wonderland,14,Strong Initiative,WORLD04/0014/WO040014.ESD,W04S0014.esd,2AE,26E,01 00,1,Shadow
+Wonderland,14,Strong Initiative,WORLD04/0014/WO040014.ESD,W04S0014.esd,2DE,29E,03 00,3,Red Nocturne
+Wonderland,14,Strong Initiative,WORLD04/0014/WO040014.ESD,W04S0014.esd,30E,2CE,03 00,3,Red Nocturne
+Wonderland,14,Strong Initiative,WORLD04/0014/WO040014.ESD,W04S0014.esd,33E,2FE,03 00,3,Red Nocturne
+Wonderland,14,Strong Initiative,WORLD04/0014/WO040014.ESD,W04S0014.esd,36E,32E,03 00,3,Red Nocturne
+Wonderland,14,Strong Initiative,WORLD04/0014/WO040014.ESD,W04S0014.esd,39E,35E,03 00,3,Red Nocturne
+Wonderland,15,Sorcerous Waking,WORLD04/0015/WO040015.ESD,W04S0015.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,15,Sorcerous Waking,WORLD04/0015/WO040015.ESD,W04S0015.esd,21E,1DE,01 00,1,Shadow
+Wonderland,15,Sorcerous Waking,WORLD04/0015/WO040015.ESD,W04S0015.esd,24E,20E,01 00,1,Shadow
+Wonderland,15,Sorcerous Waking,WORLD04/0015/WO040015.ESD,W04S0015.esd,27E,23E,01 00,1,Shadow
+Wonderland,15,Sorcerous Waking,WORLD04/0015/WO040015.ESD,W04S0015.esd,2AE,26E,03 00,3,Red Nocturne
+Wonderland,15,Sorcerous Waking,WORLD04/0015/WO040015.ESD,W04S0015.esd,2DE,29E,03 00,3,Red Nocturne
+Wonderland,15,Sorcerous Waking,WORLD04/0015/WO040015.ESD,W04S0015.esd,30E,2CE,03 00,3,Red Nocturne
+Wonderland,15,Sorcerous Waking,WORLD04/0015/WO040015.ESD,W04S0015.esd,33E,2FE,03 00,3,Red Nocturne
+Wonderland,16,Almighty Darkness,WORLD04/0016/WO040016.ESD,W04S0016.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,16,Almighty Darkness,WORLD04/0016/WO040016.ESD,W04S0016.esd,21E,1DE,01 00,1,Shadow
+Wonderland,16,Almighty Darkness,WORLD04/0016/WO040016.ESD,W04S0016.esd,24E,20E,01 00,1,Shadow
+Wonderland,16,Almighty Darkness,WORLD04/0016/WO040016.ESD,W04S0016.esd,27E,23E,03 00,3,Red Nocturne
+Wonderland,16,Almighty Darkness,WORLD04/0016/WO040016.ESD,W04S0016.esd,2AE,26E,03 00,3,Red Nocturne
+Wonderland,16,Almighty Darkness,WORLD04/0016/WO040016.ESD,W04S0016.esd,2DE,29E,03 00,3,Red Nocturne
+Wonderland,16,Almighty Darkness,WORLD04/0016/WO040016.ESD,W04S0016.esd,30E,2CE,01 00,1,Shadow
+Wonderland,17,Premium Room,WORLD04/0017/WO040017.ESD,W04S0017.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,17,Premium Room,WORLD04/0017/WO040017.ESD,W04S0017.esd,21E,1DE,01 00,1,Shadow
+Wonderland,17,Premium Room,WORLD04/0017/WO040017.ESD,W04S0017.esd,24E,20E,01 00,1,Shadow
+Wonderland,17,Premium Room,WORLD04/0017/WO040017.ESD,W04S0017.esd,27E,23E,01 00,1,Shadow
+Wonderland,17,Premium Room,WORLD04/0017/WO040017.ESD,W04S0017.esd,2AE,26E,03 00,3,Red Nocturne
+Wonderland,17,Premium Room,WORLD04/0017/WO040017.ESD,W04S0017.esd,2DE,29E,03 00,3,Red Nocturne
+Wonderland,17,Premium Room,WORLD04/0017/WO040017.ESD,W04S0017.esd,30E,2CE,03 00,3,Red Nocturne
+Wonderland,17,Premium Room,WORLD04/0017/WO040017.ESD,W04S0017.esd,33E,2FE,03 00,3,Red Nocturne
+Wonderland,18,Feeble Darkness,WORLD04/0018/WO040018.ESD,W04S0018.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,18,Feeble Darkness,WORLD04/0018/WO040018.ESD,W04S0018.esd,21E,1DE,01 00,1,Shadow
+Wonderland,18,Feeble Darkness,WORLD04/0018/WO040018.ESD,W04S0018.esd,24E,20E,01 00,1,Shadow
+Wonderland,18,Feeble Darkness,WORLD04/0018/WO040018.ESD,W04S0018.esd,27E,23E,03 00,3,Red Nocturne
+Wonderland,18,Feeble Darkness,WORLD04/0018/WO040018.ESD,W04S0018.esd,2AE,26E,03 00,3,Red Nocturne
+Wonderland,18,Feeble Darkness,WORLD04/0018/WO040018.ESD,W04S0018.esd,2DE,29E,03 00,3,Red Nocturne
+Wonderland,19,Looming Darkness,WORLD04/0019/WO040019.ESD,W04S0019.esd,1EE,1AE,09 00,9,Large Body
+Wonderland,19,Looming Darkness,WORLD04/0019/WO040019.ESD,W04S0019.esd,21E,1DE,09 00,9,Large Body
+Wonderland,19,Looming Darkness,WORLD04/0019/WO040019.ESD,W04S0019.esd,24E,20E,01 00,1,Shadow
+Wonderland,19,Looming Darkness,WORLD04/0019/WO040019.ESD,W04S0019.esd,27E,23E,01 00,1,Shadow
+Wonderland,19,Looming Darkness,WORLD04/0019/WO040019.ESD,W04S0019.esd,2AE,26E,01 00,1,Shadow
+Wonderland,19,Looming Darkness,WORLD04/0019/WO040019.ESD,W04S0019.esd,2DE,29E,01 00,1,Shadow
+Wonderland,19,Looming Darkness,WORLD04/0019/WO040019.ESD,W04S0019.esd,30E,2CE,03 00,3,Red Nocturne
+Wonderland,19,Looming Darkness,WORLD04/0019/WO040019.ESD,W04S0019.esd,33E,2FE,03 00,3,Red Nocturne
+Wonderland,19,Looming Darkness,WORLD04/0019/WO040019.ESD,W04S0019.esd,36E,32E,03 00,3,Red Nocturne
+Wonderland,19,Looming Darkness,WORLD04/0019/WO040019.ESD,W04S0019.esd,39E,35E,03 00,3,Red Nocturne
+Wonderland,20,White Room,WORLD04/0020/WO040020.ESD,W04S0020.esd,1EE,1AE,10 00,16,White Mushroom
+Wonderland,20,White Room,WORLD04/0020/WO040020.ESD,W04S0020.esd,21E,1DE,10 00,16,White Mushroom
+Wonderland,20,White Room,WORLD04/0020/WO040020.ESD,W04S0020.esd,24E,20E,10 00,16,White Mushroom
+Wonderland,21,Martial Waking,WORLD04/0021/WO040021.ESD,W04S0021.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,21,Martial Waking,WORLD04/0021/WO040021.ESD,W04S0021.esd,21E,1DE,01 00,1,Shadow
+Wonderland,21,Martial Waking,WORLD04/0021/WO040021.ESD,W04S0021.esd,24E,20E,01 00,1,Shadow
+Wonderland,21,Martial Waking,WORLD04/0021/WO040021.ESD,W04S0021.esd,27E,23E,01 00,1,Shadow
+Wonderland,21,Martial Waking,WORLD04/0021/WO040021.ESD,W04S0021.esd,2AE,26E,03 00,3,Red Nocturne
+Wonderland,21,Martial Waking,WORLD04/0021/WO040021.ESD,W04S0021.esd,2DE,29E,03 00,3,Red Nocturne
+Wonderland,21,Martial Waking,WORLD04/0021/WO040021.ESD,W04S0021.esd,30E,2CE,03 00,3,Red Nocturne
+Wonderland,21,Martial Waking,WORLD04/0021/WO040021.ESD,W04S0021.esd,33E,2FE,03 00,3,Red Nocturne
+Wonderland,22,Tranquil Darkness,WORLD04/0022/WO040022.ESD,W04S0022.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,22,Tranquil Darkness,WORLD04/0022/WO040022.ESD,W04S0022.esd,21E,1DE,01 00,1,Shadow
+Wonderland,22,Tranquil Darkness,WORLD04/0022/WO040022.ESD,W04S0022.esd,24E,20E,01 00,1,Shadow
+Wonderland,22,Tranquil Darkness,WORLD04/0022/WO040022.ESD,W04S0022.esd,27E,23E,03 00,3,Red Nocturne
+Wonderland,22,Tranquil Darkness,WORLD04/0022/WO040022.ESD,W04S0022.esd,2AE,26E,03 00,3,Red Nocturne
+Wonderland,22,Tranquil Darkness,WORLD04/0022/WO040022.ESD,W04S0022.esd,2DE,29E,03 00,3,Red Nocturne
+Wonderland,23,Lasting Daze,WORLD04/0023/WO040023.ESD,W04S0023.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,23,Lasting Daze,WORLD04/0023/WO040023.ESD,W04S0023.esd,21E,1DE,01 00,1,Shadow
+Wonderland,23,Lasting Daze,WORLD04/0023/WO040023.ESD,W04S0023.esd,24E,20E,01 00,1,Shadow
+Wonderland,23,Lasting Daze,WORLD04/0023/WO040023.ESD,W04S0023.esd,27E,23E,01 00,1,Shadow
+Wonderland,23,Lasting Daze,WORLD04/0023/WO040023.ESD,W04S0023.esd,2AE,26E,01 00,1,Shadow
+Wonderland,23,Lasting Daze,WORLD04/0023/WO040023.ESD,W04S0023.esd,2DE,29E,09 00,9,Large Body
+Wonderland,23,Lasting Daze,WORLD04/0023/WO040023.ESD,W04S0023.esd,30E,2CE,03 00,3,Red Nocturne
+Wonderland,23,Lasting Daze,WORLD04/0023/WO040023.ESD,W04S0023.esd,33E,2FE,03 00,3,Red Nocturne
+Wonderland,23,Lasting Daze,WORLD04/0023/WO040023.ESD,W04S0023.esd,36E,32E,03 00,3,Red Nocturne
+Wonderland,23,Lasting Daze,WORLD04/0023/WO040023.ESD,W04S0023.esd,39E,35E,03 00,3,Red Nocturne
+Wonderland,25,Roulette Room,WORLD04/0025/WO040025.ESD,W04S0025.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,25,Roulette Room,WORLD04/0025/WO040025.ESD,W04S0025.esd,21E,1DE,01 00,1,Shadow
+Wonderland,25,Roulette Room,WORLD04/0025/WO040025.ESD,W04S0025.esd,24E,20E,01 00,1,Shadow
+Wonderland,25,Roulette Room,WORLD04/0025/WO040025.ESD,W04S0025.esd,27E,23E,01 00,1,Shadow
+Wonderland,25,Roulette Room,WORLD04/0025/WO040025.ESD,W04S0025.esd,2AE,26E,01 00,1,Shadow
+Wonderland,25,Roulette Room,WORLD04/0025/WO040025.ESD,W04S0025.esd,2DE,29E,03 00,3,Red Nocturne
+Wonderland,25,Roulette Room,WORLD04/0025/WO040025.ESD,W04S0025.esd,30E,2CE,03 00,3,Red Nocturne
+Wonderland,25,Roulette Room,WORLD04/0025/WO040025.ESD,W04S0025.esd,33E,2FE,03 00,3,Red Nocturne
+Wonderland,25,Roulette Room,WORLD04/0025/WO040025.ESD,W04S0025.esd,36E,32E,03 00,3,Red Nocturne
+Wonderland,25,Roulette Room,WORLD04/0025/WO040025.ESD,W04S0025.esd,39E,35E,03 00,3,Red Nocturne
+Wonderland,26,Bottomless Darkness,WORLD04/0026/WO040026.ESD,W04S0026.esd,1EE,1AE,01 00,1,Shadow
+Wonderland,26,Bottomless Darkness,WORLD04/0026/WO040026.ESD,W04S0026.esd,21E,1DE,01 00,1,Shadow
+Wonderland,26,Bottomless Darkness,WORLD04/0026/WO040026.ESD,W04S0026.esd,24E,20E,01 00,1,Shadow
+Wonderland,26,Bottomless Darkness,WORLD04/0026/WO040026.ESD,W04S0026.esd,27E,23E,01 00,1,Shadow
+Wonderland,26,Bottomless Darkness,WORLD04/0026/WO040026.ESD,W04S0026.esd,2AE,26E,01 00,1,Shadow
+Wonderland,26,Bottomless Darkness,WORLD04/0026/WO040026.ESD,W04S0026.esd,2DE,29E,01 00,1,Shadow
+Wonderland,26,Bottomless Darkness,WORLD04/0026/WO040026.ESD,W04S0026.esd,30E,2CE,01 00,1,Shadow
+Wonderland,26,Bottomless Darkness,WORLD04/0026/WO040026.ESD,W04S0026.esd,33E,2FE,01 00,1,Shadow
+Wonderland,26,Bottomless Darkness,WORLD04/0026/WO040026.ESD,W04S0026.esd,36E,32E,01 00,1,Shadow
+Wonderland,26,Bottomless Darkness,WORLD04/0026/WO040026.ESD,W04S0026.esd,39E,35E,01 00,1,Shadow
+Wonderland,26,Bottomless Darkness,WORLD04/0026/WO040026.ESD,W04S0026.esd,3CE,38E,01 00,1,Shadow
+Wonderland,26,Bottomless Darkness,WORLD04/0026/WO040026.ESD,W04S0026.esd,3FE,3BE,01 00,1,Shadow
+Wonderland,26,Bottomless Darkness,WORLD04/0026/WO040026.ESD,W04S0026.esd,42E,3EE,01 00,1,Shadow
+Monstro,1,???,WORLD05/0001/WO050001.ESD,W05S0001.esd,1EE,1AE,01 00,1,Shadow
+Monstro,1,???,WORLD05/0001/WO050001.ESD,W05S0001.esd,21E,1DE,01 00,1,Shadow
+Monstro,1,???,WORLD05/0001/WO050001.ESD,W05S0001.esd,24E,20E,01 00,1,Shadow
+Monstro,1,???,WORLD05/0001/WO050001.ESD,W05S0001.esd,27E,23E,01 00,1,Shadow
+Monstro,1,???,WORLD05/0001/WO050001.ESD,W05S0001.esd,2AE,26E,05 00,5,Yellow Opera
+Monstro,1,???,WORLD05/0001/WO050001.ESD,W05S0001.esd,2DE,29E,05 00,5,Yellow Opera
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,1EE,1AE,01 00,1,Shadow
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,21E,1DE,01 00,1,Shadow
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,24E,20E,01 00,1,Shadow
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,27E,23E,01 00,1,Shadow
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,2AE,26E,01 00,1,Shadow
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,2DE,29E,01 00,1,Shadow
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,30E,2CE,09 00,9,Large Body
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,33E,2FE,09 00,9,Large Body
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,36E,32E,09 00,9,Large Body
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,39E,35E,05 00,5,Yellow Opera
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,3CE,38E,05 00,5,Yellow Opera
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,3FE,3BE,05 00,5,Yellow Opera
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,42E,3EE,05 00,5,Yellow Opera
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,45E,41E,05 00,5,Yellow Opera
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,48E,44E,05 00,5,Yellow Opera
+Monstro,3,Teeming Darkness,WORLD05/0003/WO050003.ESD,W05S0003.esd,4BE,47E,05 00,5,Yellow Opera
+Monstro,7,Guarded Trove,WORLD05/0007/WO050007.ESD,W05S0007.esd,1EE,1AE,01 00,1,Shadow
+Monstro,7,Guarded Trove,WORLD05/0007/WO050007.ESD,W05S0007.esd,21E,1DE,01 00,1,Shadow
+Monstro,7,Guarded Trove,WORLD05/0007/WO050007.ESD,W05S0007.esd,24E,20E,01 00,1,Shadow
+Monstro,7,Guarded Trove,WORLD05/0007/WO050007.ESD,W05S0007.esd,27E,23E,09 00,9,Large Body
+Monstro,7,Guarded Trove,WORLD05/0007/WO050007.ESD,W05S0007.esd,2AE,26E,09 00,9,Large Body
+Monstro,7,Guarded Trove,WORLD05/0007/WO050007.ESD,W05S0007.esd,2DE,29E,05 00,5,Yellow Opera
+Monstro,7,Guarded Trove,WORLD05/0007/WO050007.ESD,W05S0007.esd,30E,2CE,05 00,5,Yellow Opera
+Monstro,8,False Bounty,WORLD05/0008/WO050008.ESD,W05S0008.esd,1EE,1AE,01 00,1,Shadow
+Monstro,8,False Bounty,WORLD05/0008/WO050008.ESD,W05S0008.esd,21E,1DE,01 00,1,Shadow
+Monstro,8,False Bounty,WORLD05/0008/WO050008.ESD,W05S0008.esd,24E,20E,01 00,1,Shadow
+Monstro,8,False Bounty,WORLD05/0008/WO050008.ESD,W05S0008.esd,27E,23E,05 00,5,Yellow Opera
+Monstro,8,False Bounty,WORLD05/0008/WO050008.ESD,W05S0008.esd,2AE,26E,05 00,5,Yellow Opera
+Monstro,9,Stagnant Space,WORLD05/0009/WO050009.ESD,W05S0009.esd,1EE,1AE,01 00,1,Shadow
+Monstro,9,Stagnant Space,WORLD05/0009/WO050009.ESD,W05S0009.esd,21E,1DE,01 00,1,Shadow
+Monstro,9,Stagnant Space,WORLD05/0009/WO050009.ESD,W05S0009.esd,24E,20E,01 00,1,Shadow
+Monstro,9,Stagnant Space,WORLD05/0009/WO050009.ESD,W05S0009.esd,27E,23E,05 00,5,Yellow Opera
+Monstro,9,Stagnant Space,WORLD05/0009/WO050009.ESD,W05S0009.esd,2AE,26E,05 00,5,Yellow Opera
+Monstro,10,Alchemic Waking,WORLD05/0010/WO050010.ESD,W05S0010.esd,1EE,1AE,01 00,1,Shadow
+Monstro,10,Alchemic Waking,WORLD05/0010/WO050010.ESD,W05S0010.esd,21E,1DE,01 00,1,Shadow
+Monstro,10,Alchemic Waking,WORLD05/0010/WO050010.ESD,W05S0010.esd,24E,20E,01 00,1,Shadow
+Monstro,10,Alchemic Waking,WORLD05/0010/WO050010.ESD,W05S0010.esd,27E,23E,05 00,5,Yellow Opera
+Monstro,10,Alchemic Waking,WORLD05/0010/WO050010.ESD,W05S0010.esd,2AE,26E,05 00,5,Yellow Opera
+Monstro,10,Alchemic Waking,WORLD05/0010/WO050010.ESD,W05S0010.esd,2DE,29E,05 00,5,Yellow Opera
+Monstro,11,Meeting Ground,WORLD05/0011/WO050011.ESD,W05S0011.esd,1EE,1AE,01 00,1,Shadow
+Monstro,11,Meeting Ground,WORLD05/0011/WO050011.ESD,W05S0011.esd,21E,1DE,01 00,1,Shadow
+Monstro,11,Meeting Ground,WORLD05/0011/WO050011.ESD,W05S0011.esd,24E,20E,01 00,1,Shadow
+Monstro,11,Meeting Ground,WORLD05/0011/WO050011.ESD,W05S0011.esd,27E,23E,01 00,1,Shadow
+Monstro,11,Meeting Ground,WORLD05/0011/WO050011.ESD,W05S0011.esd,2AE,26E,05 00,5,Yellow Opera
+Monstro,11,Meeting Ground,WORLD05/0011/WO050011.ESD,W05S0011.esd,2DE,29E,05 00,5,Yellow Opera
+Monstro,11,Meeting Ground,WORLD05/0011/WO050011.ESD,W05S0011.esd,30E,2CE,05 00,5,Yellow Opera
+Monstro,12,Black Room,WORLD05/0012/WO050012.ESD,W05S0012.esd,1EE,1AE,11 00,17,Black Fungus
+Monstro,12,Black Room,WORLD05/0012/WO050012.ESD,W05S0012.esd,21E,1DE,11 00,17,Black Fungus
+Monstro,12,Black Room,WORLD05/0012/WO050012.ESD,W05S0012.esd,24E,20E,11 00,17,Black Fungus
+Monstro,13,Sleeping Darkness,WORLD05/0013/WO050013.ESD,W05S0013.esd,1EE,1AE,01 00,1,Shadow
+Monstro,13,Sleeping Darkness,WORLD05/0013/WO050013.ESD,W05S0013.esd,21E,1DE,01 00,1,Shadow
+Monstro,13,Sleeping Darkness,WORLD05/0013/WO050013.ESD,W05S0013.esd,24E,20E,09 00,9,Large Body
+Monstro,13,Sleeping Darkness,WORLD05/0013/WO050013.ESD,W05S0013.esd,27E,23E,05 00,5,Yellow Opera
+Monstro,13,Sleeping Darkness,WORLD05/0013/WO050013.ESD,W05S0013.esd,2AE,26E,05 00,5,Yellow Opera
+Monstro,14,Strong Initiative,WORLD05/0014/WO050014.ESD,W05S0014.esd,1EE,1AE,01 00,1,Shadow
+Monstro,14,Strong Initiative,WORLD05/0014/WO050014.ESD,W05S0014.esd,21E,1DE,01 00,1,Shadow
+Monstro,14,Strong Initiative,WORLD05/0014/WO050014.ESD,W05S0014.esd,24E,20E,01 00,1,Shadow
+Monstro,14,Strong Initiative,WORLD05/0014/WO050014.ESD,W05S0014.esd,27E,23E,01 00,1,Shadow
+Monstro,14,Strong Initiative,WORLD05/0014/WO050014.ESD,W05S0014.esd,2AE,26E,01 00,1,Shadow
+Monstro,14,Strong Initiative,WORLD05/0014/WO050014.ESD,W05S0014.esd,2DE,29E,05 00,5,Yellow Opera
+Monstro,14,Strong Initiative,WORLD05/0014/WO050014.ESD,W05S0014.esd,30E,2CE,05 00,5,Yellow Opera
+Monstro,14,Strong Initiative,WORLD05/0014/WO050014.ESD,W05S0014.esd,33E,2FE,05 00,5,Yellow Opera
+Monstro,14,Strong Initiative,WORLD05/0014/WO050014.ESD,W05S0014.esd,36E,32E,05 00,5,Yellow Opera
+Monstro,14,Strong Initiative,WORLD05/0014/WO050014.ESD,W05S0014.esd,39E,35E,05 00,5,Yellow Opera
+Monstro,15,Sorcerous Waking,WORLD05/0015/WO050015.ESD,W05S0015.esd,1EE,1AE,01 00,1,Shadow
+Monstro,15,Sorcerous Waking,WORLD05/0015/WO050015.ESD,W05S0015.esd,21E,1DE,01 00,1,Shadow
+Monstro,15,Sorcerous Waking,WORLD05/0015/WO050015.ESD,W05S0015.esd,24E,20E,01 00,1,Shadow
+Monstro,15,Sorcerous Waking,WORLD05/0015/WO050015.ESD,W05S0015.esd,27E,23E,01 00,1,Shadow
+Monstro,15,Sorcerous Waking,WORLD05/0015/WO050015.ESD,W05S0015.esd,2AE,26E,05 00,5,Yellow Opera
+Monstro,15,Sorcerous Waking,WORLD05/0015/WO050015.ESD,W05S0015.esd,2DE,29E,05 00,5,Yellow Opera
+Monstro,15,Sorcerous Waking,WORLD05/0015/WO050015.ESD,W05S0015.esd,30E,2CE,05 00,5,Yellow Opera
+Monstro,15,Sorcerous Waking,WORLD05/0015/WO050015.ESD,W05S0015.esd,33E,2FE,05 00,5,Yellow Opera
+Monstro,16,Almighty Darkness,WORLD05/0016/WO050016.ESD,W05S0016.esd,1EE,1AE,01 00,1,Shadow
+Monstro,16,Almighty Darkness,WORLD05/0016/WO050016.ESD,W05S0016.esd,21E,1DE,01 00,1,Shadow
+Monstro,16,Almighty Darkness,WORLD05/0016/WO050016.ESD,W05S0016.esd,24E,20E,01 00,1,Shadow
+Monstro,16,Almighty Darkness,WORLD05/0016/WO050016.ESD,W05S0016.esd,27E,23E,01 00,1,Shadow
+Monstro,16,Almighty Darkness,WORLD05/0016/WO050016.ESD,W05S0016.esd,2AE,26E,05 00,5,Yellow Opera
+Monstro,16,Almighty Darkness,WORLD05/0016/WO050016.ESD,W05S0016.esd,2DE,29E,05 00,5,Yellow Opera
+Monstro,16,Almighty Darkness,WORLD05/0016/WO050016.ESD,W05S0016.esd,30E,2CE,05 00,5,Yellow Opera
+Monstro,17,Premium Room,WORLD05/0017/WO050017.ESD,W05S0017.esd,1EE,1AE,01 00,1,Shadow
+Monstro,17,Premium Room,WORLD05/0017/WO050017.ESD,W05S0017.esd,21E,1DE,01 00,1,Shadow
+Monstro,17,Premium Room,WORLD05/0017/WO050017.ESD,W05S0017.esd,24E,20E,01 00,1,Shadow
+Monstro,17,Premium Room,WORLD05/0017/WO050017.ESD,W05S0017.esd,27E,23E,01 00,1,Shadow
+Monstro,17,Premium Room,WORLD05/0017/WO050017.ESD,W05S0017.esd,2AE,26E,05 00,5,Yellow Opera
+Monstro,17,Premium Room,WORLD05/0017/WO050017.ESD,W05S0017.esd,2DE,29E,05 00,5,Yellow Opera
+Monstro,17,Premium Room,WORLD05/0017/WO050017.ESD,W05S0017.esd,30E,2CE,05 00,5,Yellow Opera
+Monstro,17,Premium Room,WORLD05/0017/WO050017.ESD,W05S0017.esd,33E,2FE,05 00,5,Yellow Opera
+Monstro,18,Feeble Darkness,WORLD05/0018/WO050018.ESD,W05S0018.esd,1EE,1AE,01 00,1,Shadow
+Monstro,18,Feeble Darkness,WORLD05/0018/WO050018.ESD,W05S0018.esd,21E,1DE,01 00,1,Shadow
+Monstro,18,Feeble Darkness,WORLD05/0018/WO050018.ESD,W05S0018.esd,24E,20E,01 00,1,Shadow
+Monstro,18,Feeble Darkness,WORLD05/0018/WO050018.ESD,W05S0018.esd,27E,23E,05 00,5,Yellow Opera
+Monstro,18,Feeble Darkness,WORLD05/0018/WO050018.ESD,W05S0018.esd,2AE,26E,05 00,5,Yellow Opera
+Monstro,18,Feeble Darkness,WORLD05/0018/WO050018.ESD,W05S0018.esd,2DE,29E,05 00,5,Yellow Opera
+Monstro,19,Looming Darkness,WORLD05/0019/WO050019.ESD,W05S0019.esd,1EE,1AE,01 00,1,Shadow
+Monstro,19,Looming Darkness,WORLD05/0019/WO050019.ESD,W05S0019.esd,21E,1DE,01 00,1,Shadow
+Monstro,19,Looming Darkness,WORLD05/0019/WO050019.ESD,W05S0019.esd,24E,20E,01 00,1,Shadow
+Monstro,19,Looming Darkness,WORLD05/0019/WO050019.ESD,W05S0019.esd,27E,23E,09 00,9,Large Body
+Monstro,19,Looming Darkness,WORLD05/0019/WO050019.ESD,W05S0019.esd,2AE,26E,01 00,1,Shadow
+Monstro,19,Looming Darkness,WORLD05/0019/WO050019.ESD,W05S0019.esd,2DE,29E,09 00,9,Large Body
+Monstro,19,Looming Darkness,WORLD05/0019/WO050019.ESD,W05S0019.esd,30E,2CE,05 00,5,Yellow Opera
+Monstro,19,Looming Darkness,WORLD05/0019/WO050019.ESD,W05S0019.esd,33E,2FE,05 00,5,Yellow Opera
+Monstro,19,Looming Darkness,WORLD05/0019/WO050019.ESD,W05S0019.esd,36E,32E,05 00,5,Yellow Opera
+Monstro,19,Looming Darkness,WORLD05/0019/WO050019.ESD,W05S0019.esd,39E,35E,05 00,5,Yellow Opera
+Monstro,20,White Room,WORLD05/0020/WO050020.ESD,W05S0020.esd,1EE,1AE,10 00,16,White Mushroom
+Monstro,20,White Room,WORLD05/0020/WO050020.ESD,W05S0020.esd,21E,1DE,10 00,16,White Mushroom
+Monstro,20,White Room,WORLD05/0020/WO050020.ESD,W05S0020.esd,24E,20E,10 00,16,White Mushroom
+Monstro,21,Martial Waking,WORLD05/0021/WO050021.ESD,W05S0021.esd,1EE,1AE,01 00,1,Shadow
+Monstro,21,Martial Waking,WORLD05/0021/WO050021.ESD,W05S0021.esd,21E,1DE,01 00,1,Shadow
+Monstro,21,Martial Waking,WORLD05/0021/WO050021.ESD,W05S0021.esd,24E,20E,01 00,1,Shadow
+Monstro,21,Martial Waking,WORLD05/0021/WO050021.ESD,W05S0021.esd,27E,23E,01 00,1,Shadow
+Monstro,21,Martial Waking,WORLD05/0021/WO050021.ESD,W05S0021.esd,2AE,26E,05 00,5,Yellow Opera
+Monstro,21,Martial Waking,WORLD05/0021/WO050021.ESD,W05S0021.esd,2DE,29E,05 00,5,Yellow Opera
+Monstro,21,Martial Waking,WORLD05/0021/WO050021.ESD,W05S0021.esd,30E,2CE,05 00,5,Yellow Opera
+Monstro,21,Martial Waking,WORLD05/0021/WO050021.ESD,W05S0021.esd,33E,2FE,05 00,5,Yellow Opera
+Monstro,22,Tranquil Darkness,WORLD05/0022/WO050022.ESD,W05S0022.esd,1EE,1AE,01 00,1,Shadow
+Monstro,22,Tranquil Darkness,WORLD05/0022/WO050022.ESD,W05S0022.esd,21E,1DE,01 00,1,Shadow
+Monstro,22,Tranquil Darkness,WORLD05/0022/WO050022.ESD,W05S0022.esd,24E,20E,01 00,1,Shadow
+Monstro,22,Tranquil Darkness,WORLD05/0022/WO050022.ESD,W05S0022.esd,27E,23E,05 00,5,Yellow Opera
+Monstro,22,Tranquil Darkness,WORLD05/0022/WO050022.ESD,W05S0022.esd,2AE,26E,05 00,5,Yellow Opera
+Monstro,22,Tranquil Darkness,WORLD05/0022/WO050022.ESD,W05S0022.esd,2DE,29E,05 00,5,Yellow Opera
+Monstro,23,Lasting Daze,WORLD05/0023/WO050023.ESD,W05S0023.esd,1EE,1AE,01 00,1,Shadow
+Monstro,23,Lasting Daze,WORLD05/0023/WO050023.ESD,W05S0023.esd,21E,1DE,01 00,1,Shadow
+Monstro,23,Lasting Daze,WORLD05/0023/WO050023.ESD,W05S0023.esd,24E,20E,01 00,1,Shadow
+Monstro,23,Lasting Daze,WORLD05/0023/WO050023.ESD,W05S0023.esd,27E,23E,01 00,1,Shadow
+Monstro,23,Lasting Daze,WORLD05/0023/WO050023.ESD,W05S0023.esd,2AE,26E,01 00,1,Shadow
+Monstro,23,Lasting Daze,WORLD05/0023/WO050023.ESD,W05S0023.esd,2DE,29E,05 00,5,Yellow Opera
+Monstro,23,Lasting Daze,WORLD05/0023/WO050023.ESD,W05S0023.esd,30E,2CE,05 00,5,Yellow Opera
+Monstro,23,Lasting Daze,WORLD05/0023/WO050023.ESD,W05S0023.esd,33E,2FE,05 00,5,Yellow Opera
+Monstro,23,Lasting Daze,WORLD05/0023/WO050023.ESD,W05S0023.esd,36E,32E,05 00,5,Yellow Opera
+Monstro,23,Lasting Daze,WORLD05/0023/WO050023.ESD,W05S0023.esd,39E,35E,05 00,5,Yellow Opera
+Monstro,25,Roulette Room,WORLD05/0025/WO050025.ESD,W05S0025.esd,1EE,1AE,01 00,1,Shadow
+Monstro,25,Roulette Room,WORLD05/0025/WO050025.ESD,W05S0025.esd,21E,1DE,01 00,1,Shadow
+Monstro,25,Roulette Room,WORLD05/0025/WO050025.ESD,W05S0025.esd,24E,20E,01 00,1,Shadow
+Monstro,25,Roulette Room,WORLD05/0025/WO050025.ESD,W05S0025.esd,27E,23E,01 00,1,Shadow
+Monstro,25,Roulette Room,WORLD05/0025/WO050025.ESD,W05S0025.esd,2AE,26E,09 00,9,Large Body
+Monstro,25,Roulette Room,WORLD05/0025/WO050025.ESD,W05S0025.esd,2DE,29E,01 00,1,Shadow
+Monstro,25,Roulette Room,WORLD05/0025/WO050025.ESD,W05S0025.esd,30E,2CE,05 00,5,Yellow Opera
+Monstro,25,Roulette Room,WORLD05/0025/WO050025.ESD,W05S0025.esd,33E,2FE,05 00,5,Yellow Opera
+Monstro,25,Roulette Room,WORLD05/0025/WO050025.ESD,W05S0025.esd,36E,32E,05 00,5,Yellow Opera
+Monstro,25,Roulette Room,WORLD05/0025/WO050025.ESD,W05S0025.esd,39E,35E,05 00,5,Yellow Opera
+Monstro,26,Bottomless Darkness,WORLD05/0026/WO050026.ESD,W05S0026.esd,1EE,1AE,01 00,1,Shadow
+Monstro,26,Bottomless Darkness,WORLD05/0026/WO050026.ESD,W05S0026.esd,21E,1DE,01 00,1,Shadow
+Monstro,26,Bottomless Darkness,WORLD05/0026/WO050026.ESD,W05S0026.esd,24E,20E,01 00,1,Shadow
+Monstro,26,Bottomless Darkness,WORLD05/0026/WO050026.ESD,W05S0026.esd,27E,23E,01 00,1,Shadow
+Monstro,26,Bottomless Darkness,WORLD05/0026/WO050026.ESD,W05S0026.esd,2AE,26E,01 00,1,Shadow
+Monstro,26,Bottomless Darkness,WORLD05/0026/WO050026.ESD,W05S0026.esd,2DE,29E,01 00,1,Shadow
+Monstro,26,Bottomless Darkness,WORLD05/0026/WO050026.ESD,W05S0026.esd,30E,2CE,01 00,1,Shadow
+Monstro,26,Bottomless Darkness,WORLD05/0026/WO050026.ESD,W05S0026.esd,33E,2FE,01 00,1,Shadow
+Monstro,26,Bottomless Darkness,WORLD05/0026/WO050026.ESD,W05S0026.esd,36E,32E,01 00,1,Shadow
+Monstro,26,Bottomless Darkness,WORLD05/0026/WO050026.ESD,W05S0026.esd,39E,35E,01 00,1,Shadow
+Monstro,26,Bottomless Darkness,WORLD05/0026/WO050026.ESD,W05S0026.esd,3CE,38E,01 00,1,Shadow
+Monstro,26,Bottomless Darkness,WORLD05/0026/WO050026.ESD,W05S0026.esd,3FE,3BE,01 00,1,Shadow
+Monstro,26,Bottomless Darkness,WORLD05/0026/WO050026.ESD,W05S0026.esd,42E,3EE,01 00,1,Shadow
+Halloween Town,1,???,WORLD06/0001/WO060001.ESD,W06S0001.esd,1EE,1AE,20 00,32,Shadow (variant)
+Halloween Town,1,???,WORLD06/0001/WO060001.ESD,W06S0001.esd,21E,1DE,20 00,32,Shadow (variant)
+Halloween Town,1,???,WORLD06/0001/WO060001.ESD,W06S0001.esd,24E,20E,20 00,32,Shadow (variant)
+Halloween Town,1,???,WORLD06/0001/WO060001.ESD,W06S0001.esd,27E,23E,20 00,32,Shadow (variant)
+Halloween Town,1,???,WORLD06/0001/WO060001.ESD,W06S0001.esd,2AE,26E,0C 00,12,Wight Knight
+Halloween Town,1,???,WORLD06/0001/WO060001.ESD,W06S0001.esd,2DE,29E,0C 00,12,Wight Knight
+Halloween Town,1,???,WORLD06/0001/WO060001.ESD,W06S0001.esd,30E,2CE,0C 00,12,Wight Knight
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,1EE,1AE,20 00,32,Shadow (variant)
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,21E,1DE,20 00,32,Shadow (variant)
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,24E,20E,20 00,32,Shadow (variant)
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,27E,23E,20 00,32,Shadow (variant)
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,2AE,26E,20 00,32,Shadow (variant)
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,2DE,29E,20 00,32,Shadow (variant)
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,30E,2CE,0C 00,12,Wight Knight
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,33E,2FE,0C 00,12,Wight Knight
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,36E,32E,0C 00,12,Wight Knight
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,39E,35E,0C 00,12,Wight Knight
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,3CE,38E,0C 00,12,Wight Knight
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,3FE,3BE,0C 00,12,Wight Knight
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,42E,3EE,0D 00,13,Gargoyle
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,45E,41E,0D 00,13,Gargoyle
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,48E,44E,0D 00,13,Gargoyle
+Halloween Town,3,Teeming Darkness,WORLD06/0003/WO060003.ESD,W06S0003.esd,4BE,47E,0D 00,13,Gargoyle
+Halloween Town,7,Guarded Trove,WORLD06/0007/WO060007.ESD,W06S0007.esd,1EE,1AE,20 00,32,Shadow (variant)
+Halloween Town,7,Guarded Trove,WORLD06/0007/WO060007.ESD,W06S0007.esd,21E,1DE,20 00,32,Shadow (variant)
+Halloween Town,7,Guarded Trove,WORLD06/0007/WO060007.ESD,W06S0007.esd,24E,20E,20 00,32,Shadow (variant)
+Halloween Town,7,Guarded Trove,WORLD06/0007/WO060007.ESD,W06S0007.esd,27E,23E,0C 00,12,Wight Knight
+Halloween Town,7,Guarded Trove,WORLD06/0007/WO060007.ESD,W06S0007.esd,2AE,26E,0C 00,12,Wight Knight
+Halloween Town,7,Guarded Trove,WORLD06/0007/WO060007.ESD,W06S0007.esd,2DE,29E,0D 00,13,Gargoyle
+Halloween Town,7,Guarded Trove,WORLD06/0007/WO060007.ESD,W06S0007.esd,30E,2CE,0C 00,12,Wight Knight
+Halloween Town,8,False Bounty,WORLD06/0008/WO060008.ESD,W06S0008.esd,1EE,1AE,20 00,32,Shadow (variant)
+Halloween Town,8,False Bounty,WORLD06/0008/WO060008.ESD,W06S0008.esd,21E,1DE,20 00,32,Shadow (variant)
+Halloween Town,8,False Bounty,WORLD06/0008/WO060008.ESD,W06S0008.esd,24E,20E,20 00,32,Shadow (variant)
+Halloween Town,8,False Bounty,WORLD06/0008/WO060008.ESD,W06S0008.esd,27E,23E,0C 00,12,Wight Knight
+Halloween Town,8,False Bounty,WORLD06/0008/WO060008.ESD,W06S0008.esd,2AE,26E,0C 00,12,Wight Knight
+Halloween Town,9,Stagnant Space,WORLD06/0009/WO060009.ESD,W06S0009.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,9,Stagnant Space,WORLD06/0009/WO060009.ESD,W06S0009.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,9,Stagnant Space,WORLD06/0009/WO060009.ESD,W06S0009.esd,24E,20E,0C 00,12,Wight Knight
+Halloween Town,9,Stagnant Space,WORLD06/0009/WO060009.ESD,W06S0009.esd,27E,23E,20 00,32,Shadow (variant)
+Halloween Town,9,Stagnant Space,WORLD06/0009/WO060009.ESD,W06S0009.esd,2AE,26E,20 00,32,Shadow (variant)
+Halloween Town,10,Alchemic Waking,WORLD06/0010/WO060010.ESD,W06S0010.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,10,Alchemic Waking,WORLD06/0010/WO060010.ESD,W06S0010.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,10,Alchemic Waking,WORLD06/0010/WO060010.ESD,W06S0010.esd,24E,20E,20 00,32,Shadow (variant)
+Halloween Town,10,Alchemic Waking,WORLD06/0010/WO060010.ESD,W06S0010.esd,27E,23E,20 00,32,Shadow (variant)
+Halloween Town,10,Alchemic Waking,WORLD06/0010/WO060010.ESD,W06S0010.esd,2AE,26E,20 00,32,Shadow (variant)
+Halloween Town,10,Alchemic Waking,WORLD06/0010/WO060010.ESD,W06S0010.esd,2DE,29E,0C 00,12,Wight Knight
+Halloween Town,11,Meeting Ground,WORLD06/0011/WO060011.ESD,W06S0011.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,11,Meeting Ground,WORLD06/0011/WO060011.ESD,W06S0011.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,11,Meeting Ground,WORLD06/0011/WO060011.ESD,W06S0011.esd,24E,20E,0C 00,12,Wight Knight
+Halloween Town,11,Meeting Ground,WORLD06/0011/WO060011.ESD,W06S0011.esd,27E,23E,20 00,32,Shadow (variant)
+Halloween Town,11,Meeting Ground,WORLD06/0011/WO060011.ESD,W06S0011.esd,2AE,26E,20 00,32,Shadow (variant)
+Halloween Town,11,Meeting Ground,WORLD06/0011/WO060011.ESD,W06S0011.esd,2DE,29E,20 00,32,Shadow (variant)
+Halloween Town,11,Meeting Ground,WORLD06/0011/WO060011.ESD,W06S0011.esd,30E,2CE,20 00,32,Shadow (variant)
+Halloween Town,12,Black Room,WORLD06/0012/WO060012.ESD,W06S0012.esd,1EE,1AE,23 00,35,Black Fungus (copy)
+Halloween Town,12,Black Room,WORLD06/0012/WO060012.ESD,W06S0012.esd,21E,1DE,23 00,35,Black Fungus (copy)
+Halloween Town,12,Black Room,WORLD06/0012/WO060012.ESD,W06S0012.esd,24E,20E,23 00,35,Black Fungus (copy)
+Halloween Town,13,Sleeping Darkness,WORLD06/0013/WO060013.ESD,W06S0013.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,13,Sleeping Darkness,WORLD06/0013/WO060013.ESD,W06S0013.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,13,Sleeping Darkness,WORLD06/0013/WO060013.ESD,W06S0013.esd,24E,20E,20 00,32,Shadow (variant)
+Halloween Town,13,Sleeping Darkness,WORLD06/0013/WO060013.ESD,W06S0013.esd,27E,23E,20 00,32,Shadow (variant)
+Halloween Town,13,Sleeping Darkness,WORLD06/0013/WO060013.ESD,W06S0013.esd,2AE,26E,0D 00,13,Gargoyle
+Halloween Town,14,Strong Initiative,WORLD06/0014/WO060014.ESD,W06S0014.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,14,Strong Initiative,WORLD06/0014/WO060014.ESD,W06S0014.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,14,Strong Initiative,WORLD06/0014/WO060014.ESD,W06S0014.esd,24E,20E,0C 00,12,Wight Knight
+Halloween Town,14,Strong Initiative,WORLD06/0014/WO060014.ESD,W06S0014.esd,27E,23E,0C 00,12,Wight Knight
+Halloween Town,14,Strong Initiative,WORLD06/0014/WO060014.ESD,W06S0014.esd,2AE,26E,0C 00,12,Wight Knight
+Halloween Town,14,Strong Initiative,WORLD06/0014/WO060014.ESD,W06S0014.esd,2DE,29E,20 00,32,Shadow (variant)
+Halloween Town,14,Strong Initiative,WORLD06/0014/WO060014.ESD,W06S0014.esd,30E,2CE,20 00,32,Shadow (variant)
+Halloween Town,14,Strong Initiative,WORLD06/0014/WO060014.ESD,W06S0014.esd,33E,2FE,20 00,32,Shadow (variant)
+Halloween Town,14,Strong Initiative,WORLD06/0014/WO060014.ESD,W06S0014.esd,36E,32E,20 00,32,Shadow (variant)
+Halloween Town,14,Strong Initiative,WORLD06/0014/WO060014.ESD,W06S0014.esd,39E,35E,20 00,32,Shadow (variant)
+Halloween Town,15,Sorcerous Waking,WORLD06/0015/WO060015.ESD,W06S0015.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,15,Sorcerous Waking,WORLD06/0015/WO060015.ESD,W06S0015.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,15,Sorcerous Waking,WORLD06/0015/WO060015.ESD,W06S0015.esd,24E,20E,0C 00,12,Wight Knight
+Halloween Town,15,Sorcerous Waking,WORLD06/0015/WO060015.ESD,W06S0015.esd,27E,23E,20 00,32,Shadow (variant)
+Halloween Town,15,Sorcerous Waking,WORLD06/0015/WO060015.ESD,W06S0015.esd,2AE,26E,20 00,32,Shadow (variant)
+Halloween Town,15,Sorcerous Waking,WORLD06/0015/WO060015.ESD,W06S0015.esd,2DE,29E,20 00,32,Shadow (variant)
+Halloween Town,15,Sorcerous Waking,WORLD06/0015/WO060015.ESD,W06S0015.esd,30E,2CE,20 00,32,Shadow (variant)
+Halloween Town,15,Sorcerous Waking,WORLD06/0015/WO060015.ESD,W06S0015.esd,33E,2FE,0D 00,13,Gargoyle
+Halloween Town,16,Almighty Darkness,WORLD06/0016/WO060016.ESD,W06S0016.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,16,Almighty Darkness,WORLD06/0016/WO060016.ESD,W06S0016.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,16,Almighty Darkness,WORLD06/0016/WO060016.ESD,W06S0016.esd,24E,20E,0C 00,12,Wight Knight
+Halloween Town,16,Almighty Darkness,WORLD06/0016/WO060016.ESD,W06S0016.esd,27E,23E,20 00,32,Shadow (variant)
+Halloween Town,16,Almighty Darkness,WORLD06/0016/WO060016.ESD,W06S0016.esd,2AE,26E,20 00,32,Shadow (variant)
+Halloween Town,16,Almighty Darkness,WORLD06/0016/WO060016.ESD,W06S0016.esd,2DE,29E,20 00,32,Shadow (variant)
+Halloween Town,16,Almighty Darkness,WORLD06/0016/WO060016.ESD,W06S0016.esd,30E,2CE,20 00,32,Shadow (variant)
+Halloween Town,17,Premium Room,WORLD06/0017/WO060017.ESD,W06S0017.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,17,Premium Room,WORLD06/0017/WO060017.ESD,W06S0017.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,17,Premium Room,WORLD06/0017/WO060017.ESD,W06S0017.esd,24E,20E,0C 00,12,Wight Knight
+Halloween Town,17,Premium Room,WORLD06/0017/WO060017.ESD,W06S0017.esd,27E,23E,20 00,32,Shadow (variant)
+Halloween Town,17,Premium Room,WORLD06/0017/WO060017.ESD,W06S0017.esd,2AE,26E,20 00,32,Shadow (variant)
+Halloween Town,17,Premium Room,WORLD06/0017/WO060017.ESD,W06S0017.esd,2DE,29E,20 00,32,Shadow (variant)
+Halloween Town,17,Premium Room,WORLD06/0017/WO060017.ESD,W06S0017.esd,30E,2CE,0C 00,12,Wight Knight
+Halloween Town,17,Premium Room,WORLD06/0017/WO060017.ESD,W06S0017.esd,33E,2FE,20 00,32,Shadow (variant)
+Halloween Town,18,Feeble Darkness,WORLD06/0018/WO060018.ESD,W06S0018.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,18,Feeble Darkness,WORLD06/0018/WO060018.ESD,W06S0018.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,18,Feeble Darkness,WORLD06/0018/WO060018.ESD,W06S0018.esd,24E,20E,0C 00,12,Wight Knight
+Halloween Town,18,Feeble Darkness,WORLD06/0018/WO060018.ESD,W06S0018.esd,27E,23E,20 00,32,Shadow (variant)
+Halloween Town,18,Feeble Darkness,WORLD06/0018/WO060018.ESD,W06S0018.esd,2AE,26E,20 00,32,Shadow (variant)
+Halloween Town,18,Feeble Darkness,WORLD06/0018/WO060018.ESD,W06S0018.esd,2DE,29E,20 00,32,Shadow (variant)
+Halloween Town,19,Looming Darkness,WORLD06/0019/WO060019.ESD,W06S0019.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,19,Looming Darkness,WORLD06/0019/WO060019.ESD,W06S0019.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,19,Looming Darkness,WORLD06/0019/WO060019.ESD,W06S0019.esd,24E,20E,0C 00,12,Wight Knight
+Halloween Town,19,Looming Darkness,WORLD06/0019/WO060019.ESD,W06S0019.esd,27E,23E,0C 00,12,Wight Knight
+Halloween Town,19,Looming Darkness,WORLD06/0019/WO060019.ESD,W06S0019.esd,2AE,26E,20 00,32,Shadow (variant)
+Halloween Town,19,Looming Darkness,WORLD06/0019/WO060019.ESD,W06S0019.esd,2DE,29E,20 00,32,Shadow (variant)
+Halloween Town,19,Looming Darkness,WORLD06/0019/WO060019.ESD,W06S0019.esd,30E,2CE,20 00,32,Shadow (variant)
+Halloween Town,19,Looming Darkness,WORLD06/0019/WO060019.ESD,W06S0019.esd,33E,2FE,0D 00,13,Gargoyle
+Halloween Town,19,Looming Darkness,WORLD06/0019/WO060019.ESD,W06S0019.esd,36E,32E,0D 00,13,Gargoyle
+Halloween Town,19,Looming Darkness,WORLD06/0019/WO060019.ESD,W06S0019.esd,39E,35E,20 00,32,Shadow (variant)
+Halloween Town,20,White Room,WORLD06/0020/WO060020.ESD,W06S0020.esd,1EE,1AE,22 00,34,White Mushroom (copy)
+Halloween Town,20,White Room,WORLD06/0020/WO060020.ESD,W06S0020.esd,21E,1DE,22 00,34,White Mushroom (copy)
+Halloween Town,20,White Room,WORLD06/0020/WO060020.ESD,W06S0020.esd,24E,20E,22 00,34,White Mushroom (copy)
+Halloween Town,21,Martial Waking,WORLD06/0021/WO060021.ESD,W06S0021.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,21,Martial Waking,WORLD06/0021/WO060021.ESD,W06S0021.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,21,Martial Waking,WORLD06/0021/WO060021.ESD,W06S0021.esd,24E,20E,0C 00,12,Wight Knight
+Halloween Town,21,Martial Waking,WORLD06/0021/WO060021.ESD,W06S0021.esd,27E,23E,0C 00,12,Wight Knight
+Halloween Town,21,Martial Waking,WORLD06/0021/WO060021.ESD,W06S0021.esd,2AE,26E,20 00,32,Shadow (variant)
+Halloween Town,21,Martial Waking,WORLD06/0021/WO060021.ESD,W06S0021.esd,2DE,29E,20 00,32,Shadow (variant)
+Halloween Town,21,Martial Waking,WORLD06/0021/WO060021.ESD,W06S0021.esd,30E,2CE,20 00,32,Shadow (variant)
+Halloween Town,21,Martial Waking,WORLD06/0021/WO060021.ESD,W06S0021.esd,33E,2FE,20 00,32,Shadow (variant)
+Halloween Town,22,Tranquil Darkness,WORLD06/0022/WO060022.ESD,W06S0022.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,22,Tranquil Darkness,WORLD06/0022/WO060022.ESD,W06S0022.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,22,Tranquil Darkness,WORLD06/0022/WO060022.ESD,W06S0022.esd,24E,20E,0C 00,12,Wight Knight
+Halloween Town,22,Tranquil Darkness,WORLD06/0022/WO060022.ESD,W06S0022.esd,27E,23E,20 00,32,Shadow (variant)
+Halloween Town,22,Tranquil Darkness,WORLD06/0022/WO060022.ESD,W06S0022.esd,2AE,26E,20 00,32,Shadow (variant)
+Halloween Town,22,Tranquil Darkness,WORLD06/0022/WO060022.ESD,W06S0022.esd,2DE,29E,20 00,32,Shadow (variant)
+Halloween Town,23,Lasting Daze,WORLD06/0023/WO060023.ESD,W06S0023.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,23,Lasting Daze,WORLD06/0023/WO060023.ESD,W06S0023.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,23,Lasting Daze,WORLD06/0023/WO060023.ESD,W06S0023.esd,24E,20E,0C 00,12,Wight Knight
+Halloween Town,23,Lasting Daze,WORLD06/0023/WO060023.ESD,W06S0023.esd,27E,23E,0C 00,12,Wight Knight
+Halloween Town,23,Lasting Daze,WORLD06/0023/WO060023.ESD,W06S0023.esd,2AE,26E,0C 00,12,Wight Knight
+Halloween Town,23,Lasting Daze,WORLD06/0023/WO060023.ESD,W06S0023.esd,2DE,29E,20 00,32,Shadow (variant)
+Halloween Town,23,Lasting Daze,WORLD06/0023/WO060023.ESD,W06S0023.esd,30E,2CE,20 00,32,Shadow (variant)
+Halloween Town,23,Lasting Daze,WORLD06/0023/WO060023.ESD,W06S0023.esd,33E,2FE,20 00,32,Shadow (variant)
+Halloween Town,23,Lasting Daze,WORLD06/0023/WO060023.ESD,W06S0023.esd,36E,32E,20 00,32,Shadow (variant)
+Halloween Town,23,Lasting Daze,WORLD06/0023/WO060023.ESD,W06S0023.esd,39E,35E,20 00,32,Shadow (variant)
+Halloween Town,25,Roulette Room,WORLD06/0025/WO060025.ESD,W06S0025.esd,1EE,1AE,0C 00,12,Wight Knight
+Halloween Town,25,Roulette Room,WORLD06/0025/WO060025.ESD,W06S0025.esd,21E,1DE,0C 00,12,Wight Knight
+Halloween Town,25,Roulette Room,WORLD06/0025/WO060025.ESD,W06S0025.esd,24E,20E,0C 00,12,Wight Knight
+Halloween Town,25,Roulette Room,WORLD06/0025/WO060025.ESD,W06S0025.esd,27E,23E,0C 00,12,Wight Knight
+Halloween Town,25,Roulette Room,WORLD06/0025/WO060025.ESD,W06S0025.esd,2AE,26E,20 00,32,Shadow (variant)
+Halloween Town,25,Roulette Room,WORLD06/0025/WO060025.ESD,W06S0025.esd,2DE,29E,20 00,32,Shadow (variant)
+Halloween Town,25,Roulette Room,WORLD06/0025/WO060025.ESD,W06S0025.esd,30E,2CE,20 00,32,Shadow (variant)
+Halloween Town,25,Roulette Room,WORLD06/0025/WO060025.ESD,W06S0025.esd,33E,2FE,20 00,32,Shadow (variant)
+Halloween Town,25,Roulette Room,WORLD06/0025/WO060025.ESD,W06S0025.esd,36E,32E,20 00,32,Shadow (variant)
+Halloween Town,25,Roulette Room,WORLD06/0025/WO060025.ESD,W06S0025.esd,39E,35E,0D 00,13,Gargoyle
+Halloween Town,26,Bottomless Darkness,WORLD06/0026/WO060026.ESD,W06S0026.esd,1EE,1AE,20 00,32,Shadow (variant)
+Halloween Town,26,Bottomless Darkness,WORLD06/0026/WO060026.ESD,W06S0026.esd,21E,1DE,20 00,32,Shadow (variant)
+Halloween Town,26,Bottomless Darkness,WORLD06/0026/WO060026.ESD,W06S0026.esd,24E,20E,20 00,32,Shadow (variant)
+Halloween Town,26,Bottomless Darkness,WORLD06/0026/WO060026.ESD,W06S0026.esd,27E,23E,20 00,32,Shadow (variant)
+Halloween Town,26,Bottomless Darkness,WORLD06/0026/WO060026.ESD,W06S0026.esd,2AE,26E,20 00,32,Shadow (variant)
+Halloween Town,26,Bottomless Darkness,WORLD06/0026/WO060026.ESD,W06S0026.esd,2DE,29E,20 00,32,Shadow (variant)
+Halloween Town,26,Bottomless Darkness,WORLD06/0026/WO060026.ESD,W06S0026.esd,30E,2CE,20 00,32,Shadow (variant)
+Halloween Town,26,Bottomless Darkness,WORLD06/0026/WO060026.ESD,W06S0026.esd,33E,2FE,20 00,32,Shadow (variant)
+Halloween Town,26,Bottomless Darkness,WORLD06/0026/WO060026.ESD,W06S0026.esd,36E,32E,20 00,32,Shadow (variant)
+Halloween Town,26,Bottomless Darkness,WORLD06/0026/WO060026.ESD,W06S0026.esd,39E,35E,20 00,32,Shadow (variant)
+Halloween Town,26,Bottomless Darkness,WORLD06/0026/WO060026.ESD,W06S0026.esd,3CE,38E,20 00,32,Shadow (variant)
+Halloween Town,26,Bottomless Darkness,WORLD06/0026/WO060026.ESD,W06S0026.esd,3FE,3BE,20 00,32,Shadow (variant)
+Halloween Town,26,Bottomless Darkness,WORLD06/0026/WO060026.ESD,W06S0026.esd,42E,3EE,20 00,32,Shadow (variant)
+Atlantica,1,???,WORLD07/0001/WO070001.ESD,W07S0001.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,1,???,WORLD07/0001/WO070001.ESD,W07S0001.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,1,???,WORLD07/0001/WO070001.ESD,W07S0001.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,1,???,WORLD07/0001/WO070001.ESD,W07S0001.esd,27E,23E,13 00,19,Screwdiver
+Atlantica,1,???,WORLD07/0001/WO070001.ESD,W07S0001.esd,2AE,26E,13 00,19,Screwdiver
+Atlantica,1,???,WORLD07/0001/WO070001.ESD,W07S0001.esd,2DE,29E,13 00,19,Screwdiver
+Atlantica,1,???,WORLD07/0001/WO070001.ESD,W07S0001.esd,30E,2CE,13 00,19,Screwdiver
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,27E,23E,12 00,18,Sea Neon
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,2AE,26E,12 00,18,Sea Neon
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,2DE,29E,12 00,18,Sea Neon
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,30E,2CE,14 00,20,Aquatank
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,33E,2FE,13 00,19,Screwdiver
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,36E,32E,13 00,19,Screwdiver
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,39E,35E,13 00,19,Screwdiver
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,3CE,38E,13 00,19,Screwdiver
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,3FE,3BE,13 00,19,Screwdiver
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,42E,3EE,13 00,19,Screwdiver
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,45E,41E,12 00,18,Sea Neon
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,48E,44E,12 00,18,Sea Neon
+Atlantica,3,Teeming Darkness,WORLD07/0003/WO070003.ESD,W07S0003.esd,4BE,47E,13 00,19,Screwdiver
+Atlantica,4,Moogle Room,WORLD07/0004/WO070004.ESD,W07S0004.esd,1EE,1AE,08 00,8,Bouncywild
+Atlantica,7,Guarded Trove,WORLD07/0007/WO070007.ESD,W07S0007.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,7,Guarded Trove,WORLD07/0007/WO070007.ESD,W07S0007.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,7,Guarded Trove,WORLD07/0007/WO070007.ESD,W07S0007.esd,24E,20E,13 00,19,Screwdiver
+Atlantica,7,Guarded Trove,WORLD07/0007/WO070007.ESD,W07S0007.esd,27E,23E,13 00,19,Screwdiver
+Atlantica,7,Guarded Trove,WORLD07/0007/WO070007.ESD,W07S0007.esd,2AE,26E,13 00,19,Screwdiver
+Atlantica,7,Guarded Trove,WORLD07/0007/WO070007.ESD,W07S0007.esd,2DE,29E,13 00,19,Screwdiver
+Atlantica,7,Guarded Trove,WORLD07/0007/WO070007.ESD,W07S0007.esd,30E,2CE,14 00,20,Aquatank
+Atlantica,8,False Bounty,WORLD07/0008/WO070008.ESD,W07S0008.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,8,False Bounty,WORLD07/0008/WO070008.ESD,W07S0008.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,8,False Bounty,WORLD07/0008/WO070008.ESD,W07S0008.esd,24E,20E,13 00,19,Screwdiver
+Atlantica,8,False Bounty,WORLD07/0008/WO070008.ESD,W07S0008.esd,27E,23E,13 00,19,Screwdiver
+Atlantica,8,False Bounty,WORLD07/0008/WO070008.ESD,W07S0008.esd,2AE,26E,12 00,18,Sea Neon
+Atlantica,9,Stagnant Space,WORLD07/0009/WO070009.ESD,W07S0009.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,9,Stagnant Space,WORLD07/0009/WO070009.ESD,W07S0009.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,9,Stagnant Space,WORLD07/0009/WO070009.ESD,W07S0009.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,9,Stagnant Space,WORLD07/0009/WO070009.ESD,W07S0009.esd,27E,23E,13 00,19,Screwdiver
+Atlantica,9,Stagnant Space,WORLD07/0009/WO070009.ESD,W07S0009.esd,2AE,26E,13 00,19,Screwdiver
+Atlantica,10,Alchemic Waking,WORLD07/0010/WO070010.ESD,W07S0010.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,10,Alchemic Waking,WORLD07/0010/WO070010.ESD,W07S0010.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,10,Alchemic Waking,WORLD07/0010/WO070010.ESD,W07S0010.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,10,Alchemic Waking,WORLD07/0010/WO070010.ESD,W07S0010.esd,27E,23E,13 00,19,Screwdiver
+Atlantica,10,Alchemic Waking,WORLD07/0010/WO070010.ESD,W07S0010.esd,2AE,26E,13 00,19,Screwdiver
+Atlantica,10,Alchemic Waking,WORLD07/0010/WO070010.ESD,W07S0010.esd,2DE,29E,13 00,19,Screwdiver
+Atlantica,11,Meeting Ground,WORLD07/0011/WO070011.ESD,W07S0011.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,11,Meeting Ground,WORLD07/0011/WO070011.ESD,W07S0011.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,11,Meeting Ground,WORLD07/0011/WO070011.ESD,W07S0011.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,11,Meeting Ground,WORLD07/0011/WO070011.ESD,W07S0011.esd,27E,23E,12 00,18,Sea Neon
+Atlantica,11,Meeting Ground,WORLD07/0011/WO070011.ESD,W07S0011.esd,2AE,26E,13 00,19,Screwdiver
+Atlantica,11,Meeting Ground,WORLD07/0011/WO070011.ESD,W07S0011.esd,2DE,29E,13 00,19,Screwdiver
+Atlantica,11,Meeting Ground,WORLD07/0011/WO070011.ESD,W07S0011.esd,30E,2CE,13 00,19,Screwdiver
+Atlantica,12,Black Room,WORLD07/0012/WO070012.ESD,W07S0012.esd,1EE,1AE,11 00,17,Black Fungus
+Atlantica,12,Black Room,WORLD07/0012/WO070012.ESD,W07S0012.esd,21E,1DE,11 00,17,Black Fungus
+Atlantica,12,Black Room,WORLD07/0012/WO070012.ESD,W07S0012.esd,24E,20E,11 00,17,Black Fungus
+Atlantica,13,Sleeping Darkness,WORLD07/0013/WO070013.ESD,W07S0013.esd,1EE,1AE,14 00,20,Aquatank
+Atlantica,13,Sleeping Darkness,WORLD07/0013/WO070013.ESD,W07S0013.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,13,Sleeping Darkness,WORLD07/0013/WO070013.ESD,W07S0013.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,13,Sleeping Darkness,WORLD07/0013/WO070013.ESD,W07S0013.esd,27E,23E,13 00,19,Screwdiver
+Atlantica,13,Sleeping Darkness,WORLD07/0013/WO070013.ESD,W07S0013.esd,2AE,26E,13 00,19,Screwdiver
+Atlantica,14,Strong Initiative,WORLD07/0014/WO070014.ESD,W07S0014.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,14,Strong Initiative,WORLD07/0014/WO070014.ESD,W07S0014.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,14,Strong Initiative,WORLD07/0014/WO070014.ESD,W07S0014.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,14,Strong Initiative,WORLD07/0014/WO070014.ESD,W07S0014.esd,27E,23E,12 00,18,Sea Neon
+Atlantica,14,Strong Initiative,WORLD07/0014/WO070014.ESD,W07S0014.esd,2AE,26E,12 00,18,Sea Neon
+Atlantica,14,Strong Initiative,WORLD07/0014/WO070014.ESD,W07S0014.esd,2DE,29E,13 00,19,Screwdiver
+Atlantica,14,Strong Initiative,WORLD07/0014/WO070014.ESD,W07S0014.esd,30E,2CE,13 00,19,Screwdiver
+Atlantica,14,Strong Initiative,WORLD07/0014/WO070014.ESD,W07S0014.esd,33E,2FE,13 00,19,Screwdiver
+Atlantica,14,Strong Initiative,WORLD07/0014/WO070014.ESD,W07S0014.esd,36E,32E,13 00,19,Screwdiver
+Atlantica,14,Strong Initiative,WORLD07/0014/WO070014.ESD,W07S0014.esd,39E,35E,13 00,19,Screwdiver
+Atlantica,15,Sorcerous Waking,WORLD07/0015/WO070015.ESD,W07S0015.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,15,Sorcerous Waking,WORLD07/0015/WO070015.ESD,W07S0015.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,15,Sorcerous Waking,WORLD07/0015/WO070015.ESD,W07S0015.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,15,Sorcerous Waking,WORLD07/0015/WO070015.ESD,W07S0015.esd,27E,23E,12 00,18,Sea Neon
+Atlantica,15,Sorcerous Waking,WORLD07/0015/WO070015.ESD,W07S0015.esd,2AE,26E,13 00,19,Screwdiver
+Atlantica,15,Sorcerous Waking,WORLD07/0015/WO070015.ESD,W07S0015.esd,2DE,29E,13 00,19,Screwdiver
+Atlantica,15,Sorcerous Waking,WORLD07/0015/WO070015.ESD,W07S0015.esd,30E,2CE,13 00,19,Screwdiver
+Atlantica,15,Sorcerous Waking,WORLD07/0015/WO070015.ESD,W07S0015.esd,33E,2FE,13 00,19,Screwdiver
+Atlantica,16,Almighty Darkness,WORLD07/0016/WO070016.ESD,W07S0016.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,16,Almighty Darkness,WORLD07/0016/WO070016.ESD,W07S0016.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,16,Almighty Darkness,WORLD07/0016/WO070016.ESD,W07S0016.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,16,Almighty Darkness,WORLD07/0016/WO070016.ESD,W07S0016.esd,27E,23E,12 00,18,Sea Neon
+Atlantica,16,Almighty Darkness,WORLD07/0016/WO070016.ESD,W07S0016.esd,2AE,26E,13 00,19,Screwdiver
+Atlantica,16,Almighty Darkness,WORLD07/0016/WO070016.ESD,W07S0016.esd,2DE,29E,13 00,19,Screwdiver
+Atlantica,16,Almighty Darkness,WORLD07/0016/WO070016.ESD,W07S0016.esd,30E,2CE,13 00,19,Screwdiver
+Atlantica,17,Premium Room,WORLD07/0017/WO070017.ESD,W07S0017.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,17,Premium Room,WORLD07/0017/WO070017.ESD,W07S0017.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,17,Premium Room,WORLD07/0017/WO070017.ESD,W07S0017.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,17,Premium Room,WORLD07/0017/WO070017.ESD,W07S0017.esd,27E,23E,12 00,18,Sea Neon
+Atlantica,17,Premium Room,WORLD07/0017/WO070017.ESD,W07S0017.esd,2AE,26E,13 00,19,Screwdiver
+Atlantica,17,Premium Room,WORLD07/0017/WO070017.ESD,W07S0017.esd,2DE,29E,13 00,19,Screwdiver
+Atlantica,17,Premium Room,WORLD07/0017/WO070017.ESD,W07S0017.esd,30E,2CE,13 00,19,Screwdiver
+Atlantica,17,Premium Room,WORLD07/0017/WO070017.ESD,W07S0017.esd,33E,2FE,13 00,19,Screwdiver
+Atlantica,18,Feeble Darkness,WORLD07/0018/WO070018.ESD,W07S0018.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,18,Feeble Darkness,WORLD07/0018/WO070018.ESD,W07S0018.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,18,Feeble Darkness,WORLD07/0018/WO070018.ESD,W07S0018.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,18,Feeble Darkness,WORLD07/0018/WO070018.ESD,W07S0018.esd,27E,23E,13 00,19,Screwdiver
+Atlantica,18,Feeble Darkness,WORLD07/0018/WO070018.ESD,W07S0018.esd,2AE,26E,13 00,19,Screwdiver
+Atlantica,18,Feeble Darkness,WORLD07/0018/WO070018.ESD,W07S0018.esd,2DE,29E,13 00,19,Screwdiver
+Atlantica,19,Looming Darkness,WORLD07/0019/WO070019.ESD,W07S0019.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,19,Looming Darkness,WORLD07/0019/WO070019.ESD,W07S0019.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,19,Looming Darkness,WORLD07/0019/WO070019.ESD,W07S0019.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,19,Looming Darkness,WORLD07/0019/WO070019.ESD,W07S0019.esd,27E,23E,12 00,18,Sea Neon
+Atlantica,19,Looming Darkness,WORLD07/0019/WO070019.ESD,W07S0019.esd,2AE,26E,14 00,20,Aquatank
+Atlantica,19,Looming Darkness,WORLD07/0019/WO070019.ESD,W07S0019.esd,2DE,29E,14 00,20,Aquatank
+Atlantica,19,Looming Darkness,WORLD07/0019/WO070019.ESD,W07S0019.esd,30E,2CE,13 00,19,Screwdiver
+Atlantica,19,Looming Darkness,WORLD07/0019/WO070019.ESD,W07S0019.esd,33E,2FE,13 00,19,Screwdiver
+Atlantica,19,Looming Darkness,WORLD07/0019/WO070019.ESD,W07S0019.esd,36E,32E,13 00,19,Screwdiver
+Atlantica,19,Looming Darkness,WORLD07/0019/WO070019.ESD,W07S0019.esd,39E,35E,13 00,19,Screwdiver
+Atlantica,20,White Room,WORLD07/0020/WO070020.ESD,W07S0020.esd,1EE,1AE,10 00,16,White Mushroom
+Atlantica,20,White Room,WORLD07/0020/WO070020.ESD,W07S0020.esd,21E,1DE,10 00,16,White Mushroom
+Atlantica,20,White Room,WORLD07/0020/WO070020.ESD,W07S0020.esd,24E,20E,10 00,16,White Mushroom
+Atlantica,21,Martial Waking,WORLD07/0021/WO070021.ESD,W07S0021.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,21,Martial Waking,WORLD07/0021/WO070021.ESD,W07S0021.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,21,Martial Waking,WORLD07/0021/WO070021.ESD,W07S0021.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,21,Martial Waking,WORLD07/0021/WO070021.ESD,W07S0021.esd,27E,23E,12 00,18,Sea Neon
+Atlantica,21,Martial Waking,WORLD07/0021/WO070021.ESD,W07S0021.esd,2AE,26E,13 00,19,Screwdiver
+Atlantica,21,Martial Waking,WORLD07/0021/WO070021.ESD,W07S0021.esd,2DE,29E,13 00,19,Screwdiver
+Atlantica,21,Martial Waking,WORLD07/0021/WO070021.ESD,W07S0021.esd,30E,2CE,13 00,19,Screwdiver
+Atlantica,21,Martial Waking,WORLD07/0021/WO070021.ESD,W07S0021.esd,33E,2FE,13 00,19,Screwdiver
+Atlantica,22,Tranquil Darkness,WORLD07/0022/WO070022.ESD,W07S0022.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,22,Tranquil Darkness,WORLD07/0022/WO070022.ESD,W07S0022.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,22,Tranquil Darkness,WORLD07/0022/WO070022.ESD,W07S0022.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,22,Tranquil Darkness,WORLD07/0022/WO070022.ESD,W07S0022.esd,27E,23E,13 00,19,Screwdiver
+Atlantica,22,Tranquil Darkness,WORLD07/0022/WO070022.ESD,W07S0022.esd,2AE,26E,13 00,19,Screwdiver
+Atlantica,22,Tranquil Darkness,WORLD07/0022/WO070022.ESD,W07S0022.esd,2DE,29E,13 00,19,Screwdiver
+Atlantica,23,Lasting Daze,WORLD07/0023/WO070023.ESD,W07S0023.esd,1EE,1AE,12 00,18,Sea Neon
+Atlantica,23,Lasting Daze,WORLD07/0023/WO070023.ESD,W07S0023.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,23,Lasting Daze,WORLD07/0023/WO070023.ESD,W07S0023.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,23,Lasting Daze,WORLD07/0023/WO070023.ESD,W07S0023.esd,27E,23E,12 00,18,Sea Neon
+Atlantica,23,Lasting Daze,WORLD07/0023/WO070023.ESD,W07S0023.esd,2AE,26E,12 00,18,Sea Neon
+Atlantica,23,Lasting Daze,WORLD07/0023/WO070023.ESD,W07S0023.esd,2DE,29E,13 00,19,Screwdiver
+Atlantica,23,Lasting Daze,WORLD07/0023/WO070023.ESD,W07S0023.esd,30E,2CE,13 00,19,Screwdiver
+Atlantica,23,Lasting Daze,WORLD07/0023/WO070023.ESD,W07S0023.esd,33E,2FE,13 00,19,Screwdiver
+Atlantica,23,Lasting Daze,WORLD07/0023/WO070023.ESD,W07S0023.esd,36E,32E,13 00,19,Screwdiver
+Atlantica,23,Lasting Daze,WORLD07/0023/WO070023.ESD,W07S0023.esd,39E,35E,13 00,19,Screwdiver
+Atlantica,25,Roulette Room,WORLD07/0025/WO070025.ESD,W07S0025.esd,1EE,1AE,14 00,20,Aquatank
+Atlantica,25,Roulette Room,WORLD07/0025/WO070025.ESD,W07S0025.esd,21E,1DE,12 00,18,Sea Neon
+Atlantica,25,Roulette Room,WORLD07/0025/WO070025.ESD,W07S0025.esd,24E,20E,12 00,18,Sea Neon
+Atlantica,25,Roulette Room,WORLD07/0025/WO070025.ESD,W07S0025.esd,27E,23E,12 00,18,Sea Neon
+Atlantica,25,Roulette Room,WORLD07/0025/WO070025.ESD,W07S0025.esd,2AE,26E,12 00,18,Sea Neon
+Atlantica,25,Roulette Room,WORLD07/0025/WO070025.ESD,W07S0025.esd,2DE,29E,13 00,19,Screwdiver
+Atlantica,25,Roulette Room,WORLD07/0025/WO070025.ESD,W07S0025.esd,30E,2CE,13 00,19,Screwdiver
+Atlantica,25,Roulette Room,WORLD07/0025/WO070025.ESD,W07S0025.esd,33E,2FE,13 00,19,Screwdiver
+Atlantica,25,Roulette Room,WORLD07/0025/WO070025.ESD,W07S0025.esd,36E,32E,13 00,19,Screwdiver
+Atlantica,25,Roulette Room,WORLD07/0025/WO070025.ESD,W07S0025.esd,39E,35E,13 00,19,Screwdiver
+Atlantica,26,Bottomless Darkness,WORLD07/0026/WO070026.ESD,W07S0026.esd,1EE,1AE,01 00,1,Shadow
+Atlantica,26,Bottomless Darkness,WORLD07/0026/WO070026.ESD,W07S0026.esd,21E,1DE,01 00,1,Shadow
+Atlantica,26,Bottomless Darkness,WORLD07/0026/WO070026.ESD,W07S0026.esd,24E,20E,01 00,1,Shadow
+Atlantica,26,Bottomless Darkness,WORLD07/0026/WO070026.ESD,W07S0026.esd,27E,23E,01 00,1,Shadow
+Atlantica,26,Bottomless Darkness,WORLD07/0026/WO070026.ESD,W07S0026.esd,2AE,26E,01 00,1,Shadow
+Atlantica,26,Bottomless Darkness,WORLD07/0026/WO070026.ESD,W07S0026.esd,2DE,29E,01 00,1,Shadow
+Atlantica,26,Bottomless Darkness,WORLD07/0026/WO070026.ESD,W07S0026.esd,30E,2CE,01 00,1,Shadow
+Atlantica,26,Bottomless Darkness,WORLD07/0026/WO070026.ESD,W07S0026.esd,33E,2FE,01 00,1,Shadow
+Atlantica,26,Bottomless Darkness,WORLD07/0026/WO070026.ESD,W07S0026.esd,36E,32E,01 00,1,Shadow
+Atlantica,26,Bottomless Darkness,WORLD07/0026/WO070026.ESD,W07S0026.esd,39E,35E,01 00,1,Shadow
+Atlantica,26,Bottomless Darkness,WORLD07/0026/WO070026.ESD,W07S0026.esd,3CE,38E,01 00,1,Shadow
+Atlantica,26,Bottomless Darkness,WORLD07/0026/WO070026.ESD,W07S0026.esd,3FE,3BE,01 00,1,Shadow
+Atlantica,26,Bottomless Darkness,WORLD07/0026/WO070026.ESD,W07S0026.esd,42E,3EE,01 00,1,Shadow
+Neverland,1,???,WORLD08/0001/WO080001.ESD,W08S0001.esd,1EE,1AE,01 00,1,Shadow
+Neverland,1,???,WORLD08/0001/WO080001.ESD,W08S0001.esd,21E,1DE,01 00,1,Shadow
+Neverland,1,???,WORLD08/0001/WO080001.ESD,W08S0001.esd,24E,20E,01 00,1,Shadow
+Neverland,1,???,WORLD08/0001/WO080001.ESD,W08S0001.esd,27E,23E,01 00,1,Shadow
+Neverland,1,???,WORLD08/0001/WO080001.ESD,W08S0001.esd,2AE,26E,05 00,5,Yellow Opera
+Neverland,1,???,WORLD08/0001/WO080001.ESD,W08S0001.esd,2DE,29E,05 00,5,Yellow Opera
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,1EE,1AE,01 00,1,Shadow
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,21E,1DE,01 00,1,Shadow
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,24E,20E,01 00,1,Shadow
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,27E,23E,01 00,1,Shadow
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,2AE,26E,01 00,1,Shadow
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,2DE,29E,01 00,1,Shadow
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,30E,2CE,01 00,1,Shadow
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,33E,2FE,05 00,5,Yellow Opera
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,36E,32E,05 00,5,Yellow Opera
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,39E,35E,05 00,5,Yellow Opera
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,3CE,38E,05 00,5,Yellow Opera
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,3FE,3BE,05 00,5,Yellow Opera
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,42E,3EE,05 00,5,Yellow Opera
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,45E,41E,17 00,23,Darkball
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,48E,44E,17 00,23,Darkball
+Neverland,3,Teeming Darkness,WORLD08/0003/WO080003.ESD,W08S0003.esd,4BE,47E,17 00,23,Darkball
+Neverland,7,Guarded Trove,WORLD08/0007/WO080007.ESD,W08S0007.esd,1EE,1AE,01 00,1,Shadow
+Neverland,7,Guarded Trove,WORLD08/0007/WO080007.ESD,W08S0007.esd,21E,1DE,01 00,1,Shadow
+Neverland,7,Guarded Trove,WORLD08/0007/WO080007.ESD,W08S0007.esd,24E,20E,01 00,1,Shadow
+Neverland,7,Guarded Trove,WORLD08/0007/WO080007.ESD,W08S0007.esd,27E,23E,05 00,5,Yellow Opera
+Neverland,7,Guarded Trove,WORLD08/0007/WO080007.ESD,W08S0007.esd,2AE,26E,05 00,5,Yellow Opera
+Neverland,7,Guarded Trove,WORLD08/0007/WO080007.ESD,W08S0007.esd,2DE,29E,17 00,23,Darkball
+Neverland,7,Guarded Trove,WORLD08/0007/WO080007.ESD,W08S0007.esd,30E,2CE,05 00,5,Yellow Opera
+Neverland,8,False Bounty,WORLD08/0008/WO080008.ESD,W08S0008.esd,1EE,1AE,01 00,1,Shadow
+Neverland,8,False Bounty,WORLD08/0008/WO080008.ESD,W08S0008.esd,21E,1DE,01 00,1,Shadow
+Neverland,8,False Bounty,WORLD08/0008/WO080008.ESD,W08S0008.esd,24E,20E,05 00,5,Yellow Opera
+Neverland,8,False Bounty,WORLD08/0008/WO080008.ESD,W08S0008.esd,27E,23E,05 00,5,Yellow Opera
+Neverland,8,False Bounty,WORLD08/0008/WO080008.ESD,W08S0008.esd,2AE,26E,05 00,5,Yellow Opera
+Neverland,9,Stagnant Space,WORLD08/0009/WO080009.ESD,W08S0009.esd,1EE,1AE,01 00,1,Shadow
+Neverland,9,Stagnant Space,WORLD08/0009/WO080009.ESD,W08S0009.esd,21E,1DE,01 00,1,Shadow
+Neverland,9,Stagnant Space,WORLD08/0009/WO080009.ESD,W08S0009.esd,24E,20E,01 00,1,Shadow
+Neverland,9,Stagnant Space,WORLD08/0009/WO080009.ESD,W08S0009.esd,27E,23E,05 00,5,Yellow Opera
+Neverland,9,Stagnant Space,WORLD08/0009/WO080009.ESD,W08S0009.esd,2AE,26E,05 00,5,Yellow Opera
+Neverland,10,Alchemic Waking,WORLD08/0010/WO080010.ESD,W08S0010.esd,1EE,1AE,01 00,1,Shadow
+Neverland,10,Alchemic Waking,WORLD08/0010/WO080010.ESD,W08S0010.esd,21E,1DE,01 00,1,Shadow
+Neverland,10,Alchemic Waking,WORLD08/0010/WO080010.ESD,W08S0010.esd,24E,20E,01 00,1,Shadow
+Neverland,10,Alchemic Waking,WORLD08/0010/WO080010.ESD,W08S0010.esd,27E,23E,05 00,5,Yellow Opera
+Neverland,10,Alchemic Waking,WORLD08/0010/WO080010.ESD,W08S0010.esd,2AE,26E,05 00,5,Yellow Opera
+Neverland,10,Alchemic Waking,WORLD08/0010/WO080010.ESD,W08S0010.esd,2DE,29E,05 00,5,Yellow Opera
+Neverland,11,Meeting Ground,WORLD08/0011/WO080011.ESD,W08S0011.esd,1EE,1AE,01 00,1,Shadow
+Neverland,11,Meeting Ground,WORLD08/0011/WO080011.ESD,W08S0011.esd,21E,1DE,01 00,1,Shadow
+Neverland,11,Meeting Ground,WORLD08/0011/WO080011.ESD,W08S0011.esd,24E,20E,01 00,1,Shadow
+Neverland,11,Meeting Ground,WORLD08/0011/WO080011.ESD,W08S0011.esd,27E,23E,01 00,1,Shadow
+Neverland,11,Meeting Ground,WORLD08/0011/WO080011.ESD,W08S0011.esd,2AE,26E,05 00,5,Yellow Opera
+Neverland,11,Meeting Ground,WORLD08/0011/WO080011.ESD,W08S0011.esd,2DE,29E,05 00,5,Yellow Opera
+Neverland,11,Meeting Ground,WORLD08/0011/WO080011.ESD,W08S0011.esd,30E,2CE,05 00,5,Yellow Opera
+Neverland,12,Black Room,WORLD08/0012/WO080012.ESD,W08S0012.esd,1EE,1AE,11 00,17,Black Fungus
+Neverland,12,Black Room,WORLD08/0012/WO080012.ESD,W08S0012.esd,21E,1DE,11 00,17,Black Fungus
+Neverland,12,Black Room,WORLD08/0012/WO080012.ESD,W08S0012.esd,24E,20E,11 00,17,Black Fungus
+Neverland,13,Sleeping Darkness,WORLD08/0013/WO080013.ESD,W08S0013.esd,1EE,1AE,01 00,1,Shadow
+Neverland,13,Sleeping Darkness,WORLD08/0013/WO080013.ESD,W08S0013.esd,21E,1DE,01 00,1,Shadow
+Neverland,13,Sleeping Darkness,WORLD08/0013/WO080013.ESD,W08S0013.esd,24E,20E,05 00,5,Yellow Opera
+Neverland,13,Sleeping Darkness,WORLD08/0013/WO080013.ESD,W08S0013.esd,27E,23E,17 00,23,Darkball
+Neverland,13,Sleeping Darkness,WORLD08/0013/WO080013.ESD,W08S0013.esd,2AE,26E,17 00,23,Darkball
+Neverland,14,Strong Initiative,WORLD08/0014/WO080014.ESD,W08S0014.esd,1EE,1AE,01 00,1,Shadow
+Neverland,14,Strong Initiative,WORLD08/0014/WO080014.ESD,W08S0014.esd,21E,1DE,01 00,1,Shadow
+Neverland,14,Strong Initiative,WORLD08/0014/WO080014.ESD,W08S0014.esd,24E,20E,01 00,1,Shadow
+Neverland,14,Strong Initiative,WORLD08/0014/WO080014.ESD,W08S0014.esd,27E,23E,01 00,1,Shadow
+Neverland,14,Strong Initiative,WORLD08/0014/WO080014.ESD,W08S0014.esd,2AE,26E,01 00,1,Shadow
+Neverland,14,Strong Initiative,WORLD08/0014/WO080014.ESD,W08S0014.esd,2DE,29E,05 00,5,Yellow Opera
+Neverland,14,Strong Initiative,WORLD08/0014/WO080014.ESD,W08S0014.esd,30E,2CE,05 00,5,Yellow Opera
+Neverland,14,Strong Initiative,WORLD08/0014/WO080014.ESD,W08S0014.esd,33E,2FE,05 00,5,Yellow Opera
+Neverland,14,Strong Initiative,WORLD08/0014/WO080014.ESD,W08S0014.esd,36E,32E,05 00,5,Yellow Opera
+Neverland,14,Strong Initiative,WORLD08/0014/WO080014.ESD,W08S0014.esd,39E,35E,05 00,5,Yellow Opera
+Neverland,15,Sorcerous Waking,WORLD08/0015/WO080015.ESD,W08S0015.esd,1EE,1AE,01 00,1,Shadow
+Neverland,15,Sorcerous Waking,WORLD08/0015/WO080015.ESD,W08S0015.esd,21E,1DE,01 00,1,Shadow
+Neverland,15,Sorcerous Waking,WORLD08/0015/WO080015.ESD,W08S0015.esd,24E,20E,01 00,1,Shadow
+Neverland,15,Sorcerous Waking,WORLD08/0015/WO080015.ESD,W08S0015.esd,27E,23E,01 00,1,Shadow
+Neverland,15,Sorcerous Waking,WORLD08/0015/WO080015.ESD,W08S0015.esd,2AE,26E,05 00,5,Yellow Opera
+Neverland,15,Sorcerous Waking,WORLD08/0015/WO080015.ESD,W08S0015.esd,2DE,29E,05 00,5,Yellow Opera
+Neverland,15,Sorcerous Waking,WORLD08/0015/WO080015.ESD,W08S0015.esd,30E,2CE,05 00,5,Yellow Opera
+Neverland,15,Sorcerous Waking,WORLD08/0015/WO080015.ESD,W08S0015.esd,33E,2FE,05 00,5,Yellow Opera
+Neverland,16,Almighty Darkness,WORLD08/0016/WO080016.ESD,W08S0016.esd,1EE,1AE,01 00,1,Shadow
+Neverland,16,Almighty Darkness,WORLD08/0016/WO080016.ESD,W08S0016.esd,21E,1DE,01 00,1,Shadow
+Neverland,16,Almighty Darkness,WORLD08/0016/WO080016.ESD,W08S0016.esd,24E,20E,01 00,1,Shadow
+Neverland,16,Almighty Darkness,WORLD08/0016/WO080016.ESD,W08S0016.esd,27E,23E,01 00,1,Shadow
+Neverland,16,Almighty Darkness,WORLD08/0016/WO080016.ESD,W08S0016.esd,2AE,26E,05 00,5,Yellow Opera
+Neverland,16,Almighty Darkness,WORLD08/0016/WO080016.ESD,W08S0016.esd,2DE,29E,05 00,5,Yellow Opera
+Neverland,16,Almighty Darkness,WORLD08/0016/WO080016.ESD,W08S0016.esd,30E,2CE,05 00,5,Yellow Opera
+Neverland,17,Premium Room,WORLD08/0017/WO080017.ESD,W08S0017.esd,1EE,1AE,01 00,1,Shadow
+Neverland,17,Premium Room,WORLD08/0017/WO080017.ESD,W08S0017.esd,21E,1DE,01 00,1,Shadow
+Neverland,17,Premium Room,WORLD08/0017/WO080017.ESD,W08S0017.esd,24E,20E,01 00,1,Shadow
+Neverland,17,Premium Room,WORLD08/0017/WO080017.ESD,W08S0017.esd,27E,23E,01 00,1,Shadow
+Neverland,17,Premium Room,WORLD08/0017/WO080017.ESD,W08S0017.esd,2AE,26E,05 00,5,Yellow Opera
+Neverland,17,Premium Room,WORLD08/0017/WO080017.ESD,W08S0017.esd,2DE,29E,05 00,5,Yellow Opera
+Neverland,17,Premium Room,WORLD08/0017/WO080017.ESD,W08S0017.esd,30E,2CE,05 00,5,Yellow Opera
+Neverland,17,Premium Room,WORLD08/0017/WO080017.ESD,W08S0017.esd,33E,2FE,05 00,5,Yellow Opera
+Neverland,18,Feeble Darkness,WORLD08/0018/WO080018.ESD,W08S0018.esd,1EE,1AE,01 00,1,Shadow
+Neverland,18,Feeble Darkness,WORLD08/0018/WO080018.ESD,W08S0018.esd,21E,1DE,01 00,1,Shadow
+Neverland,18,Feeble Darkness,WORLD08/0018/WO080018.ESD,W08S0018.esd,24E,20E,01 00,1,Shadow
+Neverland,18,Feeble Darkness,WORLD08/0018/WO080018.ESD,W08S0018.esd,27E,23E,05 00,5,Yellow Opera
+Neverland,18,Feeble Darkness,WORLD08/0018/WO080018.ESD,W08S0018.esd,2AE,26E,05 00,5,Yellow Opera
+Neverland,18,Feeble Darkness,WORLD08/0018/WO080018.ESD,W08S0018.esd,2DE,29E,05 00,5,Yellow Opera
+Neverland,19,Looming Darkness,WORLD08/0019/WO080019.ESD,W08S0019.esd,1EE,1AE,01 00,1,Shadow
+Neverland,19,Looming Darkness,WORLD08/0019/WO080019.ESD,W08S0019.esd,21E,1DE,01 00,1,Shadow
+Neverland,19,Looming Darkness,WORLD08/0019/WO080019.ESD,W08S0019.esd,24E,20E,01 00,1,Shadow
+Neverland,19,Looming Darkness,WORLD08/0019/WO080019.ESD,W08S0019.esd,27E,23E,01 00,1,Shadow
+Neverland,19,Looming Darkness,WORLD08/0019/WO080019.ESD,W08S0019.esd,2AE,26E,05 00,5,Yellow Opera
+Neverland,19,Looming Darkness,WORLD08/0019/WO080019.ESD,W08S0019.esd,2DE,29E,05 00,5,Yellow Opera
+Neverland,19,Looming Darkness,WORLD08/0019/WO080019.ESD,W08S0019.esd,30E,2CE,05 00,5,Yellow Opera
+Neverland,19,Looming Darkness,WORLD08/0019/WO080019.ESD,W08S0019.esd,33E,2FE,05 00,5,Yellow Opera
+Neverland,19,Looming Darkness,WORLD08/0019/WO080019.ESD,W08S0019.esd,36E,32E,17 00,23,Darkball
+Neverland,19,Looming Darkness,WORLD08/0019/WO080019.ESD,W08S0019.esd,39E,35E,17 00,23,Darkball
+Neverland,20,White Room,WORLD08/0020/WO080020.ESD,W08S0020.esd,1EE,1AE,10 00,16,White Mushroom
+Neverland,20,White Room,WORLD08/0020/WO080020.ESD,W08S0020.esd,21E,1DE,10 00,16,White Mushroom
+Neverland,20,White Room,WORLD08/0020/WO080020.ESD,W08S0020.esd,24E,20E,10 00,16,White Mushroom
+Neverland,21,Martial Waking,WORLD08/0021/WO080021.ESD,W08S0021.esd,1EE,1AE,01 00,1,Shadow
+Neverland,21,Martial Waking,WORLD08/0021/WO080021.ESD,W08S0021.esd,21E,1DE,01 00,1,Shadow
+Neverland,21,Martial Waking,WORLD08/0021/WO080021.ESD,W08S0021.esd,24E,20E,01 00,1,Shadow
+Neverland,21,Martial Waking,WORLD08/0021/WO080021.ESD,W08S0021.esd,27E,23E,01 00,1,Shadow
+Neverland,21,Martial Waking,WORLD08/0021/WO080021.ESD,W08S0021.esd,2AE,26E,05 00,5,Yellow Opera
+Neverland,21,Martial Waking,WORLD08/0021/WO080021.ESD,W08S0021.esd,2DE,29E,05 00,5,Yellow Opera
+Neverland,21,Martial Waking,WORLD08/0021/WO080021.ESD,W08S0021.esd,30E,2CE,05 00,5,Yellow Opera
+Neverland,21,Martial Waking,WORLD08/0021/WO080021.ESD,W08S0021.esd,33E,2FE,05 00,5,Yellow Opera
+Neverland,22,Tranquil Darkness,WORLD08/0022/WO080022.ESD,W08S0022.esd,1EE,1AE,01 00,1,Shadow
+Neverland,22,Tranquil Darkness,WORLD08/0022/WO080022.ESD,W08S0022.esd,21E,1DE,01 00,1,Shadow
+Neverland,22,Tranquil Darkness,WORLD08/0022/WO080022.ESD,W08S0022.esd,24E,20E,01 00,1,Shadow
+Neverland,22,Tranquil Darkness,WORLD08/0022/WO080022.ESD,W08S0022.esd,27E,23E,05 00,5,Yellow Opera
+Neverland,22,Tranquil Darkness,WORLD08/0022/WO080022.ESD,W08S0022.esd,2AE,26E,05 00,5,Yellow Opera
+Neverland,22,Tranquil Darkness,WORLD08/0022/WO080022.ESD,W08S0022.esd,2DE,29E,05 00,5,Yellow Opera
+Neverland,23,Lasting Daze,WORLD08/0023/WO080023.ESD,W08S0023.esd,1EE,1AE,01 00,1,Shadow
+Neverland,23,Lasting Daze,WORLD08/0023/WO080023.ESD,W08S0023.esd,21E,1DE,01 00,1,Shadow
+Neverland,23,Lasting Daze,WORLD08/0023/WO080023.ESD,W08S0023.esd,24E,20E,01 00,1,Shadow
+Neverland,23,Lasting Daze,WORLD08/0023/WO080023.ESD,W08S0023.esd,27E,23E,01 00,1,Shadow
+Neverland,23,Lasting Daze,WORLD08/0023/WO080023.ESD,W08S0023.esd,2AE,26E,01 00,1,Shadow
+Neverland,23,Lasting Daze,WORLD08/0023/WO080023.ESD,W08S0023.esd,2DE,29E,05 00,5,Yellow Opera
+Neverland,23,Lasting Daze,WORLD08/0023/WO080023.ESD,W08S0023.esd,30E,2CE,05 00,5,Yellow Opera
+Neverland,23,Lasting Daze,WORLD08/0023/WO080023.ESD,W08S0023.esd,33E,2FE,05 00,5,Yellow Opera
+Neverland,23,Lasting Daze,WORLD08/0023/WO080023.ESD,W08S0023.esd,36E,32E,05 00,5,Yellow Opera
+Neverland,23,Lasting Daze,WORLD08/0023/WO080023.ESD,W08S0023.esd,39E,35E,01 00,1,Shadow
+Neverland,25,Roulette Room,WORLD08/0025/WO080025.ESD,W08S0025.esd,1EE,1AE,01 00,1,Shadow
+Neverland,25,Roulette Room,WORLD08/0025/WO080025.ESD,W08S0025.esd,21E,1DE,01 00,1,Shadow
+Neverland,25,Roulette Room,WORLD08/0025/WO080025.ESD,W08S0025.esd,24E,20E,01 00,1,Shadow
+Neverland,25,Roulette Room,WORLD08/0025/WO080025.ESD,W08S0025.esd,27E,23E,01 00,1,Shadow
+Neverland,25,Roulette Room,WORLD08/0025/WO080025.ESD,W08S0025.esd,2AE,26E,01 00,1,Shadow
+Neverland,25,Roulette Room,WORLD08/0025/WO080025.ESD,W08S0025.esd,2DE,29E,05 00,5,Yellow Opera
+Neverland,25,Roulette Room,WORLD08/0025/WO080025.ESD,W08S0025.esd,30E,2CE,05 00,5,Yellow Opera
+Neverland,25,Roulette Room,WORLD08/0025/WO080025.ESD,W08S0025.esd,33E,2FE,05 00,5,Yellow Opera
+Neverland,25,Roulette Room,WORLD08/0025/WO080025.ESD,W08S0025.esd,36E,32E,05 00,5,Yellow Opera
+Neverland,25,Roulette Room,WORLD08/0025/WO080025.ESD,W08S0025.esd,39E,35E,17 00,23,Darkball
+Neverland,26,Bottomless Darkness,WORLD08/0026/WO080026.ESD,W08S0026.esd,1EE,1AE,01 00,1,Shadow
+Neverland,26,Bottomless Darkness,WORLD08/0026/WO080026.ESD,W08S0026.esd,21E,1DE,01 00,1,Shadow
+Neverland,26,Bottomless Darkness,WORLD08/0026/WO080026.ESD,W08S0026.esd,24E,20E,01 00,1,Shadow
+Neverland,26,Bottomless Darkness,WORLD08/0026/WO080026.ESD,W08S0026.esd,27E,23E,01 00,1,Shadow
+Neverland,26,Bottomless Darkness,WORLD08/0026/WO080026.ESD,W08S0026.esd,2AE,26E,01 00,1,Shadow
+Neverland,26,Bottomless Darkness,WORLD08/0026/WO080026.ESD,W08S0026.esd,2DE,29E,01 00,1,Shadow
+Neverland,26,Bottomless Darkness,WORLD08/0026/WO080026.ESD,W08S0026.esd,30E,2CE,01 00,1,Shadow
+Neverland,26,Bottomless Darkness,WORLD08/0026/WO080026.ESD,W08S0026.esd,33E,2FE,01 00,1,Shadow
+Neverland,26,Bottomless Darkness,WORLD08/0026/WO080026.ESD,W08S0026.esd,36E,32E,01 00,1,Shadow
+Neverland,26,Bottomless Darkness,WORLD08/0026/WO080026.ESD,W08S0026.esd,39E,35E,01 00,1,Shadow
+Neverland,26,Bottomless Darkness,WORLD08/0026/WO080026.ESD,W08S0026.esd,3CE,38E,01 00,1,Shadow
+Neverland,26,Bottomless Darkness,WORLD08/0026/WO080026.ESD,W08S0026.esd,3FE,3BE,01 00,1,Shadow
+Neverland,26,Bottomless Darkness,WORLD08/0026/WO080026.ESD,W08S0026.esd,42E,3EE,01 00,1,Shadow
+Hollow Bastion,1,???,WORLD09/0001/WO090001.ESD,W09S0001.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,1,???,WORLD09/0001/WO090001.ESD,W09S0001.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,1,???,WORLD09/0001/WO090001.ESD,W09S0001.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,1,???,WORLD09/0001/WO090001.ESD,W09S0001.esd,27E,23E,19 00,25,Wizard
+Hollow Bastion,1,???,WORLD09/0001/WO090001.ESD,W09S0001.esd,2AE,26E,19 00,25,Wizard
+Hollow Bastion,1,???,WORLD09/0001/WO090001.ESD,W09S0001.esd,2DE,29E,19 00,25,Wizard
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,27E,23E,01 00,1,Shadow
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,2AE,26E,01 00,1,Shadow
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,2DE,29E,01 00,1,Shadow
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,30E,2CE,01 00,1,Shadow
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,33E,2FE,19 00,25,Wizard
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,36E,32E,19 00,25,Wizard
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,39E,35E,19 00,25,Wizard
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,3CE,38E,19 00,25,Wizard
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,3FE,3BE,19 00,25,Wizard
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,42E,3EE,19 00,25,Wizard
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,45E,41E,1A 00,26,Defender
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,48E,44E,1A 00,26,Defender
+Hollow Bastion,3,Teeming Darkness,WORLD09/0003/WO090003.ESD,W09S0003.esd,4BE,47E,1A 00,26,Defender
+Hollow Bastion,7,Guarded Trove,WORLD09/0007/WO090007.ESD,W09S0007.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,7,Guarded Trove,WORLD09/0007/WO090007.ESD,W09S0007.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,7,Guarded Trove,WORLD09/0007/WO090007.ESD,W09S0007.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,7,Guarded Trove,WORLD09/0007/WO090007.ESD,W09S0007.esd,27E,23E,1A 00,26,Defender
+Hollow Bastion,7,Guarded Trove,WORLD09/0007/WO090007.ESD,W09S0007.esd,2AE,26E,1D 00,29,Tornado Step
+Hollow Bastion,7,Guarded Trove,WORLD09/0007/WO090007.ESD,W09S0007.esd,2DE,29E,1D 00,29,Tornado Step
+Hollow Bastion,7,Guarded Trove,WORLD09/0007/WO090007.ESD,W09S0007.esd,30E,2CE,1D 00,29,Tornado Step
+Hollow Bastion,8,False Bounty,WORLD09/0008/WO090008.ESD,W09S0008.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,8,False Bounty,WORLD09/0008/WO090008.ESD,W09S0008.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,8,False Bounty,WORLD09/0008/WO090008.ESD,W09S0008.esd,24E,20E,1D 00,29,Tornado Step
+Hollow Bastion,8,False Bounty,WORLD09/0008/WO090008.ESD,W09S0008.esd,27E,23E,1D 00,29,Tornado Step
+Hollow Bastion,8,False Bounty,WORLD09/0008/WO090008.ESD,W09S0008.esd,2AE,26E,1D 00,29,Tornado Step
+Hollow Bastion,9,Stagnant Space,WORLD09/0009/WO090009.ESD,W09S0009.esd,1EE,1AE,19 00,25,Wizard
+Hollow Bastion,9,Stagnant Space,WORLD09/0009/WO090009.ESD,W09S0009.esd,21E,1DE,19 00,25,Wizard
+Hollow Bastion,9,Stagnant Space,WORLD09/0009/WO090009.ESD,W09S0009.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,9,Stagnant Space,WORLD09/0009/WO090009.ESD,W09S0009.esd,27E,23E,01 00,1,Shadow
+Hollow Bastion,9,Stagnant Space,WORLD09/0009/WO090009.ESD,W09S0009.esd,2AE,26E,01 00,1,Shadow
+Hollow Bastion,10,Alchemic Waking,WORLD09/0010/WO090010.ESD,W09S0010.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,10,Alchemic Waking,WORLD09/0010/WO090010.ESD,W09S0010.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,10,Alchemic Waking,WORLD09/0010/WO090010.ESD,W09S0010.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,10,Alchemic Waking,WORLD09/0010/WO090010.ESD,W09S0010.esd,27E,23E,1D 00,29,Tornado Step
+Hollow Bastion,10,Alchemic Waking,WORLD09/0010/WO090010.ESD,W09S0010.esd,2AE,26E,1D 00,29,Tornado Step
+Hollow Bastion,10,Alchemic Waking,WORLD09/0010/WO090010.ESD,W09S0010.esd,2DE,29E,1D 00,29,Tornado Step
+Hollow Bastion,11,Meeting Ground,WORLD09/0011/WO090011.ESD,W09S0011.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,11,Meeting Ground,WORLD09/0011/WO090011.ESD,W09S0011.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,11,Meeting Ground,WORLD09/0011/WO090011.ESD,W09S0011.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,11,Meeting Ground,WORLD09/0011/WO090011.ESD,W09S0011.esd,27E,23E,01 00,1,Shadow
+Hollow Bastion,11,Meeting Ground,WORLD09/0011/WO090011.ESD,W09S0011.esd,2AE,26E,19 00,25,Wizard
+Hollow Bastion,11,Meeting Ground,WORLD09/0011/WO090011.ESD,W09S0011.esd,2DE,29E,19 00,25,Wizard
+Hollow Bastion,11,Meeting Ground,WORLD09/0011/WO090011.ESD,W09S0011.esd,30E,2CE,19 00,25,Wizard
+Hollow Bastion,12,Black Room,WORLD09/0012/WO090012.ESD,W09S0012.esd,1EE,1AE,11 00,17,Black Fungus
+Hollow Bastion,12,Black Room,WORLD09/0012/WO090012.ESD,W09S0012.esd,21E,1DE,11 00,17,Black Fungus
+Hollow Bastion,12,Black Room,WORLD09/0012/WO090012.ESD,W09S0012.esd,24E,20E,11 00,17,Black Fungus
+Hollow Bastion,13,Sleeping Darkness,WORLD09/0013/WO090013.ESD,W09S0013.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,13,Sleeping Darkness,WORLD09/0013/WO090013.ESD,W09S0013.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,13,Sleeping Darkness,WORLD09/0013/WO090013.ESD,W09S0013.esd,24E,20E,19 00,25,Wizard
+Hollow Bastion,13,Sleeping Darkness,WORLD09/0013/WO090013.ESD,W09S0013.esd,27E,23E,19 00,25,Wizard
+Hollow Bastion,13,Sleeping Darkness,WORLD09/0013/WO090013.ESD,W09S0013.esd,2AE,26E,1A 00,26,Defender
+Hollow Bastion,14,Strong Initiative,WORLD09/0014/WO090014.ESD,W09S0014.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,14,Strong Initiative,WORLD09/0014/WO090014.ESD,W09S0014.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,14,Strong Initiative,WORLD09/0014/WO090014.ESD,W09S0014.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,14,Strong Initiative,WORLD09/0014/WO090014.ESD,W09S0014.esd,27E,23E,01 00,1,Shadow
+Hollow Bastion,14,Strong Initiative,WORLD09/0014/WO090014.ESD,W09S0014.esd,2AE,26E,01 00,1,Shadow
+Hollow Bastion,14,Strong Initiative,WORLD09/0014/WO090014.ESD,W09S0014.esd,2DE,29E,1D 00,29,Tornado Step
+Hollow Bastion,14,Strong Initiative,WORLD09/0014/WO090014.ESD,W09S0014.esd,30E,2CE,1D 00,29,Tornado Step
+Hollow Bastion,14,Strong Initiative,WORLD09/0014/WO090014.ESD,W09S0014.esd,33E,2FE,1D 00,29,Tornado Step
+Hollow Bastion,14,Strong Initiative,WORLD09/0014/WO090014.ESD,W09S0014.esd,36E,32E,1D 00,29,Tornado Step
+Hollow Bastion,14,Strong Initiative,WORLD09/0014/WO090014.ESD,W09S0014.esd,39E,35E,1D 00,29,Tornado Step
+Hollow Bastion,15,Sorcerous Waking,WORLD09/0015/WO090015.ESD,W09S0015.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,15,Sorcerous Waking,WORLD09/0015/WO090015.ESD,W09S0015.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,15,Sorcerous Waking,WORLD09/0015/WO090015.ESD,W09S0015.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,15,Sorcerous Waking,WORLD09/0015/WO090015.ESD,W09S0015.esd,27E,23E,01 00,1,Shadow
+Hollow Bastion,15,Sorcerous Waking,WORLD09/0015/WO090015.ESD,W09S0015.esd,2AE,26E,19 00,25,Wizard
+Hollow Bastion,15,Sorcerous Waking,WORLD09/0015/WO090015.ESD,W09S0015.esd,2DE,29E,19 00,25,Wizard
+Hollow Bastion,15,Sorcerous Waking,WORLD09/0015/WO090015.ESD,W09S0015.esd,30E,2CE,19 00,25,Wizard
+Hollow Bastion,15,Sorcerous Waking,WORLD09/0015/WO090015.ESD,W09S0015.esd,33E,2FE,19 00,25,Wizard
+Hollow Bastion,16,Almighty Darkness,WORLD09/0016/WO090016.ESD,W09S0016.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,16,Almighty Darkness,WORLD09/0016/WO090016.ESD,W09S0016.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,16,Almighty Darkness,WORLD09/0016/WO090016.ESD,W09S0016.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,16,Almighty Darkness,WORLD09/0016/WO090016.ESD,W09S0016.esd,27E,23E,01 00,1,Shadow
+Hollow Bastion,16,Almighty Darkness,WORLD09/0016/WO090016.ESD,W09S0016.esd,2AE,26E,1D 00,29,Tornado Step
+Hollow Bastion,16,Almighty Darkness,WORLD09/0016/WO090016.ESD,W09S0016.esd,2DE,29E,1D 00,29,Tornado Step
+Hollow Bastion,16,Almighty Darkness,WORLD09/0016/WO090016.ESD,W09S0016.esd,30E,2CE,1D 00,29,Tornado Step
+Hollow Bastion,17,Premium Room,WORLD09/0017/WO090017.ESD,W09S0017.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,17,Premium Room,WORLD09/0017/WO090017.ESD,W09S0017.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,17,Premium Room,WORLD09/0017/WO090017.ESD,W09S0017.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,17,Premium Room,WORLD09/0017/WO090017.ESD,W09S0017.esd,27E,23E,01 00,1,Shadow
+Hollow Bastion,17,Premium Room,WORLD09/0017/WO090017.ESD,W09S0017.esd,2AE,26E,1D 00,29,Tornado Step
+Hollow Bastion,17,Premium Room,WORLD09/0017/WO090017.ESD,W09S0017.esd,2DE,29E,1D 00,29,Tornado Step
+Hollow Bastion,17,Premium Room,WORLD09/0017/WO090017.ESD,W09S0017.esd,30E,2CE,1D 00,29,Tornado Step
+Hollow Bastion,17,Premium Room,WORLD09/0017/WO090017.ESD,W09S0017.esd,33E,2FE,1D 00,29,Tornado Step
+Hollow Bastion,18,Feeble Darkness,WORLD09/0018/WO090018.ESD,W09S0018.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,18,Feeble Darkness,WORLD09/0018/WO090018.ESD,W09S0018.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,18,Feeble Darkness,WORLD09/0018/WO090018.ESD,W09S0018.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,18,Feeble Darkness,WORLD09/0018/WO090018.ESD,W09S0018.esd,27E,23E,19 00,25,Wizard
+Hollow Bastion,18,Feeble Darkness,WORLD09/0018/WO090018.ESD,W09S0018.esd,2AE,26E,19 00,25,Wizard
+Hollow Bastion,18,Feeble Darkness,WORLD09/0018/WO090018.ESD,W09S0018.esd,2DE,29E,19 00,25,Wizard
+Hollow Bastion,19,Looming Darkness,WORLD09/0019/WO090019.ESD,W09S0019.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,19,Looming Darkness,WORLD09/0019/WO090019.ESD,W09S0019.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,19,Looming Darkness,WORLD09/0019/WO090019.ESD,W09S0019.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,19,Looming Darkness,WORLD09/0019/WO090019.ESD,W09S0019.esd,27E,23E,01 00,1,Shadow
+Hollow Bastion,19,Looming Darkness,WORLD09/0019/WO090019.ESD,W09S0019.esd,2AE,26E,19 00,25,Wizard
+Hollow Bastion,19,Looming Darkness,WORLD09/0019/WO090019.ESD,W09S0019.esd,2DE,29E,19 00,25,Wizard
+Hollow Bastion,19,Looming Darkness,WORLD09/0019/WO090019.ESD,W09S0019.esd,30E,2CE,19 00,25,Wizard
+Hollow Bastion,19,Looming Darkness,WORLD09/0019/WO090019.ESD,W09S0019.esd,33E,2FE,19 00,25,Wizard
+Hollow Bastion,19,Looming Darkness,WORLD09/0019/WO090019.ESD,W09S0019.esd,36E,32E,1A 00,26,Defender
+Hollow Bastion,19,Looming Darkness,WORLD09/0019/WO090019.ESD,W09S0019.esd,39E,35E,1A 00,26,Defender
+Hollow Bastion,20,White Room,WORLD09/0020/WO090020.ESD,W09S0020.esd,1EE,1AE,10 00,16,White Mushroom
+Hollow Bastion,20,White Room,WORLD09/0020/WO090020.ESD,W09S0020.esd,21E,1DE,10 00,16,White Mushroom
+Hollow Bastion,20,White Room,WORLD09/0020/WO090020.ESD,W09S0020.esd,24E,20E,10 00,16,White Mushroom
+Hollow Bastion,21,Martial Waking,WORLD09/0021/WO090021.ESD,W09S0021.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,21,Martial Waking,WORLD09/0021/WO090021.ESD,W09S0021.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,21,Martial Waking,WORLD09/0021/WO090021.ESD,W09S0021.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,21,Martial Waking,WORLD09/0021/WO090021.ESD,W09S0021.esd,27E,23E,01 00,1,Shadow
+Hollow Bastion,21,Martial Waking,WORLD09/0021/WO090021.ESD,W09S0021.esd,2AE,26E,1D 00,29,Tornado Step
+Hollow Bastion,21,Martial Waking,WORLD09/0021/WO090021.ESD,W09S0021.esd,2DE,29E,1D 00,29,Tornado Step
+Hollow Bastion,21,Martial Waking,WORLD09/0021/WO090021.ESD,W09S0021.esd,30E,2CE,1D 00,29,Tornado Step
+Hollow Bastion,21,Martial Waking,WORLD09/0021/WO090021.ESD,W09S0021.esd,33E,2FE,1D 00,29,Tornado Step
+Hollow Bastion,22,Tranquil Darkness,WORLD09/0022/WO090022.ESD,W09S0022.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,22,Tranquil Darkness,WORLD09/0022/WO090022.ESD,W09S0022.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,22,Tranquil Darkness,WORLD09/0022/WO090022.ESD,W09S0022.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,22,Tranquil Darkness,WORLD09/0022/WO090022.ESD,W09S0022.esd,27E,23E,19 00,25,Wizard
+Hollow Bastion,22,Tranquil Darkness,WORLD09/0022/WO090022.ESD,W09S0022.esd,2AE,26E,19 00,25,Wizard
+Hollow Bastion,22,Tranquil Darkness,WORLD09/0022/WO090022.ESD,W09S0022.esd,2DE,29E,19 00,25,Wizard
+Hollow Bastion,23,Lasting Daze,WORLD09/0023/WO090023.ESD,W09S0023.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,23,Lasting Daze,WORLD09/0023/WO090023.ESD,W09S0023.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,23,Lasting Daze,WORLD09/0023/WO090023.ESD,W09S0023.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,23,Lasting Daze,WORLD09/0023/WO090023.ESD,W09S0023.esd,27E,23E,01 00,1,Shadow
+Hollow Bastion,23,Lasting Daze,WORLD09/0023/WO090023.ESD,W09S0023.esd,2AE,26E,01 00,1,Shadow
+Hollow Bastion,23,Lasting Daze,WORLD09/0023/WO090023.ESD,W09S0023.esd,2DE,29E,19 00,25,Wizard
+Hollow Bastion,23,Lasting Daze,WORLD09/0023/WO090023.ESD,W09S0023.esd,30E,2CE,19 00,25,Wizard
+Hollow Bastion,23,Lasting Daze,WORLD09/0023/WO090023.ESD,W09S0023.esd,33E,2FE,19 00,25,Wizard
+Hollow Bastion,23,Lasting Daze,WORLD09/0023/WO090023.ESD,W09S0023.esd,36E,32E,19 00,25,Wizard
+Hollow Bastion,23,Lasting Daze,WORLD09/0023/WO090023.ESD,W09S0023.esd,39E,35E,19 00,25,Wizard
+Hollow Bastion,25,Roulette Room,WORLD09/0025/WO090025.ESD,W09S0025.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,25,Roulette Room,WORLD09/0025/WO090025.ESD,W09S0025.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,25,Roulette Room,WORLD09/0025/WO090025.ESD,W09S0025.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,25,Roulette Room,WORLD09/0025/WO090025.ESD,W09S0025.esd,27E,23E,01 00,1,Shadow
+Hollow Bastion,25,Roulette Room,WORLD09/0025/WO090025.ESD,W09S0025.esd,2AE,26E,01 00,1,Shadow
+Hollow Bastion,25,Roulette Room,WORLD09/0025/WO090025.ESD,W09S0025.esd,2DE,29E,1A 00,26,Defender
+Hollow Bastion,25,Roulette Room,WORLD09/0025/WO090025.ESD,W09S0025.esd,30E,2CE,1D 00,29,Tornado Step
+Hollow Bastion,25,Roulette Room,WORLD09/0025/WO090025.ESD,W09S0025.esd,33E,2FE,1D 00,29,Tornado Step
+Hollow Bastion,25,Roulette Room,WORLD09/0025/WO090025.ESD,W09S0025.esd,36E,32E,1D 00,29,Tornado Step
+Hollow Bastion,25,Roulette Room,WORLD09/0025/WO090025.ESD,W09S0025.esd,39E,35E,1D 00,29,Tornado Step
+Hollow Bastion,26,Bottomless Darkness,WORLD09/0026/WO090026.ESD,W09S0026.esd,1EE,1AE,01 00,1,Shadow
+Hollow Bastion,26,Bottomless Darkness,WORLD09/0026/WO090026.ESD,W09S0026.esd,21E,1DE,01 00,1,Shadow
+Hollow Bastion,26,Bottomless Darkness,WORLD09/0026/WO090026.ESD,W09S0026.esd,24E,20E,01 00,1,Shadow
+Hollow Bastion,26,Bottomless Darkness,WORLD09/0026/WO090026.ESD,W09S0026.esd,27E,23E,01 00,1,Shadow
+Hollow Bastion,26,Bottomless Darkness,WORLD09/0026/WO090026.ESD,W09S0026.esd,2AE,26E,01 00,1,Shadow
+Hollow Bastion,26,Bottomless Darkness,WORLD09/0026/WO090026.ESD,W09S0026.esd,2DE,29E,01 00,1,Shadow
+Hollow Bastion,26,Bottomless Darkness,WORLD09/0026/WO090026.ESD,W09S0026.esd,30E,2CE,01 00,1,Shadow
+Hollow Bastion,26,Bottomless Darkness,WORLD09/0026/WO090026.ESD,W09S0026.esd,33E,2FE,01 00,1,Shadow
+Hollow Bastion,26,Bottomless Darkness,WORLD09/0026/WO090026.ESD,W09S0026.esd,36E,32E,01 00,1,Shadow
+Hollow Bastion,26,Bottomless Darkness,WORLD09/0026/WO090026.ESD,W09S0026.esd,39E,35E,01 00,1,Shadow
+Hollow Bastion,26,Bottomless Darkness,WORLD09/0026/WO090026.ESD,W09S0026.esd,3CE,38E,01 00,1,Shadow
+Hollow Bastion,26,Bottomless Darkness,WORLD09/0026/WO090026.ESD,W09S0026.esd,3FE,3BE,01 00,1,Shadow
+Hollow Bastion,26,Bottomless Darkness,WORLD09/0026/WO090026.ESD,W09S0026.esd,42E,3EE,01 00,1,Shadow
+100 Acre Wood,5,Calm Bounty,WORLD10/0005/WO100005.ESD,W10S1050.esd,1EE,1AE,F4 01,500,???
+100 Acre Wood,5,Calm Bounty,WORLD10/0005/WO100005.ESD,W10S1050.esd,21E,1DE,F4 01,500,???
+100 Acre Wood,5,Calm Bounty,WORLD10/0005/WO100005.ESD,W10S1050.esd,24E,20E,F4 01,500,???
+100 Acre Wood,5,Calm Bounty,WORLD10/0005/WO100005.ESD,W10S1050.esd,27E,23E,F5 01,501,???
+100 Acre Wood,5,Calm Bounty,WORLD10/0005/WO100005.ESD,W10S1050.esd,2AE,26E,F5 01,501,???
+100 Acre Wood,5,Calm Bounty,WORLD10/0005/WO100005.ESD,W10S1050.esd,2DE,29E,F5 01,501,???
+100 Acre Wood,5,Calm Bounty,WORLD10/0005/WO100005.ESD,W10S1050.esd,30E,2CE,F5 01,501,???
+Twilight Town,1,???,WORLD11/0001/WO110001.ESD,W11S0001.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,1,???,WORLD11/0001/WO110001.ESD,W11S0001.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,1,???,WORLD11/0001/WO110001.ESD,W11S0001.esd,24E,20E,01 00,1,Shadow
+Twilight Town,1,???,WORLD11/0001/WO110001.ESD,W11S0001.esd,27E,23E,01 00,1,Shadow
+Twilight Town,1,???,WORLD11/0001/WO110001.ESD,W11S0001.esd,2AE,26E,0F 00,15,Air Soldier
+Twilight Town,1,???,WORLD11/0001/WO110001.ESD,W11S0001.esd,2DE,29E,0F 00,15,Air Soldier
+Twilight Town,1,???,WORLD11/0001/WO110001.ESD,W11S0001.esd,30E,2CE,0F 00,15,Air Soldier
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,24E,20E,01 00,1,Shadow
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,27E,23E,01 00,1,Shadow
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,2AE,26E,01 00,1,Shadow
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,2DE,29E,01 00,1,Shadow
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,30E,2CE,01 00,1,Shadow
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,33E,2FE,0F 00,15,Air Soldier
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,36E,32E,0F 00,15,Air Soldier
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,39E,35E,0F 00,15,Air Soldier
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,3CE,38E,0F 00,15,Air Soldier
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,3FE,3BE,0F 00,15,Air Soldier
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,42E,3EE,0F 00,15,Air Soldier
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,45E,41E,02 00,2,Soldier
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,48E,44E,02 00,2,Soldier
+Twilight Town,3,Teeming Darkness,WORLD11/0003/WO110003.ESD,W11S0003.esd,4BE,47E,02 00,2,Soldier
+Twilight Town,7,Guarded Trove,WORLD11/0007/WO110007.ESD,W11S0007.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,7,Guarded Trove,WORLD11/0007/WO110007.ESD,W11S0007.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,7,Guarded Trove,WORLD11/0007/WO110007.ESD,W11S0007.esd,24E,20E,01 00,1,Shadow
+Twilight Town,7,Guarded Trove,WORLD11/0007/WO110007.ESD,W11S0007.esd,27E,23E,02 00,2,Soldier
+Twilight Town,7,Guarded Trove,WORLD11/0007/WO110007.ESD,W11S0007.esd,2AE,26E,0F 00,15,Air Soldier
+Twilight Town,7,Guarded Trove,WORLD11/0007/WO110007.ESD,W11S0007.esd,2DE,29E,0F 00,15,Air Soldier
+Twilight Town,7,Guarded Trove,WORLD11/0007/WO110007.ESD,W11S0007.esd,30E,2CE,0F 00,15,Air Soldier
+Twilight Town,8,False Bounty,WORLD11/0008/WO110008.ESD,W11S0008.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,8,False Bounty,WORLD11/0008/WO110008.ESD,W11S0008.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,8,False Bounty,WORLD11/0008/WO110008.ESD,W11S0008.esd,24E,20E,01 00,1,Shadow
+Twilight Town,8,False Bounty,WORLD11/0008/WO110008.ESD,W11S0008.esd,27E,23E,0F 00,15,Air Soldier
+Twilight Town,8,False Bounty,WORLD11/0008/WO110008.ESD,W11S0008.esd,2AE,26E,0F 00,15,Air Soldier
+Twilight Town,9,Stagnant Space,WORLD11/0009/WO110009.ESD,W11S0009.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,9,Stagnant Space,WORLD11/0009/WO110009.ESD,W11S0009.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,9,Stagnant Space,WORLD11/0009/WO110009.ESD,W11S0009.esd,24E,20E,01 00,1,Shadow
+Twilight Town,9,Stagnant Space,WORLD11/0009/WO110009.ESD,W11S0009.esd,27E,23E,0F 00,15,Air Soldier
+Twilight Town,9,Stagnant Space,WORLD11/0009/WO110009.ESD,W11S0009.esd,2AE,26E,0F 00,15,Air Soldier
+Twilight Town,10,Alchemic Waking,WORLD11/0010/WO110010.ESD,W11S0010.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,10,Alchemic Waking,WORLD11/0010/WO110010.ESD,W11S0010.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,10,Alchemic Waking,WORLD11/0010/WO110010.ESD,W11S0010.esd,24E,20E,01 00,1,Shadow
+Twilight Town,10,Alchemic Waking,WORLD11/0010/WO110010.ESD,W11S0010.esd,27E,23E,0F 00,15,Air Soldier
+Twilight Town,10,Alchemic Waking,WORLD11/0010/WO110010.ESD,W11S0010.esd,2AE,26E,0F 00,15,Air Soldier
+Twilight Town,10,Alchemic Waking,WORLD11/0010/WO110010.ESD,W11S0010.esd,2DE,29E,0F 00,15,Air Soldier
+Twilight Town,11,Meeting Ground,WORLD11/0011/WO110011.ESD,W11S0011.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,11,Meeting Ground,WORLD11/0011/WO110011.ESD,W11S0011.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,11,Meeting Ground,WORLD11/0011/WO110011.ESD,W11S0011.esd,24E,20E,01 00,1,Shadow
+Twilight Town,11,Meeting Ground,WORLD11/0011/WO110011.ESD,W11S0011.esd,27E,23E,01 00,1,Shadow
+Twilight Town,11,Meeting Ground,WORLD11/0011/WO110011.ESD,W11S0011.esd,2AE,26E,0F 00,15,Air Soldier
+Twilight Town,11,Meeting Ground,WORLD11/0011/WO110011.ESD,W11S0011.esd,2DE,29E,0F 00,15,Air Soldier
+Twilight Town,11,Meeting Ground,WORLD11/0011/WO110011.ESD,W11S0011.esd,30E,2CE,0F 00,15,Air Soldier
+Twilight Town,12,Black Room,WORLD11/0012/WO110012.ESD,W11S0012.esd,1EE,1AE,11 00,17,Black Fungus
+Twilight Town,12,Black Room,WORLD11/0012/WO110012.ESD,W11S0012.esd,21E,1DE,11 00,17,Black Fungus
+Twilight Town,12,Black Room,WORLD11/0012/WO110012.ESD,W11S0012.esd,24E,20E,11 00,17,Black Fungus
+Twilight Town,13,Sleeping Darkness,WORLD11/0013/WO110013.ESD,W11S0013.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,13,Sleeping Darkness,WORLD11/0013/WO110013.ESD,W11S0013.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,13,Sleeping Darkness,WORLD11/0013/WO110013.ESD,W11S0013.esd,24E,20E,02 00,2,Soldier
+Twilight Town,13,Sleeping Darkness,WORLD11/0013/WO110013.ESD,W11S0013.esd,27E,23E,0F 00,15,Air Soldier
+Twilight Town,13,Sleeping Darkness,WORLD11/0013/WO110013.ESD,W11S0013.esd,2AE,26E,0F 00,15,Air Soldier
+Twilight Town,14,Strong Initiative,WORLD11/0014/WO110014.ESD,W11S0014.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,14,Strong Initiative,WORLD11/0014/WO110014.ESD,W11S0014.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,14,Strong Initiative,WORLD11/0014/WO110014.ESD,W11S0014.esd,24E,20E,01 00,1,Shadow
+Twilight Town,14,Strong Initiative,WORLD11/0014/WO110014.ESD,W11S0014.esd,27E,23E,01 00,1,Shadow
+Twilight Town,14,Strong Initiative,WORLD11/0014/WO110014.ESD,W11S0014.esd,2AE,26E,0F 00,15,Air Soldier
+Twilight Town,14,Strong Initiative,WORLD11/0014/WO110014.ESD,W11S0014.esd,2DE,29E,0F 00,15,Air Soldier
+Twilight Town,14,Strong Initiative,WORLD11/0014/WO110014.ESD,W11S0014.esd,30E,2CE,0F 00,15,Air Soldier
+Twilight Town,14,Strong Initiative,WORLD11/0014/WO110014.ESD,W11S0014.esd,33E,2FE,0F 00,15,Air Soldier
+Twilight Town,14,Strong Initiative,WORLD11/0014/WO110014.ESD,W11S0014.esd,36E,32E,0F 00,15,Air Soldier
+Twilight Town,14,Strong Initiative,WORLD11/0014/WO110014.ESD,W11S0014.esd,39E,35E,02 00,2,Soldier
+Twilight Town,15,Sorcerous Waking,WORLD11/0015/WO110015.ESD,W11S0015.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,15,Sorcerous Waking,WORLD11/0015/WO110015.ESD,W11S0015.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,15,Sorcerous Waking,WORLD11/0015/WO110015.ESD,W11S0015.esd,24E,20E,01 00,1,Shadow
+Twilight Town,15,Sorcerous Waking,WORLD11/0015/WO110015.ESD,W11S0015.esd,27E,23E,01 00,1,Shadow
+Twilight Town,15,Sorcerous Waking,WORLD11/0015/WO110015.ESD,W11S0015.esd,2AE,26E,0F 00,15,Air Soldier
+Twilight Town,15,Sorcerous Waking,WORLD11/0015/WO110015.ESD,W11S0015.esd,2DE,29E,0F 00,15,Air Soldier
+Twilight Town,15,Sorcerous Waking,WORLD11/0015/WO110015.ESD,W11S0015.esd,30E,2CE,0F 00,15,Air Soldier
+Twilight Town,15,Sorcerous Waking,WORLD11/0015/WO110015.ESD,W11S0015.esd,33E,2FE,0F 00,15,Air Soldier
+Twilight Town,16,Almighty Darkness,WORLD11/0016/WO110016.ESD,W11S0016.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,16,Almighty Darkness,WORLD11/0016/WO110016.ESD,W11S0016.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,16,Almighty Darkness,WORLD11/0016/WO110016.ESD,W11S0016.esd,24E,20E,01 00,1,Shadow
+Twilight Town,16,Almighty Darkness,WORLD11/0016/WO110016.ESD,W11S0016.esd,27E,23E,01 00,1,Shadow
+Twilight Town,16,Almighty Darkness,WORLD11/0016/WO110016.ESD,W11S0016.esd,2AE,26E,0F 00,15,Air Soldier
+Twilight Town,16,Almighty Darkness,WORLD11/0016/WO110016.ESD,W11S0016.esd,2DE,29E,0F 00,15,Air Soldier
+Twilight Town,16,Almighty Darkness,WORLD11/0016/WO110016.ESD,W11S0016.esd,30E,2CE,0F 00,15,Air Soldier
+Twilight Town,17,Premium Room,WORLD11/0017/WO110017.ESD,W11S0017.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,17,Premium Room,WORLD11/0017/WO110017.ESD,W11S0017.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,17,Premium Room,WORLD11/0017/WO110017.ESD,W11S0017.esd,24E,20E,01 00,1,Shadow
+Twilight Town,17,Premium Room,WORLD11/0017/WO110017.ESD,W11S0017.esd,27E,23E,01 00,1,Shadow
+Twilight Town,17,Premium Room,WORLD11/0017/WO110017.ESD,W11S0017.esd,2AE,26E,0F 00,15,Air Soldier
+Twilight Town,17,Premium Room,WORLD11/0017/WO110017.ESD,W11S0017.esd,2DE,29E,0F 00,15,Air Soldier
+Twilight Town,17,Premium Room,WORLD11/0017/WO110017.ESD,W11S0017.esd,30E,2CE,0F 00,15,Air Soldier
+Twilight Town,17,Premium Room,WORLD11/0017/WO110017.ESD,W11S0017.esd,33E,2FE,0F 00,15,Air Soldier
+Twilight Town,18,Feeble Darkness,WORLD11/0018/WO110018.ESD,W11S0018.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,18,Feeble Darkness,WORLD11/0018/WO110018.ESD,W11S0018.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,18,Feeble Darkness,WORLD11/0018/WO110018.ESD,W11S0018.esd,24E,20E,01 00,1,Shadow
+Twilight Town,18,Feeble Darkness,WORLD11/0018/WO110018.ESD,W11S0018.esd,27E,23E,0F 00,15,Air Soldier
+Twilight Town,18,Feeble Darkness,WORLD11/0018/WO110018.ESD,W11S0018.esd,2AE,26E,0F 00,15,Air Soldier
+Twilight Town,18,Feeble Darkness,WORLD11/0018/WO110018.ESD,W11S0018.esd,2DE,29E,0F 00,15,Air Soldier
+Twilight Town,19,Looming Darkness,WORLD11/0019/WO110019.ESD,W11S0019.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,19,Looming Darkness,WORLD11/0019/WO110019.ESD,W11S0019.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,19,Looming Darkness,WORLD11/0019/WO110019.ESD,W11S0019.esd,24E,20E,01 00,1,Shadow
+Twilight Town,19,Looming Darkness,WORLD11/0019/WO110019.ESD,W11S0019.esd,27E,23E,01 00,1,Shadow
+Twilight Town,19,Looming Darkness,WORLD11/0019/WO110019.ESD,W11S0019.esd,2AE,26E,02 00,2,Soldier
+Twilight Town,19,Looming Darkness,WORLD11/0019/WO110019.ESD,W11S0019.esd,2DE,29E,02 00,2,Soldier
+Twilight Town,19,Looming Darkness,WORLD11/0019/WO110019.ESD,W11S0019.esd,30E,2CE,0F 00,15,Air Soldier
+Twilight Town,19,Looming Darkness,WORLD11/0019/WO110019.ESD,W11S0019.esd,33E,2FE,0F 00,15,Air Soldier
+Twilight Town,19,Looming Darkness,WORLD11/0019/WO110019.ESD,W11S0019.esd,36E,32E,0F 00,15,Air Soldier
+Twilight Town,19,Looming Darkness,WORLD11/0019/WO110019.ESD,W11S0019.esd,39E,35E,0F 00,15,Air Soldier
+Twilight Town,20,White Room,WORLD11/0020/WO110020.ESD,W11S0020.esd,1EE,1AE,10 00,16,White Mushroom
+Twilight Town,20,White Room,WORLD11/0020/WO110020.ESD,W11S0020.esd,21E,1DE,10 00,16,White Mushroom
+Twilight Town,20,White Room,WORLD11/0020/WO110020.ESD,W11S0020.esd,24E,20E,10 00,16,White Mushroom
+Twilight Town,21,Martial Waking,WORLD11/0021/WO110021.ESD,W11S0021.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,21,Martial Waking,WORLD11/0021/WO110021.ESD,W11S0021.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,21,Martial Waking,WORLD11/0021/WO110021.ESD,W11S0021.esd,24E,20E,01 00,1,Shadow
+Twilight Town,21,Martial Waking,WORLD11/0021/WO110021.ESD,W11S0021.esd,27E,23E,01 00,1,Shadow
+Twilight Town,21,Martial Waking,WORLD11/0021/WO110021.ESD,W11S0021.esd,2AE,26E,01 00,1,Shadow
+Twilight Town,21,Martial Waking,WORLD11/0021/WO110021.ESD,W11S0021.esd,2DE,29E,0F 00,15,Air Soldier
+Twilight Town,21,Martial Waking,WORLD11/0021/WO110021.ESD,W11S0021.esd,30E,2CE,0F 00,15,Air Soldier
+Twilight Town,21,Martial Waking,WORLD11/0021/WO110021.ESD,W11S0021.esd,33E,2FE,0F 00,15,Air Soldier
+Twilight Town,22,Tranquil Darkness,WORLD11/0022/WO110022.ESD,W11S0022.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,22,Tranquil Darkness,WORLD11/0022/WO110022.ESD,W11S0022.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,22,Tranquil Darkness,WORLD11/0022/WO110022.ESD,W11S0022.esd,24E,20E,01 00,1,Shadow
+Twilight Town,22,Tranquil Darkness,WORLD11/0022/WO110022.ESD,W11S0022.esd,27E,23E,0F 00,15,Air Soldier
+Twilight Town,22,Tranquil Darkness,WORLD11/0022/WO110022.ESD,W11S0022.esd,2AE,26E,0F 00,15,Air Soldier
+Twilight Town,22,Tranquil Darkness,WORLD11/0022/WO110022.ESD,W11S0022.esd,2DE,29E,0F 00,15,Air Soldier
+Twilight Town,23,Lasting Daze,WORLD11/0023/WO110023.ESD,W11S0023.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,23,Lasting Daze,WORLD11/0023/WO110023.ESD,W11S0023.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,23,Lasting Daze,WORLD11/0023/WO110023.ESD,W11S0023.esd,24E,20E,01 00,1,Shadow
+Twilight Town,23,Lasting Daze,WORLD11/0023/WO110023.ESD,W11S0023.esd,27E,23E,01 00,1,Shadow
+Twilight Town,23,Lasting Daze,WORLD11/0023/WO110023.ESD,W11S0023.esd,2AE,26E,01 00,1,Shadow
+Twilight Town,23,Lasting Daze,WORLD11/0023/WO110023.ESD,W11S0023.esd,2DE,29E,02 00,2,Soldier
+Twilight Town,23,Lasting Daze,WORLD11/0023/WO110023.ESD,W11S0023.esd,30E,2CE,0F 00,15,Air Soldier
+Twilight Town,23,Lasting Daze,WORLD11/0023/WO110023.ESD,W11S0023.esd,33E,2FE,0F 00,15,Air Soldier
+Twilight Town,23,Lasting Daze,WORLD11/0023/WO110023.ESD,W11S0023.esd,36E,32E,0F 00,15,Air Soldier
+Twilight Town,23,Lasting Daze,WORLD11/0023/WO110023.ESD,W11S0023.esd,39E,35E,0F 00,15,Air Soldier
+Twilight Town,25,Roulette Room,WORLD11/0025/WO110025.ESD,W11S0025.esd,1EE,1AE,02 00,2,Soldier
+Twilight Town,25,Roulette Room,WORLD11/0025/WO110025.ESD,W11S0025.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,25,Roulette Room,WORLD11/0025/WO110025.ESD,W11S0025.esd,24E,20E,01 00,1,Shadow
+Twilight Town,25,Roulette Room,WORLD11/0025/WO110025.ESD,W11S0025.esd,27E,23E,01 00,1,Shadow
+Twilight Town,25,Roulette Room,WORLD11/0025/WO110025.ESD,W11S0025.esd,2AE,26E,01 00,1,Shadow
+Twilight Town,25,Roulette Room,WORLD11/0025/WO110025.ESD,W11S0025.esd,2DE,29E,0F 00,15,Air Soldier
+Twilight Town,25,Roulette Room,WORLD11/0025/WO110025.ESD,W11S0025.esd,30E,2CE,0F 00,15,Air Soldier
+Twilight Town,25,Roulette Room,WORLD11/0025/WO110025.ESD,W11S0025.esd,33E,2FE,0F 00,15,Air Soldier
+Twilight Town,25,Roulette Room,WORLD11/0025/WO110025.ESD,W11S0025.esd,36E,32E,0F 00,15,Air Soldier
+Twilight Town,25,Roulette Room,WORLD11/0025/WO110025.ESD,W11S0025.esd,39E,35E,01 00,1,Shadow
+Twilight Town,26,Bottomless Darkness,WORLD11/0026/WO110026.ESD,W11S0026.esd,1EE,1AE,01 00,1,Shadow
+Twilight Town,26,Bottomless Darkness,WORLD11/0026/WO110026.ESD,W11S0026.esd,21E,1DE,01 00,1,Shadow
+Twilight Town,26,Bottomless Darkness,WORLD11/0026/WO110026.ESD,W11S0026.esd,24E,20E,01 00,1,Shadow
+Twilight Town,26,Bottomless Darkness,WORLD11/0026/WO110026.ESD,W11S0026.esd,27E,23E,01 00,1,Shadow
+Twilight Town,26,Bottomless Darkness,WORLD11/0026/WO110026.ESD,W11S0026.esd,2AE,26E,01 00,1,Shadow
+Twilight Town,26,Bottomless Darkness,WORLD11/0026/WO110026.ESD,W11S0026.esd,2DE,29E,01 00,1,Shadow
+Twilight Town,26,Bottomless Darkness,WORLD11/0026/WO110026.ESD,W11S0026.esd,30E,2CE,01 00,1,Shadow
+Twilight Town,26,Bottomless Darkness,WORLD11/0026/WO110026.ESD,W11S0026.esd,33E,2FE,01 00,1,Shadow
+Twilight Town,26,Bottomless Darkness,WORLD11/0026/WO110026.ESD,W11S0026.esd,36E,32E,01 00,1,Shadow
+Twilight Town,26,Bottomless Darkness,WORLD11/0026/WO110026.ESD,W11S0026.esd,39E,35E,01 00,1,Shadow
+Twilight Town,26,Bottomless Darkness,WORLD11/0026/WO110026.ESD,W11S0026.esd,3CE,38E,01 00,1,Shadow
+Twilight Town,26,Bottomless Darkness,WORLD11/0026/WO110026.ESD,W11S0026.esd,3FE,3BE,01 00,1,Shadow
+Twilight Town,26,Bottomless Darkness,WORLD11/0026/WO110026.ESD,W11S0026.esd,42E,3EE,01 00,1,Shadow
+Destiny Islands,1,???,WORLD12/0001/WO120001.ESD,W12S0001.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,1,???,WORLD12/0001/WO120001.ESD,W12S0001.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,1,???,WORLD12/0001/WO120001.ESD,W12S0001.esd,24E,20E,1D 00,29,Tornado Step
+Destiny Islands,1,???,WORLD12/0001/WO120001.ESD,W12S0001.esd,27E,23E,1D 00,29,Tornado Step
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,27E,23E,01 00,1,Shadow
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,2AE,26E,01 00,1,Shadow
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,2DE,29E,01 00,1,Shadow
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,30E,2CE,1D 00,29,Tornado Step
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,33E,2FE,1D 00,29,Tornado Step
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,36E,32E,1D 00,29,Tornado Step
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,39E,35E,1D 00,29,Tornado Step
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,3CE,38E,17 00,23,Darkball
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,3FE,3BE,17 00,23,Darkball
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,42E,3EE,17 00,23,Darkball
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,45E,41E,01 00,1,Shadow
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,48E,44E,1D 00,29,Tornado Step
+Destiny Islands,3,Teeming Darkness,WORLD12/0003/WO120003.ESD,W12S0003.esd,4BE,47E,1D 00,29,Tornado Step
+Destiny Islands,7,Guarded Trove,WORLD12/0007/WO120007.ESD,W12S0007.esd,1EE,1AE,17 00,23,Darkball
+Destiny Islands,7,Guarded Trove,WORLD12/0007/WO120007.ESD,W12S0007.esd,21E,1DE,17 00,23,Darkball
+Destiny Islands,7,Guarded Trove,WORLD12/0007/WO120007.ESD,W12S0007.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,7,Guarded Trove,WORLD12/0007/WO120007.ESD,W12S0007.esd,27E,23E,01 00,1,Shadow
+Destiny Islands,7,Guarded Trove,WORLD12/0007/WO120007.ESD,W12S0007.esd,2AE,26E,01 00,1,Shadow
+Destiny Islands,7,Guarded Trove,WORLD12/0007/WO120007.ESD,W12S0007.esd,2DE,29E,1D 00,29,Tornado Step
+Destiny Islands,7,Guarded Trove,WORLD12/0007/WO120007.ESD,W12S0007.esd,30E,2CE,1D 00,29,Tornado Step
+Destiny Islands,8,False Bounty,WORLD12/0008/WO120008.ESD,W12S0008.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,8,False Bounty,WORLD12/0008/WO120008.ESD,W12S0008.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,8,False Bounty,WORLD12/0008/WO120008.ESD,W12S0008.esd,24E,20E,1D 00,29,Tornado Step
+Destiny Islands,8,False Bounty,WORLD12/0008/WO120008.ESD,W12S0008.esd,27E,23E,1D 00,29,Tornado Step
+Destiny Islands,8,False Bounty,WORLD12/0008/WO120008.ESD,W12S0008.esd,2AE,26E,1D 00,29,Tornado Step
+Destiny Islands,9,Stagnant Space,WORLD12/0009/WO120009.ESD,W12S0009.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,9,Stagnant Space,WORLD12/0009/WO120009.ESD,W12S0009.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,9,Stagnant Space,WORLD12/0009/WO120009.ESD,W12S0009.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,9,Stagnant Space,WORLD12/0009/WO120009.ESD,W12S0009.esd,27E,23E,1D 00,29,Tornado Step
+Destiny Islands,9,Stagnant Space,WORLD12/0009/WO120009.ESD,W12S0009.esd,2AE,26E,1D 00,29,Tornado Step
+Destiny Islands,10,Alchemic Waking,WORLD12/0010/WO120010.ESD,W12S0010.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,10,Alchemic Waking,WORLD12/0010/WO120010.ESD,W12S0010.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,10,Alchemic Waking,WORLD12/0010/WO120010.ESD,W12S0010.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,10,Alchemic Waking,WORLD12/0010/WO120010.ESD,W12S0010.esd,27E,23E,1D 00,29,Tornado Step
+Destiny Islands,10,Alchemic Waking,WORLD12/0010/WO120010.ESD,W12S0010.esd,2AE,26E,1D 00,29,Tornado Step
+Destiny Islands,10,Alchemic Waking,WORLD12/0010/WO120010.ESD,W12S0010.esd,2DE,29E,1D 00,29,Tornado Step
+Destiny Islands,11,Meeting Ground,WORLD12/0011/WO120011.ESD,W12S0011.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,11,Meeting Ground,WORLD12/0011/WO120011.ESD,W12S0011.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,11,Meeting Ground,WORLD12/0011/WO120011.ESD,W12S0011.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,11,Meeting Ground,WORLD12/0011/WO120011.ESD,W12S0011.esd,27E,23E,01 00,1,Shadow
+Destiny Islands,11,Meeting Ground,WORLD12/0011/WO120011.ESD,W12S0011.esd,2AE,26E,1D 00,29,Tornado Step
+Destiny Islands,11,Meeting Ground,WORLD12/0011/WO120011.ESD,W12S0011.esd,2DE,29E,1D 00,29,Tornado Step
+Destiny Islands,11,Meeting Ground,WORLD12/0011/WO120011.ESD,W12S0011.esd,30E,2CE,1D 00,29,Tornado Step
+Destiny Islands,12,Black Room,WORLD12/0012/WO120012.ESD,W12S0012.esd,1EE,1AE,11 00,17,Black Fungus
+Destiny Islands,12,Black Room,WORLD12/0012/WO120012.ESD,W12S0012.esd,21E,1DE,11 00,17,Black Fungus
+Destiny Islands,12,Black Room,WORLD12/0012/WO120012.ESD,W12S0012.esd,24E,20E,11 00,17,Black Fungus
+Destiny Islands,13,Sleeping Darkness,WORLD12/0013/WO120013.ESD,W12S0013.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,13,Sleeping Darkness,WORLD12/0013/WO120013.ESD,W12S0013.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,13,Sleeping Darkness,WORLD12/0013/WO120013.ESD,W12S0013.esd,24E,20E,17 00,23,Darkball
+Destiny Islands,13,Sleeping Darkness,WORLD12/0013/WO120013.ESD,W12S0013.esd,27E,23E,17 00,23,Darkball
+Destiny Islands,13,Sleeping Darkness,WORLD12/0013/WO120013.ESD,W12S0013.esd,2AE,26E,1D 00,29,Tornado Step
+Destiny Islands,14,Strong Initiative,WORLD12/0014/WO120014.ESD,W12S0014.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,14,Strong Initiative,WORLD12/0014/WO120014.ESD,W12S0014.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,14,Strong Initiative,WORLD12/0014/WO120014.ESD,W12S0014.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,14,Strong Initiative,WORLD12/0014/WO120014.ESD,W12S0014.esd,27E,23E,01 00,1,Shadow
+Destiny Islands,14,Strong Initiative,WORLD12/0014/WO120014.ESD,W12S0014.esd,2AE,26E,01 00,1,Shadow
+Destiny Islands,14,Strong Initiative,WORLD12/0014/WO120014.ESD,W12S0014.esd,2DE,29E,1D 00,29,Tornado Step
+Destiny Islands,14,Strong Initiative,WORLD12/0014/WO120014.ESD,W12S0014.esd,30E,2CE,1D 00,29,Tornado Step
+Destiny Islands,14,Strong Initiative,WORLD12/0014/WO120014.ESD,W12S0014.esd,33E,2FE,1D 00,29,Tornado Step
+Destiny Islands,14,Strong Initiative,WORLD12/0014/WO120014.ESD,W12S0014.esd,36E,32E,1D 00,29,Tornado Step
+Destiny Islands,14,Strong Initiative,WORLD12/0014/WO120014.ESD,W12S0014.esd,39E,35E,1D 00,29,Tornado Step
+Destiny Islands,15,Sorcerous Waking,WORLD12/0015/WO120015.ESD,W12S0015.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,15,Sorcerous Waking,WORLD12/0015/WO120015.ESD,W12S0015.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,15,Sorcerous Waking,WORLD12/0015/WO120015.ESD,W12S0015.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,15,Sorcerous Waking,WORLD12/0015/WO120015.ESD,W12S0015.esd,27E,23E,1D 00,29,Tornado Step
+Destiny Islands,15,Sorcerous Waking,WORLD12/0015/WO120015.ESD,W12S0015.esd,2AE,26E,1D 00,29,Tornado Step
+Destiny Islands,15,Sorcerous Waking,WORLD12/0015/WO120015.ESD,W12S0015.esd,2DE,29E,1D 00,29,Tornado Step
+Destiny Islands,15,Sorcerous Waking,WORLD12/0015/WO120015.ESD,W12S0015.esd,30E,2CE,1D 00,29,Tornado Step
+Destiny Islands,15,Sorcerous Waking,WORLD12/0015/WO120015.ESD,W12S0015.esd,33E,2FE,17 00,23,Darkball
+Destiny Islands,16,Almighty Darkness,WORLD12/0016/WO120016.ESD,W12S0016.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,16,Almighty Darkness,WORLD12/0016/WO120016.ESD,W12S0016.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,16,Almighty Darkness,WORLD12/0016/WO120016.ESD,W12S0016.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,16,Almighty Darkness,WORLD12/0016/WO120016.ESD,W12S0016.esd,27E,23E,01 00,1,Shadow
+Destiny Islands,16,Almighty Darkness,WORLD12/0016/WO120016.ESD,W12S0016.esd,2AE,26E,1D 00,29,Tornado Step
+Destiny Islands,16,Almighty Darkness,WORLD12/0016/WO120016.ESD,W12S0016.esd,2DE,29E,1D 00,29,Tornado Step
+Destiny Islands,16,Almighty Darkness,WORLD12/0016/WO120016.ESD,W12S0016.esd,30E,2CE,1D 00,29,Tornado Step
+Destiny Islands,17,Premium Room,WORLD12/0017/WO120017.ESD,W12S0017.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,17,Premium Room,WORLD12/0017/WO120017.ESD,W12S0017.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,17,Premium Room,WORLD12/0017/WO120017.ESD,W12S0017.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,17,Premium Room,WORLD12/0017/WO120017.ESD,W12S0017.esd,27E,23E,01 00,1,Shadow
+Destiny Islands,17,Premium Room,WORLD12/0017/WO120017.ESD,W12S0017.esd,2AE,26E,1D 00,29,Tornado Step
+Destiny Islands,17,Premium Room,WORLD12/0017/WO120017.ESD,W12S0017.esd,2DE,29E,1D 00,29,Tornado Step
+Destiny Islands,17,Premium Room,WORLD12/0017/WO120017.ESD,W12S0017.esd,30E,2CE,1D 00,29,Tornado Step
+Destiny Islands,17,Premium Room,WORLD12/0017/WO120017.ESD,W12S0017.esd,33E,2FE,1D 00,29,Tornado Step
+Destiny Islands,18,Feeble Darkness,WORLD12/0018/WO120018.ESD,W12S0018.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,18,Feeble Darkness,WORLD12/0018/WO120018.ESD,W12S0018.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,18,Feeble Darkness,WORLD12/0018/WO120018.ESD,W12S0018.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,18,Feeble Darkness,WORLD12/0018/WO120018.ESD,W12S0018.esd,27E,23E,01 00,1,Shadow
+Destiny Islands,18,Feeble Darkness,WORLD12/0018/WO120018.ESD,W12S0018.esd,2AE,26E,1D 00,29,Tornado Step
+Destiny Islands,18,Feeble Darkness,WORLD12/0018/WO120018.ESD,W12S0018.esd,2DE,29E,1D 00,29,Tornado Step
+Destiny Islands,19,Looming Darkness,WORLD12/0019/WO120019.ESD,W12S0019.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,19,Looming Darkness,WORLD12/0019/WO120019.ESD,W12S0019.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,19,Looming Darkness,WORLD12/0019/WO120019.ESD,W12S0019.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,19,Looming Darkness,WORLD12/0019/WO120019.ESD,W12S0019.esd,27E,23E,01 00,1,Shadow
+Destiny Islands,19,Looming Darkness,WORLD12/0019/WO120019.ESD,W12S0019.esd,2AE,26E,01 00,1,Shadow
+Destiny Islands,19,Looming Darkness,WORLD12/0019/WO120019.ESD,W12S0019.esd,2DE,29E,1D 00,29,Tornado Step
+Destiny Islands,19,Looming Darkness,WORLD12/0019/WO120019.ESD,W12S0019.esd,30E,2CE,1D 00,29,Tornado Step
+Destiny Islands,19,Looming Darkness,WORLD12/0019/WO120019.ESD,W12S0019.esd,33E,2FE,1D 00,29,Tornado Step
+Destiny Islands,19,Looming Darkness,WORLD12/0019/WO120019.ESD,W12S0019.esd,36E,32E,17 00,23,Darkball
+Destiny Islands,19,Looming Darkness,WORLD12/0019/WO120019.ESD,W12S0019.esd,39E,35E,17 00,23,Darkball
+Destiny Islands,20,White Room,WORLD12/0020/WO120020.ESD,W12S0020.esd,1EE,1AE,10 00,16,White Mushroom
+Destiny Islands,20,White Room,WORLD12/0020/WO120020.ESD,W12S0020.esd,21E,1DE,10 00,16,White Mushroom
+Destiny Islands,20,White Room,WORLD12/0020/WO120020.ESD,W12S0020.esd,24E,20E,10 00,16,White Mushroom
+Destiny Islands,21,Martial Waking,WORLD12/0021/WO120021.ESD,W12S0021.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,21,Martial Waking,WORLD12/0021/WO120021.ESD,W12S0021.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,21,Martial Waking,WORLD12/0021/WO120021.ESD,W12S0021.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,21,Martial Waking,WORLD12/0021/WO120021.ESD,W12S0021.esd,27E,23E,01 00,1,Shadow
+Destiny Islands,21,Martial Waking,WORLD12/0021/WO120021.ESD,W12S0021.esd,2AE,26E,1D 00,29,Tornado Step
+Destiny Islands,21,Martial Waking,WORLD12/0021/WO120021.ESD,W12S0021.esd,2DE,29E,1D 00,29,Tornado Step
+Destiny Islands,21,Martial Waking,WORLD12/0021/WO120021.ESD,W12S0021.esd,30E,2CE,1D 00,29,Tornado Step
+Destiny Islands,21,Martial Waking,WORLD12/0021/WO120021.ESD,W12S0021.esd,33E,2FE,1D 00,29,Tornado Step
+Destiny Islands,22,Tranquil Darkness,WORLD12/0022/WO120022.ESD,W12S0022.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,22,Tranquil Darkness,WORLD12/0022/WO120022.ESD,W12S0022.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,22,Tranquil Darkness,WORLD12/0022/WO120022.ESD,W12S0022.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,22,Tranquil Darkness,WORLD12/0022/WO120022.ESD,W12S0022.esd,27E,23E,1D 00,29,Tornado Step
+Destiny Islands,22,Tranquil Darkness,WORLD12/0022/WO120022.ESD,W12S0022.esd,2AE,26E,1D 00,29,Tornado Step
+Destiny Islands,22,Tranquil Darkness,WORLD12/0022/WO120022.ESD,W12S0022.esd,2DE,29E,1D 00,29,Tornado Step
+Destiny Islands,23,Lasting Daze,WORLD12/0023/WO120023.ESD,W12S0023.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,23,Lasting Daze,WORLD12/0023/WO120023.ESD,W12S0023.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,23,Lasting Daze,WORLD12/0023/WO120023.ESD,W12S0023.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,23,Lasting Daze,WORLD12/0023/WO120023.ESD,W12S0023.esd,27E,23E,01 00,1,Shadow
+Destiny Islands,23,Lasting Daze,WORLD12/0023/WO120023.ESD,W12S0023.esd,2AE,26E,01 00,1,Shadow
+Destiny Islands,23,Lasting Daze,WORLD12/0023/WO120023.ESD,W12S0023.esd,2DE,29E,1D 00,29,Tornado Step
+Destiny Islands,23,Lasting Daze,WORLD12/0023/WO120023.ESD,W12S0023.esd,30E,2CE,1D 00,29,Tornado Step
+Destiny Islands,23,Lasting Daze,WORLD12/0023/WO120023.ESD,W12S0023.esd,33E,2FE,1D 00,29,Tornado Step
+Destiny Islands,23,Lasting Daze,WORLD12/0023/WO120023.ESD,W12S0023.esd,36E,32E,1D 00,29,Tornado Step
+Destiny Islands,23,Lasting Daze,WORLD12/0023/WO120023.ESD,W12S0023.esd,39E,35E,1D 00,29,Tornado Step
+Destiny Islands,25,Roulette Room,WORLD12/0025/WO120025.ESD,W12S0025.esd,1EE,1AE,17 00,23,Darkball
+Destiny Islands,25,Roulette Room,WORLD12/0025/WO120025.ESD,W12S0025.esd,21E,1DE,17 00,23,Darkball
+Destiny Islands,25,Roulette Room,WORLD12/0025/WO120025.ESD,W12S0025.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,25,Roulette Room,WORLD12/0025/WO120025.ESD,W12S0025.esd,27E,23E,01 00,1,Shadow
+Destiny Islands,25,Roulette Room,WORLD12/0025/WO120025.ESD,W12S0025.esd,2AE,26E,01 00,1,Shadow
+Destiny Islands,25,Roulette Room,WORLD12/0025/WO120025.ESD,W12S0025.esd,2DE,29E,01 00,1,Shadow
+Destiny Islands,25,Roulette Room,WORLD12/0025/WO120025.ESD,W12S0025.esd,30E,2CE,1D 00,29,Tornado Step
+Destiny Islands,25,Roulette Room,WORLD12/0025/WO120025.ESD,W12S0025.esd,33E,2FE,1D 00,29,Tornado Step
+Destiny Islands,25,Roulette Room,WORLD12/0025/WO120025.ESD,W12S0025.esd,36E,32E,1D 00,29,Tornado Step
+Destiny Islands,25,Roulette Room,WORLD12/0025/WO120025.ESD,W12S0025.esd,39E,35E,1D 00,29,Tornado Step
+Destiny Islands,26,Bottomless Darkness,WORLD12/0026/WO120026.ESD,W12S0026.esd,1EE,1AE,01 00,1,Shadow
+Destiny Islands,26,Bottomless Darkness,WORLD12/0026/WO120026.ESD,W12S0026.esd,21E,1DE,01 00,1,Shadow
+Destiny Islands,26,Bottomless Darkness,WORLD12/0026/WO120026.ESD,W12S0026.esd,24E,20E,01 00,1,Shadow
+Destiny Islands,26,Bottomless Darkness,WORLD12/0026/WO120026.ESD,W12S0026.esd,27E,23E,01 00,1,Shadow
+Destiny Islands,26,Bottomless Darkness,WORLD12/0026/WO120026.ESD,W12S0026.esd,2AE,26E,01 00,1,Shadow
+Destiny Islands,26,Bottomless Darkness,WORLD12/0026/WO120026.ESD,W12S0026.esd,2DE,29E,01 00,1,Shadow
+Destiny Islands,26,Bottomless Darkness,WORLD12/0026/WO120026.ESD,W12S0026.esd,30E,2CE,01 00,1,Shadow
+Destiny Islands,26,Bottomless Darkness,WORLD12/0026/WO120026.ESD,W12S0026.esd,33E,2FE,01 00,1,Shadow
+Destiny Islands,26,Bottomless Darkness,WORLD12/0026/WO120026.ESD,W12S0026.esd,36E,32E,01 00,1,Shadow
+Destiny Islands,26,Bottomless Darkness,WORLD12/0026/WO120026.ESD,W12S0026.esd,39E,35E,01 00,1,Shadow
+Destiny Islands,26,Bottomless Darkness,WORLD12/0026/WO120026.ESD,W12S0026.esd,3CE,38E,01 00,1,Shadow
+Destiny Islands,26,Bottomless Darkness,WORLD12/0026/WO120026.ESD,W12S0026.esd,3FE,3BE,01 00,1,Shadow
+Destiny Islands,26,Bottomless Darkness,WORLD12/0026/WO120026.ESD,W12S0026.esd,42E,3EE,01 00,1,Shadow
+Castle Oblivion,1,???,WORLD13/0001/WO130001.ESD,W13S0001.esd,1EE,1AE,1B 00,27,Neoshadow
+Castle Oblivion,1,???,WORLD13/0001/WO130001.ESD,W13S0001.esd,21E,1DE,1B 00,27,Neoshadow
+Castle Oblivion,1,???,WORLD13/0001/WO130001.ESD,W13S0001.esd,24E,20E,1B 00,27,Neoshadow
+Castle Oblivion,1,???,WORLD13/0001/WO130001.ESD,W13S0001.esd,27E,23E,1B 00,27,Neoshadow
+Castle Oblivion,1,???,WORLD13/0001/WO130001.ESD,W13S0001.esd,2AE,26E,03 00,3,Red Nocturne
+Castle Oblivion,1,???,WORLD13/0001/WO130001.ESD,W13S0001.esd,2DE,29E,03 00,3,Red Nocturne
+Castle Oblivion,1,???,WORLD13/0001/WO130001.ESD,W13S0001.esd,30E,2CE,03 00,3,Red Nocturne
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,1EE,1AE,1B 00,27,Neoshadow
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,21E,1DE,1B 00,27,Neoshadow
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,24E,20E,1B 00,27,Neoshadow
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,27E,23E,1B 00,27,Neoshadow
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,2AE,26E,1B 00,27,Neoshadow
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,2DE,29E,1B 00,27,Neoshadow
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,30E,2CE,1B 00,27,Neoshadow
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,33E,2FE,03 00,3,Red Nocturne
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,36E,32E,03 00,3,Red Nocturne
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,39E,35E,03 00,3,Red Nocturne
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,3CE,38E,03 00,3,Red Nocturne
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,3FE,3BE,03 00,3,Red Nocturne
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,42E,3EE,03 00,3,Red Nocturne
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,45E,41E,17 00,23,Darkball
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,48E,44E,17 00,23,Darkball
+Castle Oblivion,3,Teeming Darkness,WORLD13/0003/WO130003.ESD,W13S0003.esd,4BE,47E,17 00,23,Darkball
+Castle Oblivion,7,Guarded Trove,WORLD13/0007/WO130007.ESD,W13S0007.esd,1EE,1AE,17 00,23,Darkball
+Castle Oblivion,7,Guarded Trove,WORLD13/0007/WO130007.ESD,W13S0007.esd,21E,1DE,1B 00,27,Neoshadow
+Castle Oblivion,7,Guarded Trove,WORLD13/0007/WO130007.ESD,W13S0007.esd,24E,20E,1B 00,27,Neoshadow
+Castle Oblivion,7,Guarded Trove,WORLD13/0007/WO130007.ESD,W13S0007.esd,27E,23E,1B 00,27,Neoshadow
+Castle Oblivion,7,Guarded Trove,WORLD13/0007/WO130007.ESD,W13S0007.esd,2AE,26E,03 00,3,Red Nocturne
+Castle Oblivion,7,Guarded Trove,WORLD13/0007/WO130007.ESD,W13S0007.esd,2DE,29E,03 00,3,Red Nocturne
+Castle Oblivion,7,Guarded Trove,WORLD13/0007/WO130007.ESD,W13S0007.esd,30E,2CE,03 00,3,Red Nocturne
+Castle Oblivion,8,False Bounty,WORLD13/0008/WO130008.ESD,W13S0008.esd,1EE,1AE,03 00,3,Red Nocturne
+Castle Oblivion,8,False Bounty,WORLD13/0008/WO130008.ESD,W13S0008.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,8,False Bounty,WORLD13/0008/WO130008.ESD,W13S0008.esd,24E,20E,03 00,3,Red Nocturne
+Castle Oblivion,8,False Bounty,WORLD13/0008/WO130008.ESD,W13S0008.esd,27E,23E,1B 00,27,Neoshadow
+Castle Oblivion,8,False Bounty,WORLD13/0008/WO130008.ESD,W13S0008.esd,2AE,26E,1B 00,27,Neoshadow
+Castle Oblivion,9,Stagnant Space,WORLD13/0009/WO130009.ESD,W13S0009.esd,1EE,1AE,1B 00,27,Neoshadow
+Castle Oblivion,9,Stagnant Space,WORLD13/0009/WO130009.ESD,W13S0009.esd,21E,1DE,1B 00,27,Neoshadow
+Castle Oblivion,9,Stagnant Space,WORLD13/0009/WO130009.ESD,W13S0009.esd,24E,20E,1B 00,27,Neoshadow
+Castle Oblivion,9,Stagnant Space,WORLD13/0009/WO130009.ESD,W13S0009.esd,27E,23E,03 00,3,Red Nocturne
+Castle Oblivion,9,Stagnant Space,WORLD13/0009/WO130009.ESD,W13S0009.esd,2AE,26E,03 00,3,Red Nocturne
+Castle Oblivion,10,Alchemic Waking,WORLD13/0010/WO130010.ESD,W13S0010.esd,1EE,1AE,03 00,3,Red Nocturne
+Castle Oblivion,10,Alchemic Waking,WORLD13/0010/WO130010.ESD,W13S0010.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,10,Alchemic Waking,WORLD13/0010/WO130010.ESD,W13S0010.esd,24E,20E,03 00,3,Red Nocturne
+Castle Oblivion,10,Alchemic Waking,WORLD13/0010/WO130010.ESD,W13S0010.esd,27E,23E,1B 00,27,Neoshadow
+Castle Oblivion,10,Alchemic Waking,WORLD13/0010/WO130010.ESD,W13S0010.esd,2AE,26E,1B 00,27,Neoshadow
+Castle Oblivion,10,Alchemic Waking,WORLD13/0010/WO130010.ESD,W13S0010.esd,2DE,29E,1B 00,27,Neoshadow
+Castle Oblivion,11,Meeting Ground,WORLD13/0011/WO130011.ESD,W13S0011.esd,1EE,1AE,03 00,3,Red Nocturne
+Castle Oblivion,11,Meeting Ground,WORLD13/0011/WO130011.ESD,W13S0011.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,11,Meeting Ground,WORLD13/0011/WO130011.ESD,W13S0011.esd,24E,20E,03 00,3,Red Nocturne
+Castle Oblivion,11,Meeting Ground,WORLD13/0011/WO130011.ESD,W13S0011.esd,27E,23E,1B 00,27,Neoshadow
+Castle Oblivion,11,Meeting Ground,WORLD13/0011/WO130011.ESD,W13S0011.esd,2AE,26E,1B 00,27,Neoshadow
+Castle Oblivion,11,Meeting Ground,WORLD13/0011/WO130011.ESD,W13S0011.esd,2DE,29E,1B 00,27,Neoshadow
+Castle Oblivion,11,Meeting Ground,WORLD13/0011/WO130011.ESD,W13S0011.esd,30E,2CE,1B 00,27,Neoshadow
+Castle Oblivion,12,Black Room,WORLD13/0012/WO130012.ESD,W13S0012.esd,1EE,1AE,11 00,17,Black Fungus
+Castle Oblivion,12,Black Room,WORLD13/0012/WO130012.ESD,W13S0012.esd,21E,1DE,11 00,17,Black Fungus
+Castle Oblivion,12,Black Room,WORLD13/0012/WO130012.ESD,W13S0012.esd,24E,20E,11 00,17,Black Fungus
+Castle Oblivion,13,Sleeping Darkness,WORLD13/0013/WO130013.ESD,W13S0013.esd,1EE,1AE,17 00,23,Darkball
+Castle Oblivion,13,Sleeping Darkness,WORLD13/0013/WO130013.ESD,W13S0013.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,13,Sleeping Darkness,WORLD13/0013/WO130013.ESD,W13S0013.esd,24E,20E,1B 00,27,Neoshadow
+Castle Oblivion,13,Sleeping Darkness,WORLD13/0013/WO130013.ESD,W13S0013.esd,27E,23E,1B 00,27,Neoshadow
+Castle Oblivion,13,Sleeping Darkness,WORLD13/0013/WO130013.ESD,W13S0013.esd,2AE,26E,17 00,23,Darkball
+Castle Oblivion,14,Strong Initiative,WORLD13/0014/WO130014.ESD,W13S0014.esd,1EE,1AE,03 00,3,Red Nocturne
+Castle Oblivion,14,Strong Initiative,WORLD13/0014/WO130014.ESD,W13S0014.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,14,Strong Initiative,WORLD13/0014/WO130014.ESD,W13S0014.esd,24E,20E,03 00,3,Red Nocturne
+Castle Oblivion,14,Strong Initiative,WORLD13/0014/WO130014.ESD,W13S0014.esd,27E,23E,03 00,3,Red Nocturne
+Castle Oblivion,14,Strong Initiative,WORLD13/0014/WO130014.ESD,W13S0014.esd,2AE,26E,03 00,3,Red Nocturne
+Castle Oblivion,14,Strong Initiative,WORLD13/0014/WO130014.ESD,W13S0014.esd,2DE,29E,1B 00,27,Neoshadow
+Castle Oblivion,14,Strong Initiative,WORLD13/0014/WO130014.ESD,W13S0014.esd,30E,2CE,1B 00,27,Neoshadow
+Castle Oblivion,14,Strong Initiative,WORLD13/0014/WO130014.ESD,W13S0014.esd,33E,2FE,1B 00,27,Neoshadow
+Castle Oblivion,14,Strong Initiative,WORLD13/0014/WO130014.ESD,W13S0014.esd,36E,32E,1B 00,27,Neoshadow
+Castle Oblivion,14,Strong Initiative,WORLD13/0014/WO130014.ESD,W13S0014.esd,39E,35E,1B 00,27,Neoshadow
+Castle Oblivion,15,Sorcerous Waking,WORLD13/0015/WO130015.ESD,W13S0015.esd,1EE,1AE,03 00,3,Red Nocturne
+Castle Oblivion,15,Sorcerous Waking,WORLD13/0015/WO130015.ESD,W13S0015.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,15,Sorcerous Waking,WORLD13/0015/WO130015.ESD,W13S0015.esd,24E,20E,03 00,3,Red Nocturne
+Castle Oblivion,15,Sorcerous Waking,WORLD13/0015/WO130015.ESD,W13S0015.esd,27E,23E,03 00,3,Red Nocturne
+Castle Oblivion,15,Sorcerous Waking,WORLD13/0015/WO130015.ESD,W13S0015.esd,2AE,26E,1B 00,27,Neoshadow
+Castle Oblivion,15,Sorcerous Waking,WORLD13/0015/WO130015.ESD,W13S0015.esd,2DE,29E,1B 00,27,Neoshadow
+Castle Oblivion,15,Sorcerous Waking,WORLD13/0015/WO130015.ESD,W13S0015.esd,30E,2CE,1B 00,27,Neoshadow
+Castle Oblivion,15,Sorcerous Waking,WORLD13/0015/WO130015.ESD,W13S0015.esd,33E,2FE,1B 00,27,Neoshadow
+Castle Oblivion,16,Almighty Darkness,WORLD13/0016/WO130016.ESD,W13S0016.esd,1EE,1AE,03 00,3,Red Nocturne
+Castle Oblivion,16,Almighty Darkness,WORLD13/0016/WO130016.ESD,W13S0016.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,16,Almighty Darkness,WORLD13/0016/WO130016.ESD,W13S0016.esd,24E,20E,03 00,3,Red Nocturne
+Castle Oblivion,16,Almighty Darkness,WORLD13/0016/WO130016.ESD,W13S0016.esd,27E,23E,1B 00,27,Neoshadow
+Castle Oblivion,16,Almighty Darkness,WORLD13/0016/WO130016.ESD,W13S0016.esd,2AE,26E,1B 00,27,Neoshadow
+Castle Oblivion,16,Almighty Darkness,WORLD13/0016/WO130016.ESD,W13S0016.esd,2DE,29E,1B 00,27,Neoshadow
+Castle Oblivion,16,Almighty Darkness,WORLD13/0016/WO130016.ESD,W13S0016.esd,30E,2CE,1B 00,27,Neoshadow
+Castle Oblivion,17,Premium Room,WORLD13/0017/WO130017.ESD,W13S0017.esd,1EE,1AE,03 00,3,Red Nocturne
+Castle Oblivion,17,Premium Room,WORLD13/0017/WO130017.ESD,W13S0017.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,17,Premium Room,WORLD13/0017/WO130017.ESD,W13S0017.esd,24E,20E,03 00,3,Red Nocturne
+Castle Oblivion,17,Premium Room,WORLD13/0017/WO130017.ESD,W13S0017.esd,27E,23E,03 00,3,Red Nocturne
+Castle Oblivion,17,Premium Room,WORLD13/0017/WO130017.ESD,W13S0017.esd,2AE,26E,1B 00,27,Neoshadow
+Castle Oblivion,17,Premium Room,WORLD13/0017/WO130017.ESD,W13S0017.esd,2DE,29E,1B 00,27,Neoshadow
+Castle Oblivion,17,Premium Room,WORLD13/0017/WO130017.ESD,W13S0017.esd,30E,2CE,1B 00,27,Neoshadow
+Castle Oblivion,17,Premium Room,WORLD13/0017/WO130017.ESD,W13S0017.esd,33E,2FE,1B 00,27,Neoshadow
+Castle Oblivion,18,Feeble Darkness,WORLD13/0018/WO130018.ESD,W13S0018.esd,1EE,1AE,03 00,3,Red Nocturne
+Castle Oblivion,18,Feeble Darkness,WORLD13/0018/WO130018.ESD,W13S0018.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,18,Feeble Darkness,WORLD13/0018/WO130018.ESD,W13S0018.esd,24E,20E,03 00,3,Red Nocturne
+Castle Oblivion,18,Feeble Darkness,WORLD13/0018/WO130018.ESD,W13S0018.esd,27E,23E,1B 00,27,Neoshadow
+Castle Oblivion,18,Feeble Darkness,WORLD13/0018/WO130018.ESD,W13S0018.esd,2AE,26E,1B 00,27,Neoshadow
+Castle Oblivion,18,Feeble Darkness,WORLD13/0018/WO130018.ESD,W13S0018.esd,2DE,29E,1B 00,27,Neoshadow
+Castle Oblivion,19,Looming Darkness,WORLD13/0019/WO130019.ESD,W13S0019.esd,1EE,1AE,03 00,3,Red Nocturne
+Castle Oblivion,19,Looming Darkness,WORLD13/0019/WO130019.ESD,W13S0019.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,19,Looming Darkness,WORLD13/0019/WO130019.ESD,W13S0019.esd,24E,20E,03 00,3,Red Nocturne
+Castle Oblivion,19,Looming Darkness,WORLD13/0019/WO130019.ESD,W13S0019.esd,27E,23E,03 00,3,Red Nocturne
+Castle Oblivion,19,Looming Darkness,WORLD13/0019/WO130019.ESD,W13S0019.esd,2AE,26E,17 00,23,Darkball
+Castle Oblivion,19,Looming Darkness,WORLD13/0019/WO130019.ESD,W13S0019.esd,2DE,29E,17 00,23,Darkball
+Castle Oblivion,19,Looming Darkness,WORLD13/0019/WO130019.ESD,W13S0019.esd,30E,2CE,1B 00,27,Neoshadow
+Castle Oblivion,19,Looming Darkness,WORLD13/0019/WO130019.ESD,W13S0019.esd,33E,2FE,1B 00,27,Neoshadow
+Castle Oblivion,19,Looming Darkness,WORLD13/0019/WO130019.ESD,W13S0019.esd,36E,32E,1B 00,27,Neoshadow
+Castle Oblivion,19,Looming Darkness,WORLD13/0019/WO130019.ESD,W13S0019.esd,39E,35E,1B 00,27,Neoshadow
+Castle Oblivion,20,White Room,WORLD13/0020/WO130020.ESD,W13S0020.esd,1EE,1AE,10 00,16,White Mushroom
+Castle Oblivion,20,White Room,WORLD13/0020/WO130020.ESD,W13S0020.esd,21E,1DE,10 00,16,White Mushroom
+Castle Oblivion,20,White Room,WORLD13/0020/WO130020.ESD,W13S0020.esd,24E,20E,10 00,16,White Mushroom
+Castle Oblivion,21,Martial Waking,WORLD13/0021/WO130021.ESD,W13S0021.esd,1EE,1AE,03 00,3,Red Nocturne
+Castle Oblivion,21,Martial Waking,WORLD13/0021/WO130021.ESD,W13S0021.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,21,Martial Waking,WORLD13/0021/WO130021.ESD,W13S0021.esd,24E,20E,03 00,3,Red Nocturne
+Castle Oblivion,21,Martial Waking,WORLD13/0021/WO130021.ESD,W13S0021.esd,27E,23E,03 00,3,Red Nocturne
+Castle Oblivion,21,Martial Waking,WORLD13/0021/WO130021.ESD,W13S0021.esd,2AE,26E,1B 00,27,Neoshadow
+Castle Oblivion,21,Martial Waking,WORLD13/0021/WO130021.ESD,W13S0021.esd,2DE,29E,1B 00,27,Neoshadow
+Castle Oblivion,21,Martial Waking,WORLD13/0021/WO130021.ESD,W13S0021.esd,30E,2CE,1B 00,27,Neoshadow
+Castle Oblivion,21,Martial Waking,WORLD13/0021/WO130021.ESD,W13S0021.esd,33E,2FE,1B 00,27,Neoshadow
+Castle Oblivion,22,Tranquil Darkness,WORLD13/0022/WO130022.ESD,W13S0022.esd,1EE,1AE,03 00,3,Red Nocturne
+Castle Oblivion,22,Tranquil Darkness,WORLD13/0022/WO130022.ESD,W13S0022.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,22,Tranquil Darkness,WORLD13/0022/WO130022.ESD,W13S0022.esd,24E,20E,03 00,3,Red Nocturne
+Castle Oblivion,22,Tranquil Darkness,WORLD13/0022/WO130022.ESD,W13S0022.esd,27E,23E,1B 00,27,Neoshadow
+Castle Oblivion,22,Tranquil Darkness,WORLD13/0022/WO130022.ESD,W13S0022.esd,2AE,26E,1B 00,27,Neoshadow
+Castle Oblivion,22,Tranquil Darkness,WORLD13/0022/WO130022.ESD,W13S0022.esd,2DE,29E,1B 00,27,Neoshadow
+Castle Oblivion,23,Lasting Daze,WORLD13/0023/WO130023.ESD,W13S0023.esd,1EE,1AE,03 00,3,Red Nocturne
+Castle Oblivion,23,Lasting Daze,WORLD13/0023/WO130023.ESD,W13S0023.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,23,Lasting Daze,WORLD13/0023/WO130023.ESD,W13S0023.esd,24E,20E,03 00,3,Red Nocturne
+Castle Oblivion,23,Lasting Daze,WORLD13/0023/WO130023.ESD,W13S0023.esd,27E,23E,03 00,3,Red Nocturne
+Castle Oblivion,23,Lasting Daze,WORLD13/0023/WO130023.ESD,W13S0023.esd,2AE,26E,03 00,3,Red Nocturne
+Castle Oblivion,23,Lasting Daze,WORLD13/0023/WO130023.ESD,W13S0023.esd,2DE,29E,1B 00,27,Neoshadow
+Castle Oblivion,23,Lasting Daze,WORLD13/0023/WO130023.ESD,W13S0023.esd,30E,2CE,1B 00,27,Neoshadow
+Castle Oblivion,23,Lasting Daze,WORLD13/0023/WO130023.ESD,W13S0023.esd,33E,2FE,1B 00,27,Neoshadow
+Castle Oblivion,23,Lasting Daze,WORLD13/0023/WO130023.ESD,W13S0023.esd,36E,32E,1B 00,27,Neoshadow
+Castle Oblivion,23,Lasting Daze,WORLD13/0023/WO130023.ESD,W13S0023.esd,39E,35E,1B 00,27,Neoshadow
+Castle Oblivion,25,Roulette Room,WORLD13/0025/WO130025.ESD,W13S0025.esd,1EE,1AE,03 00,3,Red Nocturne
+Castle Oblivion,25,Roulette Room,WORLD13/0025/WO130025.ESD,W13S0025.esd,21E,1DE,03 00,3,Red Nocturne
+Castle Oblivion,25,Roulette Room,WORLD13/0025/WO130025.ESD,W13S0025.esd,24E,20E,03 00,3,Red Nocturne
+Castle Oblivion,25,Roulette Room,WORLD13/0025/WO130025.ESD,W13S0025.esd,27E,23E,03 00,3,Red Nocturne
+Castle Oblivion,25,Roulette Room,WORLD13/0025/WO130025.ESD,W13S0025.esd,2AE,26E,17 00,23,Darkball
+Castle Oblivion,25,Roulette Room,WORLD13/0025/WO130025.ESD,W13S0025.esd,2DE,29E,1B 00,27,Neoshadow
+Castle Oblivion,25,Roulette Room,WORLD13/0025/WO130025.ESD,W13S0025.esd,30E,2CE,1B 00,27,Neoshadow
+Castle Oblivion,25,Roulette Room,WORLD13/0025/WO130025.ESD,W13S0025.esd,33E,2FE,1B 00,27,Neoshadow
+Castle Oblivion,25,Roulette Room,WORLD13/0025/WO130025.ESD,W13S0025.esd,36E,32E,1B 00,27,Neoshadow
+Castle Oblivion,25,Roulette Room,WORLD13/0025/WO130025.ESD,W13S0025.esd,39E,35E,1B 00,27,Neoshadow
+Castle Oblivion,26,Bottomless Darkness,WORLD13/0026/WO130026.ESD,W13S0026.esd,1EE,1AE,01 00,1,Shadow
+Castle Oblivion,26,Bottomless Darkness,WORLD13/0026/WO130026.ESD,W13S0026.esd,21E,1DE,01 00,1,Shadow
+Castle Oblivion,26,Bottomless Darkness,WORLD13/0026/WO130026.ESD,W13S0026.esd,24E,20E,01 00,1,Shadow
+Castle Oblivion,26,Bottomless Darkness,WORLD13/0026/WO130026.ESD,W13S0026.esd,27E,23E,01 00,1,Shadow
+Castle Oblivion,26,Bottomless Darkness,WORLD13/0026/WO130026.ESD,W13S0026.esd,2AE,26E,01 00,1,Shadow
+Castle Oblivion,26,Bottomless Darkness,WORLD13/0026/WO130026.ESD,W13S0026.esd,2DE,29E,01 00,1,Shadow
+Castle Oblivion,26,Bottomless Darkness,WORLD13/0026/WO130026.ESD,W13S0026.esd,30E,2CE,01 00,1,Shadow
+Castle Oblivion,26,Bottomless Darkness,WORLD13/0026/WO130026.ESD,W13S0026.esd,33E,2FE,01 00,1,Shadow
+Castle Oblivion,26,Bottomless Darkness,WORLD13/0026/WO130026.ESD,W13S0026.esd,36E,32E,01 00,1,Shadow
+Castle Oblivion,26,Bottomless Darkness,WORLD13/0026/WO130026.ESD,W13S0026.esd,39E,35E,01 00,1,Shadow
+Castle Oblivion,26,Bottomless Darkness,WORLD13/0026/WO130026.ESD,W13S0026.esd,3CE,38E,01 00,1,Shadow
+Castle Oblivion,26,Bottomless Darkness,WORLD13/0026/WO130026.ESD,W13S0026.esd,3FE,3BE,01 00,1,Shadow
+Castle Oblivion,26,Bottomless Darkness,WORLD13/0026/WO130026.ESD,W13S0026.esd,42E,3EE,01 00,1,Shadow

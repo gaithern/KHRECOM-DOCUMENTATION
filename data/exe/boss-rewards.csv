@@ -1,0 +1,101 @@
+Record,Location,Boss,EGS Address,Steam Address,Value (HEX),Value,Notes
+1,Traverse Town Room of Truth,Guard Armor,52D870,52D760,66 00 00 00,102,Enemy ID
+1,Traverse Town Room of Truth,Guard Armor,52D878,52D768,63 00 00 00,Guard Armor (Enemy Card),Card Type
+1,Traverse Town Room of Truth,Guard Armor,52D87C,52D76C,00 00 00 00,0,Card Value
+1,Traverse Town Room of Truth,Guard Armor,52D880,52D770,FF FF FF FF,-1,Boss Variant (-1 is any)
+2,Wonderland Room of Beginnings,Card Soldiers,52D888,52D778,67 00 00 00,103,Enemy ID
+2,Wonderland Room of Beginnings,Card Soldiers,52D890,52D780,67 00 00 00,Card Soldier (Enemy Card),Card Type
+2,Wonderland Room of Beginnings,Card Soldiers,52D894,52D784,00 00 00 00,0,Card Value
+2,Wonderland Room of Beginnings,Card Soldiers,52D898,52D788,FF FF FF FF,-1,Boss Variant (-1 is any)
+3,Wonderland Room of Beginnings (2nd entry),Card Soldiers (2nd),52D8A0,52D790,68 00 00 00,104,Enemy ID
+3,Wonderland Room of Beginnings (2nd entry),Card Soldiers (2nd),52D8A8,52D798,67 00 00 00,Card Soldier (Enemy Card),Card Type
+3,Wonderland Room of Beginnings (2nd entry),Card Soldiers (2nd),52D8AC,52D79C,00 00 00 00,0,Card Value
+3,Wonderland Room of Beginnings (2nd entry),Card Soldiers (2nd),52D8B0,52D7A0,FF FF FF FF,-1,Boss Variant (-1 is any)
+4,Wonderland Room of Truth,Trickmaster,52D8B8,52D7A8,69 00 00 00,105,Enemy ID
+4,Wonderland Room of Truth,Trickmaster,52D8C0,52D7B0,65 00 00 00,Trickmaster (Enemy Card),Card Type
+4,Wonderland Room of Truth,Trickmaster,52D8C4,52D7B4,00 00 00 00,0,Card Value
+4,Wonderland Room of Truth,Trickmaster,52D8C8,52D7B8,FF FF FF FF,-1,Boss Variant (-1 is any)
+5,Olympus Coliseum Room of Guidance,Cloud,52D8D0,52D7C0,6A 00 00 00,106,Enemy ID
+5,Olympus Coliseum Room of Guidance,Cloud,52D8D8,52D7C8,2B 00 00 00,Hi-Potion,Card Type
+5,Olympus Coliseum Room of Guidance,Cloud,52D8DC,52D7CC,03 00 00 00,3,Card Value
+5,Olympus Coliseum Room of Guidance,Cloud,52D8E0,52D7D0,FF FF FF FF,-1,Boss Variant (-1 is any)
+6,Olympus Coliseum Room of Truth,Hades,52D8E8,52D7D8,6B 00 00 00,107,Enemy ID
+6,Olympus Coliseum Room of Truth,Hades,52D8F0,52D7E0,68 00 00 00,Hades (Enemy Card),Card Type
+6,Olympus Coliseum Room of Truth,Hades,52D8F4,52D7E4,00 00 00 00,0,Card Value
+6,Olympus Coliseum Room of Truth,Hades,52D8F8,52D7E8,FF FF FF FF,-1,Boss Variant (-1 is any)
+7,Agrabah Room of Truth,Jafar,52D900,52D7F0,6C 00 00 00,108,Enemy ID
+7,Agrabah Room of Truth,Jafar,52D908,52D7F8,69 00 00 00,Jafar (Enemy Card),Card Type
+7,Agrabah Room of Truth,Jafar,52D90C,52D7FC,00 00 00 00,0,Card Value
+7,Agrabah Room of Truth,Jafar,52D910,52D800,FF FF FF FF,-1,Boss Variant (-1 is any)
+8,Halloween Town Room of Truth,Oogie Boogie,52D918,52D808,6D 00 00 00,109,Enemy ID
+8,Halloween Town Room of Truth,Oogie Boogie,52D920,52D810,6A 00 00 00,Oogie Boogie (Enemy Card),Card Type
+8,Halloween Town Room of Truth,Oogie Boogie,52D924,52D814,00 00 00 00,0,Card Value
+8,Halloween Town Room of Truth,Oogie Boogie,52D928,52D818,FF FF FF FF,-1,Boss Variant (-1 is any)
+9,Monstro Room of Guidance,Parasite Cage,52D930,52D820,6E 00 00 00,110,Enemy ID
+9,Monstro Room of Guidance,Parasite Cage,52D938,52D828,64 00 00 00,Parasite Cage (Enemy Card),Card Type
+9,Monstro Room of Guidance,Parasite Cage,52D93C,52D82C,00 00 00 00,0,Card Value
+9,Monstro Room of Guidance,Parasite Cage,52D940,52D830,FF FF FF FF,-1,Boss Variant (-1 is any)
+10,Atlantica Room of Truth,Ursula,52D948,52D838,6F 00 00 00,111,Enemy ID
+10,Atlantica Room of Truth,Ursula,52D950,52D840,6B 00 00 00,Ursula (Enemy Card),Card Type
+10,Atlantica Room of Truth,Ursula,52D954,52D844,00 00 00 00,0,Card Value
+10,Atlantica Room of Truth,Ursula,52D958,52D848,FF FF FF FF,-1,Boss Variant (-1 is any)
+11,Neverland Room of Truth,Hook,52D960,52D850,70 00 00 00,112,Enemy ID
+11,Neverland Room of Truth,Hook,52D968,52D858,6C 00 00 00,Hook (Enemy Card),Card Type
+11,Neverland Room of Truth,Hook,52D96C,52D85C,00 00 00 00,0,Card Value
+11,Neverland Room of Truth,Hook,52D970,52D860,FF FF FF FF,-1,Boss Variant (-1 is any)
+12,Hollow Bastion Room of Truth,Dragon Maleficent,52D978,52D868,71 00 00 00,113,Enemy ID
+12,Hollow Bastion Room of Truth,Dragon Maleficent,52D980,52D870,6D 00 00 00,Dragon Maleficent (Enemy Card),Card Type
+12,Hollow Bastion Room of Truth,Dragon Maleficent,52D984,52D874,00 00 00 00,0,Card Value
+12,Hollow Bastion Room of Truth,Dragon Maleficent,52D988,52D878,FF FF FF FF,-1,Boss Variant (-1 is any)
+13,Twilight Town Room of Beginnings,Vexen,52D990,52D880,72 00 00 00,114,Enemy ID
+13,Twilight Town Room of Beginnings,Vexen,52D998,52D888,71 00 00 00,Vexen (Enemy Card),Card Type
+13,Twilight Town Room of Beginnings,Vexen,52D99C,52D88C,00 00 00 00,0,Card Value
+13,Twilight Town Room of Beginnings,Vexen,52D9A0,52D890,01 00 00 00,1,Boss Variant (-1 is any)
+14,Twilight Town Room of Beginnings,Vexen,52D9A8,52D898,72 00 00 00,114,Enemy ID
+14,Twilight Town Room of Beginnings,Vexen,52D9B0,52D8A0,71 00 00 00,Vexen (Enemy Card),Card Type
+14,Twilight Town Room of Beginnings,Vexen,52D9B4,52D8A4,00 00 00 00,0,Card Value
+14,Twilight Town Room of Beginnings,Vexen,52D9B8,52D8A8,02 00 00 00,2,Boss Variant (-1 is any)
+15,Destiny Islands Room of Guidance,Darkside,52D9C0,52D8B0,73 00 00 00,115,Enemy ID
+15,Destiny Islands Room of Guidance,Darkside,52D9C8,52D8B8,66 00 00 00,Darkside (Enemy Card),Card Type
+15,Destiny Islands Room of Guidance,Darkside,52D9CC,52D8BC,00 00 00 00,0,Card Value
+15,Destiny Islands Room of Guidance,Darkside,52D9D0,52D8C0,FF FF FF FF,-1,Boss Variant (-1 is any)
+16,07F Exit Hall,Riku I,52D9D8,52D8C8,74 00 00 00,116,Enemy ID
+16,07F Exit Hall,Riku I,52D9E0,52D8D0,20 00 00 00,Aero,Card Type
+16,07F Exit Hall,Riku I,52D9E4,52D8D4,06 00 00 00,6,Card Value
+16,07F Exit Hall,Riku I,52D9E8,52D8D8,00 00 00 00,0,Boss Variant (-1 is any)
+17,11F Exit Hall,Riku III,52D9F0,52D8E0,74 00 00 00,116,Enemy ID
+17,11F Exit Hall,Riku III,52D9F8,52D8E8,2C 00 00 00,Mega-Potion,Card Type
+17,11F Exit Hall,Riku III,52D9FC,52D8EC,02 00 00 00,2,Card Value
+17,11F Exit Hall,Riku III,52DA00,52D8F0,02 00 00 00,2,Boss Variant (-1 is any)
+18,12F Exit Hall,Riku IV,52DA08,52D8F8,74 00 00 00,116,Enemy ID
+18,12F Exit Hall,Riku IV,52DA10,52D900,6E 00 00 00,Riku (Enemy Card),Card Type
+18,12F Exit Hall,Riku IV,52DA14,52D904,00 00 00 00,0,Card Value
+18,12F Exit Hall,Riku IV,52DA18,52D908,03 00 00 00,3,Boss Variant (-1 is any)
+19,06F Exit Hall,Larxene I,52DA20,52D910,75 00 00 00,117,Enemy ID
+19,06F Exit Hall,Larxene I,52DA28,52D918,1C 00 00 00,Thunder,Card Type
+19,06F Exit Hall,Larxene I,52DA2C,52D91C,07 00 00 00,7,Card Value
+19,06F Exit Hall,Larxene I,52DA30,52D920,00 00 00 00,0,Boss Variant (-1 is any)
+20,12F Exit Hall,Larxene II,52DA38,52D928,75 00 00 00,117,Enemy ID
+20,12F Exit Hall,Larxene II,52DA40,52D930,70 00 00 00,Larxene (Enemy Card),Card Type
+20,12F Exit Hall,Larxene II,52DA44,52D934,00 00 00 00,0,Card Value
+20,12F Exit Hall,Larxene II,52DA48,52D938,01 00 00 00,1,Boss Variant (-1 is any)
+21,1F Exit Hall,Axel 1,52DA50,52D940,76 00 00 00,118,Enemy ID
+21,1F Exit Hall,Axel 1,52DA58,52D948,1A 00 00 00,Fire,Card Type
+21,1F Exit Hall,Axel 1,52DA5C,52D94C,05 00 00 00,5,Card Value
+21,1F Exit Hall,Axel 1,52DA60,52D950,00 00 00 00,0,Boss Variant (-1 is any)
+22,Castle Oblivion Room of Beginnings,Axel II,52DA68,52D958,76 00 00 00,118,Enemy ID
+22,Castle Oblivion Room of Beginnings,Axel II,52DA70,52D960,6F 00 00 00,Axel (Enemy Card),Card Type
+22,Castle Oblivion Room of Beginnings,Axel II,52DA74,52D964,00 00 00 00,0,Card Value
+22,Castle Oblivion Room of Beginnings,Axel II,52DA78,52D968,01 00 00 00,1,Boss Variant (-1 is any)
+23,Castle Oblivion,Marluxia,52DA80,52D970,77 00 00 00,119,Enemy ID
+23,Castle Oblivion,Marluxia,52DA88,52D978,72 00 00 00,Marluxia (Enemy Card),Card Type
+23,Castle Oblivion,Marluxia,52DA8C,52D97C,00 00 00 00,0,Card Value
+23,Castle Oblivion,Marluxia,52DA90,52D980,FF FF FF FF,-1,Boss Variant (-1 is any)
+24,?,Lexaeus,52DA98,52D988,79 00 00 00,121,Enemy ID
+24,?,Lexaeus,52DAA0,52D990,73 00 00 00,Lexaeus (Enemy Card),Card Type
+24,?,Lexaeus,52DAA4,52D994,00 00 00 00,0,Card Value
+24,?,Lexaeus,52DAA8,52D998,FF FF FF FF,-1,Boss Variant (-1 is any)
+25,?,Zexion,52DAB0,52D9A0,7C 00 00 00,124,Enemy ID
+25,?,Zexion,52DAB8,52D9A8,75 00 00 00,Zexion (Enemy Card),Card Type
+25,?,Zexion,52DABC,52D9AC,00 00 00 00,0,Card Value
+25,?,Zexion,52DAC0,52D9B0,FF FF FF FF,-1,Boss Variant (-1 is any)

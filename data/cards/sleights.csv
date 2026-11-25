@@ -1,0 +1,597 @@
+Sleight ID (HEX),Sleight,File,Sub-File,Offset,Sub-File Offset,Value (HEX),Value,Notes
+1,???,SYS/0002/SY0002.BIN,StockSkillList.bin,A70,10,00 00,0,Power 1
+1,???,SYS/0002/SY0002.BIN,StockSkillList.bin,A72,12,00 00,0,Power 2
+1,???,SYS/0002/SY0002.BIN,StockSkillList.bin,A74,14,00 00,0,Power 3
+1,???,SYS/0002/SY0002.BIN,StockSkillList.bin,A76,16,00 00,0,Power 4
+2,???,SYS/0002/SY0002.BIN,StockSkillList.bin,A80,20,00 00,0,Power 1
+2,???,SYS/0002/SY0002.BIN,StockSkillList.bin,A82,22,00 00,0,Power 2
+2,???,SYS/0002/SY0002.BIN,StockSkillList.bin,A84,24,00 00,0,Power 3
+2,???,SYS/0002/SY0002.BIN,StockSkillList.bin,A86,26,00 00,0,Power 4
+3,???,SYS/0002/SY0002.BIN,StockSkillList.bin,A90,30,00 00,0,Power 1
+3,???,SYS/0002/SY0002.BIN,StockSkillList.bin,A92,32,00 00,0,Power 2
+3,???,SYS/0002/SY0002.BIN,StockSkillList.bin,A94,34,00 00,0,Power 3
+3,???,SYS/0002/SY0002.BIN,StockSkillList.bin,A96,36,00 00,0,Power 4
+4,Sliding Dash,SYS/0002/SY0002.BIN,StockSkillList.bin,AA0,40,2C 01,300,Power 1
+4,Sliding Dash,SYS/0002/SY0002.BIN,StockSkillList.bin,AA2,42,00 00,0,Power 2
+4,Sliding Dash,SYS/0002/SY0002.BIN,StockSkillList.bin,AA4,44,00 00,0,Power 3
+4,Sliding Dash,SYS/0002/SY0002.BIN,StockSkillList.bin,AA6,46,00 00,0,Power 4
+5,Blitz,SYS/0002/SY0002.BIN,StockSkillList.bin,AB0,50,5E 01,350,Power 1
+5,Blitz,SYS/0002/SY0002.BIN,StockSkillList.bin,AB2,52,00 00,0,Power 2
+5,Blitz,SYS/0002/SY0002.BIN,StockSkillList.bin,AB4,54,58 02,600,Power 3
+5,Blitz,SYS/0002/SY0002.BIN,StockSkillList.bin,AB6,56,00 00,0,Power 4
+6,Stun Impact,SYS/0002/SY0002.BIN,StockSkillList.bin,AC0,60,64 00,100,Power 1
+6,Stun Impact,SYS/0002/SY0002.BIN,StockSkillList.bin,AC2,62,00 00,0,Power 2
+6,Stun Impact,SYS/0002/SY0002.BIN,StockSkillList.bin,AC4,64,00 00,0,Power 3
+6,Stun Impact,SYS/0002/SY0002.BIN,StockSkillList.bin,AC6,66,00 00,0,Power 4
+7,Zantetsuken,SYS/0002/SY0002.BIN,StockSkillList.bin,AD0,70,64 00,100,Power 1
+7,Zantetsuken,SYS/0002/SY0002.BIN,StockSkillList.bin,AD2,72,00 00,0,Power 2
+7,Zantetsuken,SYS/0002/SY0002.BIN,StockSkillList.bin,AD4,74,00 00,0,Power 3
+7,Zantetsuken,SYS/0002/SY0002.BIN,StockSkillList.bin,AD6,76,00 00,0,Power 4
+8,Strike Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,AE0,80,C8 00,200,Power 1
+8,Strike Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,AE2,82,00 00,0,Power 2
+8,Strike Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,AE4,84,00 00,0,Power 3
+8,Strike Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,AE6,86,00 00,0,Power 4
+9,Sonic Blade,SYS/0002/SY0002.BIN,StockSkillList.bin,AF0,90,C8 00,200,Power 1
+9,Sonic Blade,SYS/0002/SY0002.BIN,StockSkillList.bin,AF2,92,00 00,0,Power 2
+9,Sonic Blade,SYS/0002/SY0002.BIN,StockSkillList.bin,AF4,94,90 01,400,Power 3
+9,Sonic Blade,SYS/0002/SY0002.BIN,StockSkillList.bin,AF6,96,00 00,0,Power 4
+A,Ars Arcanum,SYS/0002/SY0002.BIN,StockSkillList.bin,B00,A0,FA 00,250,Power 1
+A,Ars Arcanum,SYS/0002/SY0002.BIN,StockSkillList.bin,B02,A2,2C 01,300,Power 2
+A,Ars Arcanum,SYS/0002/SY0002.BIN,StockSkillList.bin,B04,A4,F4 01,500,Power 3
+A,Ars Arcanum,SYS/0002/SY0002.BIN,StockSkillList.bin,B06,A6,00 00,0,Power 4
+B,Ragnarok,SYS/0002/SY0002.BIN,StockSkillList.bin,B10,B0,90 01,400,Power 1
+B,Ragnarok,SYS/0002/SY0002.BIN,StockSkillList.bin,B12,B2,00 00,0,Power 2
+B,Ragnarok,SYS/0002/SY0002.BIN,StockSkillList.bin,B14,B4,00 00,0,Power 3
+B,Ragnarok,SYS/0002/SY0002.BIN,StockSkillList.bin,B16,B6,00 00,0,Power 4
+C,Trinity Limit,SYS/0002/SY0002.BIN,StockSkillList.bin,B20,C0,C4 09,2500,Power 1
+C,Trinity Limit,SYS/0002/SY0002.BIN,StockSkillList.bin,B22,C2,00 00,0,Power 2
+C,Trinity Limit,SYS/0002/SY0002.BIN,StockSkillList.bin,B24,C4,00 00,0,Power 3
+C,Trinity Limit,SYS/0002/SY0002.BIN,StockSkillList.bin,B26,C6,00 00,0,Power 4
+D,Fira,SYS/0002/SY0002.BIN,StockSkillList.bin,B30,D0,E8 03,1000,Power 1
+D,Fira,SYS/0002/SY0002.BIN,StockSkillList.bin,B32,D2,00 00,0,Power 2
+D,Fira,SYS/0002/SY0002.BIN,StockSkillList.bin,B34,D4,00 00,0,Power 3
+D,Fira,SYS/0002/SY0002.BIN,StockSkillList.bin,B36,D6,00 00,0,Power 4
+E,Blizzara,SYS/0002/SY0002.BIN,StockSkillList.bin,B40,E0,BC 02,700,Power 1
+E,Blizzara,SYS/0002/SY0002.BIN,StockSkillList.bin,B42,E2,00 00,0,Power 2
+E,Blizzara,SYS/0002/SY0002.BIN,StockSkillList.bin,B44,E4,00 00,0,Power 3
+E,Blizzara,SYS/0002/SY0002.BIN,StockSkillList.bin,B46,E6,00 00,0,Power 4
+F,Thundara,SYS/0002/SY0002.BIN,StockSkillList.bin,B50,F0,58 02,600,Power 1
+F,Thundara,SYS/0002/SY0002.BIN,StockSkillList.bin,B52,F2,00 00,0,Power 2
+F,Thundara,SYS/0002/SY0002.BIN,StockSkillList.bin,B54,F4,00 00,0,Power 3
+F,Thundara,SYS/0002/SY0002.BIN,StockSkillList.bin,B56,F6,00 00,0,Power 4
+10,Cura,SYS/0002/SY0002.BIN,StockSkillList.bin,B60,100,DC 05,1500,Power 1
+10,Cura,SYS/0002/SY0002.BIN,StockSkillList.bin,B62,102,00 00,0,Power 2
+10,Cura,SYS/0002/SY0002.BIN,StockSkillList.bin,B64,104,00 00,0,Power 3
+10,Cura,SYS/0002/SY0002.BIN,StockSkillList.bin,B66,106,00 00,0,Power 4
+11,Gravira,SYS/0002/SY0002.BIN,StockSkillList.bin,B70,110,28 00,40,Power 1
+11,Gravira,SYS/0002/SY0002.BIN,StockSkillList.bin,B72,112,00 00,0,Power 2
+11,Gravira,SYS/0002/SY0002.BIN,StockSkillList.bin,B74,114,00 00,0,Power 3
+11,Gravira,SYS/0002/SY0002.BIN,StockSkillList.bin,B76,116,00 00,0,Power 4
+12,Stopra,SYS/0002/SY0002.BIN,StockSkillList.bin,B80,120,98 3A,15000,Power 1
+12,Stopra,SYS/0002/SY0002.BIN,StockSkillList.bin,B82,122,00 00,0,Power 2
+12,Stopra,SYS/0002/SY0002.BIN,StockSkillList.bin,B84,124,00 00,0,Power 3
+12,Stopra,SYS/0002/SY0002.BIN,StockSkillList.bin,B86,126,00 00,0,Power 4
+13,Aerora,SYS/0002/SY0002.BIN,StockSkillList.bin,B90,130,58 02,600,Power 1
+13,Aerora,SYS/0002/SY0002.BIN,StockSkillList.bin,B92,132,00 00,0,Power 2
+13,Aerora,SYS/0002/SY0002.BIN,StockSkillList.bin,B94,134,00 00,0,Power 3
+13,Aerora,SYS/0002/SY0002.BIN,StockSkillList.bin,B96,136,00 00,0,Power 4
+14,Firaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BA0,140,DC 05,1500,Power 1
+14,Firaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BA2,142,00 00,0,Power 2
+14,Firaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BA4,144,00 00,0,Power 3
+14,Firaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BA6,146,00 00,0,Power 4
+15,Blizzaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BB0,150,4C 04,1100,Power 1
+15,Blizzaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BB2,152,00 00,0,Power 2
+15,Blizzaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BB4,154,00 00,0,Power 3
+15,Blizzaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BB6,156,00 00,0,Power 4
+16,Thundaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BC0,160,84 03,900,Power 1
+16,Thundaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BC2,162,00 00,0,Power 2
+16,Thundaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BC4,164,00 00,0,Power 3
+16,Thundaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BC6,166,00 00,0,Power 4
+17,Curaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BD0,170,B8 0B,3000,Power 1
+17,Curaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BD2,172,00 00,0,Power 2
+17,Curaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BD4,174,00 00,0,Power 3
+17,Curaga,SYS/0002/SY0002.BIN,StockSkillList.bin,BD6,176,00 00,0,Power 4
+18,Graviga,SYS/0002/SY0002.BIN,StockSkillList.bin,BE0,180,46 00,70,Power 1
+18,Graviga,SYS/0002/SY0002.BIN,StockSkillList.bin,BE2,182,00 00,0,Power 2
+18,Graviga,SYS/0002/SY0002.BIN,StockSkillList.bin,BE4,184,00 00,0,Power 3
+18,Graviga,SYS/0002/SY0002.BIN,StockSkillList.bin,BE6,186,00 00,0,Power 4
+19,Stopga,SYS/0002/SY0002.BIN,StockSkillList.bin,BF0,190,08 52,21000,Power 1
+19,Stopga,SYS/0002/SY0002.BIN,StockSkillList.bin,BF2,192,00 00,0,Power 2
+19,Stopga,SYS/0002/SY0002.BIN,StockSkillList.bin,BF4,194,00 00,0,Power 3
+19,Stopga,SYS/0002/SY0002.BIN,StockSkillList.bin,BF6,196,00 00,0,Power 4
+1A,Aeroga,SYS/0002/SY0002.BIN,StockSkillList.bin,C00,1A0,84 03,900,Power 1
+1A,Aeroga,SYS/0002/SY0002.BIN,StockSkillList.bin,C02,1A2,00 00,0,Power 2
+1A,Aeroga,SYS/0002/SY0002.BIN,StockSkillList.bin,C04,1A4,00 00,0,Power 3
+1A,Aeroga,SYS/0002/SY0002.BIN,StockSkillList.bin,C06,1A6,00 00,0,Power 4
+1B,Fire Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C10,1B0,F4 01,500,Power 1
+1B,Fire Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C12,1B2,00 00,0,Power 2
+1B,Fire Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C14,1B4,00 00,0,Power 3
+1B,Fire Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C16,1B6,00 00,0,Power 4
+1C,Blizzard Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C20,1C0,F4 01,500,Power 1
+1C,Blizzard Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C22,1C2,00 00,0,Power 2
+1C,Blizzard Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C24,1C4,00 00,0,Power 3
+1C,Blizzard Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C26,1C6,00 00,0,Power 4
+1D,Thunder Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C30,1D0,E8 03,1000,Power 1
+1D,Thunder Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C32,1D2,00 00,0,Power 2
+1D,Thunder Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C34,1D4,00 00,0,Power 3
+1D,Thunder Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C36,1D6,00 00,0,Power 4
+1E,Reflect Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C40,1E0,BC 02,700,Power 1
+1E,Reflect Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C42,1E2,00 00,0,Power 2
+1E,Reflect Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C44,1E4,00 00,0,Power 3
+1E,Reflect Raid,SYS/0002/SY0002.BIN,StockSkillList.bin,C46,1E6,00 00,0,Power 4
+1F,Judgment,SYS/0002/SY0002.BIN,StockSkillList.bin,C50,1F0,FA 00,250,Power 1
+1F,Judgment,SYS/0002/SY0002.BIN,StockSkillList.bin,C52,1F2,00 00,0,Power 2
+1F,Judgment,SYS/0002/SY0002.BIN,StockSkillList.bin,C54,1F4,00 00,0,Power 3
+1F,Judgment,SYS/0002/SY0002.BIN,StockSkillList.bin,C56,1F6,00 00,0,Power 4
+20,Firaga Burst,SYS/0002/SY0002.BIN,StockSkillList.bin,C60,200,8A 02,650,Power 1
+20,Firaga Burst,SYS/0002/SY0002.BIN,StockSkillList.bin,C62,202,00 00,0,Power 2
+20,Firaga Burst,SYS/0002/SY0002.BIN,StockSkillList.bin,C64,204,00 00,0,Power 3
+20,Firaga Burst,SYS/0002/SY0002.BIN,StockSkillList.bin,C66,206,00 00,0,Power 4
+21,Raging Storm,SYS/0002/SY0002.BIN,StockSkillList.bin,C70,210,20 03,800,Power 1
+21,Raging Storm,SYS/0002/SY0002.BIN,StockSkillList.bin,C72,212,00 00,0,Power 2
+21,Raging Storm,SYS/0002/SY0002.BIN,StockSkillList.bin,C74,214,00 00,0,Power 3
+21,Raging Storm,SYS/0002/SY0002.BIN,StockSkillList.bin,C76,216,00 00,0,Power 4
+22,Mega Flare,SYS/0002/SY0002.BIN,StockSkillList.bin,C80,220,D0 07,2000,Power 1
+22,Mega Flare,SYS/0002/SY0002.BIN,StockSkillList.bin,C82,222,00 00,0,Power 2
+22,Mega Flare,SYS/0002/SY0002.BIN,StockSkillList.bin,C84,224,00 00,0,Power 3
+22,Mega Flare,SYS/0002/SY0002.BIN,StockSkillList.bin,C86,226,00 00,0,Power 4
+23,Freeze,SYS/0002/SY0002.BIN,StockSkillList.bin,C90,230,C2 01,450,Power 1
+23,Freeze,SYS/0002/SY0002.BIN,StockSkillList.bin,C92,232,E8 03,1000,Power 2
+23,Freeze,SYS/0002/SY0002.BIN,StockSkillList.bin,C94,234,00 00,0,Power 3
+23,Freeze,SYS/0002/SY0002.BIN,StockSkillList.bin,C96,236,00 00,0,Power 4
+24,Homing Blizzara,SYS/0002/SY0002.BIN,StockSkillList.bin,CA0,240,20 03,800,Power 1
+24,Homing Blizzara,SYS/0002/SY0002.BIN,StockSkillList.bin,CA2,242,00 00,0,Power 2
+24,Homing Blizzara,SYS/0002/SY0002.BIN,StockSkillList.bin,CA4,244,00 00,0,Power 3
+24,Homing Blizzara,SYS/0002/SY0002.BIN,StockSkillList.bin,CA6,246,00 00,0,Power 4
+25,Aqua Splash,SYS/0002/SY0002.BIN,StockSkillList.bin,CB0,250,F4 01,500,Power 1
+25,Aqua Splash,SYS/0002/SY0002.BIN,StockSkillList.bin,CB2,252,00 00,0,Power 2
+25,Aqua Splash,SYS/0002/SY0002.BIN,StockSkillList.bin,CB4,254,00 00,0,Power 3
+25,Aqua Splash,SYS/0002/SY0002.BIN,StockSkillList.bin,CB6,256,00 00,0,Power 4
+26,Magnet Spiral,SYS/0002/SY0002.BIN,StockSkillList.bin,CC0,260,52 03,850,Power 1
+26,Magnet Spiral,SYS/0002/SY0002.BIN,StockSkillList.bin,CC2,262,00 00,0,Power 2
+26,Magnet Spiral,SYS/0002/SY0002.BIN,StockSkillList.bin,CC4,264,00 00,0,Power 3
+26,Magnet Spiral,SYS/0002/SY0002.BIN,StockSkillList.bin,CC6,266,00 00,0,Power 4
+27,Lethal Frame,SYS/0002/SY0002.BIN,StockSkillList.bin,CD0,270,28 23,9000,Power 1
+27,Lethal Frame,SYS/0002/SY0002.BIN,StockSkillList.bin,CD2,272,5E 01,350,Power 2
+27,Lethal Frame,SYS/0002/SY0002.BIN,StockSkillList.bin,CD4,274,F4 01,500,Power 3
+27,Lethal Frame,SYS/0002/SY0002.BIN,StockSkillList.bin,CD6,276,00 00,0,Power 4
+28,Shock Impact,SYS/0002/SY0002.BIN,StockSkillList.bin,CE0,280,E0 2E,12000,Power 1
+28,Shock Impact,SYS/0002/SY0002.BIN,StockSkillList.bin,CE2,282,00 00,0,Power 2
+28,Shock Impact,SYS/0002/SY0002.BIN,StockSkillList.bin,CE4,284,00 00,0,Power 3
+28,Shock Impact,SYS/0002/SY0002.BIN,StockSkillList.bin,CE6,286,00 00,0,Power 4
+29,Tornado,SYS/0002/SY0002.BIN,StockSkillList.bin,CF0,290,B0 04,1200,Power 1
+29,Tornado,SYS/0002/SY0002.BIN,StockSkillList.bin,CF2,292,00 00,0,Power 2
+29,Tornado,SYS/0002/SY0002.BIN,StockSkillList.bin,CF4,294,00 00,0,Power 3
+29,Tornado,SYS/0002/SY0002.BIN,StockSkillList.bin,CF6,296,00 00,0,Power 4
+2A,Quake,SYS/0002/SY0002.BIN,StockSkillList.bin,D00,2A0,52 03,850,Power 1
+2A,Quake,SYS/0002/SY0002.BIN,StockSkillList.bin,D02,2A2,00 00,0,Power 2
+2A,Quake,SYS/0002/SY0002.BIN,StockSkillList.bin,D04,2A4,00 00,0,Power 3
+2A,Quake,SYS/0002/SY0002.BIN,StockSkillList.bin,D06,2A6,00 00,0,Power 4
+2B,Warpinator,SYS/0002/SY0002.BIN,StockSkillList.bin,D10,2B0,00 00,0,Power 1
+2B,Warpinator,SYS/0002/SY0002.BIN,StockSkillList.bin,D12,2B2,00 00,0,Power 2
+2B,Warpinator,SYS/0002/SY0002.BIN,StockSkillList.bin,D14,2B4,00 00,0,Power 3
+2B,Warpinator,SYS/0002/SY0002.BIN,StockSkillList.bin,D16,2B6,00 00,0,Power 4
+2C,Warp,SYS/0002/SY0002.BIN,StockSkillList.bin,D20,2C0,00 00,0,Power 1
+2C,Warp,SYS/0002/SY0002.BIN,StockSkillList.bin,D22,2C2,00 00,0,Power 2
+2C,Warp,SYS/0002/SY0002.BIN,StockSkillList.bin,D24,2C4,00 00,0,Power 3
+2C,Warp,SYS/0002/SY0002.BIN,StockSkillList.bin,D26,2C6,00 00,0,Power 4
+2D,Bind,SYS/0002/SY0002.BIN,StockSkillList.bin,D30,2D0,0A 00,10,Power 1
+2D,Bind,SYS/0002/SY0002.BIN,StockSkillList.bin,D32,2D2,00 00,0,Power 2
+2D,Bind,SYS/0002/SY0002.BIN,StockSkillList.bin,D34,2D4,00 00,0,Power 3
+2D,Bind,SYS/0002/SY0002.BIN,StockSkillList.bin,D36,2D6,00 00,0,Power 4
+2E,Confuse,SYS/0002/SY0002.BIN,StockSkillList.bin,D40,2E0,0A 00,10,Power 1
+2E,Confuse,SYS/0002/SY0002.BIN,StockSkillList.bin,D42,2E2,00 00,0,Power 2
+2E,Confuse,SYS/0002/SY0002.BIN,StockSkillList.bin,D44,2E4,00 00,0,Power 3
+2E,Confuse,SYS/0002/SY0002.BIN,StockSkillList.bin,D46,2E6,00 00,0,Power 4
+2F,Terror,SYS/0002/SY0002.BIN,StockSkillList.bin,D50,2F0,0A 00,10,Power 1
+2F,Terror,SYS/0002/SY0002.BIN,StockSkillList.bin,D52,2F2,00 00,0,Power 2
+2F,Terror,SYS/0002/SY0002.BIN,StockSkillList.bin,D54,2F4,00 00,0,Power 3
+2F,Terror,SYS/0002/SY0002.BIN,StockSkillList.bin,D56,2F6,00 00,0,Power 4
+30,Synchro,SYS/0002/SY0002.BIN,StockSkillList.bin,D60,300,00 00,0,Power 1
+30,Synchro,SYS/0002/SY0002.BIN,StockSkillList.bin,D62,302,00 00,0,Power 2
+30,Synchro,SYS/0002/SY0002.BIN,StockSkillList.bin,D64,304,00 00,0,Power 3
+30,Synchro,SYS/0002/SY0002.BIN,StockSkillList.bin,D66,306,00 00,0,Power 4
+31,Gifted Miracle,SYS/0002/SY0002.BIN,StockSkillList.bin,D70,310,F4 01,500,Power 1
+31,Gifted Miracle,SYS/0002/SY0002.BIN,StockSkillList.bin,D72,312,00 00,0,Power 2
+31,Gifted Miracle,SYS/0002/SY0002.BIN,StockSkillList.bin,D74,314,00 00,0,Power 3
+31,Gifted Miracle,SYS/0002/SY0002.BIN,StockSkillList.bin,D76,316,00 00,0,Power 4
+32,Teleport,SYS/0002/SY0002.BIN,StockSkillList.bin,D80,320,50 46,18000,Power 1
+32,Teleport,SYS/0002/SY0002.BIN,StockSkillList.bin,D82,322,00 00,0,Power 2
+32,Teleport,SYS/0002/SY0002.BIN,StockSkillList.bin,D84,324,00 00,0,Power 3
+32,Teleport,SYS/0002/SY0002.BIN,StockSkillList.bin,D86,326,00 00,0,Power 4
+33,Holy,SYS/0002/SY0002.BIN,StockSkillList.bin,D90,330,20 03,800,Power 1
+33,Holy,SYS/0002/SY0002.BIN,StockSkillList.bin,D92,332,20 03,800,Power 2
+33,Holy,SYS/0002/SY0002.BIN,StockSkillList.bin,D94,334,20 03,800,Power 3
+33,Holy,SYS/0002/SY0002.BIN,StockSkillList.bin,D96,336,20 03,800,Power 4
+34,Proud Roar LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,DA0,340,2C 01,300,Power 1
+34,Proud Roar LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,DA2,342,00 00,0,Power 2
+34,Proud Roar LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,DA4,344,00 00,0,Power 3
+34,Proud Roar LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,DA6,346,00 00,0,Power 4
+35,Proud Roar LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,DB0,350,F4 01,500,Power 1
+35,Proud Roar LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,DB2,352,00 00,0,Power 2
+35,Proud Roar LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,DB4,354,00 00,0,Power 3
+35,Proud Roar LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,DB6,356,00 00,0,Power 4
+36,Splash LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,DC0,360,96 00,150,Power 1
+36,Splash LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,DC2,362,00 00,0,Power 2
+36,Splash LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,DC4,364,00 00,0,Power 3
+36,Splash LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,DC6,366,30 75,30000,Power 4
+37,Splash LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,DD0,370,C8 00,200,Power 1
+37,Splash LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,DD2,372,00 00,0,Power 2
+37,Splash LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,DD4,374,00 00,0,Power 3
+37,Splash LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,DD6,376,30 75,30000,Power 4
+38,Paradise LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,DE0,380,0A 00,10,Power 1
+38,Paradise LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,DE2,382,00 00,0,Power 2
+38,Paradise LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,DE4,384,00 00,0,Power 3
+38,Paradise LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,DE6,386,00 00,0,Power 4
+39,Paradise LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,DF0,390,0A 00,10,Power 1
+39,Paradise LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,DF2,392,00 00,0,Power 2
+39,Paradise LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,DF4,394,00 00,0,Power 3
+39,Paradise LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,DF6,396,00 00,0,Power 4
+3A,Idyll Romp,SYS/0002/SY0002.BIN,StockSkillList.bin,E00,3A0,0A 00,10,Power 1
+3A,Idyll Romp,SYS/0002/SY0002.BIN,StockSkillList.bin,E02,3A2,00 00,0,Power 2
+3A,Idyll Romp,SYS/0002/SY0002.BIN,StockSkillList.bin,E04,3A4,00 00,0,Power 3
+3A,Idyll Romp,SYS/0002/SY0002.BIN,StockSkillList.bin,E06,3A6,00 00,0,Power 4
+3B,Flare Breath LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,E10,3B0,64 00,100,Power 1
+3B,Flare Breath LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,E12,3B2,00 00,0,Power 2
+3B,Flare Breath LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,E14,3B4,00 00,0,Power 3
+3B,Flare Breath LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,E16,3B6,17 00,23,Power 4
+3C,Flare Breath LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,E20,3C0,64 00,100,Power 1
+3C,Flare Breath LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,E22,3C2,00 00,0,Power 2
+3C,Flare Breath LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,E24,3C4,00 00,0,Power 3
+3C,Flare Breath LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,E26,3C6,23 00,35,Power 4
+3D,Showtime LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,E30,3D0,58 02,600,Power 1
+3D,Showtime LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,E32,3D2,28 00,40,Power 2
+3D,Showtime LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,E34,3D4,C0 5D,24000,Power 3
+3D,Showtime LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,E36,3D6,02 00,2,Power 4
+3E,Showtime LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,E40,3E0,58 02,600,Power 1
+3E,Showtime LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,E42,3E2,28 00,40,Power 2
+3E,Showtime LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,E44,3E4,C0 5D,24000,Power 3
+3E,Showtime LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,E46,3E6,03 00,3,Power 4
+3F,Twinkle LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,E50,3F0,0D 00,13,Power 1
+3F,Twinkle LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,E52,3F2,0A 00,10,Power 2
+3F,Twinkle LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,E54,3F4,3C 00,60,Power 3
+3F,Twinkle LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,E56,3F6,E0 2E,12000,Power 4
+40,Twinkle LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,E60,400,16 00,22,Power 1
+40,Twinkle LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,E62,402,0F 00,15,Power 2
+40,Twinkle LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,E64,404,64 00,100,Power 3
+40,Twinkle LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,E66,406,98 3A,15000,Power 4
+41,Cross-slash,SYS/0002/SY0002.BIN,StockSkillList.bin,E70,410,F4 01,500,Power 1
+41,Cross-slash,SYS/0002/SY0002.BIN,StockSkillList.bin,E72,412,F4 01,500,Power 2
+41,Cross-slash,SYS/0002/SY0002.BIN,StockSkillList.bin,E74,414,F4 01,500,Power 3
+41,Cross-slash,SYS/0002/SY0002.BIN,StockSkillList.bin,E76,416,00 00,0,Power 4
+42,Omnislash,SYS/0002/SY0002.BIN,StockSkillList.bin,E80,420,58 02,600,Power 1
+42,Omnislash,SYS/0002/SY0002.BIN,StockSkillList.bin,E82,422,58 02,600,Power 2
+42,Omnislash,SYS/0002/SY0002.BIN,StockSkillList.bin,E84,424,20 03,800,Power 3
+42,Omnislash,SYS/0002/SY0002.BIN,StockSkillList.bin,E86,426,00 00,0,Power 4
+43,Cross-slash+,SYS/0002/SY0002.BIN,StockSkillList.bin,E90,430,F4 01,500,Power 1
+43,Cross-slash+,SYS/0002/SY0002.BIN,StockSkillList.bin,E92,432,F4 01,500,Power 2
+43,Cross-slash+,SYS/0002/SY0002.BIN,StockSkillList.bin,E94,434,F4 01,500,Power 3
+43,Cross-slash+,SYS/0002/SY0002.BIN,StockSkillList.bin,E96,436,00 00,0,Power 4
+44,Magic LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,EA0,440,E8 03,1000,Power 1
+44,Magic LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,EA2,442,BC 02,700,Power 2
+44,Magic LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,EA4,444,58 02,600,Power 3
+44,Magic LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,EA6,446,DC 05,1500,Power 4
+45,Magic LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,EB0,450,DC 05,1500,Power 1
+45,Magic LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,EB2,452,4C 04,1100,Power 2
+45,Magic LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,EB4,454,84 03,900,Power 3
+45,Magic LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,EB6,456,B8 0B,3000,Power 4
+46,Stardust Blitz,SYS/0002/SY0002.BIN,StockSkillList.bin,EC0,460,E8 03,1000,Power 1
+46,Stardust Blitz,SYS/0002/SY0002.BIN,StockSkillList.bin,EC2,462,E8 03,1000,Power 2
+46,Stardust Blitz,SYS/0002/SY0002.BIN,StockSkillList.bin,EC4,464,E8 03,1000,Power 3
+46,Stardust Blitz,SYS/0002/SY0002.BIN,StockSkillList.bin,EC6,466,64 00,100,Power 4
+47,Goofy Tornado LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,ED0,470,C8 00,200,Power 1
+47,Goofy Tornado LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,ED2,472,00 00,0,Power 2
+47,Goofy Tornado LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,ED4,474,00 00,0,Power 3
+47,Goofy Tornado LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,ED6,476,80 3E,16000,Power 4
+48,Goofy Tornado LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,EE0,480,FA 00,250,Power 1
+48,Goofy Tornado LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,EE2,482,00 00,0,Power 2
+48,Goofy Tornado LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,EE4,484,00 00,0,Power 3
+48,Goofy Tornado LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,EE6,486,08 52,21000,Power 4
+49,Goofy Smash,SYS/0002/SY0002.BIN,StockSkillList.bin,EF0,490,64 00,100,Power 1
+49,Goofy Smash,SYS/0002/SY0002.BIN,StockSkillList.bin,EF2,492,F4 01,500,Power 2
+49,Goofy Smash,SYS/0002/SY0002.BIN,StockSkillList.bin,EF4,494,00 00,0,Power 3
+49,Goofy Smash,SYS/0002/SY0002.BIN,StockSkillList.bin,EF6,496,64 00,100,Power 4
+4A,Wild Crush,SYS/0002/SY0002.BIN,StockSkillList.bin,F00,4A0,90 01,400,Power 1
+4A,Wild Crush,SYS/0002/SY0002.BIN,StockSkillList.bin,F02,4A2,00 00,0,Power 2
+4A,Wild Crush,SYS/0002/SY0002.BIN,StockSkillList.bin,F04,4A4,00 00,0,Power 3
+4A,Wild Crush,SYS/0002/SY0002.BIN,StockSkillList.bin,F06,4A6,00 00,0,Power 4
+4B,Sandstorm LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F10,4B0,C8 00,200,Power 1
+4B,Sandstorm LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F12,4B2,00 00,0,Power 2
+4B,Sandstorm LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F14,4B4,00 00,0,Power 3
+4B,Sandstorm LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F16,4B6,00 00,0,Power 4
+4C,Sandstorm LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F20,4C0,C8 00,200,Power 1
+4C,Sandstorm LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F22,4C2,00 00,0,Power 2
+4C,Sandstorm LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F24,4C4,00 00,0,Power 3
+4C,Sandstorm LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F26,4C6,00 00,0,Power 4
+4D,Surprise! LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F30,4D0,B0 04,1200,Power 1
+4D,Surprise! LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F32,4D2,E8 03,1000,Power 2
+4D,Surprise! LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F34,4D4,20 03,800,Power 3
+4D,Surprise! LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F36,4D6,1E 00,30,Power 4
+4E,Surprise! LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F40,4E0,08 07,1800,Power 1
+4E,Surprise! LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F42,4E2,DC 05,1500,Power 2
+4E,Surprise! LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F44,4E4,B0 04,1200,Power 3
+4E,Surprise! LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F46,4E6,5A 00,90,Power 4
+4F,Spiral Wave LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F50,4F0,C2 01,450,Power 1
+4F,Spiral Wave LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F52,4F2,84 03,900,Power 2
+4F,Spiral Wave LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F54,4F4,00 00,0,Power 3
+4F,Spiral Wave LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F56,4F6,00 00,0,Power 4
+50,Spiral Wave LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F60,500,C2 01,450,Power 1
+50,Spiral Wave LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F62,502,84 03,900,Power 2
+50,Spiral Wave LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F64,504,00 00,0,Power 3
+50,Spiral Wave LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F66,506,00 00,0,Power 4
+51,Hummingbird LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F70,510,FA 00,250,Power 1
+51,Hummingbird LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F72,512,00 00,0,Power 2
+51,Hummingbird LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F74,514,00 00,0,Power 3
+51,Hummingbird LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F76,516,00 00,0,Power 4
+52,Hummingbird LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F80,520,2C 01,300,Power 1
+52,Hummingbird LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F82,522,00 00,0,Power 2
+52,Hummingbird LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F84,524,00 00,0,Power 3
+52,Hummingbird LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,F86,526,00 00,0,Power 4
+53,Furious Volley LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F90,530,5E 01,350,Power 1
+53,Furious Volley LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F92,532,FA 00,250,Power 2
+53,Furious Volley LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F94,534,E8 03,1000,Power 3
+53,Furious Volley LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,F96,536,FA 00,250,Power 4
+54,Furious Volley LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,FA0,540,90 01,400,Power 1
+54,Furious Volley LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,FA2,542,2C 01,300,Power 2
+54,Furious Volley LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,FA4,544,DC 05,1500,Power 3
+54,Furious Volley LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,FA6,546,FA 00,250,Power 4
+55,Lucky Bounty LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,FB0,550,00 00,0,Power 1
+55,Lucky Bounty LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,FB2,552,00 00,0,Power 2
+55,Lucky Bounty LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,FB4,554,00 00,0,Power 3
+55,Lucky Bounty LV2,SYS/0002/SY0002.BIN,StockSkillList.bin,FB6,556,00 00,0,Power 4
+56,Lucky Bounty LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,FC0,560,00 00,0,Power 1
+56,Lucky Bounty LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,FC2,562,00 00,0,Power 2
+56,Lucky Bounty LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,FC4,564,00 00,0,Power 3
+56,Lucky Bounty LV3,SYS/0002/SY0002.BIN,StockSkillList.bin,FC6,566,00 00,0,Power 4
+57,???,SYS/0002/SY0002.BIN,StockSkillList.bin,FD0,570,E8 03,1000,Power 1
+57,???,SYS/0002/SY0002.BIN,StockSkillList.bin,FD2,572,00 00,0,Power 2
+57,???,SYS/0002/SY0002.BIN,StockSkillList.bin,FD4,574,00 00,0,Power 3
+57,???,SYS/0002/SY0002.BIN,StockSkillList.bin,FD6,576,00 00,0,Power 4
+58,???,SYS/0002/SY0002.BIN,StockSkillList.bin,FE0,580,58 02,600,Power 1
+58,???,SYS/0002/SY0002.BIN,StockSkillList.bin,FE2,582,00 00,0,Power 2
+58,???,SYS/0002/SY0002.BIN,StockSkillList.bin,FE4,584,00 00,0,Power 3
+58,???,SYS/0002/SY0002.BIN,StockSkillList.bin,FE6,586,00 00,0,Power 4
+59,???,SYS/0002/SY0002.BIN,StockSkillList.bin,FF0,590,84 03,900,Power 1
+59,???,SYS/0002/SY0002.BIN,StockSkillList.bin,FF2,592,00 00,0,Power 2
+59,???,SYS/0002/SY0002.BIN,StockSkillList.bin,FF4,594,00 00,0,Power 3
+59,???,SYS/0002/SY0002.BIN,StockSkillList.bin,FF6,596,00 00,0,Power 4
+5A,High Jump,SYS/0002/SY0002.BIN,StockSkillList.bin,1000,5A0,00 00,0,Power 1
+5A,High Jump,SYS/0002/SY0002.BIN,StockSkillList.bin,1002,5A2,00 00,0,Power 2
+5A,High Jump,SYS/0002/SY0002.BIN,StockSkillList.bin,1004,5A4,00 00,0,Power 3
+5A,High Jump,SYS/0002/SY0002.BIN,StockSkillList.bin,1006,5A6,00 00,0,Power 4
+5B,Glide,SYS/0002/SY0002.BIN,StockSkillList.bin,1010,5B0,00 00,0,Power 1
+5B,Glide,SYS/0002/SY0002.BIN,StockSkillList.bin,1012,5B2,00 00,0,Power 2
+5B,Glide,SYS/0002/SY0002.BIN,StockSkillList.bin,1014,5B4,00 00,0,Power 3
+5B,Glide,SYS/0002/SY0002.BIN,StockSkillList.bin,1016,5B6,00 00,0,Power 4
+5C,Superglide,SYS/0002/SY0002.BIN,StockSkillList.bin,1020,5C0,00 00,0,Power 1
+5C,Superglide,SYS/0002/SY0002.BIN,StockSkillList.bin,1022,5C2,00 00,0,Power 2
+5C,Superglide,SYS/0002/SY0002.BIN,StockSkillList.bin,1024,5C4,00 00,0,Power 3
+5C,Superglide,SYS/0002/SY0002.BIN,StockSkillList.bin,1026,5C6,00 00,0,Power 4
+5D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1030,5D0,00 00,0,Power 1
+5D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1032,5D2,00 00,0,Power 2
+5D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1034,5D4,00 00,0,Power 3
+5D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1036,5D6,00 00,0,Power 4
+5E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1040,5E0,00 00,0,Power 1
+5E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1042,5E2,00 00,0,Power 2
+5E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1044,5E4,00 00,0,Power 3
+5E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1046,5E6,00 00,0,Power 4
+5F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1050,5F0,C8 00,200,Power 1
+5F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1052,5F2,00 00,0,Power 2
+5F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1054,5F4,90 01,400,Power 3
+5F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1056,5F6,00 00,0,Power 4
+60,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1060,600,20 03,800,Power 1
+60,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1062,602,00 00,0,Power 2
+60,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1064,604,00 00,0,Power 3
+60,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1066,606,00 00,0,Power 4
+61,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1070,610,2C 01,300,Power 1
+61,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1072,612,2C 01,300,Power 2
+61,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1074,614,F4 01,500,Power 3
+61,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1076,616,00 00,0,Power 4
+62,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1080,620,64 00,100,Power 1
+62,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1082,622,00 00,0,Power 2
+62,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1084,624,00 00,0,Power 3
+62,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1086,626,32 00,50,Power 4
+63,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1090,630,64 00,100,Power 1
+63,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1092,632,00 00,0,Power 2
+63,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1094,634,00 00,0,Power 3
+63,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1096,636,64 00,100,Power 4
+64,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10A0,640,FA 00,250,Power 1
+64,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10A2,642,00 00,0,Power 2
+64,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10A4,644,00 00,0,Power 3
+64,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10A6,646,00 00,0,Power 4
+65,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10B0,650,2C 01,300,Power 1
+65,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10B2,652,00 00,0,Power 2
+65,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10B4,654,00 00,0,Power 3
+65,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10B6,656,00 00,0,Power 4
+66,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10C0,660,0A 00,10,Power 1
+66,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10C2,662,C8 00,200,Power 2
+66,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10C4,664,F4 01,500,Power 3
+66,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10C6,666,90 01,400,Power 4
+67,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10D0,670,0A 00,10,Power 1
+67,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10D2,672,C8 00,200,Power 2
+67,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10D4,674,84 03,900,Power 3
+67,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10D6,676,00 00,0,Power 4
+68,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10E0,680,0A 00,10,Power 1
+68,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10E2,682,C8 00,200,Power 2
+68,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10E4,684,58 02,600,Power 3
+68,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10E6,686,20 03,800,Power 4
+69,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10F0,690,0A 00,10,Power 1
+69,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10F2,692,FA 00,250,Power 2
+69,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10F4,694,58 02,600,Power 3
+69,???,SYS/0002/SY0002.BIN,StockSkillList.bin,10F6,696,F4 01,500,Power 4
+6A,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1100,6A0,0A 00,10,Power 1
+6A,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1102,6A2,FA 00,250,Power 2
+6A,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1104,6A4,4C 04,1100,Power 3
+6A,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1106,6A6,00 00,0,Power 4
+6B,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1110,6B0,0A 00,10,Power 1
+6B,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1112,6B2,FA 00,250,Power 2
+6B,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1114,6B4,58 02,600,Power 3
+6B,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1116,6B6,2C 01,300,Power 4
+6C,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1120,6C0,00 00,0,Power 1
+6C,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1122,6C2,00 00,0,Power 2
+6C,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1124,6C4,00 00,0,Power 3
+6C,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1126,6C6,00 00,0,Power 4
+6D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1130,6D0,00 00,0,Power 1
+6D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1132,6D2,00 00,0,Power 2
+6D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1134,6D4,00 00,0,Power 3
+6D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1136,6D6,00 00,0,Power 4
+6E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1140,6E0,00 00,0,Power 1
+6E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1142,6E2,00 00,0,Power 2
+6E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1144,6E4,00 00,0,Power 3
+6E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1146,6E6,00 00,0,Power 4
+6F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1150,6F0,00 00,0,Power 1
+6F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1152,6F2,00 00,0,Power 2
+6F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1154,6F4,00 00,0,Power 3
+6F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1156,6F6,00 00,0,Power 4
+70,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1160,700,00 00,0,Power 1
+70,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1162,702,00 00,0,Power 2
+70,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1164,704,00 00,0,Power 3
+70,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1166,706,00 00,0,Power 4
+71,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1170,710,00 00,0,Power 1
+71,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1172,712,00 00,0,Power 2
+71,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1174,714,00 00,0,Power 3
+71,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1176,716,00 00,0,Power 4
+72,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1180,720,00 00,0,Power 1
+72,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1182,722,00 00,0,Power 2
+72,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1184,724,00 00,0,Power 3
+72,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1186,726,00 00,0,Power 4
+73,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1190,730,00 00,0,Power 1
+73,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1192,732,00 00,0,Power 2
+73,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1194,734,00 00,0,Power 3
+73,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1196,736,00 00,0,Power 4
+74,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11A0,740,00 00,0,Power 1
+74,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11A2,742,00 00,0,Power 2
+74,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11A4,744,00 00,0,Power 3
+74,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11A6,746,00 00,0,Power 4
+75,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11B0,750,00 00,0,Power 1
+75,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11B2,752,00 00,0,Power 2
+75,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11B4,754,00 00,0,Power 3
+75,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11B6,756,00 00,0,Power 4
+76,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11C0,760,00 00,0,Power 1
+76,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11C2,762,00 00,0,Power 2
+76,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11C4,764,00 00,0,Power 3
+76,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11C6,766,00 00,0,Power 4
+77,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11D0,770,00 00,0,Power 1
+77,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11D2,772,00 00,0,Power 2
+77,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11D4,774,00 00,0,Power 3
+77,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11D6,776,00 00,0,Power 4
+78,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11E0,780,00 00,0,Power 1
+78,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11E2,782,00 00,0,Power 2
+78,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11E4,784,00 00,0,Power 3
+78,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11E6,786,00 00,0,Power 4
+79,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11F0,790,00 00,0,Power 1
+79,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11F2,792,00 00,0,Power 2
+79,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11F4,794,00 00,0,Power 3
+79,???,SYS/0002/SY0002.BIN,StockSkillList.bin,11F6,796,00 00,0,Power 4
+7A,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1200,7A0,00 00,0,Power 1
+7A,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1202,7A2,00 00,0,Power 2
+7A,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1204,7A4,00 00,0,Power 3
+7A,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1206,7A6,00 00,0,Power 4
+7B,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1210,7B0,00 00,0,Power 1
+7B,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1212,7B2,00 00,0,Power 2
+7B,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1214,7B4,00 00,0,Power 3
+7B,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1216,7B6,00 00,0,Power 4
+7C,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1220,7C0,00 00,0,Power 1
+7C,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1222,7C2,00 00,0,Power 2
+7C,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1224,7C4,00 00,0,Power 3
+7C,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1226,7C6,00 00,0,Power 4
+7D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1230,7D0,00 00,0,Power 1
+7D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1232,7D2,00 00,0,Power 2
+7D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1234,7D4,00 00,0,Power 3
+7D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1236,7D6,00 00,0,Power 4
+7E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1240,7E0,00 00,0,Power 1
+7E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1242,7E2,00 00,0,Power 2
+7E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1244,7E4,00 00,0,Power 3
+7E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1246,7E6,00 00,0,Power 4
+7F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1250,7F0,00 00,0,Power 1
+7F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1252,7F2,00 00,0,Power 2
+7F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1254,7F4,00 00,0,Power 3
+7F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1256,7F6,00 00,0,Power 4
+80,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1260,800,00 00,0,Power 1
+80,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1262,802,00 00,0,Power 2
+80,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1264,804,00 00,0,Power 3
+80,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1266,806,00 00,0,Power 4
+81,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1270,810,00 00,0,Power 1
+81,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1272,812,00 00,0,Power 2
+81,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1274,814,00 00,0,Power 3
+81,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1276,816,00 00,0,Power 4
+82,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1280,820,00 00,0,Power 1
+82,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1282,822,00 00,0,Power 2
+82,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1284,824,00 00,0,Power 3
+82,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1286,826,00 00,0,Power 4
+83,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1290,830,00 00,0,Power 1
+83,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1292,832,00 00,0,Power 2
+83,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1294,834,00 00,0,Power 3
+83,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1296,836,00 00,0,Power 4
+84,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12A0,840,00 00,0,Power 1
+84,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12A2,842,00 00,0,Power 2
+84,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12A4,844,00 00,0,Power 3
+84,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12A6,846,00 00,0,Power 4
+85,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12B0,850,00 00,0,Power 1
+85,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12B2,852,00 00,0,Power 2
+85,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12B4,854,00 00,0,Power 3
+85,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12B6,856,00 00,0,Power 4
+86,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12C0,860,00 00,0,Power 1
+86,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12C2,862,00 00,0,Power 2
+86,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12C4,864,00 00,0,Power 3
+86,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12C6,866,00 00,0,Power 4
+87,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12D0,870,00 00,0,Power 1
+87,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12D2,872,00 00,0,Power 2
+87,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12D4,874,00 00,0,Power 3
+87,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12D6,876,00 00,0,Power 4
+88,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12E0,880,00 00,0,Power 1
+88,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12E2,882,00 00,0,Power 2
+88,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12E4,884,00 00,0,Power 3
+88,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12E6,886,00 00,0,Power 4
+89,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12F0,890,00 00,0,Power 1
+89,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12F2,892,00 00,0,Power 2
+89,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12F4,894,00 00,0,Power 3
+89,???,SYS/0002/SY0002.BIN,StockSkillList.bin,12F6,896,00 00,0,Power 4
+8A,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1300,8A0,00 00,0,Power 1
+8A,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1302,8A2,00 00,0,Power 2
+8A,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1304,8A4,00 00,0,Power 3
+8A,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1306,8A6,00 00,0,Power 4
+8B,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1310,8B0,00 00,0,Power 1
+8B,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1312,8B2,00 00,0,Power 2
+8B,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1314,8B4,00 00,0,Power 3
+8B,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1316,8B6,00 00,0,Power 4
+8C,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1320,8C0,00 00,0,Power 1
+8C,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1322,8C2,00 00,0,Power 2
+8C,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1324,8C4,00 00,0,Power 3
+8C,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1326,8C6,00 00,0,Power 4
+8D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1330,8D0,00 00,0,Power 1
+8D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1332,8D2,00 00,0,Power 2
+8D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1334,8D4,00 00,0,Power 3
+8D,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1336,8D6,00 00,0,Power 4
+8E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1340,8E0,00 00,0,Power 1
+8E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1342,8E2,00 00,0,Power 2
+8E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1344,8E4,00 00,0,Power 3
+8E,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1346,8E6,00 00,0,Power 4
+8F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1350,8F0,00 00,0,Power 1
+8F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1352,8F2,00 00,0,Power 2
+8F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1354,8F4,00 00,0,Power 3
+8F,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1356,8F6,00 00,0,Power 4
+90,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1360,900,00 00,0,Power 1
+90,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1362,902,00 00,0,Power 2
+90,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1364,904,00 00,0,Power 3
+90,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1366,906,00 00,0,Power 4
+91,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1370,910,00 00,0,Power 1
+91,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1372,912,00 00,0,Power 2
+91,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1374,914,00 00,0,Power 3
+91,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1376,916,00 00,0,Power 4
+92,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1380,920,00 00,0,Power 1
+92,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1382,922,00 00,0,Power 2
+92,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1384,924,00 00,0,Power 3
+92,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1386,926,00 00,0,Power 4
+93,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1390,930,00 00,0,Power 1
+93,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1392,932,00 00,0,Power 2
+93,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1394,934,00 00,0,Power 3
+93,???,SYS/0002/SY0002.BIN,StockSkillList.bin,1396,936,00 00,0,Power 4
+94,???,SYS/0002/SY0002.BIN,StockSkillList.bin,13A0,940,00 00,0,Power 1
+94,???,SYS/0002/SY0002.BIN,StockSkillList.bin,13A2,942,00 00,0,Power 2
+94,???,SYS/0002/SY0002.BIN,StockSkillList.bin,13A4,944,00 00,0,Power 3
+94,???,SYS/0002/SY0002.BIN,StockSkillList.bin,13A6,946,00 00,0,Power 4
+95,???,SYS/0002/SY0002.BIN,StockSkillList.bin,13B0,950,00 00,0,Power 1
+95,???,SYS/0002/SY0002.BIN,StockSkillList.bin,13B2,952,00 00,0,Power 2
+95,???,SYS/0002/SY0002.BIN,StockSkillList.bin,13B4,954,00 00,0,Power 3
+95,???,SYS/0002/SY0002.BIN,StockSkillList.bin,13B6,956,00 00,0,Power 4

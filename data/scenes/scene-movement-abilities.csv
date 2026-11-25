@@ -1,0 +1,8 @@
+Story,World,Room,File,Room Value,Offset,Value (HEX),Ability,Change
+Riku,Castle Oblivion Halls,-,WORLD00/1100/WO001100.ABC,1100,1138,10 00 00 00,Riku's Ability (Bit 4),Added
+Riku,Castle Oblivion Halls,-,WORLD00/1100/WO001100.ABC,1100,1270,20 00 00 00,Riku's Ability (Bit 5),Added
+Riku,Castle Oblivion Halls,-,WORLD00/2102/WO002102.ABC,2102,7C0,08 00 00 00,Riku's Ability (Bit 3),Added
+Sora,Monstro,Room of Beginnings,WORLD05/2001/WO052001.ABC,2001,2208,01 00 00 00,High Jump,Added
+Sora,Monstro,Room of Beginnings,WORLD05/2001/WO052001.ABC,2001,2600,01 00 00 00,High Jump,Added
+Sora,Neverland,Entrance,WORLD08/2000/WO082000.ABC,2000,1880,02 00 00 00,Glide,Added
+Sora,Neverland,Entrance,WORLD08/2000/WO082000.ABC,2000,1CF8,02 00 00 00,Glide,Added

@@ -1,0 +1,5 @@
+Story,World,Room,File,Room Value,Offset,Value (HEX),Value,Notes
+Sora,Agrabah,Room of Guidance,WORLD02/2003/WO022003.ABC,2003,1D68,2D 00 00 00,Ether,Card
+Sora,Agrabah,Room of Guidance,WORLD02/2003/WO022003.ABC,2003,1D90,03 00 00 00,3,Card Value
+Sora,Agrabah,Room of Guidance,WORLD02/2003/WO022003.ABC,2003,2068,2D 00 00 00,Ether,Card
+Sora,Agrabah,Room of Guidance,WORLD02/2003/WO022003.ABC,2003,2090,03 00 00 00,3,Card Value

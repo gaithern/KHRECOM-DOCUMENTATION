@@ -1,0 +1,224 @@
+Category,Slot,Card,File,Sub-File,Offset,Sub-File Offset,Value (HEX),Value,Notes
+Attack,-,-,FORM/0109/FO0109.BIN,MogCardPack.BIN,108,28,16 00,22,Number of Cards - 1
+Attack,1,Kingdom Key,FORM/0109/FO0109.BIN,MogCardPack.BIN,10A,2A,01 00,Kingdom Key,Card
+Attack,1,Kingdom Key,FORM/0109/FO0109.BIN,MogCardPack.BIN,138,58,14 00,20,Weight (Tier 0)
+Attack,1,Kingdom Key,FORM/0109/FO0109.BIN,MogCardPack.BIN,166,86,00 00,0,Weight (Tier 1)
+Attack,1,Kingdom Key,FORM/0109/FO0109.BIN,MogCardPack.BIN,194,B4,00 00,0,Weight (Tier 2)
+Attack,1,Kingdom Key,FORM/0109/FO0109.BIN,MogCardPack.BIN,1C2,E2,00 00,0,Weight (Tier 3)
+Attack,2,Three Wishes,FORM/0109/FO0109.BIN,MogCardPack.BIN,10C,2C,02 00,Three Wishes,Card
+Attack,2,Three Wishes,FORM/0109/FO0109.BIN,MogCardPack.BIN,13A,5A,10 00,16,Weight (Tier 0)
+Attack,2,Three Wishes,FORM/0109/FO0109.BIN,MogCardPack.BIN,168,88,08 00,8,Weight (Tier 1)
+Attack,2,Three Wishes,FORM/0109/FO0109.BIN,MogCardPack.BIN,196,B6,00 00,0,Weight (Tier 2)
+Attack,2,Three Wishes,FORM/0109/FO0109.BIN,MogCardPack.BIN,1C4,E4,00 00,0,Weight (Tier 3)
+Attack,3,Pumpkinhead,FORM/0109/FO0109.BIN,MogCardPack.BIN,10E,2E,04 00,Pumpkinhead,Card
+Attack,3,Pumpkinhead,FORM/0109/FO0109.BIN,MogCardPack.BIN,13C,5C,10 00,16,Weight (Tier 0)
+Attack,3,Pumpkinhead,FORM/0109/FO0109.BIN,MogCardPack.BIN,16A,8A,08 00,8,Weight (Tier 1)
+Attack,3,Pumpkinhead,FORM/0109/FO0109.BIN,MogCardPack.BIN,198,B8,00 00,0,Weight (Tier 2)
+Attack,3,Pumpkinhead,FORM/0109/FO0109.BIN,MogCardPack.BIN,1C6,E6,00 00,0,Weight (Tier 3)
+Attack,4,Wishing Star,FORM/0109/FO0109.BIN,MogCardPack.BIN,110,30,06 00,Wishing Star,Card
+Attack,4,Wishing Star,FORM/0109/FO0109.BIN,MogCardPack.BIN,13E,5E,10 00,16,Weight (Tier 0)
+Attack,4,Wishing Star,FORM/0109/FO0109.BIN,MogCardPack.BIN,16C,8C,08 00,8,Weight (Tier 1)
+Attack,4,Wishing Star,FORM/0109/FO0109.BIN,MogCardPack.BIN,19A,BA,00 00,0,Weight (Tier 2)
+Attack,4,Wishing Star,FORM/0109/FO0109.BIN,MogCardPack.BIN,1C8,E8,00 00,0,Weight (Tier 3)
+Attack,5,Lady Luck,FORM/0109/FO0109.BIN,MogCardPack.BIN,112,32,0B 00,Lady Luck,Card
+Attack,5,Lady Luck,FORM/0109/FO0109.BIN,MogCardPack.BIN,140,60,10 00,16,Weight (Tier 0)
+Attack,5,Lady Luck,FORM/0109/FO0109.BIN,MogCardPack.BIN,16E,8E,08 00,8,Weight (Tier 1)
+Attack,5,Lady Luck,FORM/0109/FO0109.BIN,MogCardPack.BIN,19C,BC,00 00,0,Weight (Tier 2)
+Attack,5,Lady Luck,FORM/0109/FO0109.BIN,MogCardPack.BIN,1CA,EA,00 00,0,Weight (Tier 3)
+Attack,6,Olympia,FORM/0109/FO0109.BIN,MogCardPack.BIN,114,34,09 00,Olympia,Card
+Attack,6,Olympia,FORM/0109/FO0109.BIN,MogCardPack.BIN,142,62,10 00,16,Weight (Tier 0)
+Attack,6,Olympia,FORM/0109/FO0109.BIN,MogCardPack.BIN,170,90,08 00,8,Weight (Tier 1)
+Attack,6,Olympia,FORM/0109/FO0109.BIN,MogCardPack.BIN,19E,BE,00 00,0,Weight (Tier 2)
+Attack,6,Olympia,FORM/0109/FO0109.BIN,MogCardPack.BIN,1CC,EC,00 00,0,Weight (Tier 3)
+Attack,7,Metal Chocobo,FORM/0109/FO0109.BIN,MogCardPack.BIN,116,36,08 00,Metal Chocobo,Card
+Attack,7,Metal Chocobo,FORM/0109/FO0109.BIN,MogCardPack.BIN,144,64,00 00,0,Weight (Tier 0)
+Attack,7,Metal Chocobo,FORM/0109/FO0109.BIN,MogCardPack.BIN,172,92,0A 00,10,Weight (Tier 1)
+Attack,7,Metal Chocobo,FORM/0109/FO0109.BIN,MogCardPack.BIN,1A0,C0,09 00,9,Weight (Tier 2)
+Attack,7,Metal Chocobo,FORM/0109/FO0109.BIN,MogCardPack.BIN,1CE,EE,03 00,3,Weight (Tier 3)
+Attack,8,Crabclaw,FORM/0109/FO0109.BIN,MogCardPack.BIN,118,38,03 00,Crabclaw,Card
+Attack,8,Crabclaw,FORM/0109/FO0109.BIN,MogCardPack.BIN,146,66,00 00,0,Weight (Tier 0)
+Attack,8,Crabclaw,FORM/0109/FO0109.BIN,MogCardPack.BIN,174,94,0A 00,10,Weight (Tier 1)
+Attack,8,Crabclaw,FORM/0109/FO0109.BIN,MogCardPack.BIN,1A2,C2,09 00,9,Weight (Tier 2)
+Attack,8,Crabclaw,FORM/0109/FO0109.BIN,MogCardPack.BIN,1D0,F0,03 00,3,Weight (Tier 3)
+Attack,9,Fairy Harp,FORM/0109/FO0109.BIN,MogCardPack.BIN,11A,3A,05 00,Fairy Harp,Card
+Attack,9,Fairy Harp,FORM/0109/FO0109.BIN,MogCardPack.BIN,148,68,00 00,0,Weight (Tier 0)
+Attack,9,Fairy Harp,FORM/0109/FO0109.BIN,MogCardPack.BIN,176,96,0A 00,10,Weight (Tier 1)
+Attack,9,Fairy Harp,FORM/0109/FO0109.BIN,MogCardPack.BIN,1A4,C4,09 00,9,Weight (Tier 2)
+Attack,9,Fairy Harp,FORM/0109/FO0109.BIN,MogCardPack.BIN,1D2,F2,03 00,3,Weight (Tier 3)
+Attack,10,Lionheart,FORM/0109/FO0109.BIN,MogCardPack.BIN,11C,3C,0A 00,Lionheart,Card
+Attack,10,Lionheart,FORM/0109/FO0109.BIN,MogCardPack.BIN,14A,6A,00 00,0,Weight (Tier 0)
+Attack,10,Lionheart,FORM/0109/FO0109.BIN,MogCardPack.BIN,178,98,0A 00,10,Weight (Tier 1)
+Attack,10,Lionheart,FORM/0109/FO0109.BIN,MogCardPack.BIN,1A6,C6,09 00,9,Weight (Tier 2)
+Attack,10,Lionheart,FORM/0109/FO0109.BIN,MogCardPack.BIN,1D4,F4,03 00,3,Weight (Tier 3)
+Attack,11,Spellbinder,FORM/0109/FO0109.BIN,MogCardPack.BIN,11E,3E,07 00,Spellbinder,Card
+Attack,11,Spellbinder,FORM/0109/FO0109.BIN,MogCardPack.BIN,14C,6C,00 00,0,Weight (Tier 0)
+Attack,11,Spellbinder,FORM/0109/FO0109.BIN,MogCardPack.BIN,17A,9A,0A 00,10,Weight (Tier 1)
+Attack,11,Spellbinder,FORM/0109/FO0109.BIN,MogCardPack.BIN,1A8,C8,09 00,9,Weight (Tier 2)
+Attack,11,Spellbinder,FORM/0109/FO0109.BIN,MogCardPack.BIN,1D6,F6,03 00,3,Weight (Tier 3)
+Attack,12,Divine Rose,FORM/0109/FO0109.BIN,MogCardPack.BIN,120,40,0C 00,Divine Rose,Card
+Attack,12,Divine Rose,FORM/0109/FO0109.BIN,MogCardPack.BIN,14E,6E,00 00,0,Weight (Tier 0)
+Attack,12,Divine Rose,FORM/0109/FO0109.BIN,MogCardPack.BIN,17C,9C,0A 00,10,Weight (Tier 1)
+Attack,12,Divine Rose,FORM/0109/FO0109.BIN,MogCardPack.BIN,1AA,CA,09 00,9,Weight (Tier 2)
+Attack,12,Divine Rose,FORM/0109/FO0109.BIN,MogCardPack.BIN,1D8,F8,03 00,3,Weight (Tier 3)
+Attack,13,Oathkeeper,FORM/0109/FO0109.BIN,MogCardPack.BIN,122,42,0D 00,Oathkeeper,Card
+Attack,13,Oathkeeper,FORM/0109/FO0109.BIN,MogCardPack.BIN,150,70,00 00,0,Weight (Tier 0)
+Attack,13,Oathkeeper,FORM/0109/FO0109.BIN,MogCardPack.BIN,17E,9E,00 00,0,Weight (Tier 1)
+Attack,13,Oathkeeper,FORM/0109/FO0109.BIN,MogCardPack.BIN,1AC,CC,09 00,9,Weight (Tier 2)
+Attack,13,Oathkeeper,FORM/0109/FO0109.BIN,MogCardPack.BIN,1DA,FA,0B 00,11,Weight (Tier 3)
+Attack,14,Oblivion,FORM/0109/FO0109.BIN,MogCardPack.BIN,124,44,0E 00,Oblivion,Card
+Attack,14,Oblivion,FORM/0109/FO0109.BIN,MogCardPack.BIN,152,72,00 00,0,Weight (Tier 0)
+Attack,14,Oblivion,FORM/0109/FO0109.BIN,MogCardPack.BIN,180,A0,00 00,0,Weight (Tier 1)
+Attack,14,Oblivion,FORM/0109/FO0109.BIN,MogCardPack.BIN,1AE,CE,09 00,9,Weight (Tier 2)
+Attack,14,Oblivion,FORM/0109/FO0109.BIN,MogCardPack.BIN,1DC,FC,0B 00,11,Weight (Tier 3)
+Attack,15,Diamond Dust,FORM/0109/FO0109.BIN,MogCardPack.BIN,126,46,10 00,Diamond Dust,Card
+Attack,15,Diamond Dust,FORM/0109/FO0109.BIN,MogCardPack.BIN,154,74,00 00,0,Weight (Tier 0)
+Attack,15,Diamond Dust,FORM/0109/FO0109.BIN,MogCardPack.BIN,182,A2,00 00,0,Weight (Tier 1)
+Attack,15,Diamond Dust,FORM/0109/FO0109.BIN,MogCardPack.BIN,1B0,D0,09 00,9,Weight (Tier 2)
+Attack,15,Diamond Dust,FORM/0109/FO0109.BIN,MogCardPack.BIN,1DE,FE,0B 00,11,Weight (Tier 3)
+Attack,16,One Winged Angel,FORM/0109/FO0109.BIN,MogCardPack.BIN,128,48,11 00,One Winged Angel,Card
+Attack,16,One Winged Angel,FORM/0109/FO0109.BIN,MogCardPack.BIN,156,76,00 00,0,Weight (Tier 0)
+Attack,16,One Winged Angel,FORM/0109/FO0109.BIN,MogCardPack.BIN,184,A4,00 00,0,Weight (Tier 1)
+Attack,16,One Winged Angel,FORM/0109/FO0109.BIN,MogCardPack.BIN,1B2,D2,09 00,9,Weight (Tier 2)
+Attack,16,One Winged Angel,FORM/0109/FO0109.BIN,MogCardPack.BIN,1E0,100,0B 00,11,Weight (Tier 3)
+Attack,17,Ultima Weapon,FORM/0109/FO0109.BIN,MogCardPack.BIN,12A,4A,0F 00,Ultima Weapon,Card
+Attack,17,Ultima Weapon,FORM/0109/FO0109.BIN,MogCardPack.BIN,158,78,00 00,0,Weight (Tier 0)
+Attack,17,Ultima Weapon,FORM/0109/FO0109.BIN,MogCardPack.BIN,186,A6,00 00,0,Weight (Tier 1)
+Attack,17,Ultima Weapon,FORM/0109/FO0109.BIN,MogCardPack.BIN,1B4,D4,00 00,0,Weight (Tier 2)
+Attack,17,Ultima Weapon,FORM/0109/FO0109.BIN,MogCardPack.BIN,1E2,102,04 00,4,Weight (Tier 3)
+Attack,18,Star Seeker,FORM/0109/FO0109.BIN,MogCardPack.BIN,12C,4C,13 00,Star Seeker,Card
+Attack,18,Star Seeker,FORM/0109/FO0109.BIN,MogCardPack.BIN,15A,7A,00 00,0,Weight (Tier 0)
+Attack,18,Star Seeker,FORM/0109/FO0109.BIN,MogCardPack.BIN,188,A8,00 00,0,Weight (Tier 1)
+Attack,18,Star Seeker,FORM/0109/FO0109.BIN,MogCardPack.BIN,1B6,D6,02 00,2,Weight (Tier 2)
+Attack,18,Star Seeker,FORM/0109/FO0109.BIN,MogCardPack.BIN,1E4,104,06 00,6,Weight (Tier 3)
+Attack,19,Total Eclipse,FORM/0109/FO0109.BIN,MogCardPack.BIN,12E,4E,14 00,Total Eclipse,Card
+Attack,19,Total Eclipse,FORM/0109/FO0109.BIN,MogCardPack.BIN,15C,7C,00 00,0,Weight (Tier 0)
+Attack,19,Total Eclipse,FORM/0109/FO0109.BIN,MogCardPack.BIN,18A,AA,00 00,0,Weight (Tier 1)
+Attack,19,Total Eclipse,FORM/0109/FO0109.BIN,MogCardPack.BIN,1B8,D8,02 00,2,Weight (Tier 2)
+Attack,19,Total Eclipse,FORM/0109/FO0109.BIN,MogCardPack.BIN,1E6,106,06 00,6,Weight (Tier 3)
+Attack,20,Midnight Roar,FORM/0109/FO0109.BIN,MogCardPack.BIN,130,50,15 00,Midnight Roar,Card
+Attack,20,Midnight Roar,FORM/0109/FO0109.BIN,MogCardPack.BIN,15E,7E,00 00,0,Weight (Tier 0)
+Attack,20,Midnight Roar,FORM/0109/FO0109.BIN,MogCardPack.BIN,18C,AC,00 00,0,Weight (Tier 1)
+Attack,20,Midnight Roar,FORM/0109/FO0109.BIN,MogCardPack.BIN,1BA,DA,02 00,2,Weight (Tier 2)
+Attack,20,Midnight Roar,FORM/0109/FO0109.BIN,MogCardPack.BIN,1E8,108,06 00,6,Weight (Tier 3)
+Attack,21,Maverick Flare,FORM/0109/FO0109.BIN,MogCardPack.BIN,132,52,16 00,Maverick Flare,Card
+Attack,21,Maverick Flare,FORM/0109/FO0109.BIN,MogCardPack.BIN,160,80,00 00,0,Weight (Tier 0)
+Attack,21,Maverick Flare,FORM/0109/FO0109.BIN,MogCardPack.BIN,18E,AE,00 00,0,Weight (Tier 1)
+Attack,21,Maverick Flare,FORM/0109/FO0109.BIN,MogCardPack.BIN,1BC,DC,02 00,2,Weight (Tier 2)
+Attack,21,Maverick Flare,FORM/0109/FO0109.BIN,MogCardPack.BIN,1EA,10A,06 00,6,Weight (Tier 3)
+Attack,22,Two Become One,FORM/0109/FO0109.BIN,MogCardPack.BIN,134,54,17 00,Two Become One,Card
+Attack,22,Two Become One,FORM/0109/FO0109.BIN,MogCardPack.BIN,162,82,00 00,0,Weight (Tier 0)
+Attack,22,Two Become One,FORM/0109/FO0109.BIN,MogCardPack.BIN,190,B0,00 00,0,Weight (Tier 1)
+Attack,22,Two Become One,FORM/0109/FO0109.BIN,MogCardPack.BIN,1BE,DE,02 00,2,Weight (Tier 2)
+Attack,22,Two Become One,FORM/0109/FO0109.BIN,MogCardPack.BIN,1EC,10C,06 00,6,Weight (Tier 3)
+Attack,23,Bond of Flame,FORM/0109/FO0109.BIN,MogCardPack.BIN,136,56,18 00,Bond of Flame,Card
+Attack,23,Bond of Flame,FORM/0109/FO0109.BIN,MogCardPack.BIN,164,84,00 00,0,Weight (Tier 0)
+Attack,23,Bond of Flame,FORM/0109/FO0109.BIN,MogCardPack.BIN,192,B2,00 00,0,Weight (Tier 1)
+Attack,23,Bond of Flame,FORM/0109/FO0109.BIN,MogCardPack.BIN,1C0,E0,00 00,0,Weight (Tier 2)
+Attack,23,Bond of Flame,FORM/0109/FO0109.BIN,MogCardPack.BIN,1EE,10E,04 00,4,Weight (Tier 3)
+Magic,-,-,FORM/0109/FO0109.BIN,MogCardPack.BIN,1F0,110,0D 00,13,Number of Cards - 1
+Magic,1,Fire,FORM/0109/FO0109.BIN,MogCardPack.BIN,1F2,112,1A 00,Fire,Card
+Magic,1,Fire,FORM/0109/FO0109.BIN,MogCardPack.BIN,20E,12E,14 00,20,Weight (Tier 0)
+Magic,1,Fire,FORM/0109/FO0109.BIN,MogCardPack.BIN,22A,14A,07 00,7,Weight (Tier 1)
+Magic,1,Fire,FORM/0109/FO0109.BIN,MogCardPack.BIN,246,166,05 00,5,Weight (Tier 2)
+Magic,1,Fire,FORM/0109/FO0109.BIN,MogCardPack.BIN,262,182,02 00,2,Weight (Tier 3)
+Magic,2,Blizzard,FORM/0109/FO0109.BIN,MogCardPack.BIN,1F4,114,1B 00,Blizzard,Card
+Magic,2,Blizzard,FORM/0109/FO0109.BIN,MogCardPack.BIN,210,130,14 00,20,Weight (Tier 0)
+Magic,2,Blizzard,FORM/0109/FO0109.BIN,MogCardPack.BIN,22C,14C,07 00,7,Weight (Tier 1)
+Magic,2,Blizzard,FORM/0109/FO0109.BIN,MogCardPack.BIN,248,168,05 00,5,Weight (Tier 2)
+Magic,2,Blizzard,FORM/0109/FO0109.BIN,MogCardPack.BIN,264,184,02 00,2,Weight (Tier 3)
+Magic,3,Thunder,FORM/0109/FO0109.BIN,MogCardPack.BIN,1F6,116,1C 00,Thunder,Card
+Magic,3,Thunder,FORM/0109/FO0109.BIN,MogCardPack.BIN,212,132,14 00,20,Weight (Tier 0)
+Magic,3,Thunder,FORM/0109/FO0109.BIN,MogCardPack.BIN,22E,14E,07 00,7,Weight (Tier 1)
+Magic,3,Thunder,FORM/0109/FO0109.BIN,MogCardPack.BIN,24A,16A,05 00,5,Weight (Tier 2)
+Magic,3,Thunder,FORM/0109/FO0109.BIN,MogCardPack.BIN,266,186,02 00,2,Weight (Tier 3)
+Magic,4,Gravity,FORM/0109/FO0109.BIN,MogCardPack.BIN,1F8,118,1E 00,Gravity,Card
+Magic,4,Gravity,FORM/0109/FO0109.BIN,MogCardPack.BIN,214,134,00 00,0,Weight (Tier 0)
+Magic,4,Gravity,FORM/0109/FO0109.BIN,MogCardPack.BIN,230,150,06 00,6,Weight (Tier 1)
+Magic,4,Gravity,FORM/0109/FO0109.BIN,MogCardPack.BIN,24C,16C,0A 00,10,Weight (Tier 2)
+Magic,4,Gravity,FORM/0109/FO0109.BIN,MogCardPack.BIN,268,188,0A 00,10,Weight (Tier 3)
+Magic,5,Stop,FORM/0109/FO0109.BIN,MogCardPack.BIN,1FA,11A,1F 00,Stop,Card
+Magic,5,Stop,FORM/0109/FO0109.BIN,MogCardPack.BIN,216,136,00 00,0,Weight (Tier 0)
+Magic,5,Stop,FORM/0109/FO0109.BIN,MogCardPack.BIN,232,152,06 00,6,Weight (Tier 1)
+Magic,5,Stop,FORM/0109/FO0109.BIN,MogCardPack.BIN,24E,16E,0A 00,10,Weight (Tier 2)
+Magic,5,Stop,FORM/0109/FO0109.BIN,MogCardPack.BIN,26A,18A,0A 00,10,Weight (Tier 3)
+Magic,6,Aero,FORM/0109/FO0109.BIN,MogCardPack.BIN,1FC,11C,20 00,Aero,Card
+Magic,6,Aero,FORM/0109/FO0109.BIN,MogCardPack.BIN,218,138,00 00,0,Weight (Tier 0)
+Magic,6,Aero,FORM/0109/FO0109.BIN,MogCardPack.BIN,234,154,06 00,6,Weight (Tier 1)
+Magic,6,Aero,FORM/0109/FO0109.BIN,MogCardPack.BIN,250,170,0A 00,10,Weight (Tier 2)
+Magic,6,Aero,FORM/0109/FO0109.BIN,MogCardPack.BIN,26C,18C,0A 00,10,Weight (Tier 3)
+Magic,7,Cure,FORM/0109/FO0109.BIN,MogCardPack.BIN,1FE,11E,1D 00,Cure,Card
+Magic,7,Cure,FORM/0109/FO0109.BIN,MogCardPack.BIN,21A,13A,0A 00,10,Weight (Tier 0)
+Magic,7,Cure,FORM/0109/FO0109.BIN,MogCardPack.BIN,236,156,0A 00,10,Weight (Tier 1)
+Magic,7,Cure,FORM/0109/FO0109.BIN,MogCardPack.BIN,252,172,06 00,6,Weight (Tier 2)
+Magic,7,Cure,FORM/0109/FO0109.BIN,MogCardPack.BIN,26E,18E,00 00,0,Weight (Tier 3)
+Magic,8,Simba,FORM/0109/FO0109.BIN,MogCardPack.BIN,200,120,23 00,Simba,Card
+Magic,8,Simba,FORM/0109/FO0109.BIN,MogCardPack.BIN,21C,13C,0A 00,10,Weight (Tier 0)
+Magic,8,Simba,FORM/0109/FO0109.BIN,MogCardPack.BIN,238,158,0F 00,15,Weight (Tier 1)
+Magic,8,Simba,FORM/0109/FO0109.BIN,MogCardPack.BIN,254,174,03 00,3,Weight (Tier 2)
+Magic,8,Simba,FORM/0109/FO0109.BIN,MogCardPack.BIN,270,190,00 00,0,Weight (Tier 3)
+Magic,9,Genie,FORM/0109/FO0109.BIN,MogCardPack.BIN,202,122,24 00,Genie,Card
+Magic,9,Genie,FORM/0109/FO0109.BIN,MogCardPack.BIN,21E,13E,0A 00,10,Weight (Tier 0)
+Magic,9,Genie,FORM/0109/FO0109.BIN,MogCardPack.BIN,23A,15A,0F 00,15,Weight (Tier 1)
+Magic,9,Genie,FORM/0109/FO0109.BIN,MogCardPack.BIN,256,176,03 00,3,Weight (Tier 2)
+Magic,9,Genie,FORM/0109/FO0109.BIN,MogCardPack.BIN,272,192,00 00,0,Weight (Tier 3)
+Magic,10,Bambi,FORM/0109/FO0109.BIN,MogCardPack.BIN,204,124,25 00,Bambi,Card
+Magic,10,Bambi,FORM/0109/FO0109.BIN,MogCardPack.BIN,220,140,00 00,0,Weight (Tier 0)
+Magic,10,Bambi,FORM/0109/FO0109.BIN,MogCardPack.BIN,23C,15C,00 00,0,Weight (Tier 1)
+Magic,10,Bambi,FORM/0109/FO0109.BIN,MogCardPack.BIN,258,178,0A 00,10,Weight (Tier 2)
+Magic,10,Bambi,FORM/0109/FO0109.BIN,MogCardPack.BIN,274,194,10 00,16,Weight (Tier 3)
+Magic,11,Dumbo,FORM/0109/FO0109.BIN,MogCardPack.BIN,206,126,26 00,Dumbo,Card
+Magic,11,Dumbo,FORM/0109/FO0109.BIN,MogCardPack.BIN,222,142,0A 00,10,Weight (Tier 0)
+Magic,11,Dumbo,FORM/0109/FO0109.BIN,MogCardPack.BIN,23E,15E,0F 00,15,Weight (Tier 1)
+Magic,11,Dumbo,FORM/0109/FO0109.BIN,MogCardPack.BIN,25A,17A,03 00,3,Weight (Tier 2)
+Magic,11,Dumbo,FORM/0109/FO0109.BIN,MogCardPack.BIN,276,196,00 00,0,Weight (Tier 3)
+Magic,12,Tinker Bell,FORM/0109/FO0109.BIN,MogCardPack.BIN,208,128,27 00,Tinker Bell,Card
+Magic,12,Tinker Bell,FORM/0109/FO0109.BIN,MogCardPack.BIN,224,144,00 00,0,Weight (Tier 0)
+Magic,12,Tinker Bell,FORM/0109/FO0109.BIN,MogCardPack.BIN,240,160,00 00,0,Weight (Tier 1)
+Magic,12,Tinker Bell,FORM/0109/FO0109.BIN,MogCardPack.BIN,25C,17C,0A 00,10,Weight (Tier 2)
+Magic,12,Tinker Bell,FORM/0109/FO0109.BIN,MogCardPack.BIN,278,198,10 00,16,Weight (Tier 3)
+Magic,13,Mushu,FORM/0109/FO0109.BIN,MogCardPack.BIN,20A,12A,28 00,Mushu,Card
+Magic,13,Mushu,FORM/0109/FO0109.BIN,MogCardPack.BIN,226,146,00 00,0,Weight (Tier 0)
+Magic,13,Mushu,FORM/0109/FO0109.BIN,MogCardPack.BIN,242,162,00 00,0,Weight (Tier 1)
+Magic,13,Mushu,FORM/0109/FO0109.BIN,MogCardPack.BIN,25E,17E,0A 00,10,Weight (Tier 2)
+Magic,13,Mushu,FORM/0109/FO0109.BIN,MogCardPack.BIN,27A,19A,10 00,16,Weight (Tier 3)
+Magic,14,Cloud,FORM/0109/FO0109.BIN,MogCardPack.BIN,20C,12C,29 00,Cloud,Card
+Magic,14,Cloud,FORM/0109/FO0109.BIN,MogCardPack.BIN,228,148,00 00,0,Weight (Tier 0)
+Magic,14,Cloud,FORM/0109/FO0109.BIN,MogCardPack.BIN,244,164,06 00,6,Weight (Tier 1)
+Magic,14,Cloud,FORM/0109/FO0109.BIN,MogCardPack.BIN,260,180,0A 00,10,Weight (Tier 2)
+Magic,14,Cloud,FORM/0109/FO0109.BIN,MogCardPack.BIN,27C,19C,10 00,16,Weight (Tier 3)
+Item,-,-,FORM/0109/FO0109.BIN,MogCardPack.BIN,27E,19E,06 00,6,Number of Cards - 1
+Item,1,Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,280,1A0,2A 00,Potion,Card
+Item,1,Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,28E,1AE,32 00,50,Weight (Tier 0)
+Item,1,Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,29C,1BC,1E 00,30,Weight (Tier 1)
+Item,1,Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,2AA,1CA,0A 00,10,Weight (Tier 2)
+Item,1,Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,2B8,1D8,00 00,0,Weight (Tier 3)
+Item,2,Ether,FORM/0109/FO0109.BIN,MogCardPack.BIN,282,1A2,2D 00,Ether,Card
+Item,2,Ether,FORM/0109/FO0109.BIN,MogCardPack.BIN,290,1B0,32 00,50,Weight (Tier 0)
+Item,2,Ether,FORM/0109/FO0109.BIN,MogCardPack.BIN,29E,1BE,1E 00,30,Weight (Tier 1)
+Item,2,Ether,FORM/0109/FO0109.BIN,MogCardPack.BIN,2AC,1CC,0A 00,10,Weight (Tier 2)
+Item,2,Ether,FORM/0109/FO0109.BIN,MogCardPack.BIN,2BA,1DA,00 00,0,Weight (Tier 3)
+Item,3,Hi-Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,284,1A4,2B 00,Hi-Potion,Card
+Item,3,Hi-Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,292,1B2,00 00,0,Weight (Tier 0)
+Item,3,Hi-Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,2A0,1C0,14 00,20,Weight (Tier 1)
+Item,3,Hi-Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,2AE,1CE,19 00,25,Weight (Tier 2)
+Item,3,Hi-Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,2BC,1DC,14 00,20,Weight (Tier 3)
+Item,4,Mega-Ether,FORM/0109/FO0109.BIN,MogCardPack.BIN,286,1A6,2E 00,Mega-Ether,Card
+Item,4,Mega-Ether,FORM/0109/FO0109.BIN,MogCardPack.BIN,294,1B4,00 00,0,Weight (Tier 0)
+Item,4,Mega-Ether,FORM/0109/FO0109.BIN,MogCardPack.BIN,2A2,1C2,14 00,20,Weight (Tier 1)
+Item,4,Mega-Ether,FORM/0109/FO0109.BIN,MogCardPack.BIN,2B0,1D0,19 00,25,Weight (Tier 2)
+Item,4,Mega-Ether,FORM/0109/FO0109.BIN,MogCardPack.BIN,2BE,1DE,19 00,25,Weight (Tier 3)
+Item,5,Mega-Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,288,1A8,2C 00,Mega-Potion,Card
+Item,5,Mega-Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,296,1B6,00 00,0,Weight (Tier 0)
+Item,5,Mega-Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,2A4,1C4,00 00,0,Weight (Tier 1)
+Item,5,Mega-Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,2B2,1D2,0F 00,15,Weight (Tier 2)
+Item,5,Mega-Potion,FORM/0109/FO0109.BIN,MogCardPack.BIN,2C0,1E0,19 00,25,Weight (Tier 3)
+Item,6,Elixir,FORM/0109/FO0109.BIN,MogCardPack.BIN,28A,1AA,2F 00,Elixir,Card
+Item,6,Elixir,FORM/0109/FO0109.BIN,MogCardPack.BIN,298,1B8,00 00,0,Weight (Tier 0)
+Item,6,Elixir,FORM/0109/FO0109.BIN,MogCardPack.BIN,2A6,1C6,00 00,0,Weight (Tier 1)
+Item,6,Elixir,FORM/0109/FO0109.BIN,MogCardPack.BIN,2B4,1D4,0F 00,15,Weight (Tier 2)
+Item,6,Elixir,FORM/0109/FO0109.BIN,MogCardPack.BIN,2C2,1E2,14 00,20,Weight (Tier 3)
+Item,7,Megalixir,FORM/0109/FO0109.BIN,MogCardPack.BIN,28C,1AC,30 00,Megalixir,Card
+Item,7,Megalixir,FORM/0109/FO0109.BIN,MogCardPack.BIN,29A,1BA,00 00,0,Weight (Tier 0)
+Item,7,Megalixir,FORM/0109/FO0109.BIN,MogCardPack.BIN,2A8,1C8,00 00,0,Weight (Tier 1)
+Item,7,Megalixir,FORM/0109/FO0109.BIN,MogCardPack.BIN,2B6,1D6,00 00,0,Weight (Tier 2)
+Item,7,Megalixir,FORM/0109/FO0109.BIN,MogCardPack.BIN,2C4,1E4,0A 00,10,Weight (Tier 3)

@@ -1,0 +1,2353 @@
+Floor,Room,Door,File,Sub-File,Offset,Sub-File Offset,Value (HEX),Value,Notes
+Floor 1,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1AC,6C,02 00,2,Destination Room
+Floor 1,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1AE,6E,00,Normal,Door Type
+Floor 1,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1AF,6F,00,0,Check Event Room
+Floor 1,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1B0,70,00 00,0,Destination Room
+Floor 1,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1B2,72,00,Normal,Door Type
+Floor 1,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1B3,73,00,0,Check Event Room
+Floor 1,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1B4,74,00 00,0,Destination Room
+Floor 1,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1B6,76,00,Normal,Door Type
+Floor 1,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1B7,77,00,0,Check Event Room
+Floor 1,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1B8,78,00 00,0,Destination Room
+Floor 1,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1BA,7A,00,Normal,Door Type
+Floor 1,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1BB,7B,00,0,Check Event Room
+Floor 1,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1C8,88,03 00,3,Destination Room
+Floor 1,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1CA,8A,00,Normal,Door Type
+Floor 1,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1CB,8B,00,0,Check Event Room
+Floor 1,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1CC,8C,00 00,0,Destination Room
+Floor 1,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1CE,8E,00,Normal,Door Type
+Floor 1,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1CF,8F,00,0,Check Event Room
+Floor 1,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1D0,90,00 00,0,Destination Room
+Floor 1,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1D2,92,07,One-Way,Door Type
+Floor 1,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1D3,93,00,0,Check Event Room
+Floor 1,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1D4,94,00 00,0,Destination Room
+Floor 1,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1D6,96,00,Normal,Door Type
+Floor 1,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1D7,97,00,0,Check Event Room
+Floor 1,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1E4,A4,04 00,4,Destination Room
+Floor 1,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1E6,A6,00,Normal,Door Type
+Floor 1,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1E7,A7,00,0,Check Event Room
+Floor 1,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1E8,A8,00 00,0,Destination Room
+Floor 1,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1EA,AA,00,Normal,Door Type
+Floor 1,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1EB,AB,00,0,Check Event Room
+Floor 1,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1EC,AC,02 00,2,Destination Room
+Floor 1,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1EE,AE,00,Normal,Door Type
+Floor 1,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1EF,AF,00,0,Check Event Room
+Floor 1,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1F0,B0,00 00,0,Destination Room
+Floor 1,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1F2,B2,00,Normal,Door Type
+Floor 1,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1F3,B3,00,0,Check Event Room
+Floor 1,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,200,C0,05 00,5,Destination Room
+Floor 1,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,202,C2,00,Normal,Door Type
+Floor 1,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,203,C3,00,0,Check Event Room
+Floor 1,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,204,C4,00 00,0,Destination Room
+Floor 1,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,206,C6,00,Normal,Door Type
+Floor 1,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,207,C7,00,0,Check Event Room
+Floor 1,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,208,C8,03 00,3,Destination Room
+Floor 1,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,20A,CA,00,Normal,Door Type
+Floor 1,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,20B,CB,00,0,Check Event Room
+Floor 1,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,20C,CC,0A 00,10,Destination Room
+Floor 1,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,20E,CE,01,To Event 1,Door Type
+Floor 1,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,20F,CF,00,0,Check Event Room
+Floor 1,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,21C,DC,06 00,6,Destination Room
+Floor 1,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,21E,DE,00,Normal,Door Type
+Floor 1,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,21F,DF,00,0,Check Event Room
+Floor 1,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,220,E0,00 00,0,Destination Room
+Floor 1,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,222,E2,00,Normal,Door Type
+Floor 1,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,223,E3,00,0,Check Event Room
+Floor 1,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,224,E4,04 00,4,Destination Room
+Floor 1,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,226,E6,00,Normal,Door Type
+Floor 1,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,227,E7,00,0,Check Event Room
+Floor 1,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,228,E8,0B 00,11,Destination Room
+Floor 1,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,22A,EA,02,To Event 2,Door Type
+Floor 1,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,22B,EB,00,0,Check Event Room
+Floor 1,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,238,F8,00 00,0,Destination Room
+Floor 1,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,23A,FA,00,Normal,Door Type
+Floor 1,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,23B,FB,00,0,Check Event Room
+Floor 1,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,23C,FC,07 00,7,Destination Room
+Floor 1,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,23E,FE,05,To Goal,Door Type
+Floor 1,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,23F,FF,00,0,Check Event Room
+Floor 1,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,240,100,05 00,5,Destination Room
+Floor 1,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,242,102,00,Normal,Door Type
+Floor 1,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,243,103,00,0,Check Event Room
+Floor 1,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,244,104,0C 00,12,Destination Room
+Floor 1,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,246,106,03,To Event 3,Door Type
+Floor 1,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,247,107,00,0,Check Event Room
+Floor 1,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,254,114,00 00,0,Destination Room
+Floor 1,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,256,116,00,Normal,Door Type
+Floor 1,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,257,117,00,0,Check Event Room
+Floor 1,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,258,118,00 00,0,Destination Room
+Floor 1,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,25A,11A,00,Normal,Door Type
+Floor 1,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,25B,11B,00,0,Check Event Room
+Floor 1,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,25C,11C,08 00,8,Destination Room
+Floor 1,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,25E,11E,00,Normal,Door Type
+Floor 1,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,25F,11F,00,0,Check Event Room
+Floor 1,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,260,120,06 00,6,Destination Room
+Floor 1,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,262,122,00,Normal,Door Type
+Floor 1,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,263,123,00,0,Check Event Room
+Floor 1,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,270,130,07 00,7,Destination Room
+Floor 1,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,272,132,00,Normal,Door Type
+Floor 1,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,273,133,00,0,Check Event Room
+Floor 1,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,274,134,00 00,0,Destination Room
+Floor 1,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,276,136,00,Normal,Door Type
+Floor 1,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,277,137,00,0,Check Event Room
+Floor 1,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,278,138,09 00,9,Destination Room
+Floor 1,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,27A,13A,06,To Extra,Door Type
+Floor 1,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,27B,13B,00,0,Check Event Room
+Floor 1,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,27C,13C,00 00,0,Destination Room
+Floor 1,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,27E,13E,00,Normal,Door Type
+Floor 1,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,27F,13F,00,0,Check Event Room
+Floor 1,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,28C,14C,08 00,8,Destination Room
+Floor 1,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,28E,14E,00,Normal,Door Type
+Floor 1,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,28F,14F,00,0,Check Event Room
+Floor 1,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,290,150,00 00,0,Destination Room
+Floor 1,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,292,152,00,Normal,Door Type
+Floor 1,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,293,153,00,0,Check Event Room
+Floor 1,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,294,154,00 00,0,Destination Room
+Floor 1,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,296,156,00,Normal,Door Type
+Floor 1,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,297,157,00,0,Check Event Room
+Floor 1,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,298,158,00 00,0,Destination Room
+Floor 1,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,29A,15A,00,Normal,Door Type
+Floor 1,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,29B,15B,00,0,Check Event Room
+Floor 1,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2A8,168,00 00,0,Destination Room
+Floor 1,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2AA,16A,00,Normal,Door Type
+Floor 1,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2AB,16B,00,0,Check Event Room
+Floor 1,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2AC,16C,00 00,0,Destination Room
+Floor 1,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2AE,16E,07,One-Way,Door Type
+Floor 1,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2AF,16F,00,0,Check Event Room
+Floor 1,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2B0,170,00 00,0,Destination Room
+Floor 1,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2B2,172,00,Normal,Door Type
+Floor 1,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2B3,173,00,0,Check Event Room
+Floor 1,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2B4,174,00 00,0,Destination Room
+Floor 1,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2B6,176,00,Normal,Door Type
+Floor 1,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2B7,177,00,0,Check Event Room
+Floor 1,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2C4,184,00 00,0,Destination Room
+Floor 1,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2C6,186,00,Normal,Door Type
+Floor 1,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2C7,187,00,0,Check Event Room
+Floor 1,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2C8,188,00 00,0,Destination Room
+Floor 1,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2CA,18A,07,One-Way,Door Type
+Floor 1,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2CB,18B,00,0,Check Event Room
+Floor 1,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2CC,18C,00 00,0,Destination Room
+Floor 1,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2CE,18E,00,Normal,Door Type
+Floor 1,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2CF,18F,00,0,Check Event Room
+Floor 1,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2D0,190,00 00,0,Destination Room
+Floor 1,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2D2,192,00,Normal,Door Type
+Floor 1,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2D3,193,00,0,Check Event Room
+Floor 1,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2E0,1A0,00 00,0,Destination Room
+Floor 1,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2E2,1A2,00,Normal,Door Type
+Floor 1,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2E3,1A3,00,0,Check Event Room
+Floor 1,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2E4,1A4,00 00,0,Destination Room
+Floor 1,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2E6,1A6,07,One-Way,Door Type
+Floor 1,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2E7,1A7,00,0,Check Event Room
+Floor 1,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2E8,1A8,00 00,0,Destination Room
+Floor 1,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2EA,1AA,00,Normal,Door Type
+Floor 1,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2EB,1AB,00,0,Check Event Room
+Floor 1,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2EC,1AC,00 00,0,Destination Room
+Floor 1,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2EE,1AE,00,Normal,Door Type
+Floor 1,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,2EF,1AF,00,0,Check Event Room
+Floor 2,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,30C,1CC,02 00,2,Destination Room
+Floor 2,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,30E,1CE,00,Normal,Door Type
+Floor 2,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,30F,1CF,00,0,Check Event Room
+Floor 2,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,310,1D0,00 00,0,Destination Room
+Floor 2,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,312,1D2,00,Normal,Door Type
+Floor 2,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,313,1D3,00,0,Check Event Room
+Floor 2,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,314,1D4,00 00,0,Destination Room
+Floor 2,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,316,1D6,00,Normal,Door Type
+Floor 2,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,317,1D7,00,0,Check Event Room
+Floor 2,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,318,1D8,00 00,0,Destination Room
+Floor 2,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,31A,1DA,00,Normal,Door Type
+Floor 2,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,31B,1DB,00,0,Check Event Room
+Floor 2,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,328,1E8,05 00,5,Destination Room
+Floor 2,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,32A,1EA,00,Normal,Door Type
+Floor 2,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,32B,1EB,00,0,Check Event Room
+Floor 2,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,32C,1EC,04 00,4,Destination Room
+Floor 2,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,32E,1EE,03,To Event 3,Door Type
+Floor 2,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,32F,1EF,00,0,Check Event Room
+Floor 2,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,330,1F0,00 00,0,Destination Room
+Floor 2,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,332,1F2,07,One-Way,Door Type
+Floor 2,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,333,1F3,00,0,Check Event Room
+Floor 2,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,334,1F4,03 00,3,Destination Room
+Floor 2,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,336,1F6,01,To Event 1,Door Type
+Floor 2,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,337,1F7,00,0,Check Event Room
+Floor 2,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,344,204,00 00,0,Destination Room
+Floor 2,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,346,206,00,Normal,Door Type
+Floor 2,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,347,207,00,0,Check Event Room
+Floor 2,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,348,208,00 00,0,Destination Room
+Floor 2,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,34A,20A,07,One-Way,Door Type
+Floor 2,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,34B,20B,00,0,Check Event Room
+Floor 2,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,34C,20C,00 00,0,Destination Room
+Floor 2,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,34E,20E,00,Normal,Door Type
+Floor 2,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,34F,20F,00,0,Check Event Room
+Floor 2,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,350,210,00 00,0,Destination Room
+Floor 2,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,352,212,00,Normal,Door Type
+Floor 2,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,353,213,00,0,Check Event Room
+Floor 2,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,360,220,00 00,0,Destination Room
+Floor 2,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,362,222,00,Normal,Door Type
+Floor 2,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,363,223,00,0,Check Event Room
+Floor 2,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,364,224,00 00,0,Destination Room
+Floor 2,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,366,226,00,Normal,Door Type
+Floor 2,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,367,227,00,0,Check Event Room
+Floor 2,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,368,228,00 00,0,Destination Room
+Floor 2,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,36A,22A,00,Normal,Door Type
+Floor 2,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,36B,22B,00,0,Check Event Room
+Floor 2,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,36C,22C,00 00,0,Destination Room
+Floor 2,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,36E,22E,07,One-Way,Door Type
+Floor 2,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,36F,22F,00,0,Check Event Room
+Floor 2,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,37C,23C,08 00,8,Destination Room
+Floor 2,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,37E,23E,00,Normal,Door Type
+Floor 2,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,37F,23F,00,0,Check Event Room
+Floor 2,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,380,240,00 00,0,Destination Room
+Floor 2,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,382,242,00,Normal,Door Type
+Floor 2,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,383,243,00,0,Check Event Room
+Floor 2,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,384,244,02 00,2,Destination Room
+Floor 2,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,386,246,00,Normal,Door Type
+Floor 2,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,387,247,00,0,Check Event Room
+Floor 2,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,388,248,06 00,6,Destination Room
+Floor 2,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,38A,24A,00,Normal,Door Type
+Floor 2,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,38B,24B,00,0,Check Event Room
+Floor 2,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,398,258,07 00,7,Destination Room
+Floor 2,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,39A,25A,02,To Event 2,Door Type
+Floor 2,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,39B,25B,00,0,Check Event Room
+Floor 2,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,39C,25C,05 00,5,Destination Room
+Floor 2,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,39E,25E,00,Normal,Door Type
+Floor 2,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,39F,25F,00,0,Check Event Room
+Floor 2,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3A0,260,00 00,0,Destination Room
+Floor 2,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3A2,262,00,Normal,Door Type
+Floor 2,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3A3,263,00,0,Check Event Room
+Floor 2,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3A4,264,00 00,0,Destination Room
+Floor 2,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3A6,266,00,Normal,Door Type
+Floor 2,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3A7,267,00,0,Check Event Room
+Floor 2,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3B4,274,00 00,0,Destination Room
+Floor 2,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3B6,276,00,Normal,Door Type
+Floor 2,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3B7,277,00,0,Check Event Room
+Floor 2,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3B8,278,08 00,8,Destination Room
+Floor 2,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3BA,27A,00,Normal,Door Type
+Floor 2,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3BB,27B,00,0,Check Event Room
+Floor 2,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3BC,27C,00 00,0,Destination Room
+Floor 2,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3BE,27E,07,One-Way,Door Type
+Floor 2,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3BF,27F,00,0,Check Event Room
+Floor 2,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3C0,280,00 00,0,Destination Room
+Floor 2,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3C2,282,00,Normal,Door Type
+Floor 2,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3C3,283,00,0,Check Event Room
+Floor 2,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3D0,290,09 00,9,Destination Room
+Floor 2,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3D2,292,06,To Extra,Door Type
+Floor 2,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3D3,293,00,0,Check Event Room
+Floor 2,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3D4,294,0A 00,10,Destination Room
+Floor 2,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3D6,296,05,To Goal,Door Type
+Floor 2,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3D7,297,00,0,Check Event Room
+Floor 2,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3D8,298,05 00,5,Destination Room
+Floor 2,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3DA,29A,00,Normal,Door Type
+Floor 2,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3DB,29B,00,0,Check Event Room
+Floor 2,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3DC,29C,00 00,0,Destination Room
+Floor 2,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3DE,29E,07,One-Way,Door Type
+Floor 2,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3DF,29F,00,0,Check Event Room
+Floor 2,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3EC,2AC,00 00,0,Destination Room
+Floor 2,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3EE,2AE,00,Normal,Door Type
+Floor 2,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3EF,2AF,00,0,Check Event Room
+Floor 2,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3F0,2B0,00 00,0,Destination Room
+Floor 2,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3F2,2B2,00,Normal,Door Type
+Floor 2,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3F3,2B3,00,0,Check Event Room
+Floor 2,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3F4,2B4,08 00,8,Destination Room
+Floor 2,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3F6,2B6,00,Normal,Door Type
+Floor 2,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3F7,2B7,00,0,Check Event Room
+Floor 2,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3F8,2B8,00 00,0,Destination Room
+Floor 2,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3FA,2BA,00,Normal,Door Type
+Floor 2,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,3FB,2BB,00,0,Check Event Room
+Floor 2,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,408,2C8,00 00,0,Destination Room
+Floor 2,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,40A,2CA,00,Normal,Door Type
+Floor 2,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,40B,2CB,00,0,Check Event Room
+Floor 2,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,40C,2CC,00 00,0,Destination Room
+Floor 2,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,40E,2CE,00,Normal,Door Type
+Floor 2,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,40F,2CF,00,0,Check Event Room
+Floor 2,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,410,2D0,00 00,0,Destination Room
+Floor 2,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,412,2D2,00,Normal,Door Type
+Floor 2,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,413,2D3,00,0,Check Event Room
+Floor 2,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,414,2D4,08 00,8,Destination Room
+Floor 2,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,416,2D6,00,Normal,Door Type
+Floor 2,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,417,2D7,00,0,Check Event Room
+Floor 3,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,434,2F4,02 00,2,Destination Room
+Floor 3,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,436,2F6,00,Normal,Door Type
+Floor 3,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,437,2F7,00,0,Check Event Room
+Floor 3,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,438,2F8,00 00,0,Destination Room
+Floor 3,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,43A,2FA,00,Normal,Door Type
+Floor 3,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,43B,2FB,00,0,Check Event Room
+Floor 3,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,43C,2FC,00 00,0,Destination Room
+Floor 3,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,43E,2FE,00,Normal,Door Type
+Floor 3,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,43F,2FF,00,0,Check Event Room
+Floor 3,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,440,300,00 00,0,Destination Room
+Floor 3,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,442,302,00,Normal,Door Type
+Floor 3,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,443,303,00,0,Check Event Room
+Floor 3,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,450,310,00 00,0,Destination Room
+Floor 3,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,452,312,00,Normal,Door Type
+Floor 3,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,453,313,00,0,Check Event Room
+Floor 3,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,454,314,03 00,3,Destination Room
+Floor 3,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,456,316,00,Normal,Door Type
+Floor 3,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,457,317,00,0,Check Event Room
+Floor 3,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,458,318,00 00,0,Destination Room
+Floor 3,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,45A,31A,07,One-Way,Door Type
+Floor 3,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,45B,31B,00,0,Check Event Room
+Floor 3,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,45C,31C,00 00,0,Destination Room
+Floor 3,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,45E,31E,00,Normal,Door Type
+Floor 3,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,45F,31F,00,0,Check Event Room
+Floor 3,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,46C,32C,06 00,6,Destination Room
+Floor 3,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,46E,32E,00,Normal,Door Type
+Floor 3,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,46F,32F,00,0,Check Event Room
+Floor 3,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,470,330,04 00,4,Destination Room
+Floor 3,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,472,332,02,To Event 2,Door Type
+Floor 3,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,473,333,00,0,Check Event Room
+Floor 3,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,474,334,00 00,0,Destination Room
+Floor 3,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,476,336,00,Normal,Door Type
+Floor 3,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,477,337,00,0,Check Event Room
+Floor 3,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,478,338,02 00,2,Destination Room
+Floor 3,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,47A,33A,00,Normal,Door Type
+Floor 3,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,47B,33B,00,0,Check Event Room
+Floor 3,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,488,348,00 00,0,Destination Room
+Floor 3,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,48A,34A,00,Normal,Door Type
+Floor 3,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,48B,34B,00,0,Check Event Room
+Floor 3,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,48C,34C,00 00,0,Destination Room
+Floor 3,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,48E,34E,00,Normal,Door Type
+Floor 3,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,48F,34F,00,0,Check Event Room
+Floor 3,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,490,350,00 00,0,Destination Room
+Floor 3,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,492,352,00,Normal,Door Type
+Floor 3,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,493,353,00,0,Check Event Room
+Floor 3,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,494,354,00 00,0,Destination Room
+Floor 3,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,496,356,07,One-Way,Door Type
+Floor 3,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,497,357,00,0,Check Event Room
+Floor 3,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4A4,364,00 00,0,Destination Room
+Floor 3,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4A6,366,00,Normal,Door Type
+Floor 3,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4A7,367,00,0,Check Event Room
+Floor 3,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4A8,368,06 00,6,Destination Room
+Floor 3,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4AA,36A,00,Normal,Door Type
+Floor 3,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4AB,36B,00,0,Check Event Room
+Floor 3,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4AC,36C,00 00,0,Destination Room
+Floor 3,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4AE,36E,00,Normal,Door Type
+Floor 3,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4AF,36F,00,0,Check Event Room
+Floor 3,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4B0,370,00 00,0,Destination Room
+Floor 3,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4B2,372,00,Normal,Door Type
+Floor 3,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4B3,373,00,0,Check Event Room
+Floor 3,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4C0,380,09 00,9,Destination Room
+Floor 3,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4C2,382,00,Normal,Door Type
+Floor 3,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4C3,383,00,0,Check Event Room
+Floor 3,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4C4,384,00 00,0,Destination Room
+Floor 3,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4C6,386,07,One-Way,Door Type
+Floor 3,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4C7,387,00,0,Check Event Room
+Floor 3,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4C8,388,03 00,3,Destination Room
+Floor 3,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4CA,38A,00,Normal,Door Type
+Floor 3,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4CB,38B,00,0,Check Event Room
+Floor 3,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4CC,38C,05 00,5,Destination Room
+Floor 3,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4CE,38E,06,To Extra,Door Type
+Floor 3,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4CF,38F,00,0,Check Event Room
+Floor 3,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4DC,39C,00 00,0,Destination Room
+Floor 3,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4DE,39E,07,One-Way,Door Type
+Floor 3,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4DF,39F,00,0,Check Event Room
+Floor 3,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4E0,3A0,00 00,0,Destination Room
+Floor 3,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4E2,3A2,00,Normal,Door Type
+Floor 3,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4E3,3A3,00,0,Check Event Room
+Floor 3,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4E4,3A4,00 00,0,Destination Room
+Floor 3,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4E6,3A6,00,Normal,Door Type
+Floor 3,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4E7,3A7,00,0,Check Event Room
+Floor 3,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4E8,3A8,06 00,6,Destination Room
+Floor 3,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4EA,3AA,00,Normal,Door Type
+Floor 3,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4EB,3AB,00,0,Check Event Room
+Floor 3,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4F8,3B8,00 00,0,Destination Room
+Floor 3,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4FA,3BA,00,Normal,Door Type
+Floor 3,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4FB,3BB,00,0,Check Event Room
+Floor 3,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4FC,3BC,00 00,0,Destination Room
+Floor 3,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4FE,3BE,07,One-Way,Door Type
+Floor 3,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,4FF,3BF,00,0,Check Event Room
+Floor 3,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,500,3C0,00 00,0,Destination Room
+Floor 3,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,502,3C2,00,Normal,Door Type
+Floor 3,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,503,3C3,00,0,Check Event Room
+Floor 3,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,504,3C4,00 00,0,Destination Room
+Floor 3,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,506,3C6,00,Normal,Door Type
+Floor 3,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,507,3C7,00,0,Check Event Room
+Floor 3,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,514,3D4,00 00,0,Destination Room
+Floor 3,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,516,3D6,00,Normal,Door Type
+Floor 3,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,517,3D7,00,0,Check Event Room
+Floor 3,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,518,3D8,0A 00,10,Destination Room
+Floor 3,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,51A,3DA,00,Normal,Door Type
+Floor 3,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,51B,3DB,00,0,Check Event Room
+Floor 3,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,51C,3DC,06 00,6,Destination Room
+Floor 3,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,51E,3DE,00,Normal,Door Type
+Floor 3,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,51F,3DF,00,0,Check Event Room
+Floor 3,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,520,3E0,08 00,8,Destination Room
+Floor 3,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,522,3E2,03,To Event 3,Door Type
+Floor 3,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,523,3E3,00,0,Check Event Room
+Floor 3,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,530,3F0,0B 00,11,Destination Room
+Floor 3,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,532,3F2,05,To Goal,Door Type
+Floor 3,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,533,3F3,00,0,Check Event Room
+Floor 3,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,534,3F4,00 00,0,Destination Room
+Floor 3,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,536,3F6,00,Normal,Door Type
+Floor 3,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,537,3F7,00,0,Check Event Room
+Floor 3,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,538,3F8,07 00,7,Destination Room
+Floor 3,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,53A,3FA,01,To Event 1,Door Type
+Floor 3,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,53B,3FB,00,0,Check Event Room
+Floor 3,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,53C,3FC,09 00,9,Destination Room
+Floor 3,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,53E,3FE,00,Normal,Door Type
+Floor 3,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,53F,3FF,00,0,Check Event Room
+Floor 3,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,54C,40C,00 00,0,Destination Room
+Floor 3,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,54E,40E,00,Normal,Door Type
+Floor 3,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,54F,40F,00,0,Check Event Room
+Floor 3,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,550,410,00 00,0,Destination Room
+Floor 3,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,552,412,00,Normal,Door Type
+Floor 3,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,553,413,00,0,Check Event Room
+Floor 3,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,554,414,0A 00,10,Destination Room
+Floor 3,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,556,416,00,Normal,Door Type
+Floor 3,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,557,417,00,0,Check Event Room
+Floor 3,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,558,418,00 00,0,Destination Room
+Floor 3,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,55A,41A,00,Normal,Door Type
+Floor 3,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,55B,41B,00,0,Check Event Room
+Floor 4,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,578,438,04 00,4,Destination Room
+Floor 4,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,57A,43A,00,Normal,Door Type
+Floor 4,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,57B,43B,00,0,Check Event Room
+Floor 4,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,57C,43C,00 00,0,Destination Room
+Floor 4,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,57E,43E,00,Normal,Door Type
+Floor 4,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,57F,43F,00,0,Check Event Room
+Floor 4,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,580,440,00 00,0,Destination Room
+Floor 4,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,582,442,00,Normal,Door Type
+Floor 4,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,583,443,00,0,Check Event Room
+Floor 4,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,584,444,00 00,0,Destination Room
+Floor 4,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,586,446,00,Normal,Door Type
+Floor 4,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,587,447,00,0,Check Event Room
+Floor 4,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,594,454,00 00,0,Destination Room
+Floor 4,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,596,456,07,One-Way,Door Type
+Floor 4,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,597,457,00,0,Check Event Room
+Floor 4,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,598,458,03 00,3,Destination Room
+Floor 4,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,59A,45A,00,Normal,Door Type
+Floor 4,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,59B,45B,00,0,Check Event Room
+Floor 4,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,59C,45C,00 00,0,Destination Room
+Floor 4,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,59E,45E,00,Normal,Door Type
+Floor 4,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,59F,45F,00,0,Check Event Room
+Floor 4,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5A0,460,00 00,0,Destination Room
+Floor 4,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5A2,462,00,Normal,Door Type
+Floor 4,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5A3,463,00,0,Check Event Room
+Floor 4,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5B0,470,07 00,7,Destination Room
+Floor 4,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5B2,472,00,Normal,Door Type
+Floor 4,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5B3,473,00,0,Check Event Room
+Floor 4,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5B4,474,04 00,4,Destination Room
+Floor 4,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5B6,476,00,Normal,Door Type
+Floor 4,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5B7,477,00,0,Check Event Room
+Floor 4,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5B8,478,00 00,0,Destination Room
+Floor 4,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5BA,47A,00,Normal,Door Type
+Floor 4,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5BB,47B,00,0,Check Event Room
+Floor 4,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5BC,47C,00 00,0,Destination Room
+Floor 4,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5BE,47E,07,One-Way,Door Type
+Floor 4,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5BF,47F,00,0,Check Event Room
+Floor 4,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5CC,48C,00 00,0,Destination Room
+Floor 4,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5CE,48E,07,One-Way,Door Type
+Floor 4,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5CF,48F,00,0,Check Event Room
+Floor 4,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5D0,490,00 00,0,Destination Room
+Floor 4,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5D2,492,00,Normal,Door Type
+Floor 4,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5D3,493,00,0,Check Event Room
+Floor 4,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5D4,494,00 00,0,Destination Room
+Floor 4,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5D6,496,07,One-Way,Door Type
+Floor 4,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5D7,497,00,0,Check Event Room
+Floor 4,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5D8,498,03 00,3,Destination Room
+Floor 4,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5DA,49A,00,Normal,Door Type
+Floor 4,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5DB,49B,00,0,Check Event Room
+Floor 4,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5E8,4A8,09 00,9,Destination Room
+Floor 4,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5EA,4AA,06,To Extra,Door Type
+Floor 4,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5EB,4AB,00,0,Check Event Room
+Floor 4,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5EC,4AC,06 00,6,Destination Room
+Floor 4,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5EE,4AE,00,Normal,Door Type
+Floor 4,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5EF,4AF,00,0,Check Event Room
+Floor 4,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5F0,4B0,00 00,0,Destination Room
+Floor 4,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5F2,4B2,00,Normal,Door Type
+Floor 4,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5F3,4B3,00,0,Check Event Room
+Floor 4,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5F4,4B4,00 00,0,Destination Room
+Floor 4,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5F6,4B6,00,Normal,Door Type
+Floor 4,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,5F7,4B7,00,0,Check Event Room
+Floor 4,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,604,4C4,00 00,0,Destination Room
+Floor 4,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,606,4C6,00,Normal,Door Type
+Floor 4,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,607,4C7,00,0,Check Event Room
+Floor 4,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,608,4C8,07 00,7,Destination Room
+Floor 4,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,60A,4CA,00,Normal,Door Type
+Floor 4,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,60B,4CB,00,0,Check Event Room
+Floor 4,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,60C,4CC,02 00,2,Destination Room
+Floor 4,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,60E,4CE,01,To Event 1,Door Type
+Floor 4,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,60F,4CF,00,0,Check Event Room
+Floor 4,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,610,4D0,05 00,5,Destination Room
+Floor 4,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,612,4D2,00,Normal,Door Type
+Floor 4,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,613,4D3,00,0,Check Event Room
+Floor 4,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,620,4E0,0B 00,11,Destination Room
+Floor 4,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,622,4E2,00,Normal,Door Type
+Floor 4,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,623,4E3,00,0,Check Event Room
+Floor 4,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,624,4E4,08 00,8,Destination Room
+Floor 4,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,626,4E6,02,To Event 2,Door Type
+Floor 4,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,627,4E7,00,0,Check Event Room
+Floor 4,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,628,4E8,03 00,3,Destination Room
+Floor 4,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,62A,4EA,00,Normal,Door Type
+Floor 4,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,62B,4EB,00,0,Check Event Room
+Floor 4,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,62C,4EC,06 00,6,Destination Room
+Floor 4,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,62E,4EE,00,Normal,Door Type
+Floor 4,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,62F,4EF,00,0,Check Event Room
+Floor 4,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,63C,4FC,00 00,0,Destination Room
+Floor 4,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,63E,4FE,00,Normal,Door Type
+Floor 4,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,63F,4FF,00,0,Check Event Room
+Floor 4,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,640,500,00 00,0,Destination Room
+Floor 4,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,642,502,00,Normal,Door Type
+Floor 4,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,643,503,00,0,Check Event Room
+Floor 4,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,644,504,04 00,4,Destination Room
+Floor 4,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,646,506,00,Normal,Door Type
+Floor 4,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,647,507,00,0,Check Event Room
+Floor 4,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,648,508,00 00,0,Destination Room
+Floor 4,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,64A,50A,07,One-Way,Door Type
+Floor 4,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,64B,50B,00,0,Check Event Room
+Floor 4,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,658,518,00 00,0,Destination Room
+Floor 4,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,65A,51A,00,Normal,Door Type
+Floor 4,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,65B,51B,00,0,Check Event Room
+Floor 4,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,65C,51C,00 00,0,Destination Room
+Floor 4,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,65E,51E,00,Normal,Door Type
+Floor 4,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,65F,51F,00,0,Check Event Room
+Floor 4,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,660,520,05 00,5,Destination Room
+Floor 4,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,662,522,00,Normal,Door Type
+Floor 4,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,663,523,00,0,Check Event Room
+Floor 4,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,664,524,00 00,0,Destination Room
+Floor 4,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,666,526,00,Normal,Door Type
+Floor 4,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,667,527,00,0,Check Event Room
+Floor 4,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,674,534,00 00,0,Destination Room
+Floor 4,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,676,536,00,Normal,Door Type
+Floor 4,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,677,537,00,0,Check Event Room
+Floor 4,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,678,538,00 00,0,Destination Room
+Floor 4,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,67A,53A,07,One-Way,Door Type
+Floor 4,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,67B,53B,00,0,Check Event Room
+Floor 4,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,67C,53C,00 00,0,Destination Room
+Floor 4,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,67E,53E,00,Normal,Door Type
+Floor 4,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,67F,53F,00,0,Check Event Room
+Floor 4,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,680,540,00 00,0,Destination Room
+Floor 4,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,682,542,00,Normal,Door Type
+Floor 4,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,683,543,00,0,Check Event Room
+Floor 4,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,690,550,00 00,0,Destination Room
+Floor 4,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,692,552,00,Normal,Door Type
+Floor 4,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,693,553,00,0,Check Event Room
+Floor 4,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,694,554,0C 00,12,Destination Room
+Floor 4,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,696,556,05,To Goal,Door Type
+Floor 4,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,697,557,00,0,Check Event Room
+Floor 4,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,698,558,07 00,7,Destination Room
+Floor 4,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,69A,55A,00,Normal,Door Type
+Floor 4,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,69B,55B,00,0,Check Event Room
+Floor 4,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,69C,55C,0A 00,10,Destination Room
+Floor 4,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,69E,55E,03,To Event 3,Door Type
+Floor 4,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,69F,55F,00,0,Check Event Room
+Floor 4,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6AC,56C,00 00,0,Destination Room
+Floor 4,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6AE,56E,00,Normal,Door Type
+Floor 4,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6AF,56F,00,0,Check Event Room
+Floor 4,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6B0,570,00 00,0,Destination Room
+Floor 4,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6B2,572,00,Normal,Door Type
+Floor 4,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6B3,573,00,0,Check Event Room
+Floor 4,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6B4,574,00 00,0,Destination Room
+Floor 4,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6B6,576,00,Normal,Door Type
+Floor 4,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6B7,577,00,0,Check Event Room
+Floor 4,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6B8,578,0B 00,11,Destination Room
+Floor 4,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6BA,57A,00,Normal,Door Type
+Floor 4,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6BB,57B,00,0,Check Event Room
+Floor 5,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6D8,598,03 00,3,Destination Room
+Floor 5,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6DA,59A,00,Normal,Door Type
+Floor 5,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6DB,59B,00,0,Check Event Room
+Floor 5,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6DC,59C,00 00,0,Destination Room
+Floor 5,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6DE,59E,00,Normal,Door Type
+Floor 5,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6DF,59F,00,0,Check Event Room
+Floor 5,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6E0,5A0,00 00,0,Destination Room
+Floor 5,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6E2,5A2,00,Normal,Door Type
+Floor 5,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6E3,5A3,00,0,Check Event Room
+Floor 5,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6E4,5A4,00 00,0,Destination Room
+Floor 5,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6E6,5A6,00,Normal,Door Type
+Floor 5,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6E7,5A7,00,0,Check Event Room
+Floor 5,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6F4,5B4,00 00,0,Destination Room
+Floor 5,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6F6,5B6,07,One-Way,Door Type
+Floor 5,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6F7,5B7,00,0,Check Event Room
+Floor 5,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6F8,5B8,00 00,0,Destination Room
+Floor 5,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6FA,5BA,00,Normal,Door Type
+Floor 5,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6FB,5BB,00,0,Check Event Room
+Floor 5,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6FC,5BC,00 00,0,Destination Room
+Floor 5,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6FE,5BE,00,Normal,Door Type
+Floor 5,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,6FF,5BF,00,0,Check Event Room
+Floor 5,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,700,5C0,00 00,0,Destination Room
+Floor 5,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,702,5C2,00,Normal,Door Type
+Floor 5,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,703,5C3,00,0,Check Event Room
+Floor 5,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,710,5D0,05 00,5,Destination Room
+Floor 5,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,712,5D2,00,Normal,Door Type
+Floor 5,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,713,5D3,00,0,Check Event Room
+Floor 5,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,714,5D4,04 00,4,Destination Room
+Floor 5,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,716,5D6,00,Normal,Door Type
+Floor 5,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,717,5D7,00,0,Check Event Room
+Floor 5,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,718,5D8,00 00,0,Destination Room
+Floor 5,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,71A,5DA,07,One-Way,Door Type
+Floor 5,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,71B,5DB,00,0,Check Event Room
+Floor 5,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,71C,5DC,00 00,0,Destination Room
+Floor 5,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,71E,5DE,00,Normal,Door Type
+Floor 5,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,71F,5DF,00,0,Check Event Room
+Floor 5,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,72C,5EC,06 00,6,Destination Room
+Floor 5,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,72E,5EE,00,Normal,Door Type
+Floor 5,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,72F,5EF,00,0,Check Event Room
+Floor 5,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,730,5F0,00 00,0,Destination Room
+Floor 5,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,732,5F2,00,Normal,Door Type
+Floor 5,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,733,5F3,00,0,Check Event Room
+Floor 5,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,734,5F4,02 00,2,Destination Room
+Floor 5,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,736,5F6,02,To Event 2,Door Type
+Floor 5,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,737,5F7,00,0,Check Event Room
+Floor 5,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,738,5F8,03 00,3,Destination Room
+Floor 5,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,73A,5FA,00,Normal,Door Type
+Floor 5,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,73B,5FB,00,0,Check Event Room
+Floor 5,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,748,608,09 00,9,Destination Room
+Floor 5,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,74A,60A,00,Normal,Door Type
+Floor 5,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,74B,60B,00,0,Check Event Room
+Floor 5,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,74C,60C,06 00,6,Destination Room
+Floor 5,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,74E,60E,00,Normal,Door Type
+Floor 5,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,74F,60F,00,0,Check Event Room
+Floor 5,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,750,610,03 00,3,Destination Room
+Floor 5,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,752,612,00,Normal,Door Type
+Floor 5,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,753,613,00,0,Check Event Room
+Floor 5,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,754,614,00 00,0,Destination Room
+Floor 5,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,756,616,00,Normal,Door Type
+Floor 5,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,757,617,00,0,Check Event Room
+Floor 5,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,764,624,00 00,0,Destination Room
+Floor 5,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,766,626,00,Normal,Door Type
+Floor 5,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,767,627,00,0,Check Event Room
+Floor 5,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,768,628,07 00,7,Destination Room
+Floor 5,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,76A,62A,00,Normal,Door Type
+Floor 5,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,76B,62B,00,0,Check Event Room
+Floor 5,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,76C,62C,04 00,4,Destination Room
+Floor 5,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,76E,62E,00,Normal,Door Type
+Floor 5,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,76F,62F,00,0,Check Event Room
+Floor 5,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,770,630,05 00,5,Destination Room
+Floor 5,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,772,632,00,Normal,Door Type
+Floor 5,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,773,633,00,0,Check Event Room
+Floor 5,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,780,640,0B 00,11,Destination Room
+Floor 5,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,782,642,06,To Extra,Door Type
+Floor 5,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,783,643,00,0,Check Event Room
+Floor 5,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,784,644,08 00,8,Destination Room
+Floor 5,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,786,646,01,To Event 1,Door Type
+Floor 5,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,787,647,00,0,Check Event Room
+Floor 5,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,788,648,00 00,0,Destination Room
+Floor 5,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,78A,64A,00,Normal,Door Type
+Floor 5,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,78B,64B,00,0,Check Event Room
+Floor 5,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,78C,64C,06 00,6,Destination Room
+Floor 5,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,78E,64E,00,Normal,Door Type
+Floor 5,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,78F,64F,00,0,Check Event Room
+Floor 5,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,79C,65C,00 00,0,Destination Room
+Floor 5,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,79E,65E,00,Normal,Door Type
+Floor 5,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,79F,65F,00,0,Check Event Room
+Floor 5,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7A0,660,00 00,0,Destination Room
+Floor 5,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7A2,662,00,Normal,Door Type
+Floor 5,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7A3,663,00,0,Check Event Room
+Floor 5,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7A4,664,00 00,0,Destination Room
+Floor 5,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7A6,666,00,Normal,Door Type
+Floor 5,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7A7,667,00,0,Check Event Room
+Floor 5,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7A8,668,00 00,0,Destination Room
+Floor 5,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7AA,66A,07,One-Way,Door Type
+Floor 5,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7AB,66B,00,0,Check Event Room
+Floor 5,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7B8,678,0C 00,12,Destination Room
+Floor 5,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7BA,67A,05,To Goal,Door Type
+Floor 5,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7BB,67B,00,0,Check Event Room
+Floor 5,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7BC,67C,0A 00,10,Destination Room
+Floor 5,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7BE,67E,00,Normal,Door Type
+Floor 5,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7BF,67F,00,0,Check Event Room
+Floor 5,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7C0,680,05 00,5,Destination Room
+Floor 5,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7C2,682,00,Normal,Door Type
+Floor 5,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7C3,683,00,0,Check Event Room
+Floor 5,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7C4,684,00 00,0,Destination Room
+Floor 5,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7C6,686,00,Normal,Door Type
+Floor 5,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7C7,687,00,0,Check Event Room
+Floor 5,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7D4,694,0D 00,13,Destination Room
+Floor 5,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7D6,696,03,To Event 3,Door Type
+Floor 5,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7D7,697,00,0,Check Event Room
+Floor 5,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7D8,698,00 00,0,Destination Room
+Floor 5,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7DA,69A,00,Normal,Door Type
+Floor 5,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7DB,69B,00,0,Check Event Room
+Floor 5,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7DC,69C,00 00,0,Destination Room
+Floor 5,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7DE,69E,00,Normal,Door Type
+Floor 5,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7DF,69F,00,0,Check Event Room
+Floor 5,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7E0,6A0,09 00,9,Destination Room
+Floor 5,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7E2,6A2,00,Normal,Door Type
+Floor 5,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7E3,6A3,00,0,Check Event Room
+Floor 5,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7F0,6B0,00 00,0,Destination Room
+Floor 5,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7F2,6B2,00,Normal,Door Type
+Floor 5,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7F3,6B3,00,0,Check Event Room
+Floor 5,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7F4,6B4,00 00,0,Destination Room
+Floor 5,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7F6,6B6,00,Normal,Door Type
+Floor 5,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7F7,6B7,00,0,Check Event Room
+Floor 5,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7F8,6B8,07 00,7,Destination Room
+Floor 5,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7FA,6BA,00,Normal,Door Type
+Floor 5,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7FB,6BB,00,0,Check Event Room
+Floor 5,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7FC,6BC,00 00,0,Destination Room
+Floor 5,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7FE,6BE,00,Normal,Door Type
+Floor 5,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,7FF,6BF,00,0,Check Event Room
+Floor 5,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,80C,6CC,00 00,0,Destination Room
+Floor 5,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,80E,6CE,00,Normal,Door Type
+Floor 5,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,80F,6CF,00,0,Check Event Room
+Floor 5,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,810,6D0,00 00,0,Destination Room
+Floor 5,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,812,6D2,00,Normal,Door Type
+Floor 5,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,813,6D3,00,0,Check Event Room
+Floor 5,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,814,6D4,09 00,9,Destination Room
+Floor 5,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,816,6D6,00,Normal,Door Type
+Floor 5,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,817,6D7,00,0,Check Event Room
+Floor 5,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,818,6D8,00 00,0,Destination Room
+Floor 5,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,81A,6DA,00,Normal,Door Type
+Floor 5,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,81B,6DB,00,0,Check Event Room
+Floor 5,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,828,6E8,00 00,0,Destination Room
+Floor 5,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,82A,6EA,00,Normal,Door Type
+Floor 5,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,82B,6EB,00,0,Check Event Room
+Floor 5,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,82C,6EC,00 00,0,Destination Room
+Floor 5,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,82E,6EE,00,Normal,Door Type
+Floor 5,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,82F,6EF,00,0,Check Event Room
+Floor 5,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,830,6F0,00 00,0,Destination Room
+Floor 5,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,832,6F2,07,One-Way,Door Type
+Floor 5,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,833,6F3,00,0,Check Event Room
+Floor 5,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,834,6F4,00 00,0,Destination Room
+Floor 5,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,836,6F6,00,Normal,Door Type
+Floor 5,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,837,6F7,00,0,Check Event Room
+Floor 6,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,854,714,02 00,2,Destination Room
+Floor 6,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,856,716,00,Normal,Door Type
+Floor 6,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,857,717,00,0,Check Event Room
+Floor 6,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,858,718,00 00,0,Destination Room
+Floor 6,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,85A,71A,00,Normal,Door Type
+Floor 6,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,85B,71B,00,0,Check Event Room
+Floor 6,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,85C,71C,00 00,0,Destination Room
+Floor 6,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,85E,71E,00,Normal,Door Type
+Floor 6,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,85F,71F,00,0,Check Event Room
+Floor 6,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,860,720,00 00,0,Destination Room
+Floor 6,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,862,722,00,Normal,Door Type
+Floor 6,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,863,723,00,0,Check Event Room
+Floor 6,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,870,730,00 00,0,Destination Room
+Floor 6,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,872,732,07,One-Way,Door Type
+Floor 6,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,873,733,00,0,Check Event Room
+Floor 6,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,874,734,04 00,4,Destination Room
+Floor 6,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,876,736,00,Normal,Door Type
+Floor 6,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,877,737,00,0,Check Event Room
+Floor 6,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,878,738,00 00,0,Destination Room
+Floor 6,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,87A,73A,07,One-Way,Door Type
+Floor 6,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,87B,73B,00,0,Check Event Room
+Floor 6,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,87C,73C,00 00,0,Destination Room
+Floor 6,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,87E,73E,00,Normal,Door Type
+Floor 6,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,87F,73F,00,0,Check Event Room
+Floor 6,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,88C,74C,00 00,0,Destination Room
+Floor 6,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,88E,74E,00,Normal,Door Type
+Floor 6,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,88F,74F,00,0,Check Event Room
+Floor 6,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,890,750,00 00,0,Destination Room
+Floor 6,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,892,752,07,One-Way,Door Type
+Floor 6,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,893,753,00,0,Check Event Room
+Floor 6,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,894,754,02 00,2,Destination Room
+Floor 6,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,896,756,00,Normal,Door Type
+Floor 6,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,897,757,00,0,Check Event Room
+Floor 6,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,898,758,00 00,0,Destination Room
+Floor 6,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,89A,75A,00,Normal,Door Type
+Floor 6,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,89B,75B,00,0,Check Event Room
+Floor 6,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8A8,768,05 00,5,Destination Room
+Floor 6,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8AA,76A,00,Normal,Door Type
+Floor 6,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8AB,76B,00,0,Check Event Room
+Floor 6,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8AC,76C,08 00,8,Destination Room
+Floor 6,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8AE,76E,00,Normal,Door Type
+Floor 6,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8AF,76F,00,0,Check Event Room
+Floor 6,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8B0,770,00 00,0,Destination Room
+Floor 6,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8B2,772,00,Normal,Door Type
+Floor 6,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8B3,773,00,0,Check Event Room
+Floor 6,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8B4,774,02 00,2,Destination Room
+Floor 6,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8B6,776,00,Normal,Door Type
+Floor 6,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8B7,777,00,0,Check Event Room
+Floor 6,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8C4,784,06 00,6,Destination Room
+Floor 6,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8C6,786,00,Normal,Door Type
+Floor 6,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8C7,787,00,0,Check Event Room
+Floor 6,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8C8,788,00 00,0,Destination Room
+Floor 6,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8CA,78A,07,One-Way,Door Type
+Floor 6,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8CB,78B,00,0,Check Event Room
+Floor 6,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8CC,78C,04 00,4,Destination Room
+Floor 6,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8CE,78E,00,Normal,Door Type
+Floor 6,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8CF,78F,00,0,Check Event Room
+Floor 6,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8D0,790,03 00,3,Destination Room
+Floor 6,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8D2,792,01,To Event 1,Door Type
+Floor 6,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8D3,793,00,0,Check Event Room
+Floor 6,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8E0,7A0,00 00,0,Destination Room
+Floor 6,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8E2,7A2,00,Normal,Door Type
+Floor 6,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8E3,7A3,00,0,Check Event Room
+Floor 6,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8E4,7A4,0A 00,10,Destination Room
+Floor 6,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8E6,7A6,00,Normal,Door Type
+Floor 6,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8E7,7A7,00,0,Check Event Room
+Floor 6,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8E8,7A8,05 00,5,Destination Room
+Floor 6,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8EA,7AA,00,Normal,Door Type
+Floor 6,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8EB,7AB,00,0,Check Event Room
+Floor 6,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8EC,7AC,00 00,0,Destination Room
+Floor 6,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8EE,7AE,00,Normal,Door Type
+Floor 6,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8EF,7AF,00,0,Check Event Room
+Floor 6,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8FC,7BC,08 00,8,Destination Room
+Floor 6,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8FE,7BE,00,Normal,Door Type
+Floor 6,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,8FF,7BF,00,0,Check Event Room
+Floor 6,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,900,7C0,00 00,0,Destination Room
+Floor 6,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,902,7C2,00,Normal,Door Type
+Floor 6,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,903,7C3,00,0,Check Event Room
+Floor 6,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,904,7C4,00 00,0,Destination Room
+Floor 6,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,906,7C6,00,Normal,Door Type
+Floor 6,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,907,7C7,00,0,Check Event Room
+Floor 6,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,908,7C8,00 00,0,Destination Room
+Floor 6,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,90A,7CA,00,Normal,Door Type
+Floor 6,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,90B,7CB,00,0,Check Event Room
+Floor 6,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,918,7D8,00 00,0,Destination Room
+Floor 6,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,91A,7DA,00,Normal,Door Type
+Floor 6,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,91B,7DB,00,0,Check Event Room
+Floor 6,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,91C,7DC,0B 00,11,Destination Room
+Floor 6,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,91E,7DE,00,Normal,Door Type
+Floor 6,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,91F,7DF,00,0,Check Event Room
+Floor 6,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,920,7E0,07 00,7,Destination Room
+Floor 6,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,922,7E2,06,To Extra,Door Type
+Floor 6,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,923,7E3,00,0,Check Event Room
+Floor 6,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,924,7E4,04 00,4,Destination Room
+Floor 6,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,926,7E6,00,Normal,Door Type
+Floor 6,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,927,7E7,00,0,Check Event Room
+Floor 6,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,934,7F4,00 00,0,Destination Room
+Floor 6,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,936,7F6,07,One-Way,Door Type
+Floor 6,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,937,7F7,00,0,Check Event Room
+Floor 6,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,938,7F8,00 00,0,Destination Room
+Floor 6,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,93A,7FA,00,Normal,Door Type
+Floor 6,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,93B,7FB,00,0,Check Event Room
+Floor 6,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,93C,7FC,00 00,0,Destination Room
+Floor 6,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,93E,7FE,00,Normal,Door Type
+Floor 6,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,93F,7FF,00,0,Check Event Room
+Floor 6,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,940,800,05 00,5,Destination Room
+Floor 6,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,942,802,00,Normal,Door Type
+Floor 6,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,943,803,00,0,Check Event Room
+Floor 6,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,950,810,00 00,0,Destination Room
+Floor 6,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,952,812,00,Normal,Door Type
+Floor 6,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,953,813,00,0,Check Event Room
+Floor 6,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,954,814,00 00,0,Destination Room
+Floor 6,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,956,816,00,Normal,Door Type
+Floor 6,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,957,817,00,0,Check Event Room
+Floor 6,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,958,818,09 00,9,Destination Room
+Floor 6,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,95A,81A,02,To Event 2,Door Type
+Floor 6,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,95B,81B,00,0,Check Event Room
+Floor 6,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,95C,81C,06 00,6,Destination Room
+Floor 6,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,95E,81E,00,Normal,Door Type
+Floor 6,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,95F,81F,00,0,Check Event Room
+Floor 6,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,96C,82C,00 00,0,Destination Room
+Floor 6,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,96E,82E,00,Normal,Door Type
+Floor 6,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,96F,82F,00,0,Check Event Room
+Floor 6,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,970,830,0D 00,13,Destination Room
+Floor 6,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,972,832,00,Normal,Door Type
+Floor 6,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,973,833,00,0,Check Event Room
+Floor 6,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,974,834,00 00,0,Destination Room
+Floor 6,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,976,836,00,Normal,Door Type
+Floor 6,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,977,837,00,0,Check Event Room
+Floor 6,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,978,838,08 00,8,Destination Room
+Floor 6,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,97A,83A,00,Normal,Door Type
+Floor 6,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,97B,83B,00,0,Check Event Room
+Floor 6,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,988,848,00 00,0,Destination Room
+Floor 6,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,98A,84A,07,One-Way,Door Type
+Floor 6,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,98B,84B,00,0,Check Event Room
+Floor 6,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,98C,84C,00 00,0,Destination Room
+Floor 6,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,98E,84E,00,Normal,Door Type
+Floor 6,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,98F,84F,00,0,Check Event Room
+Floor 6,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,990,850,00 00,0,Destination Room
+Floor 6,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,992,852,00,Normal,Door Type
+Floor 6,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,993,853,00,0,Check Event Room
+Floor 6,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,994,854,00 00,0,Destination Room
+Floor 6,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,996,856,00,Normal,Door Type
+Floor 6,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,997,857,00,0,Check Event Room
+Floor 6,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9A4,864,0E 00,14,Destination Room
+Floor 6,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9A6,866,05,To Goal,Door Type
+Floor 6,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9A7,867,00,0,Check Event Room
+Floor 6,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9A8,868,00 00,0,Destination Room
+Floor 6,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9AA,86A,00,Normal,Door Type
+Floor 6,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9AB,86B,00,0,Check Event Room
+Floor 6,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9AC,86C,0C 00,12,Destination Room
+Floor 6,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9AE,86E,03,To Event 3,Door Type
+Floor 6,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9AF,86F,00,0,Check Event Room
+Floor 6,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9B0,870,0B 00,11,Destination Room
+Floor 6,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9B2,872,00,Normal,Door Type
+Floor 6,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9B3,873,00,0,Check Event Room
+Floor 6,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9C0,880,00 00,0,Destination Room
+Floor 6,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9C2,882,00,Normal,Door Type
+Floor 6,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9C3,883,00,0,Check Event Room
+Floor 6,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9C4,884,00 00,0,Destination Room
+Floor 6,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9C6,886,00,Normal,Door Type
+Floor 6,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9C7,887,00,0,Check Event Room
+Floor 6,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9C8,888,0D 00,13,Destination Room
+Floor 6,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9CA,88A,00,Normal,Door Type
+Floor 6,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9CB,88B,00,0,Check Event Room
+Floor 6,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9CC,88C,00 00,0,Destination Room
+Floor 6,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9CE,88E,00,Normal,Door Type
+Floor 6,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9CF,88F,00,0,Check Event Room
+Floor 7,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9EC,8AC,02 00,2,Destination Room
+Floor 7,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9EE,8AE,00,Normal,Door Type
+Floor 7,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9EF,8AF,00,0,Check Event Room
+Floor 7,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9F0,8B0,00 00,0,Destination Room
+Floor 7,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9F2,8B2,00,Normal,Door Type
+Floor 7,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9F3,8B3,00,0,Check Event Room
+Floor 7,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9F4,8B4,00 00,0,Destination Room
+Floor 7,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9F6,8B6,00,Normal,Door Type
+Floor 7,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9F7,8B7,00,0,Check Event Room
+Floor 7,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9F8,8B8,00 00,0,Destination Room
+Floor 7,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9FA,8BA,00,Normal,Door Type
+Floor 7,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,9FB,8BB,00,0,Check Event Room
+Floor 7,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A08,8C8,00 00,0,Destination Room
+Floor 7,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A0A,8CA,07,One-Way,Door Type
+Floor 7,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A0B,8CB,00,0,Check Event Room
+Floor 7,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A0C,8CC,00 00,0,Destination Room
+Floor 7,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A0E,8CE,00,Normal,Door Type
+Floor 7,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A0F,8CF,00,0,Check Event Room
+Floor 7,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A10,8D0,00 00,0,Destination Room
+Floor 7,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A12,8D2,07,One-Way,Door Type
+Floor 7,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A13,8D3,00,0,Check Event Room
+Floor 7,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A14,8D4,05 00,5,Destination Room
+Floor 7,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A16,8D6,00,Normal,Door Type
+Floor 7,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A17,8D7,00,0,Check Event Room
+Floor 7,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A24,8E4,00 00,0,Destination Room
+Floor 7,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A26,8E6,00,Normal,Door Type
+Floor 7,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A27,8E7,00,0,Check Event Room
+Floor 7,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A28,8E8,00 00,0,Destination Room
+Floor 7,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A2A,8EA,00,Normal,Door Type
+Floor 7,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A2B,8EB,00,0,Check Event Room
+Floor 7,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A2C,8EC,02 00,2,Destination Room
+Floor 7,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A2E,8EE,00,Normal,Door Type
+Floor 7,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A2F,8EF,00,0,Check Event Room
+Floor 7,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A30,8F0,00 00,0,Destination Room
+Floor 7,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A32,8F2,07,One-Way,Door Type
+Floor 7,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A33,8F3,00,0,Check Event Room
+Floor 7,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A40,900,05 00,5,Destination Room
+Floor 7,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A42,902,00,Normal,Door Type
+Floor 7,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A43,903,00,0,Check Event Room
+Floor 7,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A44,904,00 00,0,Destination Room
+Floor 7,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A46,906,00,Normal,Door Type
+Floor 7,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A47,907,00,0,Check Event Room
+Floor 7,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A48,908,00 00,0,Destination Room
+Floor 7,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A4A,90A,00,Normal,Door Type
+Floor 7,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A4B,90B,00,0,Check Event Room
+Floor 7,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A4C,90C,07 00,7,Destination Room
+Floor 7,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A4E,90E,01,To Event 1,Door Type
+Floor 7,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A4F,90F,00,0,Check Event Room
+Floor 7,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A5C,91C,06 00,6,Destination Room
+Floor 7,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A5E,91E,00,Normal,Door Type
+Floor 7,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A5F,91F,00,0,Check Event Room
+Floor 7,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A60,920,02 00,2,Destination Room
+Floor 7,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A62,922,00,Normal,Door Type
+Floor 7,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A63,923,00,0,Check Event Room
+Floor 7,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A64,924,04 00,4,Destination Room
+Floor 7,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A66,926,00,Normal,Door Type
+Floor 7,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A67,927,00,0,Check Event Room
+Floor 7,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A68,928,08 00,8,Destination Room
+Floor 7,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A6A,92A,00,Normal,Door Type
+Floor 7,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A6B,92B,00,0,Check Event Room
+Floor 7,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A78,938,00 00,0,Destination Room
+Floor 7,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A7A,93A,00,Normal,Door Type
+Floor 7,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A7B,93B,00,0,Check Event Room
+Floor 7,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A7C,93C,03 00,3,Destination Room
+Floor 7,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A7E,93E,02,To Event 2,Door Type
+Floor 7,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A7F,93F,00,0,Check Event Room
+Floor 7,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A80,940,05 00,5,Destination Room
+Floor 7,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A82,942,00,Normal,Door Type
+Floor 7,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A83,943,00,0,Check Event Room
+Floor 7,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A84,944,00 00,0,Destination Room
+Floor 7,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A86,946,00,Normal,Door Type
+Floor 7,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A87,947,00,0,Check Event Room
+Floor 7,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A94,954,08 00,8,Destination Room
+Floor 7,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A96,956,00,Normal,Door Type
+Floor 7,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A97,957,00,0,Check Event Room
+Floor 7,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A98,958,00 00,0,Destination Room
+Floor 7,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A9A,95A,07,One-Way,Door Type
+Floor 7,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A9B,95B,00,0,Check Event Room
+Floor 7,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A9C,95C,00 00,0,Destination Room
+Floor 7,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A9E,95E,00,Normal,Door Type
+Floor 7,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,A9F,95F,00,0,Check Event Room
+Floor 7,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AA0,960,00 00,0,Destination Room
+Floor 7,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AA2,962,00,Normal,Door Type
+Floor 7,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AA3,963,00,0,Check Event Room
+Floor 7,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AB0,970,09 00,9,Destination Room
+Floor 7,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AB2,972,06,To Extra,Door Type
+Floor 7,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AB3,973,00,0,Check Event Room
+Floor 7,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AB4,974,05 00,5,Destination Room
+Floor 7,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AB6,976,00,Normal,Door Type
+Floor 7,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AB7,977,00,0,Check Event Room
+Floor 7,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AB8,978,00 00,0,Destination Room
+Floor 7,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ABA,97A,07,One-Way,Door Type
+Floor 7,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ABB,97B,00,0,Check Event Room
+Floor 7,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ABC,97C,0B 00,11,Destination Room
+Floor 7,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ABE,97E,00,Normal,Door Type
+Floor 7,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ABF,97F,00,0,Check Event Room
+Floor 7,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ACC,98C,00 00,0,Destination Room
+Floor 7,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ACE,98E,00,Normal,Door Type
+Floor 7,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ACF,98F,00,0,Check Event Room
+Floor 7,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AD0,990,00 00,0,Destination Room
+Floor 7,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AD2,992,00,Normal,Door Type
+Floor 7,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AD3,993,00,0,Check Event Room
+Floor 7,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AD4,994,08 00,8,Destination Room
+Floor 7,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AD6,996,00,Normal,Door Type
+Floor 7,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AD7,997,00,0,Check Event Room
+Floor 7,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AD8,998,00 00,0,Destination Room
+Floor 7,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ADA,99A,00,Normal,Door Type
+Floor 7,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ADB,99B,00,0,Check Event Room
+Floor 7,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AE8,9A8,0B 00,11,Destination Room
+Floor 7,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AEA,9AA,00,Normal,Door Type
+Floor 7,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AEB,9AB,00,0,Check Event Room
+Floor 7,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AEC,9AC,00 00,0,Destination Room
+Floor 7,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AEE,9AE,00,Normal,Door Type
+Floor 7,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AEF,9AF,00,0,Check Event Room
+Floor 7,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AF0,9B0,00 00,0,Destination Room
+Floor 7,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AF2,9B2,00,Normal,Door Type
+Floor 7,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AF3,9B3,00,0,Check Event Room
+Floor 7,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AF4,9B4,00 00,0,Destination Room
+Floor 7,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AF6,9B6,00,Normal,Door Type
+Floor 7,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,AF7,9B7,00,0,Check Event Room
+Floor 7,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B04,9C4,0C 00,12,Destination Room
+Floor 7,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B06,9C6,00,Normal,Door Type
+Floor 7,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B07,9C7,00,0,Check Event Room
+Floor 7,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B08,9C8,08 00,8,Destination Room
+Floor 7,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B0A,9CA,00,Normal,Door Type
+Floor 7,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B0B,9CB,00,0,Check Event Room
+Floor 7,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B0C,9CC,0A 00,10,Destination Room
+Floor 7,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B0E,9CE,00,Normal,Door Type
+Floor 7,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B0F,9CF,00,0,Check Event Room
+Floor 7,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B10,9D0,0E 00,14,Destination Room
+Floor 7,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B12,9D2,00,Normal,Door Type
+Floor 7,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B13,9D3,00,0,Check Event Room
+Floor 7,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B20,9E0,00 00,0,Destination Room
+Floor 7,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B22,9E2,00,Normal,Door Type
+Floor 7,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B23,9E3,00,0,Check Event Room
+Floor 7,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B24,9E4,00 00,0,Destination Room
+Floor 7,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B26,9E6,00,Normal,Door Type
+Floor 7,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B27,9E7,00,0,Check Event Room
+Floor 7,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B28,9E8,0B 00,11,Destination Room
+Floor 7,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B2A,9EA,00,Normal,Door Type
+Floor 7,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B2B,9EB,00,0,Check Event Room
+Floor 7,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B2C,9EC,00 00,0,Destination Room
+Floor 7,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B2E,9EE,00,Normal,Door Type
+Floor 7,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B2F,9EF,00,0,Check Event Room
+Floor 7,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B3C,9FC,00 00,0,Destination Room
+Floor 7,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B3E,9FE,07,One-Way,Door Type
+Floor 7,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B3F,9FF,00,0,Check Event Room
+Floor 7,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B40,A00,00 00,0,Destination Room
+Floor 7,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B42,A02,00,Normal,Door Type
+Floor 7,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B43,A03,00,0,Check Event Room
+Floor 7,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B44,A04,00 00,0,Destination Room
+Floor 7,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B46,A06,00,Normal,Door Type
+Floor 7,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B47,A07,00,0,Check Event Room
+Floor 7,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B48,A08,00 00,0,Destination Room
+Floor 7,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B4A,A0A,00,Normal,Door Type
+Floor 7,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B4B,A0B,00,0,Check Event Room
+Floor 7,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B58,A18,0F 00,15,Destination Room
+Floor 7,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B5A,A1A,05,To Goal,Door Type
+Floor 7,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B5B,A1B,00,0,Check Event Room
+Floor 7,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B5C,A1C,0B 00,11,Destination Room
+Floor 7,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B5E,A1E,00,Normal,Door Type
+Floor 7,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B5F,A1F,00,0,Check Event Room
+Floor 7,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B60,A20,0D 00,13,Destination Room
+Floor 7,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B62,A22,03,To Event 3,Door Type
+Floor 7,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B63,A23,00,0,Check Event Room
+Floor 7,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B64,A24,00 00,0,Destination Room
+Floor 7,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B66,A26,00,Normal,Door Type
+Floor 7,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B67,A27,00,0,Check Event Room
+Floor 7,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B74,A34,00 00,0,Destination Room
+Floor 7,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B76,A36,00,Normal,Door Type
+Floor 7,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B77,A37,00,0,Check Event Room
+Floor 7,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B78,A38,00 00,0,Destination Room
+Floor 7,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B7A,A3A,00,Normal,Door Type
+Floor 7,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B7B,A3B,00,0,Check Event Room
+Floor 7,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B7C,A3C,0E 00,14,Destination Room
+Floor 7,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B7E,A3E,00,Normal,Door Type
+Floor 7,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B7F,A3F,00,0,Check Event Room
+Floor 7,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B80,A40,00 00,0,Destination Room
+Floor 7,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B82,A42,00,Normal,Door Type
+Floor 7,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,B83,A43,00,0,Check Event Room
+Floor 8,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BA0,A60,04 00,4,Destination Room
+Floor 8,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BA2,A62,00,Normal,Door Type
+Floor 8,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BA3,A63,00,0,Check Event Room
+Floor 8,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BA4,A64,00 00,0,Destination Room
+Floor 8,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BA6,A66,00,Normal,Door Type
+Floor 8,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BA7,A67,00,0,Check Event Room
+Floor 8,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BA8,A68,00 00,0,Destination Room
+Floor 8,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BAA,A6A,00,Normal,Door Type
+Floor 8,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BAB,A6B,00,0,Check Event Room
+Floor 8,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BAC,A6C,00 00,0,Destination Room
+Floor 8,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BAE,A6E,00,Normal,Door Type
+Floor 8,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BAF,A6F,00,0,Check Event Room
+Floor 8,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BBC,A7C,05 00,5,Destination Room
+Floor 8,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BBE,A7E,00,Normal,Door Type
+Floor 8,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BBF,A7F,00,0,Check Event Room
+Floor 8,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BC0,A80,00 00,0,Destination Room
+Floor 8,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BC2,A82,07,One-Way,Door Type
+Floor 8,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BC3,A83,00,0,Check Event Room
+Floor 8,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BC4,A84,00 00,0,Destination Room
+Floor 8,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BC6,A86,00,Normal,Door Type
+Floor 8,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BC7,A87,00,0,Check Event Room
+Floor 8,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BC8,A88,00 00,0,Destination Room
+Floor 8,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BCA,A8A,00,Normal,Door Type
+Floor 8,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BCB,A8B,00,0,Check Event Room
+Floor 8,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BD8,A98,00 00,0,Destination Room
+Floor 8,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BDA,A9A,07,One-Way,Door Type
+Floor 8,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BDB,A9B,00,0,Check Event Room
+Floor 8,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BDC,A9C,00 00,0,Destination Room
+Floor 8,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BDE,A9E,00,Normal,Door Type
+Floor 8,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BDF,A9F,00,0,Check Event Room
+Floor 8,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BE0,AA0,00 00,0,Destination Room
+Floor 8,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BE2,AA2,00,Normal,Door Type
+Floor 8,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BE3,AA3,00,0,Check Event Room
+Floor 8,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BE4,AA4,02 00,2,Destination Room
+Floor 8,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BE6,AA6,00,Normal,Door Type
+Floor 8,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BE7,AA7,00,0,Check Event Room
+Floor 8,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BF4,AB4,00 00,0,Destination Room
+Floor 8,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BF6,AB6,00,Normal,Door Type
+Floor 8,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BF7,AB7,00,0,Check Event Room
+Floor 8,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BF8,AB8,05 00,5,Destination Room
+Floor 8,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BFA,ABA,00,Normal,Door Type
+Floor 8,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BFB,ABB,00,0,Check Event Room
+Floor 8,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BFC,ABC,00 00,0,Destination Room
+Floor 8,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BFE,ABE,07,One-Way,Door Type
+Floor 8,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,BFF,ABF,00,0,Check Event Room
+Floor 8,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C00,AC0,00 00,0,Destination Room
+Floor 8,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C02,AC2,00,Normal,Door Type
+Floor 8,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C03,AC3,00,0,Check Event Room
+Floor 8,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C10,AD0,08 00,8,Destination Room
+Floor 8,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C12,AD2,00,Normal,Door Type
+Floor 8,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C13,AD3,00,0,Check Event Room
+Floor 8,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C14,AD4,06 00,6,Destination Room
+Floor 8,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C16,AD6,00,Normal,Door Type
+Floor 8,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C17,AD7,00,0,Check Event Room
+Floor 8,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C18,AD8,02 00,2,Destination Room
+Floor 8,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C1A,ADA,00,Normal,Door Type
+Floor 8,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C1B,ADB,00,0,Check Event Room
+Floor 8,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C1C,ADC,04 00,4,Destination Room
+Floor 8,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C1E,ADE,00,Normal,Door Type
+Floor 8,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C1F,ADF,00,0,Check Event Room
+Floor 8,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C2C,AEC,00 00,0,Destination Room
+Floor 8,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C2E,AEE,00,Normal,Door Type
+Floor 8,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C2F,AEF,00,0,Check Event Room
+Floor 8,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C30,AF0,00 00,0,Destination Room
+Floor 8,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C32,AF2,00,Normal,Door Type
+Floor 8,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C33,AF3,00,0,Check Event Room
+Floor 8,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C34,AF4,03 00,3,Destination Room
+Floor 8,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C36,AF6,02,To Event 2,Door Type
+Floor 8,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C37,AF7,00,0,Check Event Room
+Floor 8,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C38,AF8,05 00,5,Destination Room
+Floor 8,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C3A,AFA,00,Normal,Door Type
+Floor 8,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C3B,AFB,00,0,Check Event Room
+Floor 8,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C48,B08,0A 00,10,Destination Room
+Floor 8,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C4A,B0A,00,Normal,Door Type
+Floor 8,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C4B,B0B,00,0,Check Event Room
+Floor 8,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C4C,B0C,00 00,0,Destination Room
+Floor 8,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C4E,B0E,00,Normal,Door Type
+Floor 8,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C4F,B0F,00,0,Check Event Room
+Floor 8,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C50,B10,00 00,0,Destination Room
+Floor 8,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C52,B12,00,Normal,Door Type
+Floor 8,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C53,B13,00,0,Check Event Room
+Floor 8,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C54,B14,00 00,0,Destination Room
+Floor 8,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C56,B16,00,Normal,Door Type
+Floor 8,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C57,B17,00,0,Check Event Room
+Floor 8,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C64,B24,0B 00,11,Destination Room
+Floor 8,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C66,B26,00,Normal,Door Type
+Floor 8,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C67,B27,00,0,Check Event Room
+Floor 8,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C68,B28,09 00,9,Destination Room
+Floor 8,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C6A,B2A,01,To Event 1,Door Type
+Floor 8,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C6B,B2B,00,0,Check Event Room
+Floor 8,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C6C,B2C,05 00,5,Destination Room
+Floor 8,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C6E,B2E,00,Normal,Door Type
+Floor 8,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C6F,B2F,00,0,Check Event Room
+Floor 8,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C70,B30,00 00,0,Destination Room
+Floor 8,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C72,B32,00,Normal,Door Type
+Floor 8,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C73,B33,00,0,Check Event Room
+Floor 8,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C80,B40,00 00,0,Destination Room
+Floor 8,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C82,B42,00,Normal,Door Type
+Floor 8,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C83,B43,00,0,Check Event Room
+Floor 8,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C84,B44,00 00,0,Destination Room
+Floor 8,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C86,B46,00,Normal,Door Type
+Floor 8,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C87,B47,00,0,Check Event Room
+Floor 8,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C88,B48,00 00,0,Destination Room
+Floor 8,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C8A,B4A,00,Normal,Door Type
+Floor 8,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C8B,B4B,00,0,Check Event Room
+Floor 8,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C8C,B4C,00 00,0,Destination Room
+Floor 8,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C8E,B4E,07,One-Way,Door Type
+Floor 8,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C8F,B4F,00,0,Check Event Room
+Floor 8,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C9C,B5C,00 00,0,Destination Room
+Floor 8,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C9E,B5E,00,Normal,Door Type
+Floor 8,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,C9F,B5F,00,0,Check Event Room
+Floor 8,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CA0,B60,0B 00,11,Destination Room
+Floor 8,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CA2,B62,00,Normal,Door Type
+Floor 8,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CA3,B63,00,0,Check Event Room
+Floor 8,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CA4,B64,07 00,7,Destination Room
+Floor 8,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CA6,B66,06,To Extra,Door Type
+Floor 8,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CA7,B67,00,0,Check Event Room
+Floor 8,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CA8,B68,00 00,0,Destination Room
+Floor 8,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CAA,B6A,00,Normal,Door Type
+Floor 8,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CAB,B6B,00,0,Check Event Room
+Floor 8,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CB8,B78,0E 00,14,Destination Room
+Floor 8,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CBA,B7A,00,Normal,Door Type
+Floor 8,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CBB,B7B,00,0,Check Event Room
+Floor 8,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CBC,B7C,0C 00,12,Destination Room
+Floor 8,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CBE,B7E,00,Normal,Door Type
+Floor 8,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CBF,B7F,00,0,Check Event Room
+Floor 8,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CC0,B80,08 00,8,Destination Room
+Floor 8,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CC2,B82,00,Normal,Door Type
+Floor 8,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CC3,B83,00,0,Check Event Room
+Floor 8,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CC4,B84,0A 00,10,Destination Room
+Floor 8,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CC6,B86,00,Normal,Door Type
+Floor 8,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CC7,B87,00,0,Check Event Room
+Floor 8,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CD4,B94,00 00,0,Destination Room
+Floor 8,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CD6,B96,00,Normal,Door Type
+Floor 8,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CD7,B97,00,0,Check Event Room
+Floor 8,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CD8,B98,00 00,0,Destination Room
+Floor 8,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CDA,B9A,00,Normal,Door Type
+Floor 8,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CDB,B9B,00,0,Check Event Room
+Floor 8,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CDC,B9C,00 00,0,Destination Room
+Floor 8,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CDE,B9E,00,Normal,Door Type
+Floor 8,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CDF,B9F,00,0,Check Event Room
+Floor 8,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CE0,BA0,0B 00,11,Destination Room
+Floor 8,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CE2,BA2,00,Normal,Door Type
+Floor 8,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CE3,BA3,00,0,Check Event Room
+Floor 8,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CF0,BB0,00 00,0,Destination Room
+Floor 8,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CF2,BB2,00,Normal,Door Type
+Floor 8,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CF3,BB3,00,0,Check Event Room
+Floor 8,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CF4,BB4,0E 00,14,Destination Room
+Floor 8,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CF6,BB6,00,Normal,Door Type
+Floor 8,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CF7,BB7,00,0,Check Event Room
+Floor 8,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CF8,BB8,00 00,0,Destination Room
+Floor 8,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CFA,BBA,00,Normal,Door Type
+Floor 8,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CFB,BBB,00,0,Check Event Room
+Floor 8,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CFC,BBC,00 00,0,Destination Room
+Floor 8,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CFE,BBE,00,Normal,Door Type
+Floor 8,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,CFF,BBF,00,0,Check Event Room
+Floor 8,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D0C,BCC,00 00,0,Destination Room
+Floor 8,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D0E,BCE,00,Normal,Door Type
+Floor 8,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D0F,BCF,00,0,Check Event Room
+Floor 8,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D10,BD0,0F 00,15,Destination Room
+Floor 8,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D12,BD2,03,To Event 3,Door Type
+Floor 8,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D13,BD3,00,0,Check Event Room
+Floor 8,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D14,BD4,0B 00,11,Destination Room
+Floor 8,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D16,BD6,00,Normal,Door Type
+Floor 8,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D17,BD7,00,0,Check Event Room
+Floor 8,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D18,BD8,0D 00,13,Destination Room
+Floor 8,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D1A,BDA,05,To Goal,Door Type
+Floor 8,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D1B,BDB,00,0,Check Event Room
+Floor 8,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D28,BE8,00 00,0,Destination Room
+Floor 8,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D2A,BEA,00,Normal,Door Type
+Floor 8,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D2B,BEB,00,0,Check Event Room
+Floor 8,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D2C,BEC,00 00,0,Destination Room
+Floor 8,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D2E,BEE,00,Normal,Door Type
+Floor 8,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D2F,BEF,00,0,Check Event Room
+Floor 8,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D30,BF0,00 00,0,Destination Room
+Floor 8,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D32,BF2,00,Normal,Door Type
+Floor 8,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D33,BF3,00,0,Check Event Room
+Floor 8,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D34,BF4,00 00,0,Destination Room
+Floor 8,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D36,BF6,07,One-Way,Door Type
+Floor 8,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D37,BF7,00,0,Check Event Room
+Floor 9,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D54,C14,02 00,2,Destination Room
+Floor 9,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D56,C16,00,Normal,Door Type
+Floor 9,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D57,C17,00,0,Check Event Room
+Floor 9,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D58,C18,00 00,0,Destination Room
+Floor 9,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D5A,C1A,00,Normal,Door Type
+Floor 9,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D5B,C1B,00,0,Check Event Room
+Floor 9,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D5C,C1C,00 00,0,Destination Room
+Floor 9,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D5E,C1E,00,Normal,Door Type
+Floor 9,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D5F,C1F,00,0,Check Event Room
+Floor 9,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D60,C20,00 00,0,Destination Room
+Floor 9,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D62,C22,00,Normal,Door Type
+Floor 9,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D63,C23,00,0,Check Event Room
+Floor 9,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D70,C30,05 00,5,Destination Room
+Floor 9,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D72,C32,00,Normal,Door Type
+Floor 9,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D73,C33,00,0,Check Event Room
+Floor 9,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D74,C34,00 00,0,Destination Room
+Floor 9,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D76,C36,00,Normal,Door Type
+Floor 9,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D77,C37,00,0,Check Event Room
+Floor 9,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D78,C38,00 00,0,Destination Room
+Floor 9,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D7A,C3A,07,One-Way,Door Type
+Floor 9,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D7B,C3B,00,0,Check Event Room
+Floor 9,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D7C,C3C,00 00,0,Destination Room
+Floor 9,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D7E,C3E,00,Normal,Door Type
+Floor 9,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D7F,C3F,00,0,Check Event Room
+Floor 9,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D8C,C4C,06 00,6,Destination Room
+Floor 9,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D8E,C4E,00,Normal,Door Type
+Floor 9,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D8F,C4F,00,0,Check Event Room
+Floor 9,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D90,C50,04 00,4,Destination Room
+Floor 9,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D92,C52,02,To Event 2,Door Type
+Floor 9,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D93,C53,00,0,Check Event Room
+Floor 9,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D94,C54,00 00,0,Destination Room
+Floor 9,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D96,C56,00,Normal,Door Type
+Floor 9,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D97,C57,00,0,Check Event Room
+Floor 9,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D98,C58,00 00,0,Destination Room
+Floor 9,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D9A,C5A,00,Normal,Door Type
+Floor 9,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,D9B,C5B,00,0,Check Event Room
+Floor 9,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DA8,C68,00 00,0,Destination Room
+Floor 9,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DAA,C6A,00,Normal,Door Type
+Floor 9,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DAB,C6B,00,0,Check Event Room
+Floor 9,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DAC,C6C,00 00,0,Destination Room
+Floor 9,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DAE,C6E,00,Normal,Door Type
+Floor 9,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DAF,C6F,00,0,Check Event Room
+Floor 9,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DB0,C70,00 00,0,Destination Room
+Floor 9,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DB2,C72,00,Normal,Door Type
+Floor 9,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DB3,C73,00,0,Check Event Room
+Floor 9,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DB4,C74,00 00,0,Destination Room
+Floor 9,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DB6,C76,07,One-Way,Door Type
+Floor 9,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DB7,C77,00,0,Check Event Room
+Floor 9,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DC4,C84,08 00,8,Destination Room
+Floor 9,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DC6,C86,00,Normal,Door Type
+Floor 9,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DC7,C87,00,0,Check Event Room
+Floor 9,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DC8,C88,00 00,0,Destination Room
+Floor 9,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DCA,C8A,00,Normal,Door Type
+Floor 9,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DCB,C8B,00,0,Check Event Room
+Floor 9,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DCC,C8C,02 00,2,Destination Room
+Floor 9,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DCE,C8E,00,Normal,Door Type
+Floor 9,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DCF,C8F,00,0,Check Event Room
+Floor 9,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DD0,C90,00 00,0,Destination Room
+Floor 9,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DD2,C92,00,Normal,Door Type
+Floor 9,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DD3,C93,00,0,Check Event Room
+Floor 9,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DE0,CA0,09 00,9,Destination Room
+Floor 9,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DE2,CA2,00,Normal,Door Type
+Floor 9,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DE3,CA3,00,0,Check Event Room
+Floor 9,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DE4,CA4,00 00,0,Destination Room
+Floor 9,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DE6,CA6,00,Normal,Door Type
+Floor 9,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DE7,CA7,00,0,Check Event Room
+Floor 9,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DE8,CA8,03 00,3,Destination Room
+Floor 9,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DEA,CAA,00,Normal,Door Type
+Floor 9,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DEB,CAB,00,0,Check Event Room
+Floor 9,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DEC,CAC,00 00,0,Destination Room
+Floor 9,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DEE,CAE,00,Normal,Door Type
+Floor 9,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DEF,CAF,00,0,Check Event Room
+Floor 9,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DFC,CBC,00 00,0,Destination Room
+Floor 9,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DFE,CBE,00,Normal,Door Type
+Floor 9,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,DFF,CBF,00,0,Check Event Room
+Floor 9,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E00,CC0,00 00,0,Destination Room
+Floor 9,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E02,CC2,07,One-Way,Door Type
+Floor 9,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E03,CC3,00,0,Check Event Room
+Floor 9,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E04,CC4,00 00,0,Destination Room
+Floor 9,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E06,CC6,00,Normal,Door Type
+Floor 9,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E07,CC7,00,0,Check Event Room
+Floor 9,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E08,CC8,00 00,0,Destination Room
+Floor 9,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E0A,CCA,00,Normal,Door Type
+Floor 9,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E0B,CCB,00,0,Check Event Room
+Floor 9,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E18,CD8,0B 00,11,Destination Room
+Floor 9,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E1A,CDA,00,Normal,Door Type
+Floor 9,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E1B,CDB,00,0,Check Event Room
+Floor 9,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E1C,CDC,09 00,9,Destination Room
+Floor 9,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E1E,CDE,00,Normal,Door Type
+Floor 9,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E1F,CDF,00,0,Check Event Room
+Floor 9,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E20,CE0,05 00,5,Destination Room
+Floor 9,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E22,CE2,00,Normal,Door Type
+Floor 9,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E23,CE3,00,0,Check Event Room
+Floor 9,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E24,CE4,07 00,7,Destination Room
+Floor 9,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E26,CE6,03,To Event 3,Door Type
+Floor 9,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E27,CE7,00,0,Check Event Room
+Floor 9,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E34,CF4,0C 00,12,Destination Room
+Floor 9,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E36,CF6,00,Normal,Door Type
+Floor 9,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E37,CF7,00,0,Check Event Room
+Floor 9,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E38,CF8,0A 00,10,Destination Room
+Floor 9,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E3A,CFA,05,To Goal,Door Type
+Floor 9,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E3B,CFB,00,0,Check Event Room
+Floor 9,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E3C,CFC,06 00,6,Destination Room
+Floor 9,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E3E,CFE,00,Normal,Door Type
+Floor 9,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E3F,CFF,00,0,Check Event Room
+Floor 9,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E40,D00,08 00,8,Destination Room
+Floor 9,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E42,D02,00,Normal,Door Type
+Floor 9,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E43,D03,00,0,Check Event Room
+Floor 9,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E50,D10,00 00,0,Destination Room
+Floor 9,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E52,D12,00,Normal,Door Type
+Floor 9,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E53,D13,00,0,Check Event Room
+Floor 9,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E54,D14,00 00,0,Destination Room
+Floor 9,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E56,D16,00,Normal,Door Type
+Floor 9,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E57,D17,00,0,Check Event Room
+Floor 9,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E58,D18,00 00,0,Destination Room
+Floor 9,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E5A,D1A,00,Normal,Door Type
+Floor 9,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E5B,D1B,00,0,Check Event Room
+Floor 9,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E5C,D1C,09 00,9,Destination Room
+Floor 9,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E5E,D1E,00,Normal,Door Type
+Floor 9,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E5F,D1F,00,0,Check Event Room
+Floor 9,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E6C,D2C,0E 00,14,Destination Room
+Floor 9,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E6E,D2E,00,Normal,Door Type
+Floor 9,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E6F,D2F,00,0,Check Event Room
+Floor 9,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E70,D30,00 00,0,Destination Room
+Floor 9,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E72,D32,00,Normal,Door Type
+Floor 9,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E73,D33,00,0,Check Event Room
+Floor 9,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E74,D34,08 00,8,Destination Room
+Floor 9,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E76,D36,00,Normal,Door Type
+Floor 9,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E77,D37,00,0,Check Event Room
+Floor 9,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E78,D38,00 00,0,Destination Room
+Floor 9,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E7A,D3A,00,Normal,Door Type
+Floor 9,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E7B,D3B,00,0,Check Event Room
+Floor 9,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E88,D48,0F 00,15,Destination Room
+Floor 9,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E8A,D4A,00,Normal,Door Type
+Floor 9,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E8B,D4B,00,0,Check Event Room
+Floor 9,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E8C,D4C,00 00,0,Destination Room
+Floor 9,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E8E,D4E,00,Normal,Door Type
+Floor 9,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E8F,D4F,00,0,Check Event Room
+Floor 9,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E90,D50,09 00,9,Destination Room
+Floor 9,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E92,D52,00,Normal,Door Type
+Floor 9,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E93,D53,00,0,Check Event Room
+Floor 9,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E94,D54,00 00,0,Destination Room
+Floor 9,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E96,D56,00,Normal,Door Type
+Floor 9,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,E97,D57,00,0,Check Event Room
+Floor 9,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EA4,D64,00 00,0,Destination Room
+Floor 9,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EA6,D66,00,Normal,Door Type
+Floor 9,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EA7,D67,00,0,Check Event Room
+Floor 9,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EA8,D68,00 00,0,Destination Room
+Floor 9,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EAA,D6A,07,One-Way,Door Type
+Floor 9,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EAB,D6B,00,0,Check Event Room
+Floor 9,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EAC,D6C,00 00,0,Destination Room
+Floor 9,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EAE,D6E,00,Normal,Door Type
+Floor 9,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EAF,D6F,00,0,Check Event Room
+Floor 9,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EB0,D70,00 00,0,Destination Room
+Floor 9,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EB2,D72,00,Normal,Door Type
+Floor 9,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EB3,D73,00,0,Check Event Room
+Floor 9,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EC0,D80,00 00,0,Destination Room
+Floor 9,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EC2,D82,00,Normal,Door Type
+Floor 9,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EC3,D83,00,0,Check Event Room
+Floor 9,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EC4,D84,00 00,0,Destination Room
+Floor 9,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EC6,D86,00,Normal,Door Type
+Floor 9,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EC7,D87,00,0,Check Event Room
+Floor 9,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EC8,D88,0B 00,11,Destination Room
+Floor 9,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ECA,D8A,00,Normal,Door Type
+Floor 9,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ECB,D8B,00,0,Check Event Room
+Floor 9,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ECC,D8C,0D 00,13,Destination Room
+Floor 9,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ECE,D8E,01,To Event 1,Door Type
+Floor 9,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,ECF,D8F,00,0,Check Event Room
+Floor 9,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EDC,D9C,00 00,0,Destination Room
+Floor 9,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EDE,D9E,00,Normal,Door Type
+Floor 9,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EDF,D9F,00,0,Check Event Room
+Floor 9,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EE0,DA0,10 00,16,Destination Room
+Floor 9,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EE2,DA2,06,To Extra,Door Type
+Floor 9,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EE3,DA3,00,0,Check Event Room
+Floor 9,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EE4,DA4,0C 00,12,Destination Room
+Floor 9,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EE6,DA6,00,Normal,Door Type
+Floor 9,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EE7,DA7,00,0,Check Event Room
+Floor 9,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EE8,DA8,00 00,0,Destination Room
+Floor 9,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EEA,DAA,00,Normal,Door Type
+Floor 9,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EEB,DAB,00,0,Check Event Room
+Floor 9,16,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EF8,DB8,00 00,0,Destination Room
+Floor 9,16,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EFA,DBA,00,Normal,Door Type
+Floor 9,16,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EFB,DBB,00,0,Check Event Room
+Floor 9,16,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EFC,DBC,00 00,0,Destination Room
+Floor 9,16,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EFE,DBE,00,Normal,Door Type
+Floor 9,16,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,EFF,DBF,00,0,Check Event Room
+Floor 9,16,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F00,DC0,00 00,0,Destination Room
+Floor 9,16,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F02,DC2,00,Normal,Door Type
+Floor 9,16,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F03,DC3,00,0,Check Event Room
+Floor 9,16,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F04,DC4,0F 00,15,Destination Room
+Floor 9,16,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F06,DC6,00,Normal,Door Type
+Floor 9,16,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F07,DC7,00,0,Check Event Room
+Floor 10,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F24,DE4,05 00,5,Destination Room
+Floor 10,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F26,DE6,00,Normal,Door Type
+Floor 10,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F27,DE7,00,0,Check Event Room
+Floor 10,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F28,DE8,00 00,0,Destination Room
+Floor 10,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F2A,DEA,00,Normal,Door Type
+Floor 10,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F2B,DEB,00,0,Check Event Room
+Floor 10,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F2C,DEC,00 00,0,Destination Room
+Floor 10,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F2E,DEE,00,Normal,Door Type
+Floor 10,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F2F,DEF,00,0,Check Event Room
+Floor 10,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F30,DF0,00 00,0,Destination Room
+Floor 10,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F32,DF2,00,Normal,Door Type
+Floor 10,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F33,DF3,00,0,Check Event Room
+Floor 10,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F40,E00,06 00,6,Destination Room
+Floor 10,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F42,E02,00,Normal,Door Type
+Floor 10,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F43,E03,00,0,Check Event Room
+Floor 10,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F44,E04,00 00,0,Destination Room
+Floor 10,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F46,E06,00,Normal,Door Type
+Floor 10,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F47,E07,00,0,Check Event Room
+Floor 10,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F48,E08,00 00,0,Destination Room
+Floor 10,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F4A,E0A,00,Normal,Door Type
+Floor 10,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F4B,E0B,00,0,Check Event Room
+Floor 10,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F4C,E0C,00 00,0,Destination Room
+Floor 10,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F4E,E0E,00,Normal,Door Type
+Floor 10,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F4F,E0F,00,0,Check Event Room
+Floor 10,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F5C,E1C,08 00,8,Destination Room
+Floor 10,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F5E,E1E,00,Normal,Door Type
+Floor 10,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F5F,E1F,00,0,Check Event Room
+Floor 10,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F60,E20,00 00,0,Destination Room
+Floor 10,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F62,E22,00,Normal,Door Type
+Floor 10,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F63,E23,00,0,Check Event Room
+Floor 10,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F64,E24,00 00,0,Destination Room
+Floor 10,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F66,E26,00,Normal,Door Type
+Floor 10,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F67,E27,00,0,Check Event Room
+Floor 10,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F68,E28,04 00,4,Destination Room
+Floor 10,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F6A,E2A,01,To Event 1,Door Type
+Floor 10,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F6B,E2B,00,0,Check Event Room
+Floor 10,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F78,E38,09 00,9,Destination Room
+Floor 10,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F7A,E3A,00,Normal,Door Type
+Floor 10,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F7B,E3B,00,0,Check Event Room
+Floor 10,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F7C,E3C,00 00,0,Destination Room
+Floor 10,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F7E,E3E,07,One-Way,Door Type
+Floor 10,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F7F,E3F,00,0,Check Event Room
+Floor 10,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F80,E40,00 00,0,Destination Room
+Floor 10,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F82,E42,00,Normal,Door Type
+Floor 10,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F83,E43,00,0,Check Event Room
+Floor 10,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F84,E44,00 00,0,Destination Room
+Floor 10,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F86,E46,00,Normal,Door Type
+Floor 10,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F87,E47,00,0,Check Event Room
+Floor 10,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F94,E54,0A 00,10,Destination Room
+Floor 10,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F96,E56,00,Normal,Door Type
+Floor 10,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F97,E57,00,0,Check Event Room
+Floor 10,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F98,E58,00 00,0,Destination Room
+Floor 10,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F9A,E5A,00,Normal,Door Type
+Floor 10,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F9B,E5B,00,0,Check Event Room
+Floor 10,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F9C,E5C,00 00,0,Destination Room
+Floor 10,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F9E,E5E,07,One-Way,Door Type
+Floor 10,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,F9F,E5F,00,0,Check Event Room
+Floor 10,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FA0,E60,06 00,6,Destination Room
+Floor 10,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FA2,E62,00,Normal,Door Type
+Floor 10,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FA3,E63,00,0,Check Event Room
+Floor 10,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FB0,E70,00 00,0,Destination Room
+Floor 10,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FB2,E72,00,Normal,Door Type
+Floor 10,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FB3,E73,00,0,Check Event Room
+Floor 10,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FB4,E74,05 00,5,Destination Room
+Floor 10,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FB6,E76,00,Normal,Door Type
+Floor 10,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FB7,E77,00,0,Check Event Room
+Floor 10,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FB8,E78,02 00,2,Destination Room
+Floor 10,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FBA,E7A,00,Normal,Door Type
+Floor 10,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FBB,E7B,00,0,Check Event Room
+Floor 10,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FBC,E7C,07 00,7,Destination Room
+Floor 10,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FBE,E7E,00,Normal,Door Type
+Floor 10,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FBF,E7F,00,0,Check Event Room
+Floor 10,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FCC,E8C,0C 00,12,Destination Room
+Floor 10,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FCE,E8E,00,Normal,Door Type
+Floor 10,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FCF,E8F,00,0,Check Event Room
+Floor 10,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FD0,E90,06 00,6,Destination Room
+Floor 10,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FD2,E92,00,Normal,Door Type
+Floor 10,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FD3,E93,00,0,Check Event Room
+Floor 10,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FD4,E94,00 00,0,Destination Room
+Floor 10,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FD6,E96,00,Normal,Door Type
+Floor 10,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FD7,E97,00,0,Check Event Room
+Floor 10,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FD8,E98,08 00,8,Destination Room
+Floor 10,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FDA,E9A,00,Normal,Door Type
+Floor 10,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FDB,E9B,00,0,Check Event Room
+Floor 10,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FE8,EA8,00 00,0,Destination Room
+Floor 10,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FEA,EAA,00,Normal,Door Type
+Floor 10,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FEB,EAB,00,0,Check Event Room
+Floor 10,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FEC,EAC,07 00,7,Destination Room
+Floor 10,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FEE,EAE,00,Normal,Door Type
+Floor 10,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FEF,EAF,00,0,Check Event Room
+Floor 10,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FF0,EB0,03 00,3,Destination Room
+Floor 10,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FF2,EB2,00,Normal,Door Type
+Floor 10,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FF3,EB3,00,0,Check Event Room
+Floor 10,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FF4,EB4,09 00,9,Destination Room
+Floor 10,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FF6,EB6,00,Normal,Door Type
+Floor 10,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,FF7,EB7,00,0,Check Event Room
+Floor 10,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1004,EC4,0E 00,14,Destination Room
+Floor 10,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1006,EC6,06,To Extra,Door Type
+Floor 10,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1007,EC7,00,0,Check Event Room
+Floor 10,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1008,EC8,08 00,8,Destination Room
+Floor 10,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,100A,ECA,00,Normal,Door Type
+Floor 10,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,100B,ECB,00,0,Check Event Room
+Floor 10,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,100C,ECC,00 00,0,Destination Room
+Floor 10,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,100E,ECE,07,One-Way,Door Type
+Floor 10,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,100F,ECF,00,0,Check Event Room
+Floor 10,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1010,ED0,00 00,0,Destination Room
+Floor 10,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1012,ED2,00,Normal,Door Type
+Floor 10,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1013,ED3,00,0,Check Event Room
+Floor 10,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1020,EE0,00 00,0,Destination Room
+Floor 10,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1022,EE2,00,Normal,Door Type
+Floor 10,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1023,EE3,00,0,Check Event Room
+Floor 10,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1024,EE4,00 00,0,Destination Room
+Floor 10,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1026,EE6,00,Normal,Door Type
+Floor 10,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1027,EE7,00,0,Check Event Room
+Floor 10,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1028,EE8,05 00,5,Destination Room
+Floor 10,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,102A,EEA,00,Normal,Door Type
+Floor 10,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,102B,EEB,00,0,Check Event Room
+Floor 10,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,102C,EEC,00 00,0,Destination Room
+Floor 10,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,102E,EEE,07,One-Way,Door Type
+Floor 10,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,102F,EEF,00,0,Check Event Room
+Floor 10,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,103C,EFC,00 00,0,Destination Room
+Floor 10,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,103E,EFE,00,Normal,Door Type
+Floor 10,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,103F,EFF,00,0,Check Event Room
+Floor 10,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1040,F00,0A 00,10,Destination Room
+Floor 10,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1042,F02,00,Normal,Door Type
+Floor 10,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1043,F03,00,0,Check Event Room
+Floor 10,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1044,F04,00 00,0,Destination Room
+Floor 10,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1046,F06,00,Normal,Door Type
+Floor 10,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1047,F07,00,0,Check Event Room
+Floor 10,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1048,F08,00 00,0,Destination Room
+Floor 10,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,104A,F0A,07,One-Way,Door Type
+Floor 10,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,104B,F0B,00,0,Check Event Room
+Floor 10,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1058,F18,10 00,16,Destination Room
+Floor 10,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,105A,F1A,00,Normal,Door Type
+Floor 10,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,105B,F1B,00,0,Check Event Room
+Floor 10,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,105C,F1C,0B 00,11,Destination Room
+Floor 10,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,105E,F1E,02,To Event 2,Door Type
+Floor 10,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,105F,F1F,00,0,Check Event Room
+Floor 10,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1060,F20,07 00,7,Destination Room
+Floor 10,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1062,F22,00,Normal,Door Type
+Floor 10,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1063,F23,00,0,Check Event Room
+Floor 10,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1064,F24,00 00,0,Destination Room
+Floor 10,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1066,F26,00,Normal,Door Type
+Floor 10,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1067,F27,00,0,Check Event Room
+Floor 10,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1074,F34,00 00,0,Destination Room
+Floor 10,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1076,F36,07,One-Way,Door Type
+Floor 10,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1077,F37,00,0,Check Event Room
+Floor 10,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1078,F38,00 00,0,Destination Room
+Floor 10,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,107A,F3A,00,Normal,Door Type
+Floor 10,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,107B,F3B,00,0,Check Event Room
+Floor 10,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,107C,F3C,00 00,0,Destination Room
+Floor 10,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,107E,F3E,00,Normal,Door Type
+Floor 10,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,107F,F3F,00,0,Check Event Room
+Floor 10,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1080,F40,00 00,0,Destination Room
+Floor 10,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1082,F42,00,Normal,Door Type
+Floor 10,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1083,F43,00,0,Check Event Room
+Floor 10,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1090,F50,00 00,0,Destination Room
+Floor 10,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1092,F52,00,Normal,Door Type
+Floor 10,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1093,F53,00,0,Check Event Room
+Floor 10,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1094,F54,00 00,0,Destination Room
+Floor 10,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1096,F56,00,Normal,Door Type
+Floor 10,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1097,F57,00,0,Check Event Room
+Floor 10,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1098,F58,09 00,9,Destination Room
+Floor 10,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,109A,F5A,00,Normal,Door Type
+Floor 10,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,109B,F5B,00,0,Check Event Room
+Floor 10,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,109C,F5C,00 00,0,Destination Room
+Floor 10,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,109E,F5E,00,Normal,Door Type
+Floor 10,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,109F,F5F,00,0,Check Event Room
+Floor 10,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10AC,F6C,00 00,0,Destination Room
+Floor 10,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10AE,F6E,00,Normal,Door Type
+Floor 10,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10AF,F6F,00,0,Check Event Room
+Floor 10,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10B0,F70,00 00,0,Destination Room
+Floor 10,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10B2,F72,00,Normal,Door Type
+Floor 10,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10B3,F73,00,0,Check Event Room
+Floor 10,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10B4,F74,00 00,0,Destination Room
+Floor 10,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10B6,F76,00,Normal,Door Type
+Floor 10,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10B7,F77,00,0,Check Event Room
+Floor 10,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10B8,F78,10 00,16,Destination Room
+Floor 10,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10BA,F7A,00,Normal,Door Type
+Floor 10,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10BB,F7B,00,0,Check Event Room
+Floor 10,16,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10C8,F88,12 00,18,Destination Room
+Floor 10,16,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10CA,F8A,05,To Goal,Door Type
+Floor 10,16,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10CB,F8B,00,0,Check Event Room
+Floor 10,16,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10CC,F8C,0F 00,15,Destination Room
+Floor 10,16,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10CE,F8E,00,Normal,Door Type
+Floor 10,16,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10CF,F8F,00,0,Check Event Room
+Floor 10,16,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10D0,F90,0C 00,12,Destination Room
+Floor 10,16,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10D2,F92,00,Normal,Door Type
+Floor 10,16,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10D3,F93,00,0,Check Event Room
+Floor 10,16,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10D4,F94,11 00,17,Destination Room
+Floor 10,16,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10D6,F96,00,Normal,Door Type
+Floor 10,16,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10D7,F97,00,0,Check Event Room
+Floor 10,17,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10E4,FA4,00 00,0,Destination Room
+Floor 10,17,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10E6,FA6,00,Normal,Door Type
+Floor 10,17,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10E7,FA7,00,0,Check Event Room
+Floor 10,17,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10E8,FA8,10 00,16,Destination Room
+Floor 10,17,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10EA,FAA,00,Normal,Door Type
+Floor 10,17,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10EB,FAB,00,0,Check Event Room
+Floor 10,17,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10EC,FAC,0D 00,13,Destination Room
+Floor 10,17,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10EE,FAE,03,To Event 3,Door Type
+Floor 10,17,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10EF,FAF,00,0,Check Event Room
+Floor 10,17,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10F0,FB0,00 00,0,Destination Room
+Floor 10,17,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10F2,FB2,00,Normal,Door Type
+Floor 10,17,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,10F3,FB3,00,0,Check Event Room
+Floor 10,18,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1100,FC0,00 00,0,Destination Room
+Floor 10,18,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1102,FC2,00,Normal,Door Type
+Floor 10,18,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1103,FC3,00,0,Check Event Room
+Floor 10,18,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1104,FC4,00 00,0,Destination Room
+Floor 10,18,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1106,FC6,00,Normal,Door Type
+Floor 10,18,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1107,FC7,00,0,Check Event Room
+Floor 10,18,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1108,FC8,10 00,16,Destination Room
+Floor 10,18,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,110A,FCA,00,Normal,Door Type
+Floor 10,18,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,110B,FCB,00,0,Check Event Room
+Floor 10,18,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,110C,FCC,00 00,0,Destination Room
+Floor 10,18,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,110E,FCE,00,Normal,Door Type
+Floor 10,18,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,110F,FCF,00,0,Check Event Room
+Floor 11,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,112C,FEC,05 00,5,Destination Room
+Floor 11,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,112E,FEE,00,Normal,Door Type
+Floor 11,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,112F,FEF,00,0,Check Event Room
+Floor 11,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1130,FF0,00 00,0,Destination Room
+Floor 11,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1132,FF2,00,Normal,Door Type
+Floor 11,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1133,FF3,00,0,Check Event Room
+Floor 11,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1134,FF4,00 00,0,Destination Room
+Floor 11,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1136,FF6,00,Normal,Door Type
+Floor 11,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1137,FF7,00,0,Check Event Room
+Floor 11,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1138,FF8,00 00,0,Destination Room
+Floor 11,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,113A,FFA,00,Normal,Door Type
+Floor 11,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,113B,FFB,00,0,Check Event Room
+Floor 11,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1148,1008,06 00,6,Destination Room
+Floor 11,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,114A,100A,00,Normal,Door Type
+Floor 11,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,114B,100B,00,0,Check Event Room
+Floor 11,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,114C,100C,03 00,3,Destination Room
+Floor 11,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,114E,100E,00,Normal,Door Type
+Floor 11,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,114F,100F,00,0,Check Event Room
+Floor 11,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1150,1010,00 00,0,Destination Room
+Floor 11,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1152,1012,00,Normal,Door Type
+Floor 11,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1153,1013,00,0,Check Event Room
+Floor 11,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1154,1014,00 00,0,Destination Room
+Floor 11,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1156,1016,00,Normal,Door Type
+Floor 11,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1157,1017,00,0,Check Event Room
+Floor 11,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1164,1024,00 00,0,Destination Room
+Floor 11,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1166,1026,00,Normal,Door Type
+Floor 11,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1167,1027,00,0,Check Event Room
+Floor 11,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1168,1028,04 00,4,Destination Room
+Floor 11,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,116A,102A,00,Normal,Door Type
+Floor 11,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,116B,102B,00,0,Check Event Room
+Floor 11,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,116C,102C,00 00,0,Destination Room
+Floor 11,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,116E,102E,00,Normal,Door Type
+Floor 11,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,116F,102F,00,0,Check Event Room
+Floor 11,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1170,1030,02 00,2,Destination Room
+Floor 11,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1172,1032,00,Normal,Door Type
+Floor 11,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1173,1033,00,0,Check Event Room
+Floor 11,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1180,1040,00 00,0,Destination Room
+Floor 11,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1182,1042,00,Normal,Door Type
+Floor 11,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1183,1043,00,0,Check Event Room
+Floor 11,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1184,1044,00 00,0,Destination Room
+Floor 11,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1186,1046,00,Normal,Door Type
+Floor 11,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1187,1047,00,0,Check Event Room
+Floor 11,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1188,1048,00 00,0,Destination Room
+Floor 11,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,118A,104A,00,Normal,Door Type
+Floor 11,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,118B,104B,00,0,Check Event Room
+Floor 11,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,118C,104C,03 00,3,Destination Room
+Floor 11,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,118E,104E,00,Normal,Door Type
+Floor 11,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,118F,104F,00,0,Check Event Room
+Floor 11,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,119C,105C,00 00,0,Destination Room
+Floor 11,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,119E,105E,00,Normal,Door Type
+Floor 11,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,119F,105F,00,0,Check Event Room
+Floor 11,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11A0,1060,06 00,6,Destination Room
+Floor 11,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11A2,1062,00,Normal,Door Type
+Floor 11,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11A3,1063,00,0,Check Event Room
+Floor 11,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11A4,1064,00 00,0,Destination Room
+Floor 11,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11A6,1066,07,One-Way,Door Type
+Floor 11,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11A7,1067,00,0,Check Event Room
+Floor 11,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11A8,1068,00 00,0,Destination Room
+Floor 11,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11AA,106A,00,Normal,Door Type
+Floor 11,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11AB,106B,00,0,Check Event Room
+Floor 11,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11B8,1078,08 00,8,Destination Room
+Floor 11,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11BA,107A,00,Normal,Door Type
+Floor 11,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11BB,107B,00,0,Check Event Room
+Floor 11,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11BC,107C,00 00,0,Destination Room
+Floor 11,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11BE,107E,00,Normal,Door Type
+Floor 11,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11BF,107F,00,0,Check Event Room
+Floor 11,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11C0,1080,02 00,2,Destination Room
+Floor 11,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11C2,1082,00,Normal,Door Type
+Floor 11,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11C3,1083,00,0,Check Event Room
+Floor 11,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11C4,1084,05 00,5,Destination Room
+Floor 11,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11C6,1086,00,Normal,Door Type
+Floor 11,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11C7,1087,00,0,Check Event Room
+Floor 11,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11D4,1094,00 00,0,Destination Room
+Floor 11,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11D6,1096,00,Normal,Door Type
+Floor 11,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11D7,1097,00,0,Check Event Room
+Floor 11,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11D8,1098,08 00,8,Destination Room
+Floor 11,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11DA,109A,00,Normal,Door Type
+Floor 11,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11DB,109B,00,0,Check Event Room
+Floor 11,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11DC,109C,00 00,0,Destination Room
+Floor 11,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11DE,109E,00,Normal,Door Type
+Floor 11,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11DF,109F,00,0,Check Event Room
+Floor 11,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11E0,10A0,00 00,0,Destination Room
+Floor 11,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11E2,10A2,00,Normal,Door Type
+Floor 11,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11E3,10A3,00,0,Check Event Room
+Floor 11,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11F0,10B0,0B 00,11,Destination Room
+Floor 11,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11F2,10B2,00,Normal,Door Type
+Floor 11,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11F3,10B3,00,0,Check Event Room
+Floor 11,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11F4,10B4,09 00,9,Destination Room
+Floor 11,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11F6,10B6,05,To Goal,Door Type
+Floor 11,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11F7,10B7,00,0,Check Event Room
+Floor 11,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11F8,10B8,06 00,6,Destination Room
+Floor 11,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11FA,10BA,00,Normal,Door Type
+Floor 11,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11FB,10BB,00,0,Check Event Room
+Floor 11,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11FC,10BC,07 00,7,Destination Room
+Floor 11,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11FE,10BE,06,To Extra,Door Type
+Floor 11,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,11FF,10BF,00,0,Check Event Room
+Floor 11,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,120C,10CC,00 00,0,Destination Room
+Floor 11,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,120E,10CE,00,Normal,Door Type
+Floor 11,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,120F,10CF,00,0,Check Event Room
+Floor 11,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1210,10D0,00 00,0,Destination Room
+Floor 11,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1212,10D2,00,Normal,Door Type
+Floor 11,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1213,10D3,00,0,Check Event Room
+Floor 11,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1214,10D4,00 00,0,Destination Room
+Floor 11,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1216,10D6,00,Normal,Door Type
+Floor 11,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1217,10D7,00,0,Check Event Room
+Floor 11,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1218,10D8,08 00,8,Destination Room
+Floor 11,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,121A,10DA,00,Normal,Door Type
+Floor 11,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,121B,10DB,00,0,Check Event Room
+Floor 11,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1228,10E8,00 00,0,Destination Room
+Floor 11,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,122A,10EA,00,Normal,Door Type
+Floor 11,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,122B,10EB,00,0,Check Event Room
+Floor 11,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,122C,10EC,00 00,0,Destination Room
+Floor 11,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,122E,10EE,07,One-Way,Door Type
+Floor 11,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,122F,10EF,00,0,Check Event Room
+Floor 11,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1230,10F0,00 00,0,Destination Room
+Floor 11,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1232,10F2,00,Normal,Door Type
+Floor 11,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1233,10F3,00,0,Check Event Room
+Floor 11,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1234,10F4,00 00,0,Destination Room
+Floor 11,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1236,10F6,00,Normal,Door Type
+Floor 11,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1237,10F7,00,0,Check Event Room
+Floor 11,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1244,1104,00 00,0,Destination Room
+Floor 11,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1246,1106,00,Normal,Door Type
+Floor 11,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1247,1107,00,0,Check Event Room
+Floor 11,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1248,1108,00 00,0,Destination Room
+Floor 11,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,124A,110A,00,Normal,Door Type
+Floor 11,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,124B,110B,00,0,Check Event Room
+Floor 11,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,124C,110C,08 00,8,Destination Room
+Floor 11,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,124E,110E,00,Normal,Door Type
+Floor 11,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,124F,110F,00,0,Check Event Room
+Floor 11,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1250,1110,0A 00,10,Destination Room
+Floor 11,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1252,1112,01,To Event 1,Door Type
+Floor 11,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1253,1113,00,0,Check Event Room
+Floor 12,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1270,1130,02 00,2,Destination Room
+Floor 12,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1272,1132,00,Normal,Door Type
+Floor 12,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1273,1133,00,0,Check Event Room
+Floor 12,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1274,1134,00 00,0,Destination Room
+Floor 12,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1276,1136,00,Normal,Door Type
+Floor 12,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1277,1137,00,0,Check Event Room
+Floor 12,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1278,1138,00 00,0,Destination Room
+Floor 12,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,127A,113A,00,Normal,Door Type
+Floor 12,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,127B,113B,00,0,Check Event Room
+Floor 12,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,127C,113C,00 00,0,Destination Room
+Floor 12,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,127E,113E,00,Normal,Door Type
+Floor 12,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,127F,113F,00,0,Check Event Room
+Floor 12,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,128C,114C,00 00,0,Destination Room
+Floor 12,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,128E,114E,07,One-Way,Door Type
+Floor 12,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,128F,114F,00,0,Check Event Room
+Floor 12,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1290,1150,00 00,0,Destination Room
+Floor 12,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1292,1152,00,Normal,Door Type
+Floor 12,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1293,1153,00,0,Check Event Room
+Floor 12,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1294,1154,00 00,0,Destination Room
+Floor 12,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1296,1156,07,One-Way,Door Type
+Floor 12,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1297,1157,00,0,Check Event Room
+Floor 12,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1298,1158,03 00,3,Destination Room
+Floor 12,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,129A,115A,00,Normal,Door Type
+Floor 12,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,129B,115B,00,0,Check Event Room
+Floor 12,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12A8,1168,05 00,5,Destination Room
+Floor 12,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12AA,116A,00,Normal,Door Type
+Floor 12,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12AB,116B,00,0,Check Event Room
+Floor 12,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12AC,116C,02 00,2,Destination Room
+Floor 12,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12AE,116E,00,Normal,Door Type
+Floor 12,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12AF,116F,00,0,Check Event Room
+Floor 12,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12B0,1170,00 00,0,Destination Room
+Floor 12,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12B2,1172,00,Normal,Door Type
+Floor 12,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12B3,1173,00,0,Check Event Room
+Floor 12,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12B4,1174,00 00,0,Destination Room
+Floor 12,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12B6,1176,00,Normal,Door Type
+Floor 12,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12B7,1177,00,0,Check Event Room
+Floor 12,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12C4,1184,00 00,0,Destination Room
+Floor 12,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12C6,1186,00,Normal,Door Type
+Floor 12,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12C7,1187,00,0,Check Event Room
+Floor 12,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12C8,1188,00 00,0,Destination Room
+Floor 12,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12CA,118A,00,Normal,Door Type
+Floor 12,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12CB,118B,00,0,Check Event Room
+Floor 12,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12CC,118C,02 00,2,Destination Room
+Floor 12,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12CE,118E,00,Normal,Door Type
+Floor 12,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12CF,118F,00,0,Check Event Room
+Floor 12,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12D0,1190,00 00,0,Destination Room
+Floor 12,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12D2,1192,07,One-Way,Door Type
+Floor 12,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12D3,1193,00,0,Check Event Room
+Floor 12,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12E0,11A0,07 00,7,Destination Room
+Floor 12,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12E2,11A2,00,Normal,Door Type
+Floor 12,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12E3,11A3,00,0,Check Event Room
+Floor 12,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12E4,11A4,04 00,4,Destination Room
+Floor 12,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12E6,11A6,01,To Event 1,Door Type
+Floor 12,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12E7,11A7,00,0,Check Event Room
+Floor 12,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12E8,11A8,03 00,3,Destination Room
+Floor 12,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12EA,11AA,00,Normal,Door Type
+Floor 12,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12EB,11AB,00,0,Check Event Room
+Floor 12,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12EC,11AC,00 00,0,Destination Room
+Floor 12,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12EE,11AE,00,Normal,Door Type
+Floor 12,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12EF,11AF,00,0,Check Event Room
+Floor 12,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12FC,11BC,0A 00,10,Destination Room
+Floor 12,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12FE,11BE,00,Normal,Door Type
+Floor 12,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,12FF,11BF,00,0,Check Event Room
+Floor 12,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1300,11C0,00 00,0,Destination Room
+Floor 12,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1302,11C2,00,Normal,Door Type
+Floor 12,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1303,11C3,00,0,Check Event Room
+Floor 12,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1304,11C4,00 00,0,Destination Room
+Floor 12,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1306,11C6,00,Normal,Door Type
+Floor 12,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1307,11C7,00,0,Check Event Room
+Floor 12,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1308,11C8,00 00,0,Destination Room
+Floor 12,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,130A,11CA,00,Normal,Door Type
+Floor 12,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,130B,11CB,00,0,Check Event Room
+Floor 12,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1318,11D8,0B 00,11,Destination Room
+Floor 12,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,131A,11DA,00,Normal,Door Type
+Floor 12,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,131B,11DB,00,0,Check Event Room
+Floor 12,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,131C,11DC,00 00,0,Destination Room
+Floor 12,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,131E,11DE,00,Normal,Door Type
+Floor 12,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,131F,11DF,00,0,Check Event Room
+Floor 12,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1320,11E0,05 00,5,Destination Room
+Floor 12,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1322,11E2,00,Normal,Door Type
+Floor 12,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1323,11E3,00,0,Check Event Room
+Floor 12,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1324,11E4,00 00,0,Destination Room
+Floor 12,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1326,11E6,00,Normal,Door Type
+Floor 12,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1327,11E7,00,0,Check Event Room
+Floor 12,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1334,11F4,00 00,0,Destination Room
+Floor 12,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1336,11F6,00,Normal,Door Type
+Floor 12,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1337,11F7,00,0,Check Event Room
+Floor 12,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1338,11F8,00 00,0,Destination Room
+Floor 12,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,133A,11FA,00,Normal,Door Type
+Floor 12,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,133B,11FB,00,0,Check Event Room
+Floor 12,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,133C,11FC,00 00,0,Destination Room
+Floor 12,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,133E,11FE,00,Normal,Door Type
+Floor 12,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,133F,11FF,00,0,Check Event Room
+Floor 12,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1340,1200,00 00,0,Destination Room
+Floor 12,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1342,1202,07,One-Way,Door Type
+Floor 12,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1343,1203,00,0,Check Event Room
+Floor 12,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1350,1210,00 00,0,Destination Room
+Floor 12,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1352,1212,00,Normal,Door Type
+Floor 12,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1353,1213,00,0,Check Event Room
+Floor 12,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1354,1214,08 00,8,Destination Room
+Floor 12,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1356,1216,02,To Event 2,Door Type
+Floor 12,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1357,1217,00,0,Check Event Room
+Floor 12,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1358,1218,00 00,0,Destination Room
+Floor 12,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,135A,121A,00,Normal,Door Type
+Floor 12,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,135B,121B,00,0,Check Event Room
+Floor 12,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,135C,121C,0A 00,10,Destination Room
+Floor 12,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,135E,121E,00,Normal,Door Type
+Floor 12,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,135F,121F,00,0,Check Event Room
+Floor 12,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,136C,122C,00 00,0,Destination Room
+Floor 12,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,136E,122E,00,Normal,Door Type
+Floor 12,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,136F,122F,00,0,Check Event Room
+Floor 12,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1370,1230,09 00,9,Destination Room
+Floor 12,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1372,1232,00,Normal,Door Type
+Floor 12,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1373,1233,00,0,Check Event Room
+Floor 12,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1374,1234,06 00,6,Destination Room
+Floor 12,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1376,1236,06,To Extra,Door Type
+Floor 12,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1377,1237,00,0,Check Event Room
+Floor 12,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1378,1238,0B 00,11,Destination Room
+Floor 12,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,137A,123A,00,Normal,Door Type
+Floor 12,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,137B,123B,00,0,Check Event Room
+Floor 12,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1388,1248,00 00,0,Destination Room
+Floor 12,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,138A,124A,00,Normal,Door Type
+Floor 12,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,138B,124B,00,0,Check Event Room
+Floor 12,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,138C,124C,0A 00,10,Destination Room
+Floor 12,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,138E,124E,00,Normal,Door Type
+Floor 12,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,138F,124F,00,0,Check Event Room
+Floor 12,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1390,1250,07 00,7,Destination Room
+Floor 12,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1392,1252,00,Normal,Door Type
+Floor 12,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1393,1253,00,0,Check Event Room
+Floor 12,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1394,1254,0C 00,12,Destination Room
+Floor 12,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1396,1256,05,To Goal,Door Type
+Floor 12,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1397,1257,00,0,Check Event Room
+Floor 12,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13A4,1264,00 00,0,Destination Room
+Floor 12,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13A6,1266,00,Normal,Door Type
+Floor 12,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13A7,1267,00,0,Check Event Room
+Floor 12,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13A8,1268,0B 00,11,Destination Room
+Floor 12,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13AA,126A,00,Normal,Door Type
+Floor 12,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13AB,126B,00,0,Check Event Room
+Floor 12,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13AC,126C,00 00,0,Destination Room
+Floor 12,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13AE,126E,00,Normal,Door Type
+Floor 12,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13AF,126F,00,0,Check Event Room
+Floor 12,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13B0,1270,00 00,0,Destination Room
+Floor 12,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13B2,1272,00,Normal,Door Type
+Floor 12,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13B3,1273,00,0,Check Event Room
+Floor 13,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13D0,1290,02 00,2,Destination Room
+Floor 13,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13D2,1292,00,Normal,Door Type
+Floor 13,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13D3,1293,00,0,Check Event Room
+Floor 13,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13D4,1294,00 00,0,Destination Room
+Floor 13,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13D6,1296,00,Normal,Door Type
+Floor 13,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13D7,1297,00,0,Check Event Room
+Floor 13,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13D8,1298,00 00,0,Destination Room
+Floor 13,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13DA,129A,00,Normal,Door Type
+Floor 13,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13DB,129B,00,0,Check Event Room
+Floor 13,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13DC,129C,00 00,0,Destination Room
+Floor 13,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13DE,129E,00,Normal,Door Type
+Floor 13,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13DF,129F,00,0,Check Event Room
+Floor 13,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13EC,12AC,00 00,0,Destination Room
+Floor 13,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13EE,12AE,00,Normal,Door Type
+Floor 13,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13EF,12AF,00,0,Check Event Room
+Floor 13,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13F0,12B0,03 00,3,Destination Room
+Floor 13,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13F2,12B2,00,Normal,Door Type
+Floor 13,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13F3,12B3,00,0,Check Event Room
+Floor 13,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13F4,12B4,00 00,0,Destination Room
+Floor 13,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13F6,12B6,07,One-Way,Door Type
+Floor 13,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13F7,12B7,00,0,Check Event Room
+Floor 13,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13F8,12B8,00 00,0,Destination Room
+Floor 13,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13FA,12BA,00,Normal,Door Type
+Floor 13,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,13FB,12BB,00,0,Check Event Room
+Floor 13,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1408,12C8,00 00,0,Destination Room
+Floor 13,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,140A,12CA,00,Normal,Door Type
+Floor 13,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,140B,12CB,00,0,Check Event Room
+Floor 13,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,140C,12CC,04 00,4,Destination Room
+Floor 13,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,140E,12CE,00,Normal,Door Type
+Floor 13,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,140F,12CF,00,0,Check Event Room
+Floor 13,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1410,12D0,00 00,0,Destination Room
+Floor 13,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1412,12D2,00,Normal,Door Type
+Floor 13,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1413,12D3,00,0,Check Event Room
+Floor 13,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1414,12D4,02 00,2,Destination Room
+Floor 13,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1416,12D6,00,Normal,Door Type
+Floor 13,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1417,12D7,00,0,Check Event Room
+Floor 13,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1424,12E4,00 00,0,Destination Room
+Floor 13,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1426,12E6,00,Normal,Door Type
+Floor 13,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1427,12E7,00,0,Check Event Room
+Floor 13,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1428,12E8,05 00,5,Destination Room
+Floor 13,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,142A,12EA,00,Normal,Door Type
+Floor 13,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,142B,12EB,00,0,Check Event Room
+Floor 13,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,142C,12EC,00 00,0,Destination Room
+Floor 13,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,142E,12EE,00,Normal,Door Type
+Floor 13,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,142F,12EF,00,0,Check Event Room
+Floor 13,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1430,12F0,03 00,3,Destination Room
+Floor 13,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1432,12F2,00,Normal,Door Type
+Floor 13,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1433,12F3,00,0,Check Event Room
+Floor 13,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1440,1300,06 00,6,Destination Room
+Floor 13,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1442,1302,00,Normal,Door Type
+Floor 13,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1443,1303,00,0,Check Event Room
+Floor 13,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1444,1304,00 00,0,Destination Room
+Floor 13,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1446,1306,00,Normal,Door Type
+Floor 13,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1447,1307,00,0,Check Event Room
+Floor 13,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1448,1308,00 00,0,Destination Room
+Floor 13,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,144A,130A,00,Normal,Door Type
+Floor 13,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,144B,130B,00,0,Check Event Room
+Floor 13,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,144C,130C,04 00,4,Destination Room
+Floor 13,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,144E,130E,00,Normal,Door Type
+Floor 13,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,144F,130F,00,0,Check Event Room
+Floor 13,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,145C,131C,0B 00,11,Destination Room
+Floor 13,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,145E,131E,00,Normal,Door Type
+Floor 13,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,145F,131F,00,0,Check Event Room
+Floor 13,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1460,1320,00 00,0,Destination Room
+Floor 13,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1462,1322,00,Normal,Door Type
+Floor 13,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1463,1323,00,0,Check Event Room
+Floor 13,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1464,1324,05 00,5,Destination Room
+Floor 13,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1466,1326,00,Normal,Door Type
+Floor 13,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1467,1327,00,0,Check Event Room
+Floor 13,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1468,1328,00 00,0,Destination Room
+Floor 13,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,146A,132A,00,Normal,Door Type
+Floor 13,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,146B,132B,00,0,Check Event Room
+Floor 13,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1478,1338,0C 00,12,Destination Room
+Floor 13,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,147A,133A,00,Normal,Door Type
+Floor 13,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,147B,133B,00,0,Check Event Room
+Floor 13,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,147C,133C,08 00,8,Destination Room
+Floor 13,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,147E,133E,00,Normal,Door Type
+Floor 13,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,147F,133F,00,0,Check Event Room
+Floor 13,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1480,1340,00 00,0,Destination Room
+Floor 13,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1482,1342,00,Normal,Door Type
+Floor 13,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1483,1343,00,0,Check Event Room
+Floor 13,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1484,1344,00 00,0,Destination Room
+Floor 13,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1486,1346,00,Normal,Door Type
+Floor 13,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1487,1347,00,0,Check Event Room
+Floor 13,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1494,1354,00 00,0,Destination Room
+Floor 13,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1496,1356,00,Normal,Door Type
+Floor 13,8,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1497,1357,00,0,Check Event Room
+Floor 13,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1498,1358,09 00,9,Destination Room
+Floor 13,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,149A,135A,00,Normal,Door Type
+Floor 13,8,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,149B,135B,00,0,Check Event Room
+Floor 13,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,149C,135C,00 00,0,Destination Room
+Floor 13,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,149E,135E,00,Normal,Door Type
+Floor 13,8,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,149F,135F,00,0,Check Event Room
+Floor 13,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14A0,1360,07 00,7,Destination Room
+Floor 13,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14A2,1362,00,Normal,Door Type
+Floor 13,8,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14A3,1363,00,0,Check Event Room
+Floor 13,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14B0,1370,00 00,0,Destination Room
+Floor 13,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14B2,1372,00,Normal,Door Type
+Floor 13,9,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14B3,1373,00,0,Check Event Room
+Floor 13,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14B4,1374,0A 00,10,Destination Room
+Floor 13,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14B6,1376,00,Normal,Door Type
+Floor 13,9,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14B7,1377,00,0,Check Event Room
+Floor 13,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14B8,1378,00 00,0,Destination Room
+Floor 13,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14BA,137A,00,Normal,Door Type
+Floor 13,9,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14BB,137B,00,0,Check Event Room
+Floor 13,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14BC,137C,08 00,8,Destination Room
+Floor 13,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14BE,137E,00,Normal,Door Type
+Floor 13,9,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14BF,137F,00,0,Check Event Room
+Floor 13,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14CC,138C,00 00,0,Destination Room
+Floor 13,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14CE,138E,00,Normal,Door Type
+Floor 13,10,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14CF,138F,00,0,Check Event Room
+Floor 13,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14D0,1390,0B 00,11,Destination Room
+Floor 13,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14D2,1392,00,Normal,Door Type
+Floor 13,10,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14D3,1393,00,0,Check Event Room
+Floor 13,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14D4,1394,00 00,0,Destination Room
+Floor 13,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14D6,1396,00,Normal,Door Type
+Floor 13,10,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14D7,1397,00,0,Check Event Room
+Floor 13,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14D8,1398,09 00,9,Destination Room
+Floor 13,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14DA,139A,00,Normal,Door Type
+Floor 13,10,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14DB,139B,00,0,Check Event Room
+Floor 13,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14E8,13A8,0E 00,14,Destination Room
+Floor 13,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14EA,13AA,00,Normal,Door Type
+Floor 13,11,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14EB,13AB,00,0,Check Event Room
+Floor 13,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14EC,13AC,00 00,0,Destination Room
+Floor 13,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14EE,13AE,00,Normal,Door Type
+Floor 13,11,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14EF,13AF,00,0,Check Event Room
+Floor 13,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14F0,13B0,06 00,6,Destination Room
+Floor 13,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14F2,13B2,00,Normal,Door Type
+Floor 13,11,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14F3,13B3,00,0,Check Event Room
+Floor 13,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14F4,13B4,0A 00,10,Destination Room
+Floor 13,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14F6,13B6,00,Normal,Door Type
+Floor 13,11,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,14F7,13B7,00,0,Check Event Room
+Floor 13,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1504,13C4,00 00,0,Destination Room
+Floor 13,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1506,13C6,07,One-Way,Door Type
+Floor 13,12,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1507,13C7,00,0,Check Event Room
+Floor 13,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1508,13C8,0D 00,13,Destination Room
+Floor 13,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,150A,13CA,00,Normal,Door Type
+Floor 13,12,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,150B,13CB,00,0,Check Event Room
+Floor 13,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,150C,13CC,07 00,7,Destination Room
+Floor 13,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,150E,13CE,00,Normal,Door Type
+Floor 13,12,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,150F,13CF,00,0,Check Event Room
+Floor 13,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1510,13D0,00 00,0,Destination Room
+Floor 13,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1512,13D2,00,Normal,Door Type
+Floor 13,12,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1513,13D3,00,0,Check Event Room
+Floor 13,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1520,13E0,10 00,16,Destination Room
+Floor 13,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1522,13E2,00,Normal,Door Type
+Floor 13,13,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1523,13E3,00,0,Check Event Room
+Floor 13,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1524,13E4,00 00,0,Destination Room
+Floor 13,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1526,13E6,00,Normal,Door Type
+Floor 13,13,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1527,13E7,00,0,Check Event Room
+Floor 13,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1528,13E8,00 00,0,Destination Room
+Floor 13,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,152A,13EA,00,Normal,Door Type
+Floor 13,13,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,152B,13EB,00,0,Check Event Room
+Floor 13,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,152C,13EC,0C 00,12,Destination Room
+Floor 13,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,152E,13EE,00,Normal,Door Type
+Floor 13,13,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,152F,13EF,00,0,Check Event Room
+Floor 13,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,153C,13FC,13 00,19,Destination Room
+Floor 13,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,153E,13FE,04,Open After Event,Door Type
+Floor 13,14,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,153F,13FF,0F,15,Check Event Room
+Floor 13,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1540,1400,15 00,21,Destination Room
+Floor 13,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1542,1402,06,To Extra,Door Type
+Floor 13,14,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1543,1403,00,0,Check Event Room
+Floor 13,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1544,1404,0B 00,11,Destination Room
+Floor 13,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1546,1406,00,Normal,Door Type
+Floor 13,14,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1547,1407,00,0,Check Event Room
+Floor 13,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1548,1408,00 00,0,Destination Room
+Floor 13,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,154A,140A,00,Normal,Door Type
+Floor 13,14,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,154B,140B,00,0,Check Event Room
+Floor 13,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1558,1418,00 00,0,Destination Room
+Floor 13,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,155A,141A,00,Normal,Door Type
+Floor 13,15,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,155B,141B,00,0,Check Event Room
+Floor 13,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,155C,141C,00 00,0,Destination Room
+Floor 13,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,155E,141E,07,One-Way,Door Type
+Floor 13,15,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,155F,141F,00,0,Check Event Room
+Floor 13,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1560,1420,0C 00,12,Destination Room
+Floor 13,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1562,1422,00,Normal,Door Type
+Floor 13,15,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1563,1423,00,0,Check Event Room
+Floor 13,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1564,1424,00 00,0,Destination Room
+Floor 13,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1566,1426,00,Normal,Door Type
+Floor 13,15,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1567,1427,00,0,Check Event Room
+Floor 13,16,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1574,1434,00 00,0,Destination Room
+Floor 13,16,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1576,1436,00,Normal,Door Type
+Floor 13,16,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1577,1437,00,0,Check Event Room
+Floor 13,16,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1578,1438,11 00,17,Destination Room
+Floor 13,16,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,157A,143A,00,Normal,Door Type
+Floor 13,16,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,157B,143B,00,0,Check Event Room
+Floor 13,16,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,157C,143C,0D 00,13,Destination Room
+Floor 13,16,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,157E,143E,00,Normal,Door Type
+Floor 13,16,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,157F,143F,00,0,Check Event Room
+Floor 13,16,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1580,1440,0F 00,15,Destination Room
+Floor 13,16,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1582,1442,01,To Event 1,Door Type
+Floor 13,16,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1583,1443,00,0,Check Event Room
+Floor 13,17,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1590,1450,00 00,0,Destination Room
+Floor 13,17,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1592,1452,00,Normal,Door Type
+Floor 13,17,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1593,1453,00,0,Check Event Room
+Floor 13,17,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1594,1454,12 00,18,Destination Room
+Floor 13,17,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1596,1456,00,Normal,Door Type
+Floor 13,17,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1597,1457,00,0,Check Event Room
+Floor 13,17,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1598,1458,00 00,0,Destination Room
+Floor 13,17,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,159A,145A,00,Normal,Door Type
+Floor 13,17,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,159B,145B,00,0,Check Event Room
+Floor 13,17,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,159C,145C,10 00,16,Destination Room
+Floor 13,17,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,159E,145E,00,Normal,Door Type
+Floor 13,17,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,159F,145F,00,0,Check Event Room
+Floor 13,18,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15AC,146C,00 00,0,Destination Room
+Floor 13,18,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15AE,146E,00,Normal,Door Type
+Floor 13,18,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15AF,146F,00,0,Check Event Room
+Floor 13,18,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15B0,1470,13 00,19,Destination Room
+Floor 13,18,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15B2,1472,04,Open After Event,Door Type
+Floor 13,18,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15B3,1473,0F,15,Check Event Room
+Floor 13,18,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15B4,1474,00 00,0,Destination Room
+Floor 13,18,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15B6,1476,00,Normal,Door Type
+Floor 13,18,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15B7,1477,00,0,Check Event Room
+Floor 13,18,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15B8,1478,11 00,17,Destination Room
+Floor 13,18,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15BA,147A,00,Normal,Door Type
+Floor 13,18,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15BB,147B,00,0,Check Event Room
+Floor 13,19,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15C8,1488,14 00,20,Destination Room
+Floor 13,19,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15CA,148A,00,Normal,Door Type
+Floor 13,19,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15CB,148B,00,0,Check Event Room
+Floor 13,19,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15CC,148C,00 00,0,Destination Room
+Floor 13,19,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15CE,148E,00,Normal,Door Type
+Floor 13,19,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15CF,148F,00,0,Check Event Room
+Floor 13,19,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15D0,1490,0E 00,14,Destination Room
+Floor 13,19,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15D2,1492,04,Open After Event,Door Type
+Floor 13,19,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15D3,1493,0F,15,Check Event Room
+Floor 13,19,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15D4,1494,12 00,18,Destination Room
+Floor 13,19,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15D6,1496,04,Open After Event,Door Type
+Floor 13,19,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15D7,1497,0F,15,Check Event Room
+Floor 13,20,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15E4,14A4,00 00,0,Destination Room
+Floor 13,20,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15E6,14A6,00,Normal,Door Type
+Floor 13,20,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15E7,14A7,00,0,Check Event Room
+Floor 13,20,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15E8,14A8,00 00,0,Destination Room
+Floor 13,20,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15EA,14AA,00,Normal,Door Type
+Floor 13,20,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15EB,14AB,00,0,Check Event Room
+Floor 13,20,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15EC,14AC,13 00,19,Destination Room
+Floor 13,20,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15EE,14AE,00,Normal,Door Type
+Floor 13,20,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15EF,14AF,00,0,Check Event Room
+Floor 13,20,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15F0,14B0,00 00,0,Destination Room
+Floor 13,20,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15F2,14B2,00,Normal,Door Type
+Floor 13,20,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,15F3,14B3,00,0,Check Event Room
+Floor 13,21,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1600,14C0,00 00,0,Destination Room
+Floor 13,21,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1602,14C2,00,Normal,Door Type
+Floor 13,21,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1603,14C3,00,0,Check Event Room
+Floor 13,21,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1604,14C4,00 00,0,Destination Room
+Floor 13,21,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1606,14C6,00,Normal,Door Type
+Floor 13,21,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1607,14C7,00,0,Check Event Room
+Floor 13,21,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1608,14C8,00 00,0,Destination Room
+Floor 13,21,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,160A,14CA,00,Normal,Door Type
+Floor 13,21,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,160B,14CB,00,0,Check Event Room
+Floor 13,21,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,160C,14CC,0E 00,14,Destination Room
+Floor 13,21,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,160E,14CE,00,Normal,Door Type
+Floor 13,21,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,160F,14CF,00,0,Check Event Room
+Floor 14,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,162C,14EC,02 00,2,Destination Room
+Floor 14,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,162E,14EE,00,Normal,Door Type
+Floor 14,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,162F,14EF,00,0,Check Event Room
+Floor 14,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1630,14F0,00 00,0,Destination Room
+Floor 14,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1632,14F2,00,Normal,Door Type
+Floor 14,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1633,14F3,00,0,Check Event Room
+Floor 14,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1634,14F4,00 00,0,Destination Room
+Floor 14,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1636,14F6,00,Normal,Door Type
+Floor 14,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1637,14F7,00,0,Check Event Room
+Floor 14,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1638,14F8,00 00,0,Destination Room
+Floor 14,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,163A,14FA,00,Normal,Door Type
+Floor 14,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,163B,14FB,00,0,Check Event Room
+Floor 14,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1648,1508,03 00,3,Destination Room
+Floor 14,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,164A,150A,03,To Event 3,Door Type
+Floor 14,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,164B,150B,00,0,Check Event Room
+Floor 14,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,164C,150C,00 00,0,Destination Room
+Floor 14,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,164E,150E,00,Normal,Door Type
+Floor 14,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,164F,150F,00,0,Check Event Room
+Floor 14,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1650,1510,01 00,1,Destination Room
+Floor 14,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1652,1512,00,Normal,Door Type
+Floor 14,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1653,1513,00,0,Check Event Room
+Floor 14,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1654,1514,00 00,0,Destination Room
+Floor 14,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1656,1516,00,Normal,Door Type
+Floor 14,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1657,1517,00,0,Check Event Room
+Floor 14,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1664,1524,00 00,0,Destination Room
+Floor 14,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1666,1526,00,Normal,Door Type
+Floor 14,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1667,1527,00,0,Check Event Room
+Floor 14,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1668,1528,00 00,0,Destination Room
+Floor 14,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,166A,152A,00,Normal,Door Type
+Floor 14,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,166B,152B,00,0,Check Event Room
+Floor 14,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,166C,152C,00 00,0,Destination Room
+Floor 14,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,166E,152E,07,One-Way,Door Type
+Floor 14,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,166F,152F,00,0,Check Event Room
+Floor 14,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1670,1530,00 00,0,Destination Room
+Floor 14,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1672,1532,00,Normal,Door Type
+Floor 14,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1673,1533,00,0,Check Event Room
+Floor 15,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1690,1550,02 00,2,Destination Room
+Floor 15,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1692,1552,00,Normal,Door Type
+Floor 15,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1693,1553,00,0,Check Event Room
+Floor 15,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1694,1554,00 00,0,Destination Room
+Floor 15,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1696,1556,00,Normal,Door Type
+Floor 15,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1697,1557,00,0,Check Event Room
+Floor 15,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1698,1558,00 00,0,Destination Room
+Floor 15,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,169A,155A,00,Normal,Door Type
+Floor 15,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,169B,155B,00,0,Check Event Room
+Floor 15,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,169C,155C,00 00,0,Destination Room
+Floor 15,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,169E,155E,00,Normal,Door Type
+Floor 15,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,169F,155F,00,0,Check Event Room
+Floor 15,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16AC,156C,03 00,3,Destination Room
+Floor 15,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16AE,156E,00,Normal,Door Type
+Floor 15,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16AF,156F,00,0,Check Event Room
+Floor 15,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16B0,1570,00 00,0,Destination Room
+Floor 15,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16B2,1572,00,Normal,Door Type
+Floor 15,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16B3,1573,00,0,Check Event Room
+Floor 15,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16B4,1574,00 00,0,Destination Room
+Floor 15,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16B6,1576,07,One-Way,Door Type
+Floor 15,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16B7,1577,00,0,Check Event Room
+Floor 15,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16B8,1578,00 00,0,Destination Room
+Floor 15,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16BA,157A,00,Normal,Door Type
+Floor 15,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16BB,157B,00,0,Check Event Room
+Floor 15,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16C8,1588,05 00,5,Destination Room
+Floor 15,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16CA,158A,00,Normal,Door Type
+Floor 15,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16CB,158B,00,0,Check Event Room
+Floor 15,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16CC,158C,00 00,0,Destination Room
+Floor 15,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16CE,158E,00,Normal,Door Type
+Floor 15,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16CF,158F,00,0,Check Event Room
+Floor 15,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16D0,1590,02 00,2,Destination Room
+Floor 15,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16D2,1592,00,Normal,Door Type
+Floor 15,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16D3,1593,00,0,Check Event Room
+Floor 15,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16D4,1594,04 00,4,Destination Room
+Floor 15,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16D6,1596,01,To Event 1,Door Type
+Floor 15,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16D7,1597,00,0,Check Event Room
+Floor 15,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16E4,15A4,00 00,0,Destination Room
+Floor 15,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16E6,15A6,00,Normal,Door Type
+Floor 15,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16E7,15A7,00,0,Check Event Room
+Floor 15,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16E8,15A8,00 00,0,Destination Room
+Floor 15,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16EA,15AA,07,One-Way,Door Type
+Floor 15,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16EB,15AB,00,0,Check Event Room
+Floor 15,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16EC,15AC,00 00,0,Destination Room
+Floor 15,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16EE,15AE,00,Normal,Door Type
+Floor 15,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16EF,15AF,00,0,Check Event Room
+Floor 15,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16F0,15B0,00 00,0,Destination Room
+Floor 15,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16F2,15B2,00,Normal,Door Type
+Floor 15,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,16F3,15B3,00,0,Check Event Room
+Floor 15,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1700,15C0,06 00,6,Destination Room
+Floor 15,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1702,15C2,02,To Event 2,Door Type
+Floor 15,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1703,15C3,00,0,Check Event Room
+Floor 15,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1704,15C4,00 00,0,Destination Room
+Floor 15,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1706,15C6,00,Normal,Door Type
+Floor 15,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1707,15C7,00,0,Check Event Room
+Floor 15,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1708,15C8,03 00,3,Destination Room
+Floor 15,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,170A,15CA,00,Normal,Door Type
+Floor 15,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,170B,15CB,00,0,Check Event Room
+Floor 15,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,170C,15CC,00 00,0,Destination Room
+Floor 15,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,170E,15CE,00,Normal,Door Type
+Floor 15,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,170F,15CF,00,0,Check Event Room
+Floor 15,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,171C,15DC,00 00,0,Destination Room
+Floor 15,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,171E,15DE,00,Normal,Door Type
+Floor 15,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,171F,15DF,00,0,Check Event Room
+Floor 15,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1720,15E0,00 00,0,Destination Room
+Floor 15,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1722,15E2,00,Normal,Door Type
+Floor 15,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1723,15E3,00,0,Check Event Room
+Floor 15,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1724,15E4,00 00,0,Destination Room
+Floor 15,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1726,15E6,07,One-Way,Door Type
+Floor 15,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1727,15E7,00,0,Check Event Room
+Floor 15,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1728,15E8,00 00,0,Destination Room
+Floor 15,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,172A,15EA,00,Normal,Door Type
+Floor 15,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,172B,15EB,00,0,Check Event Room
+100 Acre Wood,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1748,1608,02 00,2,Destination Room
+100 Acre Wood,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,174A,160A,00,Normal,Door Type
+100 Acre Wood,1,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,174B,160B,00,0,Check Event Room
+100 Acre Wood,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,174C,160C,00 00,0,Destination Room
+100 Acre Wood,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,174E,160E,00,Normal,Door Type
+100 Acre Wood,1,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,174F,160F,00,0,Check Event Room
+100 Acre Wood,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1750,1610,00 00,0,Destination Room
+100 Acre Wood,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1752,1612,00,Normal,Door Type
+100 Acre Wood,1,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1753,1613,00,0,Check Event Room
+100 Acre Wood,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1754,1614,00 00,0,Destination Room
+100 Acre Wood,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1756,1616,00,Normal,Door Type
+100 Acre Wood,1,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1757,1617,00,0,Check Event Room
+100 Acre Wood,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1764,1624,03 00,3,Destination Room
+100 Acre Wood,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1766,1626,00,Normal,Door Type
+100 Acre Wood,2,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1767,1627,00,0,Check Event Room
+100 Acre Wood,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1768,1628,00 00,0,Destination Room
+100 Acre Wood,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,176A,162A,00,Normal,Door Type
+100 Acre Wood,2,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,176B,162B,00,0,Check Event Room
+100 Acre Wood,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,176C,162C,01 00,1,Destination Room
+100 Acre Wood,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,176E,162E,00,Normal,Door Type
+100 Acre Wood,2,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,176F,162F,00,0,Check Event Room
+100 Acre Wood,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1770,1630,00 00,0,Destination Room
+100 Acre Wood,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1772,1632,00,Normal,Door Type
+100 Acre Wood,2,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1773,1633,00,0,Check Event Room
+100 Acre Wood,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1780,1640,04 00,4,Destination Room
+100 Acre Wood,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1782,1642,00,Normal,Door Type
+100 Acre Wood,3,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1783,1643,00,0,Check Event Room
+100 Acre Wood,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1784,1644,00 00,0,Destination Room
+100 Acre Wood,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1786,1646,00,Normal,Door Type
+100 Acre Wood,3,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1787,1647,00,0,Check Event Room
+100 Acre Wood,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,1788,1648,02 00,2,Destination Room
+100 Acre Wood,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,178A,164A,00,Normal,Door Type
+100 Acre Wood,3,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,178B,164B,00,0,Check Event Room
+100 Acre Wood,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,178C,164C,00 00,0,Destination Room
+100 Acre Wood,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,178E,164E,00,Normal,Door Type
+100 Acre Wood,3,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,178F,164F,00,0,Check Event Room
+100 Acre Wood,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,179C,165C,05 00,5,Destination Room
+100 Acre Wood,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,179E,165E,00,Normal,Door Type
+100 Acre Wood,4,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,179F,165F,00,0,Check Event Room
+100 Acre Wood,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17A0,1660,00 00,0,Destination Room
+100 Acre Wood,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17A2,1662,00,Normal,Door Type
+100 Acre Wood,4,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17A3,1663,00,0,Check Event Room
+100 Acre Wood,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17A4,1664,03 00,3,Destination Room
+100 Acre Wood,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17A6,1666,00,Normal,Door Type
+100 Acre Wood,4,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17A7,1667,00,0,Check Event Room
+100 Acre Wood,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17A8,1668,00 00,0,Destination Room
+100 Acre Wood,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17AA,166A,00,Normal,Door Type
+100 Acre Wood,4,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17AB,166B,00,0,Check Event Room
+100 Acre Wood,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17B8,1678,06 00,6,Destination Room
+100 Acre Wood,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17BA,167A,00,Normal,Door Type
+100 Acre Wood,5,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17BB,167B,00,0,Check Event Room
+100 Acre Wood,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17BC,167C,00 00,0,Destination Room
+100 Acre Wood,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17BE,167E,00,Normal,Door Type
+100 Acre Wood,5,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17BF,167F,00,0,Check Event Room
+100 Acre Wood,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17C0,1680,04 00,4,Destination Room
+100 Acre Wood,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17C2,1682,00,Normal,Door Type
+100 Acre Wood,5,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17C3,1683,00,0,Check Event Room
+100 Acre Wood,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17C4,1684,00 00,0,Destination Room
+100 Acre Wood,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17C6,1686,00,Normal,Door Type
+100 Acre Wood,5,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17C7,1687,00,0,Check Event Room
+100 Acre Wood,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17D4,1694,07 00,7,Destination Room
+100 Acre Wood,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17D6,1696,00,Normal,Door Type
+100 Acre Wood,6,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17D7,1697,00,0,Check Event Room
+100 Acre Wood,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17D8,1698,00 00,0,Destination Room
+100 Acre Wood,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17DA,169A,00,Normal,Door Type
+100 Acre Wood,6,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17DB,169B,00,0,Check Event Room
+100 Acre Wood,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17DC,169C,05 00,5,Destination Room
+100 Acre Wood,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17DE,169E,00,Normal,Door Type
+100 Acre Wood,6,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17DF,169F,00,0,Check Event Room
+100 Acre Wood,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17E0,16A0,00 00,0,Destination Room
+100 Acre Wood,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17E2,16A2,00,Normal,Door Type
+100 Acre Wood,6,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17E3,16A3,00,0,Check Event Room
+100 Acre Wood,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17F0,16B0,00 00,0,Destination Room
+100 Acre Wood,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17F2,16B2,00,Normal,Door Type
+100 Acre Wood,7,Y + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17F3,16B3,00,0,Check Event Room
+100 Acre Wood,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17F4,16B4,00 00,0,Destination Room
+100 Acre Wood,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17F6,16B6,00,Normal,Door Type
+100 Acre Wood,7,X + 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17F7,16B7,00,0,Check Event Room
+100 Acre Wood,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17F8,16B8,06 00,6,Destination Room
+100 Acre Wood,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17FA,16BA,00,Normal,Door Type
+100 Acre Wood,7,Y - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17FB,16BB,00,0,Check Event Room
+100 Acre Wood,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17FC,16BC,00 00,0,Destination Room
+100 Acre Wood,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17FE,16BE,00,Normal,Door Type
+100 Acre Wood,7,X - 1,SYS/0001/SY0001.BIN,Rooms1.BIN,17FF,16BF,00,0,Check Event Room
