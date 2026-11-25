@@ -34,5 +34,3 @@ For every other file use `Sub-File Offset`. The pools are in `data/memory/values
 
 `data/scenes/scene-friends.csv` and `data/scenes/scene-movement-abilities.csv` are for reference. The library changes those
 two values in memory, not in the scripts.
-
-The file values are from the EGS version. The exe values were read from both exes.
